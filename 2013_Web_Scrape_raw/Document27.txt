@@ -1,0 +1,662 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY27: Evolutionary conservation: the applied side of evolutionary biology
+ Abstracts list Schedule Description
+View only talks or posters
+Craig Primmer
+University of Turku
+Department of Biology
+Finland
+A genome-wide association study (GWAS) of age at maturity in Atlantic salmon: implications for conservation and management
+talk D21SY27RT16:33R6
+
+Author(s): Primmer, CR, Johnstone, S, Orell, P, Niemilä, E, Lien, S, Kent, M, Erkinaro, J
+
+Summary: 
+
+In wild Atlantic salmon (Salmo salar), there is variation in the age at maturity within and between populations, as individuals can spend anywhere between one and five years feeding at sea before returning, often to their natal river, to spawn. The larger, late-maturing ‘multi-sea winter’ (MSW) individuals that have spent multiple years at sea prior to maturation are highly sought after by anglers. This life-history strategy has also been shown to be important from a biodiversity perspective, thus creating a management conflict. Knowledge of the genetic basis of age at maturity would provide a foundation for developing effective management strategies for conservation of this important life-history trait. The Atlantic salmon population of the Teno River in northern Finland is arguably the most biodiverse salmon population in the world from a life history strategy perspective, with more than 100 different life history strategies (combinations of river years, years at sea and repeat spawning) being recorded. It also has immense socioeconomic importance, both due to fishing tourism (15,000 anglers visit this remote region annually) as well as local and indigenous fisheries, with up to 60,000 individuals (60% of the annual run of ascending salmon) caught annually. Alarmingly, the proportion of late-maturing MSW fish has been declining in recent decades. A long term scale archive combined with the availability of an Atlantic salmon 7K Illumina® iSelect SNP-array provided an opportunity to conduct a genome-wide association study (GWAS) to identify genomic regions associated with age at maturity. By implementing genome-wide relatedness information to account for unexpected population structure, we identified several genomic regions harbouring loci significantly associated with age at maturity. The implications of the findings for conducting GWAS in wild populations, as well as for the practical management and conservation of exploited salmon populations will be presented.
+
+Sandra Vogel
+Faculty of Science of the University of New South Wales
+School of Biological, Earth and Environmental Sciences
+Australia
+A range-wide conservation genetic study of Little Penguins (Eudyptula minor): augmenting population genetics at neutral loci with an adaptive immune gene
+talk D21SY27RT18:57R6
+
+Author(s): Vogel, S, Sinclair, JJ, Sherwin, WB
+
+Summary: 
+
+Neutral genetic markers, i.e. genes not directly targeted by selection, are frequently used to quantify genetic diversity of populations and often provide the basis for management plans. However, patterns of variation and divergence in adaptive traits such as immune competence are not always correlated with variation in neutral markers. The validity of approaches using only neutral markers for development of conservation strategies is therefore questionable. The present study of conservation genetics and demography in E. minor aims to assess connectivity between penguin colonies along the Australian coast of New South Wales (NSW). A fine-scale analysis of genetic structure is being conducted to determine the extent of dispersal among these colonies and compare their genetic variability. In addition to using neutral genetic markers (microsatellites and mitochondrial DNA), we present the first study investigating non-neutral genetic diversity in penguins. Sequencing of an immune gene of the major histocompatibility complex (MHC) showed high allelic diversity at the functionally relevant peptide binding groove of the MHC molecule in penguins from Western Australia (WA). It is thus an ideal candidate gene to augment the population genetic study in NSW. This new genetic marker will be used to facilitate the choice of management strategies for E. minor and related species with a particular focus on resilience to pathogenic threats and immunogenetic population viability.
+
+Robert Ekblom
+Uppsala University
+Ecology and Genetics
+Sweden
+Applied conservation genomics in the wolverine (Gulo gulo)
+talk D21SY27RT11:18R6
+
+Author(s): Ekblom, R, Smeds, L, Johansson, M, Magnusson, J, Ellegren, H
+
+Summary: 
+
+Natural selection may rapidly lead to local adaptation in genetically structured populations of threatened and administrated species. Investigators trying to find specific genetic variation important for conservation of such populations in non-model organisms have previously been restricted to using a small number of anonymous genetic markers or variation in a few candidate genes. With the advent of high throughput sequencing and genotyping it has now, for the first time, become possible to identify adaptive genetic variation at a genome wide scale. We will present data from a whole genome sequencing project and large scale genetic variation profiling of a mammalian predator, the wolverine (Gulo gulo). Scandinavian wolverine populations are subjected to habitat fragmentation and high mortality from poaching due to conflicts with livestock herders. Genetic monitoring is already an important part of the national conservation programmes for this species in Sweden and Norway but the resolution and applications of genetic data have been hampered by a lack of genomic information. By assembling the complete wolverine genome and characterising genome wide genetic variation by re-sequencing of several different individuals, we now take this system to a new level. We describe how these novel genomic resources are utilised to investigate genomic signatures of population subdivision, reconstruct kin structure and to infer effects of inbreeding depression in small and partially isolated populations. We also discuss how the insights gained from this project will be applied to practical conservation efforts and monitoring of this highly charismatic species in the Scandinavian countries.
+
+Louis Bernatchez
+Université Laval
+Département de biologie
+Canada
+Applied evolutionary genomics in fish conservation: some success stories and challenges for the future
+talk D21SY27IT15:45R6
+
+Author(s): Bernatchez, L
+
+Summary: 
+
+Conservation genetics has been defined as the application of genetics to preserve species as dynamic entities capable of coping with environmental change. Towards this end, molecular data can play two fundamental roles. The first one, inventorial, pertains to documenting patterns and has driven much of what we have accomplished until now. The second, mechanistic, refers to deciphering evolutionary processes underlying those patterns, is still in its infancy and this is where most of us put big hopes in the use of modern, high throughput genomics methods. Ultimately, we aim at finding causal relationships between genetic variation, phenotypes and the environment to predict future dynamics of selectively important variation and potential for adaptation to new conditions. In this presentation, I will illustrate some of the progress that we have made towards this end from our own research on fish conservation and management, and will comment on the main challenges that remains to be circumvented, no matter the power and resolution of the current genomics methods at hands.
+
+Margarida Matos
+Faculdade de Ciências da Universidade de Lisboa
+Centro de Biologia Ambiental / Departamento de Biologia Animal
+Portugal
+Can reproductive barriers maintain differentiation in face of global changes? A case study in Drosophila subobscura
+poster D21SY27PS0133
+
+Author(s): Matos, M, Bárbaro, M, Mira, M, Fragata, I, Simões, P, Lima, M, Lopes-Cunha, M, Kellen, B, Santos, J, Magalhães, S
+
+Summary: 
+
+Species with wide distributions may be highly differentiated across contrasting environments. While gene flow may help maintain similarities among populations, local adaptation may lead to their divergence, as well as promote reproductive isolation, further fostering evolutionary diversification. The interplay between these two processes is of major importance for Conservation, as it will determine if populations differentiate or become more similar in the long run, as a result of environmental changes such as those imposed by man. In Drosophila subobscura, populations are differentiated along a latitudinal gradient, but recent evidence indicates that northern populations are becoming more similar to southern ones. An important issue is how much populations from the extremes of the cline differ in mating preferences, as this might contribute to reduce genetic introgression when populations meet. To address this, we analyzed the evolutionary dynamics of reproductive isolation of D. subobscura populations derived from the extremes of the European cline, while adapting to a common, laboratorial environment. We show that mating performance increased during laboratory adaptation. In general northern populations had a better performance than southern ones, and this difference was sustained across generations. Moreover northern females preferred mates from their own populations while southern females preferred males from the north. The assortative mating of the northern populations was stable through time, while disassortative mating of the southern populations faded away during laboratory evolution. Overall this study suggests that reproductive barriers may slow down the genetic introgression due to migration to the north, an important finding in evolutionary and conservation terms.
+
+Helen Taylor
+Victoria University of Wellington
+School of Biological Sciences
+New Zealand
+Can we use molecular techniques to measure inbreeding in wild populations of highly inbred, bottlenecked species?
+poster D21SY27PS0126
+
+Author(s): Taylor, H, Ramstad, K, Kardos, M
+
+Summary: 
+
+Understanding the effects of inbreeding depression is important for viability assessment and effective management of rare and endangered species, but accurately measuring inbreeding in such species remains challenging. Highly inbred species that have experienced severe bottleneck events typically lack the behavioural pedigree information, high levels of genetic diversity and large population sizes (and thus sample sizes) required to accurately estimate individual inbreeding. This raises the question of whether investing resources into research in this area is worthwhile for conservation managers and, if so, what the best approach might be. We modeled the accuracy of pedigrees constructed using varying numbers of simulated microsatellite markers for the little spotted kiwi (Apteryx owenii), a species that has experienced a recent, severe bottleneck and that exhibits extremely low genetic variation. We found that the number of microsatellite markers required to reconstruct precise pedigrees and provide accurate inbreeding coefficients will be cost prohibitive for the majority of conservation studies. Alternative approaches, such as heterozygosity fitness correlations, would also require a prohibitively large number of neutral markers. Pairwise relatedness measures show promise for estimating inbreeding in this species and those with similar histories, but genomic measures such as runs of homozygosity (ROH) currently provide the most effective alternative for measuring inbreeding. We acknowledge that genomic methods may also prove too costly currently for many conservation programmes and emphasise that conservation managers should weigh the costs and benefits of alternative strategies prior to investing in genetic measures as part of their rescue strategies.
+
+Camila Clozato
+University of Sao Paulo
+Institute of Biosciences
+Brazil
+Characterization of MHC-class II DRB diversity in the lesser anteater (Tamandua tetradactyla)
+poster D21SY27PS0331
+
+Author(s): Clozato, CL, Moraes-Barros, N, Morgante, JS, Sommer, S
+
+Summary: 
+
+Studies of immune gene variation in the Major Histocompatibility Complex (MHC) provide a powerful tool to investigate patterns of adaptative genetic diversity shaped by natural selection. The use of MHC makers in population genetics has grown to a great extant in the past few years. However, studies with non-model species are still challenging due to the lack of a references and information of loci number. The lesser anteater is a medium sized mammal of the order Pilosa. The species is geographically widespread, found throughout South America in several types of habitats such as grasslands, savannas, forests and wetlands. Such flexibility on habitat use may lead to local adaptations reflected in the species’ MHC gene diversity, accounting for different parasite pressures in the environment. To understand the contribution of natural selection to Tamandua tetradactyla populations we described the diversity of the MHC Class II DRB exon 2 gene. At first, Single Strand Conformation Polymorphism (SSCP) was used to screen diversity in order to develop the optimal primer pair for sequential amplification (i.e., the one that catches most diversity and shows less null alleles). DRB exon 2 was amplified in ten gDNA samples from individuals trapped at different geographical locations using three primer sets. PCR products were run twice on SSCP gels and sequenced. A fragment of 198 base pairs (66 aminoacids) was obtained, and no indels were found. After choosing the best primer set, a total of 22 alleles were detected on the aminoacid level (TateDRB01 to TateDRB22), and 26 on the nucleotide level. Between four and eight alleles were found per individual (average of 4.7), indicating the presence of at least two DRB loci. Secondly, 50 samples derived from four different biomes of the species occurrence are currently analysed through Next Generation Sequencing (NGS) on a 454 Junior platform. This will allow the analyses of the genetic structure of MHC DRB gene in the species.
+
+Kevin Mulder
+Uppsala University
+Sweden
+Characterizing and tracking MHC variation of chyrtridiomycosis affected Chiricahua leopard frogs over time in natural populations
+poster D21SY27PS0600
+
+Author(s): Mulder, KP, Savage, AE
+
+Summary: 
+
+The amphibian disease chytridiomycosis caused by the fungus Batrachochytrium dendrobatidis (Bd) has contributed to the decline and extirpation of numerous populations of Chiricahua leopard frogs (Lithobates chiricahuensis), an endangered species native to the Southwestern United States and Northern Mexico. Conservation efforts have focused on captive rearing of wild-caught egg masses and subsequent release following metamorphosis (called head-starting) to increase population sizes across the species range. The survival rate of released individuals is, however, heavily dependent on their ability to combat chytridiomycosis. In captivity, populations of other species of leopard frogs show differential survival to experimental Bd infections dependent on their genetic variation in the major histocompatability complex (MHC), a highly variable gene family in vertebrates known to be important in pathogen resistance. We used single locus 454 pyrosequencing to characterize MHC genetic variation in head-started Chiricahua leopard frogs that will be released and monitored for one year to determine survival rates and identify alleles that confer an advantage against Bd in a natural environment. This information will be used to identify candidate resistance alleles and add MHC-based marker assisted selection to captive breeding efforts, with the goal of increasing the success rate of head-starting efforts and mitigating the impact of Bd on natural populations of both Chiricahua leopard frogs as well as other amphibian species affected by chrytridiomycosis. This is a case study of how evolutionary genetic analyses of adaptive markers can assist conservation efforts in captive breeding.
+
+Belen Jimenez-Mena
+AgroParisTech
+UMR1313
+France
+Comparison of estimators of effective population size: variation and bias in the methods
+poster D21SY27PS1019
+
+Author(s): Jimenez-Mena, B, Hospital, F, Verrier, E
+
+Summary: 
+
+The effective population size (Ne) is a parameter of paramount importance in population genetics. Many estimators of Ne have been developed in the literature and each one uses different kinds of data (pedigree, molecular markers). But the various methods give very different estimates of Ne for the same population. Therefore, there is a need for an assessment of the consistency and reliability of the methods. The aim of our study is to analyze a few of them, making a comparison by using simulation data. A forward-in-time simulation of a multi-allelic population subjected to genetic drift was developed. We modelled a diploid population which reproduced randomly in discrete generations, with constant population size N. Self-fertilization was allowed. Selection, migration, and new mutations were assumed to not happen across generations. At each generation, Ne was estimated with various methods. We performed 700 replicates. We used the classical estimator 1/(2 x rate of Inbreeding). The coefficients of inbreeding were obtained by several ways: (i) the average pairwise coancestry derived from pedigree, (ii) the heterozygosity (He) computed from the observed allele frequencies. We also included in the comparison two estimators based on temporal changes in the allele frequency taken from the population at two points in time. We performed the comparisons varying different conditions: number of generations between sampled populations (d), initial allele configuration, and N. The results showed that the use of (ii) resulted in a huge range of Ne values, in some cases with extreme values as large as 1e+06. This is due to the large variation of the estimated values of He, which can lead to a bias in Ne. Increasing d reduced this variability of results and increased the accuracy of Ne estimation, but not very much. Estimations based on (i) resulted in very accurate estimates of Ne.
+
+Joshua Miller
+University of Alberta
+Department of Biological Sciences
+Canada
+Consistent patterns of return cross-species application of SNP chips
+poster D21SY27PS0003
+
+Author(s): Miller, JM, Kijas, JW, Heaton, MP, McEwan, JC, Coltman, DW
+
+Summary: 
+
+Recent advances in technology facilitated development of large sets of genetic markers for many taxa, though most often model or domestic organisms. Cross-species application of genomic technologies may allow for rapid marker discovery in wild relatives of taxa with well developed resources. We investigated cross-species application of three commercially available SNP chips (the OvineSNP50, BovineSNP50, and EquineSNP50 BeadChips) as a function of divergence time between the domestic source species and wild target species. Across all three chips we observed a consistent linear decrease in call rate (~1.5% per million years), while retention of polymorphisms showed an exponential decay. These results will allow researchers to predict the expected amplification rate and polymorphism of cross-species application for their taxa of interest, as well as provide a resource for estimating divergence times.
+
+Lena Wilfert
+University of Exeter
+Centre for Ecology and Conservation
+United Kingdom
+Declining pollinator populations – do viruses hold the smoking gun?
+talk D21SY27RT14:48R6
+
+Author(s): Wilfert, L
+
+Summary: 
+
+The pollinating insects – a diverse group comprising honeybees, bumblebees, hoverflies and many more – form a key group that is both crucial for guaranteeing our food security and for maintaining natural biodiversity. Many pollinator populations have been in decline over recent years and decades. Besides the obvious factors of habitat loss and change of land usage, infectious diseases and parasites have increasingly come into the limelight as potential causes of these declines. Rapidly evolving RNA viruses may be of particular importance, as they have been shown to be at the highest risk of causing emerging diseases. At the same time, such viruses can also be seen as a population genetic tool for studying the history of pollinator populations: quickly evolving viruses that are closely associated with their hosts allow host demographics to be reconstructed in the past. Here, I have used Acute Bee Paralysis Virus to study the pathogen transmission dynamics within bumblebee species communities consisting of rare and common species. Phylodynamic analyses reveal that this virus is commonly transmitted between species and that past epidemics may have contributed to range contractions. Rare and isolated species showed a high pathogen load whereas common species where relatively unaffected. This illustrates how non-specific pathogens may be able to shape species communities and how such coevolving pathogens may be used as monitoring tools to infer the history of species communities.
+
+Yoan Fourcade
+Université d'Angers
+Faculté des Sciences
+France
+Decoupling population size, effective population size and pathogen prevalence in a periphery-core system in a migratory bird, the Corncrake
+talk D21SY27RT15:12R6
+
+Author(s): Fourcade, Y, Richardson, DS, Keišs, O, Secondi, J
+
+Summary: 
+
+Inbreeding and reduced genetic diversity are known to affect the capacity of an individual to resist pathogen infection so that a negative relationship between pathogen prevalence and heterozygosity is expected. Thus, a high susceptibility to pathogens may contribute to shorten extinction time in populations with low genetic diversity. At the range scale, peripheral populations tend to be smaller and more isolated than core populations and are generally more prone to incur the costs of reduced genetic diversity. Elevated extinction risk in peripheral populations is of particular concern for species with unfavourable conservation status. However, the relationships between census size, effective size (genetic diversity) and parasite prevalence is not straightforward because gene flow from the core may maintain genetic diversity and the ability to resist pathogens at the range periphery, even in declining populations. The Corncrake Crex crex, a short live migratory bird distributed across the Palearctic has shown rapid declines in Western Europe over recent decades while Eastern populations remained large. We analysed the relationship between genetic diversity, gene flow and avian malaria prevalence across a large part of the species range. We found a very low level of population structure and no evidence of reduced diversity in peripheral populations which was likely caused by a high dispersal across the breeding range. Furthermore, contrary to expectations, the parasite prevalence was 10 times higher in core populations compared to peripheral ones, even in areas of high bird density. Our results clearly show that decouplings may occur in periphery-core systems between census and effective population size, and between genetic diversity and pathogen prevalence. Species dispersal characteristics, population densities and the ecology of pathogen community are likely to strongly affect these relationships precluding the quick and easy forecasting of a populations fate.
+
+Patricia Brekke
+Zoological Society of London
+Institute of Zoology
+United Kingdom
+Does reintroduction affect the mating systems of threatened species? The impact of inbreeding in reintroduced populations of the hihi (Notiomystis cincta)
+talk D21SY27RT11:42R6
+
+Author(s): Brekke, P
+
+Summary: 
+
+An ever increasing number of animal and plant species are becoming rare or extinct in the wild. Reintroduction is one of the most commonly used tools for the management of these threatened species. However, this technique has a number of genetic, demographic and behavioural repercussions for which we have relatively limited understanding. In this study, of the endemic and endangered New Zealand hihi (Notiomystis cincta), our aim is to elucidate the impact of reintroduction on their mating system and reproductive success. We show the effects of inbreeding on individual reproductive tactics, extra-pair paternity and reproductive success and how it shapes the maintenance and evolution of these traits in wild small populations.
+
+Simone Sommer
+Leibniz Institute for Zoo and Wildlife Research
+Evolutionary Genetics
+Germany
+Ecology, immunogenomics and pathogen resistance in wildlife populations
+talk D21SY27IT14:00R6
+
+Author(s): Sommer, S
+
+Summary: 
+
+In order to protect functional biodiversity and ecosystem services we need healthy populations depending on healthy environments. Understanding the complex interactions that occur between human-induced environmental changes, pathogen pressure and transmission, the potential of host adaptive genetic diversity in host-pathogen co-evolutionary processes and disease resistance is a challenging task. It requires an interdisciplinary approach which should aim to integrate knowledge from evolutionary theory, behavioral ecology, conservation biology and conservation genomics. Next generation sequencing is revolutionizing conservation research and the new technologies are likely to replace traditional genotyping methods to a great extent in the near future. We are able to address questions in non-model organism whose answers seemed out of reach just a few years ago. In my talk, I will illustrate recent advances, challenges and pitfalls of current developments in evolutionary conservation. Specifically, I will address 1) The effects of behavioral strategies in shaping the adaptive potential and its fitness-relevance 2) The effects of human induced changes on pathogen pressure 3) The functional importance of adaptive variability of endangered species in host-pathogen co-evolutionary processes and pathogen resistance 4) The current challenges and pitfalls of next generation sequencing approaches in conservation genomics
+
+Hannah Mumby
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Effects of seasonal conditions on mortality and fertility in Asian elephants: implications for conservation
+poster D21SY27PS0840
+
+Author(s): Mumby, HS, Courtiol, A, Mar, KU, Lummaa, V
+
+Summary: 
+
+In highly seasonal environments, many species maximise offspring survival by reproducing at the time of year with peak resource availability. However, elephants do not have a single breeding season with females undergoing reproductive cycles throughout the year. Whether females concentrate most births on periods of maximum offspring survival is unknown, as are the proximate factors that could affect seasonal variation in birth rate. Long-term effects of birth season on patterns of mortality and fertility are also yet to be investigated. These topics are of particular importance in elephants, which are extremely long-lived and endangered, as understanding variation in mortality and reproductive success could contribute towards conservation of the species. We use individual-based longitudinal data for 2350 semi-captive logging elephants from Myanmar that occupy regions with a tropical monsoon climate, to investigate immediate and long term fertility and mortality responses to season. We supplement this long-term data with a 1 year subsample of 70 elephants for which monthly measurements of body weight, body condition and stress hormone (cortisol) levels were collected, to investigate the physiological correlates of seasonal conditions. Our results show significant variation in probability of birth by month, and an interaction between birth order and probability of birth, with higher seasonality of births in first-born individuals. There was no long-term effect of birth month on mortality, but females born in the monsoon season subsequently had earlier peak in fertility and earlier age at last reproduction in comparison to those born in the cool or dry seasons. The seasonal pattern of births did not coincide with high rainfall periods, but was rather associated with seasonal variation in workload and also matches individual level variation in cortisol in the subsample. This is a rare test of effects of early conditions on individual fitness in a non-model species.
+
+David Nash
+University of Copenhagen
+Department of Biology
+Denmark
+Evolutionary conservation of large blue butterflies
+poster D21SY27PS0927
+
+Author(s): Nash, DR, Andersen, A
+
+Summary: 
+
+The large blue butterflies (genus Maculinea/Phengaris) are icons of invertebrate conservation. Their rarity is to a large extent due to their complex life cycle during which they exploit both specific host plants and specific host Myrmica ants, which must therefore co-occur. Even when both hosts are present in the same area, there is massive variation in the probability of adoption by and survival in different host ant nests. Over the last few decades we have learnt a great deal about some of the underlying causes of this variation, for example as a result of coevolutionary arms-races in chemical mimicry and the effects of variation in host ant social structure. Over the same period, there have been several attempts to reintroduce large blue butterflies to areas from which they have disappeared, with varying degrees of success. Here we examine to what extent the success of large blue butterfly reintroductions has been increased by a deeper understanding of their evolution, and the genetic and evolutionary consequences of reintroduction programs. We also examine how the success of future conservation efforts could be enhanced based on our current knowledge of the evolution and ecology of the large blue butterflies and their hosts.
+
+Remi Charge
+CoE in Biological Interactions Research, University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Genetic changes in life history traits in response to unintentional selection in a supportive breeding
+talk D21SY27RT18:09R6
+
+Author(s): Charge, R, Sorci, G, Saint Jalme, M, Lesobre, L, Hingrat, Y, Lacroix, F, Teplitsky, C
+
+Summary: 
+
+Supportive breeding is one of the last conservation strategies to avoid species from extinction when pressures exerted are difficult to solve. However, captive breeding may generate undesirable effects such as inbreeding depression, loss of genetic diversity or genetic adaptation to captivity that could be transferred to wild reinforced populations when a supplementation program is associated with the captive breeding. Several recommendations have been proposed to limit these deleterious effects but empirical assessments of such strategies remain scarce. Particularly, it might be difficult equalizing founders contribution in species with high reproductive skews where few individuals secure most of the copulations. We investigated potential genetic changes over generations in a supportive breeding of a lekking bird, the Houbara bustard. Using quantitative genetics based on a large pedigree dataset, we found that unintentional selection was occurring on life-history traits, particularly traits linked with reproduction leading to an increase of the breeding values. The main cause of this process might be the poor contribution of some breeders to the offspring. The situation seems difficult to avoid during the “growth phase” of the captive breeding consisting in quickly constituting a sizeable flock of adult breeders. Nevertheless, unintentional selection was decreasing over years, emphasizing the effort of managers to favour contribution of poor breeders in offspring recruited in the captive breeding. Besides, best captive-born breeders sired progeny that better survives once released in the wild, which would be expected under sexual selection. Our results shed light on very fast and strong genetic changes in a captive program that follows worldwide used recommendations. Decreasing the growth rate in the very early stages of the captive breeding should allow maximizing the contribution of poor breeders and reduce the risk of genetic changes.
+
+Alexis Marchesini
+University of Padova & Fondazione Edmund Mach
+DAFNAE & Department of Biodiversity and Molecular Ecology
+Italy
+Genetic diversity and population structure of the common frog (Rana temporaria) in the Trentino region (south-eastern Alps)
+poster D21SY27PS0228
+
+Author(s): Marchesini, A, Battisti, A, Vernesi, C
+
+Summary: 
+
+Amphibians are facing a dramatic decline worldwide, due to their high susceptibility to perturbations and global change. A decrease in genetic diversity can lead to loss of adaptability, and it is often associated with reduction in fitness. Amphibians seem to be particularly prone to such genetic processes, and a growing body of research shows that many amphibian populations are experiencing a reduction in genetic variation. In this study we investigated the levels of genetic diversity and population differentiation of the common frog (Rana temporaria) in the alpine region of Trentino. Rana temporaria is a widespread amphibian species in Europe and is not currently considered threatened; nevertheless, in some part of its range it has recently experienced localized declines. We analyzed polymorphism in a set of 12 SSR loci, in about 25 populations spread over the entire area of interest. Levels of genetic diversity were comparable to those found in other European populations, but a relatively high degree of heterogeneity among sites was recorded. We detected an irregular population structure, though a first general subdivision may be recognized between the populations belonging to the orographic right and left side of the Adige river. Some populations of the central part of the area showed lower levels of genetic variability, together with relatively strong differentiation. This subarea is characterized by a wide and anthropized valley run through by the Adige river: the suitable habitat for Rana temporaria is limited to isolated patches within an inhospitable landscape matrix. In addition, this area largely overlaps with the distribution of Rana dalmatina in the Trentino region. We discussed the effects of population density and potential competition (in terms of pond occupancy) on the recorded patterns of genetic diversity and population structure, highlighting the genetic peculiarity (and therefore conservation value) of some isolated populations.
+
+Mirte Bosse
+Wageningen University
+Animal Sciences
+Netherlands
+Genomic consequences of inbreeding and hybridization in pigs and wild boars
+poster D21SY27PS1405
+
+Author(s): Bosse, M, Madsen, O, Megens, H, Frantz, LAF, Paudel, Y, Crooijmans, RPMA, Groenen, MAM
+
+Summary: 
+
+The maintenance of genetic diversity in (isolated) populations is essential for their adaptive ability. If standing variation is low, the susceptibility to a variety of diseases and environmental changes is elevated. Two haplotypes are IBD (identical by descent) when they originate from a common ancestor. If IBD haplotypes reunite within one diploid organism, it results in a region of homozygosity (ROH), which is an indication of recent inbreeding. The interplay of population demographic history and recombination rate is essential in the process of haplotype formation and distribution. In management of small, potential inbreed, populations, outcrossing is used to introduce new haplotypes in a population and hereby increase genetic diversity. This study utilizes the latest genomics tools to identify shared haplotype tracts between pigs (Sus scrofa) from different Eurasian wild boar and breed populations. Pigs are an excellent model species to study haplotype structure because of their complex demographic history, multiple domestication events and recent admixture. Next-generation sequencing enables a thorough and nearly ascertainment bias-free investigation of genome-wide patterns of haplotype sharing. Our study reveals patterns of inbreeding, and conserved, introgressed and selected haplotypes in the pig genome. Haplotypes that are shared between closely related individuals are longer and more abundant in the genome than haplotypes shared by distantly related individuals. Selection on introgressed haplotypes results in an over-representation of these haplotypes in a population. Nucleotide diversity in the genome is higher when at least one haplotype is shared with a distantly related individual, supporting the fundamental genetics theory behind outcrossing. Detailed mapping of the genomic distribution of variation enables a targeted approach to increase genetic diversity of captive and wild populations, which may facilitate conservation efforts in the near future.
+
+Rosa Sánchez-Guillén
+Universidad Nacional Autónoma de Mèxico
+Evolutionary Ecology
+Mexico
+Hybridization in a warmer world: combining approaches
+poster D21SY27PS0081
+
+Author(s): Sánchez-Guillén, RA
+
+Summary: 
+
+Origin and evolution of reproductive isolation are controversial, yet widely unknown. Reproductive isolation is the key characteristic of a biological species, and a common prediction is that genetic divergence between species is positively correlated with reproductive isolation. Knowledge of the importance of different isolating barriers during lineage divergence, and the intensity with which they prevent genetic exchange, are essential to understand the processes that result in the splitting of species, and consequently, in the hybridization. Numerous studies addressing species responses to climate change, mostly in animals, have illustrated that many species have altered their geographic ranges in response to rising global temperatures. Range shifts are leading to an increased sympatry between recently diverged species, likely increasing the potential for hybridization. Different approaches such as speciation genetics, large-scale genomic, bioinformatics, and predictive models for estimating patterns of species distribution may serve to evaluate the risk of hybridization and the extirpation of native species by the invasion of close relatives in future sympatric distributions favored by climate change. Understanding the processes related with the colonization by nonnative species provides essential information for biodiversity management.
+
+Steve Smith
+Veterinary University of Vienna
+Integrative Biology and Evolution
+Austria
+Identifying the genes of adaptation: extensive transcriptional plasticity to temperature stress in sister freshwater fish species
+poster D21SY27PS1194
+
+Author(s): Smith, S, Bernatchez, L, Beheregaray, LB
+
+Summary: 
+
+Identifying genes of adaptive significance in a changing environment is a major focus of ecological genomics. Such efforts were restricted, until recently, to researchers studying a small group of model organisms or closely related taxa. With the advent of next generation sequencing (NGS), genomes and transcriptomes of virtually any species are now available for studies of adaptive evolution. We experimentally manipulated temperature conditions for two species of Australian rainbowfish (Melanotaenia duboulayi and M. fluviatilis) and measured differences in RNA transcription between control and high temperature groups. These nonmigratory species are found across a latitudinal thermal gradient in nonoverlapping areas of eastern Australia and are predicted to be negatively impacted by ongoing environmental and climatic change. Using next generation RNAseq technologies on an Illumina HiSeq2000 platform, we assembled a de novo transcriptome, mapped reads back to this transcriptome and tested for differential expression across the treatment groups. Quality of the assembly was high with a N50 length of 1856 bases. Of the 107,749 assembled contigs, we identified 4251 that were differentially expressed according to a consensus of four different mapping and significance testing approaches. Once duplicate isoforms were removed, we were able to annotate 614 up-regulated transfrags and 349 that showed reduced expression in the higher temperature group. Annotated blast matches reveal that differentially expressed genes correspond to critical metabolic pathways previously shown to be important for temperature tolerance in other fish species. Interestingly, the two sister species returned a similar list of differentially expressed genes. Our results indicate that rainbowfish exhibit predictable plastic regulatory responses to temperature stress and the genes we identified provide excellent candidates for investigations of population adaptation to increasing temperatures.
+
+Sarah Mattey
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Inbreeding affects social interactions in parents
+poster D21SY27PS0877
+
+Author(s): Mattey, SN, Smiseth, PT
+
+Summary: 
+
+Direct fitness consequences of inbreeding depression, i.e. the reduction of fitness related traits such as growth and survival of inbred individuals, are well documented. However, there has been much less work on the indirect fitness consequences of inbreeding in social systems in which individuals rely on social interactions with inbred individuals. In particular, there is now a need to understand the effects of inbreeding on social interactions among family members in species with elaborate parental care. We investigated the effects of inbreeding on social interactions of parents in the burying beetle, Nicrophorus vespilloides. This species breeds on small vertebrate carcasses and the parents provide elaborate parental care including regurgitating food to begging larvae. We conducted two experiments using two-by-two factorial designs in both, in which we first test for effects of inbreeding in male and female parents on interactions between caring parents and second we test for effects of inbreeding in female parents and their offspring on parent-offspring interactions. We find that inbreeding has direct effects on parental behaviour of inbred males, increasing the amount of care they provide, but that it has no direct effects on females. In addition, we find indirect effects of inbreeding in that females provide more care when males or offspring are inbred. Finally, we find evidence for an effect of an interaction between the inbreeding status of two individuals in that the apparent compensation of the female relies on the females own inbreeding status. We conclude that inbreeding influences the social dynamics of parents with important consequences for reproductive success, and propose that these indirect effects may extend to other social situations.
+
+Henri Thomassen
+University of Tübingen
+Institute of Evolution and Ecology
+Germany
+Incorporating intraspecific variation in conservation prioritization: a multi-taxa approach
+talk D21SY27RT18:33R6
+
+Author(s): Thomassen, HA, Fuller, T, Buermann, W, Mila, B, Kieswetter, CM, Jarrin-V., P, Modro, N, Cameron, SE, Mason, E, Schweizer, R, Schlunegger, J, Chan, J, Wang, O, Peralvo, M, Schneider, CJ, Graham, CH, Pollinger, JP, Saatchi, S, Wayne, RK, Smith, TB
+
+Summary: 
+
+Human-induced land use changes are causing rapid habitat fragmentation. Species are therefore exceedingly limited in shifting their ranges in response to climate change, and likely need to adapt in situ to changing climate conditions. A prudent strategy to maintain the ability of populations to adapt is to focus conservation efforts on areas where levels of standing intraspecific variation are high. By doing so, the potential for an evolutionary response to environmental change is maximized. We used spatially explicit ecological modeling approaches in conjunction with environmental variables to model species distributions and patterns of genetic and morphological variation in seven Ecuadorian amphibian, bird, and mammal species. We then used reserve selection software to prioritize areas for conservation based on evolutionary process (intraspecific genetic and morphological variation) or biodiversity patterns (species-level diversity). Reserves selected using species-level data showed little overlap with those based on genetic and morphological variation. Priority areas for intraspecific variation were mainly located along the slopes of the Andes, and were largely concordant among species, but were not well represented in existing reserves. Our results imply that in order to maximize representation of intraspecific variation in reserves, genetic and morphological variation should be included in conservation prioritization. To test the general applicability of our conservation prioritization framework, we are now applying this approach to target areas with varying levels of disturbance, different environmental gradients, and at small to large scales across four continents. Preliminary analyses indicate that the approach may be particularly useful at large scales, whereas other approaches should inform small-scale prioritization efforts.
+
+Aino Kalske
+University of Turku
+Department of Biology
+Finland
+Interactive effects of inbreeding in a specialized plant-herbivore interaction
+poster D21SY27PS0086
+
+Author(s): Kalske, A, Mutikainen, P, Muola, A, Laukkanen, L, Scheepens, JF, Leimu, R
+
+Summary: 
+
+Inbreeding causes inbreeding depression in plant resistance against herbivores, as well as in several fitness-related traits in the herbivores. Furthermore, plant inbreeding may affect herbivore performance due to reduced herbivore resistance or plant nutritional quality. In many natural plant-herbivore systems, both of the interacting species are likely to experience inbreeding and yet, interactive effects of inbreeding of both a host plant and its herbivore have not been extensively studied. We studied the effects of experimental inbreeding of a perennial host plant, Vincetoxicum hirundinaria, and its specialist herbivore, the moth Abrostola asclepiadis, on plant resistance and herbivore performance in four populations. We were particularly interested in how inbreeding of both the host plant and the herbivore affect host and herbivore inbreeding depression in resistance and performance. Our results demonstrate that the expression of inbreeding depression in herbivore performance depends on whether the herbivore was grown on an inbred or on an outbred host plant and this effect varied among herbivore populations. Inbreeding depression in plants was significantly higher when they were consumed by outbred compared to inbred herbivores. Finally, the expression of inbreeding depression in the host plant in terms of resistance varied among plant and herbivore populations. These findings demonstrate that in plant-herbivore interactions inbreeding depression of one species can be altered depending on the inbreeding of the interacting species. Furthermore, our results suggest that when herbivores are inbred, herbivore-induced selection against self-fertilization in plants may diminish.
+
+Dora Sofia Henriques
+Insituto Politécnico de Bragança
+Escola Agrária
+Portugal
+Introgression levels of the Italian and carniolan honey bee subspecies into the black honey bee: a comparison between microsatellite and single nucleotide polymorphism (SNP) markers
+poster D21SY27PS1323
+
+Author(s): Henriques, DM, Jara, L, Chávez-Galarza, J, Rufino Amaro, J, De la Rúa, P, Pinto, M
+
+Summary: 
+
+Human activities have been shaping the distribution of honey bee subspecies in Europe. In fact, during the last decades there has been an extensive introduction of the beekeepers’ favorite eastern European (lineage C) subspecies A. m. ligustica (Italian) and A. m. carnica (carniolan) into western Europe. Because of these introductions, there has been gene flow, and even replacement, of the native western European subspecies A. m. mellifera (black honey bee), which belongs to lineage M. Assessing levels of introgression is an important activity in breeding programs, especially when conservation of native subspecies is a major concern. Previous surveys of the A. m. mellifera populations estimated the introgression of lineage C into lineage M honey bees by using mtDNA and microsatellite markers. Others markers, such as SNPs, have some advantages as they provide a genome wide coverage, higher quality data, and at the same time they are suitable for automatic and standardization in high throughput technologies. Previous studies indicate that the discriminatory power of SNPs to detect population structure is lower than that of microsatellites; about 100 SNPs are needed to provide the same power of 10-20 microsatellites. In this study we will compare introgression levels between microsatellites and SNPs as estimated by the software STRUCTURE using the admixture model and correlated allele frequencies in a black honey bee collection originating from several countries across western Europe. This collection was genotyped for 12 microsatellites and 1183 SNPs. The introgression levels were first estimated using both full datasets. Then, to have similar discriminatory power between the 12 microsatellite and SNPs, we used between 60 and 120 SNP loci from the initial 1183 SNP dataset by selecting SNPs located nearby the microsatellite loci. With this work we want to verify which is the best strategy for assessing the levels of introgression in honey bee breeding programs.
+
+Luis Santos del Blanco
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Life history trade-offs and human-driven microevolution in Maritime pine, a managed forest tree
+poster D21SY27PS1203
+
+Author(s): Santos del Blanco, L, Sampedro, L, Alia, R, Zas, R, Climent, J
+
+Summary: 
+
+Trees are massive organisms, with great maintenance costs, long lifespan, delayed reproduction and long life cycles. Just as any other organism on Earth, they must cope with different environments by finely tuning their relative allocation of resources to growth, reproduction and maintenance. Forests -and hence forest trees- are facing new challenges due to climate warming and other human-derived impacts like forest fires. Under this scenario, selection for earlier and enhanced reproduction is predicted by life history theory. Importantly, forest management can also modify and even counteract adaptive selective pressures in natural, largely undomesticated populations. For example, traditional breeding for high timber yield is predicted to delay reproduction, and lower resistance to biotic or abiotic stressors. In spite of the sound scientific background on life history theory, forest management has largely overlooked these biological principles. Here, we review the existing evidence for how breeding interferes on microevolutionary processes of forest trees. We also provide novel examples focusing on a Mediterranean pine (Pinus pinaster), a species for which detailed quantitative genetic information for key life history traits (growth, size at reproduction, investment in chemical defences) is available. We will present two practical examples derived from breeding programs to illustrate indirect impacts of one event of artificial selection for growth already found in the following generation: first, a correlated genetic response of increased size at first reproduction and reduced reproductive allocation; and second, a reduced ability to cope a harmful forest pest. These evidences suggest that current forest tree breeding can counteract natural selective pressures, thus compromising the resilience of forest populations to future challenges. On the other hand, these finding support that assisted micro-evolution can be considered in dynamic genetic conservation programs.
+
+Jose Climent
+INIA-CIFOR
+Forest Ecology and Genetics
+Spain
+Life history trade-offs and human-driven microevolution in Maritime pine, a managed forest tree
+poster D21SY27PS1407
+
+Author(s): Climent, J, Santos del Blanco, L, Sampedro, L, Rafael, Z, Ricardo, A
+
+Summary: 
+
+Trees are massive organisms, with great maintenance costs, long lifespan, delayed reproduction and long life cycles. Just as any other organism on Earth, they must cope with different environments by finely tuning their relative allocation of resources to growth, reproduction and maintenance. Forests -and hence forest trees- are facing new challenges due to climate warming and other human-derived impacts like forest fires. Under this scenario, selection for earlier and enhanced reproduction is predicted by life history theory. Importantly, forest management can also modify and even counteract adaptive selective pressures in natural, largely undomesticated populations. For example, traditional breeding for high timber yield is predicted to delay reproduction, and lower resistance to biotic or abiotic stressors. In spite of the sound scientific background on life history theory, forest management has largely overlooked these biological principles. Here, we review the existing evidence for how breeding interferes on micro-evolutionary processes of forest trees. We also provide novel examples focusing on a Mediterranean pine (Pinus pinaster), for which detailed quantitative genetic information for key life history traits (growth, size at reproduction, investment in chemical defences) is available. We will present two practical examples derived from breeding programs to illustrate indirect impacts of one event of artificial selection for growth already found in the following generation: first, a correlated genetic response of increased size at first reproduction and reduced reproductive allocation; and second, a reduced ability to cope a harmful forest pest. These evidences suggest that current forest tree breeding can counteract natural selective pressures, thus compromising the resilience of forest populations to future challenges. On the other hand, these findings support that assisted micro-evolution can be considered in dynamic genetic conservation programs.
+
+Marta Santos
+Faculdade de Ciências da Universidade de Lisboa
+Centro de Biologia Ambiental / Departamento de Biologia Animal
+Portugal
+Life history, selection and effective population size shaping evolution during colonization – lessons from Drosophila melanogaster
+poster D21SY27PS0843
+
+Author(s): Santos, M, Matos, M, Rose, MR
+
+Summary: 
+
+Natural selection is able to produce rapid adaptive responses to sustained environmental change under propitious conditions: intense selection, abundant genetic variation, and large population sizes. Consider a scenario where these conditions are not met: a population migrates to a new environment; it encounters qualitatively novel nutrition, possibly including periods in which it starves. How will its life history evolve in response to such a new environment? Furthermore, its effective population size may be reduced in the course of migration or as a result of an initial lack of adaptation to the new environment. How will effective population size affect its evolutionary response to this new environment? If this population survives and its descendants migrate back to their ancestral environment, how will this preceding period of adaptation to a new environment affect its initial life history upon return to ancestral conditions, and then its subsequent evolution? To tackle these issues requires populations of known differentiated histories, populations on which selection (both forward and reverse) is imposed with contrasting population sizes. This project involves laboratory populations of Drosophila melanogaster with controlled and replicated histories of selection. The study of their evolutionary dynamics after the imposition of new selection regimes, both at small and at large population sizes, will help resolve the interaction between genetic drift and natural selection, as a function of both previous and present selective and demographic histories
+
+Jeanne Tonnabel
+University of Montpellier
+ISEM
+France
+Linking fire adaptations with environmental niches: theoretical and phylogenetic prospects
+poster D21SY27PS0621
+
+Author(s): Tonnabel, J, Ronce, O, Schurr, F, Van Dooren, T, Mignot, A, Douzery, E, Midgley, J, Boucher, F, Lavergne, S, Thuiller, W, Olivieri, I
+
+Summary: 
+
+In fire-prone environments, the evolution of plant life-histories is thought to be strongly influenced by fire regimes and environmental conditions. Fire management practices should therefore be informed by a better understanding of how fire related life-history traits have been shaped by environmental changes throughout evolutionary history. Perennial plant species in fire-prone environments have developed a wide range of adaptations to fire, which differ in the source of new recruits following fire events. Resprouting species can survive fires regenerating vegetatively from protected buds. In contrast, individuals of “obligate seeder” species are killed by fire: the population will only persist through seeds stored either in the soil or in the canopy (serotiny). To better explain such diversity of strategies, we used a optimization modeling approach (Tonnabel et al. 2012) to predict how fire regime and environmental conditions influence fire life history evolution (in particular serotiny). We then confront the predictions with data about relationships between life-history traits and environment collected for the genus Leucadendron (Proteaceae) in the South-African fynbos. We use comparative analyses approaches to test whether the evolution of particular fire-adaptations is linked to occurrence in specific environments (i.e. fire regimes, precipitation, temperature...) across a newly reconstructed phylogeny. This analysis reveals that fire adaptations arose several times during the evolutionary history of the Leucadendron. As predicted, we find that the evolution of serotinous obligate seeders is associated with the evolution of ecological niches where water limitation is weaker than for all other strategies. Such findings can help understand which species will probably be most vulnerable to climate change that is supposed to lead to dryer conditions in the South-African fynbos.
+
+Victor Stiebens
+GEOMAR
+FB3
+Germany
+Living on the edge: how philopatry maintains adaptive potential
+poster D21SY27PS0833
+
+Author(s): Stiebens, VA, Merino, SE, Roder, C, Chain, FJJ, Lee, PLM, Eizaguirre, C
+
+Summary: 
+
+Without genetic variation, species cannot cope with changing environments and evolution does not proceed. In endangered species, adaptive potential may be eroded by decreased population sizes and processes that further reduce gene flow such as philopatry and local adaptations. Here, we focused on the philopatric and endangered loggerhead sea turtle (Caretta caretta) nesting in Cape Verde as a model system to investigate the link between adaptive potential and philopatry. We produced a dataset of three complementary genomic regions to investigate female philopatric behaviour (mitochondrial DNA), male-mediated gene flow (microsatellites) and adaptive potential (major histocompatibility complex (MHC). Results revealed genetically distinct nesting colonies, indicating remarkably small-scale philopatric behaviour of both males and females. Furthermore, these colonies also harboured local pools of MHC alleles, especially at the margins of the population’s distribution, which are therefore important reserves of additional diversity for the population. Meanwhile, directional male-mediated gene flow from the margins of distribution sustains the adaptive potential for the entire rookery. We therefore present the first evidence for a positive association between philopatry and locally adapted genomic regions. Contrary to expectation, we propose that philopatry conserves a high adaptive potential at the margins of a distribution, while asymmetric gene flow maintains genetic connectivity with the rest of the population.
+
+Sabrina Taylor
+Louisiana State University
+Renewable Natural Resources
+United States
+Loss of variation at neutral and Mhc loci in Peary caribou over 100 years: drift is more important than selection
+poster D21SY27PS0890
+
+Author(s): Taylor, SS, Jenkins, DA, Arcese, P
+
+Summary: 
+
+Neutral markers are often used to estimate genetic variation in vertebrate populations, however, neutral loci may not reliably indicate adaptability because they are unrelated to fitness by definition and may lose variation more rapidly or more slowly than functional genes. We used threatened Peary caribou (Rangifer tarandus pearyi) historical (n ~ 30 c. 1905) and contemporary (n ~ 50 c. 2001) samples to compare loss of genetic diversity at 8 neutral microsatellite loci and one functional Mhc locus over time. Although the Mhc locus appeared to be under balancing selection, both types of loci appeared to lose similar amounts of variation indicating that drift was more important than selection or allele frequency distributions in this population. Allele frequency distributions and evidence of gene conversion may indicate that variation could recover more quickly at Mhc loci than microsatellite loci.
+
+Alina Niskanen
+University of Oulu
+Department of Biology
+Finland
+MHC diversity & parasite associations in Finnish wolves
+poster D21SY27PS0774
+
+Author(s): Niskanen, AK, Kennedy, L, Kojola, I, Lohi, H, Ruokonen, M, Pyhäjärvi, T, Aspi, J
+
+Summary: 
+
+Maintaining adaptive genetic variation is one of the key factors in the conservation of small populations. Major histocompatibility complex (MHC) is a gene dense region where substantial numbers of immune genes are located. Lowered genetic variation in MHC loci can lead to lowered immunity against pathogens, which may increase the risk of extinction of the population. Humans have recently caused major bottlenecks in wolf populations around the species' distribution range. In Finland wolf population started to decline in the late 19th century and the population included only a few individuals in 1920s. During the last two decades the number of individuals first increased then decreased again and now it is around 130 individuals. We studied the amount of genetic variation and natural selection in MHC loci of Finnish wolf population compared to neighboring Russian population. We sequenced the highly variable second exon from three MHC class II loci; DLA-DRB1, DLA-DQA1 and DLA-DQB1 among 243 Finnish and 38 Russian wolves. We used 17 neutrally evolving microsatellite markers as reference loci. We also studied the association of MHC class II loci to Echinococcus granulosus and Trichinella spp. infections among the Finnish wolf individuals. Our results show that the Finnish and Russian wolves do not substantially differ in their MHC diversities. The allele frequencies in the Finnish population are more equal than expected; also Tajima’s D and Fu & Li F** tests give significantly positive values implying balancing selection. Historical positive selection is also evident in all three loci in relative amount of synonymous and non-synonymous polymorphisms. Temporal analysis show that inbreeding coefficient has increased in neutral microsatellite markers but decreased in MHC loci during the last 15 years. We found that MHC homozygosity increases the risk of Trichinella* spp. infection among Finnish wolves but a specific DLA-DRB1 allele is associated with decreased risk.
+
+Ángeles De-Cara
+INIA (Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria)
+Dept. Mejora Genética Animal
+Spain
+Maintaining fitness and diversity in conservation programmes
+talk D21SY27RT16:57R6
+
+Author(s): De-Cara, ÁR, Villanueva, B, Toro, MA, Fernández, J
+
+Summary: 
+
+Conservation programmes aim at maximising the probability of survival of the populations of interest. The goals in these programmes are to minimise the loss of genetic diversity, which allows populations to adapt to changes, and to reduce the increase in inbreeding. An optimal strategy to achieve these goals is using optimal contributions, that is, calculating the number of offspring every individual should contribute to the next generation to minimise global coancestry. Previous results on neutral scenarios had shown that molecular coancestry can maintain more diversity than genealogical coancestry if the number of markers available is large. However, using optimal contributions may allow deleterious mutations to be maintained in the population, compromising the long-term viability of the population. We show here the results of three strategies to avoid the maintenance of deleterious mutations: 1) combining optimal contributions with inbred matings, to expose and eliminate recessive deleterious mutations by natural selection, in a process known as purging, 2) using molecular coancestry calculated without markers at lower frequencies, as those could in principle be linked to a deleterious allele, and 3) using a measure of coancestry based on runs of homozygosity. Our results are strongly dependent on the genetic architecture and the mutational model assumed. It seems that once contributions are calculated, there is hardly any effect on performing inbred or outbred matings, and we have not observed any case where inbred matings lead to a later recovery in fitness. Using molecular coancestry in the management of the population maintains a larger genetic diversity but leads to a lower fitness than using genealogical coancestry. Using markers at intermediate frequencies maintains a larger fitness, but a much lower diversity. Lastly, using runs of homozygosity to measure coancestry seems to provide the best balance to maintain diversity without losing much fitness.
+
+Sofia Consuegra
+Aberystwyth University
+IBERS
+United Kingdom
+Maintaining immunocompetence under inbreeding: the case of a selfing vertebrate
+poster D21SY27PS0114
+
+Author(s): Consuegra, S, Ellison, A
+
+Summary: 
+
+Mating between close relatives (inbreeding) reduces genetic diversity, making all individuals equally susceptible to environmental changes or diseases but, surprisingly, some populations seem to manage well and even thrive with low diversity. We have investigated how populations cope with low genetic diversity in a unique self-fertilising vertebrate (the mangrove killifish; Kryptolebias marmoratus). Our work shows how maintaining genetic diversity in some parts of the genome (i.e. the immune-related MHC genes) can be particularly important in terms of survival of the species. Hermaphrodite mangrove killifish have high rates of inbreeding and are genetically very homogeneous, but are also able to outcross, thereby introducing new genetic diversity. By comparing genetic diversity at neutral parts of the genome (microsatellites), immune-related genes (MHC) and parasites between wild and laboratory reared fish, we found that those individuals that had undergone more generations of self-fertilization had lower MHC and microsatellite diversity, and carried more parasites. But we also found evidence that the distribution of MHC alleles was not random, suggesting that even few divergent alleles could offer a selective advantage, potentially helping to fight a wider array of pathogens. Thus, even low levels of outcrossing could produce enough variability in immune-system genes to better resist parasites. This research has an important implication for conservation: immune-related genes, such as the MHC genes, need to be considered in captive breeding programs to minimize the negative consequences of inbreeding in endangered species.
+
+Kristin Brzeski
+Louisiana State University, AgCenter
+School of Renewable Natural Resources
+United States
+Major histocompatibility complex variation and its effects on fitness in the endangered red wolf (Canis rufus)
+poster D21SY27PS0673
+
+Author(s): Brzeski, KE, Chamberlain, M, Rabon, Jr., D, Taylor, S
+
+Summary: 
+
+The major histocompatibility complex (MHC) is a highly variable gene family which plays a critical role in cellular immune response. As such, measuring MHC diversity and its effects on fitness in wild populations is important because it may allow us to identify variation associated with population viability. The focus of our study was to estimate endangered wild red wolf (Canis rufus) MHC variation and assess its relationship to fitness. In total, we sequenced 350 wild red wolves at the dog leukocyte antigen class II genes DRB1, DQA1, and DQB. We related MHC variation at these loci to fitness measures including lifetime reproductive success and survivorship, which were obtained through a pedigree consisting of 23 years of detailed life history data. Additionally, we evaluated if particular MHC haplotypes or heterozygosity were associated with incidences of sarcoptic mange (Sarcoptes scabiei). These results will provide insight into how MHC diversity influences fitness and pathogen resistance in a wild population. Future work will be expanded to include Toll-like receptor genes, a family of genes involved in the innate immune system.
+
+Carlos Lopez-Vaamonde
+Institut National de la Recherche Agronomique (INRA)
+France
+Mark-recapture and genetic estimates of population size in a protected moth
+poster D21SY27PS0328
+
+Author(s): Lopez-Vaamonde, C, Naveira, H, Marí-Mena, N, Vila, M
+
+Summary: 
+
+Accurate knowledge of both effective population size (Ne) and census population size (N) is crucial for the efficient management of endangered species. Here we estimate both parameters for the protected moth Graellsia isabellae. We used both mark-release-recapture methods and microsatellites variation to obtain estimates of N and Ne for two Iberian populations: Puebla (Eastern Spain) and Ordesa (Pyrenees). A different Ne/N ratio for both populations was the result of similar census population size estimates, and contrasting effective population size values obtained by molecular single-point and temporal approaches. Demographic analyses and comparison between long and short-term approaches revealed that the main factor causing disparity between Ne estimates was a bottleneck, most likely caused by anthropogenic deforestation in Ordesa, although the species currently dwells in an optimal habitat. By contrast, the larger Ne showed by the population at Puebla confirmed its demographic stability. We discus the vulnerability of these two distinct populations of this emblematic insect, as the Ne/N estimates provided useful insights into the loss of genetic diversity and evolutionary potential. Therefore, we propose the re-categorisation of Graellsia isabellae in some sub-national and the national Spanish Red Lists.
+
+Lewis Spurgin
+University of Groningen
+Centre for Ecological and Evolutionary Studies
+Netherlands
+Museum DNA reveals a drastic and recent bottleneck in the Seychelles warbler
+talk D21SY27RT17:45R6
+
+Author(s): Spurgin, LG, Wright, DJ, Collar, NC, Komdeur, J, Burke, TA, Richardson, DS
+
+Summary: 
+
+Understanding the population history of endangered species is important for interpreting contemporary ecological processes, and of conservation high importance. We use microsatellite markers and museum specimens to examine 140 years of genetic diversity change in the Seychelles warbler (Acrocephalus sechellensis), a model system for evolutionary and conservation biology. In the 1960s this species was reduced to ca 30 individuals on a single island, but it is unknown whether it has ever been widespread and abundant. Across museum and contemporary samples, we found a 25% reduction in genetic diversity, which resulted in significant genetic structure. Using simulations we show that the warbler was bottlenecked from a large, outbred population. An ancestral effective population size of over 2,000 was reduced to less than 50 within the last century, which most likely occurred due to human disturbance. The approaches used form a powerful way of inferring population history, thus helping us to understand ecological processes and inform conservation.
+
+Maria Yli-Renko
+The Faculty of Mathematics and Natural Sciences of the University of Turku
+Section of Ecology, Department of Biology
+Finland
+Native and invasive predators cause varying anti-predator responses in marine crustancean (Idotea baltica)
+poster D21SY27PS0452
+
+Author(s): Yli-Renko, M, Pettay, J, Vesakoski, O
+
+Summary: 
+
+Invasive species have negative impacts on ecological communities and they are a major worldwide problem. The North American white-fingered mud crab (Rhithropanopeus harrisii) is aggressive invasive species that has newly colonized also Northern Baltic Sea. Its predation pressure is high towards littoral fauna, e.g. crustacean grazer Idotea balthica. We studied the reported inability of I. baltica to avoid the crab and found that the isopod had strong anti-predator response towards native predatory fish (the European perch Perca fluviatilis) but with lethal outcomes, it did not recognize invasive R. harrisii as predator. The response to invasive and native predators was studied also taking into account the personality variation of isopods, as they have been shown before having behaviour traits fulfilling the criteria of personality. We finally discuss the impacts that invasive predators have on rapid evolution of anti-predator behaviour.
+
+Sílvia Castro
+CFE - Centre for Functional Ecology, University of Coimbra
+Department of Life Sciences
+Portugal
+New ploidy levels and genome size estimates in wild Beta taxa using flow cytometry
+poster D21SY27PS1046
+
+Author(s): Castro, S, Romeiras, M, Castro, M, Duarte, MC, Loureiro, J
+
+Summary: 
+
+It is widely recognized that the conservation of the Crop Wild Relatives (CWR) in their wild habitats, where they can continue to adapt and evolve along with their natural surroundings, is fundamental to ensure the continuous supply of the novel genetic material critical for future crop improvement. The genus Beta L. (Amaranthaceae) is an important source of crops, primarily for sugar production. Within a broader research project aiming to select appropriate wild accessions and identify priority localities in which to establish genetic reserves of the wild Beta species occurring in Portugal, the aim of this study was to assess the cytogenetic diversity of wild Beta populations. For this, a large scale sampling of natural populations of B. vulgaris subsp. maritima and B. macrocarpa was performed across Portugal (including also the archipelagos of the Azores and Madeira) and genome size and ploidy level estimated using flow cytometry. The analysed populations were mostly diploid, except for one population of B. vulgaris subsp. maritima that presented both diploid and tetraploid individuals, and for two populations of B. macrocarpa where two or three cytotypes (diploids, tetraploids and/or hexaploids) were found. Leaves of both species presented variable levels of endopolyploidy. The obtained results will be discussed within the context of interspecific hybridization and cryptic diversity, and constitute significant data for the conservation of these wild Beta crop relatives.
+
+Raj Whitlock
+University of Liverpool
+Institute of Integrative Biology
+United Kingdom
+Outbreeding depression and heterosis are predicted by demography, environmental and cytogenetic contexts in natural populations
+poster D21SY27PS1205
+
+Author(s): Whitlock, R, Stewart, GB, Goodman, SJ, Piertney, SB, Butlin, RK, Pullin, AS, Burke, T
+
+Summary: 
+
+When individuals from separate populations mate, the resulting hybrid offspring can experience fitness benefits (heterosis) or costs (outbreeding depression) relative to their parents. Understanding the distribution and extent of these genetic benefits and costs is essential for guiding conservation plans that seek to mix wildlife populations. We use meta-analysis to test the hypothesis that phenotypic responses to intraspecific outbreeding can be predicted by combining information on population demography, environmental and cytogenetic contexts. Our dataset comprised 510 effect sizes describing intrinsic outbreeding responses, from 98 studies on animals and plants (79 species). Our results indicate that information on population context can be used to predict both observed outbreeding depression and heterosis. Studies for which we predicted a risk of outbreeding depression showed a cost to fitness (viability, survival, reproduction) in the F2 generation, relative to mid-parent performance. In cases predicted to exhibit heterosis we observed a corresponding fitness benefit relative to the mid-parent. We discuss whether and how these results, and our approach to predicting outbreeding responses, might be useful in conservation practice.
+
+Ratima Karuwancharoen
+Durham University
+School of Biological and Biomedical Sciences
+United Kingdom
+Population structure and gene flow of dogwhelk (Nucella lapillus) in Western Scotland and England
+poster D21SY27PS1445
+
+Author(s): Karuwancharoen, R, Lucas, M, Hoelzel, ARUS
+
+Summary: 
+
+Population structure and gene flow of dogwhelk (Nucella lapillus) in Western Scotland and England. Ratima Karuwancharoen, Martyn Lucas& A.Rus Hoelzel School of Biological and Biomedical Sciences Durham University, Durham, DH1 3LE, UK Email: ratima.karuwancharoen@durham.ac.uk Dog whelks are predatory marine snails which are found around rocky intertidal zones of the North Atlantic. Regional dog whelk populations are known to have declined due to tributyltin pollution during the 1970s and 1980s. This was, however, followed by successful recolonisation of this species after 1987. They lack planktonic larval stages and develop into crawling juveniles which emerge from capsules. This life history implies limited dispersal ability. However, recent research has identified long-distance dispersal in dog whelks in the eastern North Atlantic, most likely associated with ‘rafting’. Some populations of dog whelks are also apparently differentiated according to the degree of wave impact on rocky shores. These findings illustrate the need for further research, especially in the context of ongoing impact from pollution and other factors. In this study we consider the relative importance of geographic distance, local habitat characteristics and discontinuous habitat in the assessment of gene flow among coastal sites in northeastern England. Most of these sites are designated protected areas. Initial results based on comparisons among 6 locations at 14 microsatellite DNA loci suggest fine-scale population structure in this system.
+
+Yvonne Meyer-Lucht
+Evolutionary Biology Center, Uppsala University
+Department of Ecology and Evolution
+Sweden
+Red grouse (Lagopus lagopus scoticus) in Ireland and Scotland: Adaptive genetic divergence and implications for conservation
+poster D21SY27PS0669
+
+Author(s): Meyer-Lucht, Y, Mulder, KP, Höglund, J
+
+Summary: 
+
+Adaptive genetic variation is central to the survival of endangered populations, because it forms the evolutionary potential to respond to future challenges in a changing environment. Divergence in genetic variation among populations, however, has significant implications for conservation purposes. We here present a classical applied conservation biology question and base our answer on evolutionary concepts like selection, drift and adaptation: In Ireland, the Red grouse (Lagopus lagopus scoticus) is believed to be in risk of extinction, whereas it is rather abundant in Scotland and England. It has been proposed to restock the fragmented Irish populations with individuals from Scotland. We address the question whether Red grouse populations in Ireland and Scotland show significant divergence in adaptive genetic variation. If so, they should be recognized as separated evolutionary lineages for conservation purposes. Using 454-pyrosequencing we analysed immune genes of the MHC class II (Major histocompatibility complex), which are popular candidate genes to study adaptive genetic diversity due to their key role in many biological processes like pathogen resistance and mate choice. We compared the results with a study on neutral microsatellite variation to distinguish between genetic drift and selection. We found clear footprints of selection acting on the MHC genes, as well as variation in the number of gene copies, another classical feature of MHC evolution. The differentiation of adaptive genetic variation between Ireland and Scotland was strong with an Fst of 0.11, and significantly higher than differentiation based on neutral microsatellite variation with an Fst of 0.068. Thus, we conclude that these large differences in adaptive genetic variation are not due to drift and we advise against the introduction of Scottish Red grouse to supplement Irish populations. Instead we propose that efforts should be made to increase gene flow between Irish subpopulations.
+
+Vera Solferini
+Institute of Biology, University of Campinas
+Dep. Genetics, Evolution and Bioagents
+Brazil
+Small scale genetic structuring in the neotropical palm tree Euterpe edulis (Arecaceae)
+poster D21SY27PS1374
+
+Author(s): Solferini, VN, Ramos, RF, José, J
+
+Summary: 
+
+The Atlantic Rainforest extends along the Brazilian coast covering a wide latitudinal range with great variations in altitude. Most studies of its species genetic variability focus on a large scale sampling design, but small scale studies are also important as they provide insights about local processes. Euterpe edulis is an endangered neotropical palm, distributed throughout the Atlantic Forest from the coastal plain up to 1000 meters above sea level. We evaluated the genetic diversity and structure in six natural populations of E. edulis from different altitudes in a continuous protected area at the north coast of São Paulo State; 50 adults from each location were genotyped with seven microsatellite loci. The total allele number was high (140) and the mean allele number did not vary between samples. The total expected heterozygosity was 0.867 ranging from 0.782 to 0.859 among samples. The inbreeding coefficient was low in all samples, as expected for outcrossing species. The spatial genetic structure was absent or weak at populations level. The genetic structure was high (?’ = 0.26), considering that the maximum distance between samples was 32 Km. Four most likely genetic groups were defined by the assignment test, and five according to AMOVA. A partial Mantel test correlated the pairwise genetic structure with the geographical distance (r = 0.8; p < 0.05) and also with the pairwise altitudinal differences without the effect of the geographic distances (r = 0.5; p < 0.05). Those differences may be due to reduced gene flow or local adaptation, what remains to be studied as potentially relevant for management programs. Such a pattern of genetic differentiation at short distances is unexpected within a continuous rainforest in a protected area, highlighting the importance of small scale approaches to better understand the complex patterns of differentiation in tropical systems.
+
+Janne Valkonen
+University of Jyväskylä
+Biology and environmental sciense
+Finland
+Snake head shape mimicry: implications to the conservation of the endangered mimic
+poster D21SY27PS0523
+
+Author(s): Valkonen, JK, Nokelainen, O, Galarza, J, Mappes, J
+
+Summary: 
+
+Most research on the adaptive significance of warning signals has focused on the colouration and patterns of prey animals. However, behaviour, odour and body shape can also have signal functions and thereby reduce predators’ willingness to attack defended prey. For example, European vipers all have a distinctive triangular head shape and they are all venomous. Several non-venomous snakes are known to flatten their heads (head triangulation) when disturbed. Also many Lepidopteran larvae enhance their resemblance to tree vipers by concealing their heads and inflating their thorax or abdomen to express a false, sometimes triangular-shaped head. Even though anecdotal evidence of significance of snake head mimicry is dated back to the Henry Bates (1862), the role of body shape recognition is rarely experimentally investigated. Here we present data from field experiments and show that the triangular head shape can be recognized and avoided by predators. We also discuss the significance of this finding on population dynamics of snakes and its application their conservation. The smooth snake (Coronella austriaca) is non-venomous endangered species. By head triangulation it mimics vipers (Vipera sp.) which are not always protected by law. Because vipers are heavily killed by humans, it is possible that this asymmetric conservation program will be flawed because deceptive mimicry only works if the relative density and frequency of model species is higher than mimics. Based on the experimental evidence, we suggest that vipers should be protected at least in the locations where they co-exist with endangered mimic species.
+
+Henrik Jensen
+Norwegian University of Science and Technology
+Dept. of Biology
+Norway
+Spatio-temporal dynamics of genetic variation and effective population size in fragmented house sparrow populations
+poster D21SY27PS1330
+
+Author(s): Jensen, H, Baalsrud, HT, Hagen, IJ, Myhre, AM, Holand, AM, Billing, AM, Tufto, J, Pärn, H, Ringsby, TH, Slate, J, Sæther, B
+
+Summary: 
+
+Habitat fragmentation is a major threat to biodiversity: by reducing population sizes and gene flow between populations it affects genetic structure and effective population size (Ne), which have important implications for population dynamics and evolutionary processes. We used natural house sparrow (Passer domesticus) populations in Norway as a model system to investigate if population type (i.e. mainland or island), geographic distance, adult population size (N), immigration rate and sex ratio explained intra- and interpopulation genetic variation and Ne of fragmented populations. Data from microsatellite genotyping across multiple populations and generations was used. Our results showed that intrapopulation genetic variation was lower and the occurrence of population bottlenecks more frequent on islands than the mainland, and the general level of genetic differentiation was higher between islands than between mainland populations, but only at shorter distances. Furthermore, genetic differentiation decreased, whereas intrapopulation genetic variation and Ne/N-ratios increased with immigration rates. Both intrapopulation genetic variation and Ne increased with population size. However, genetic Ne was much larger than demographic Ne (often even >N), probably due to a greater effect of immigration on genetic than on demographic processes. In constrast, genetic Ne for the metapopulation were within the expected range (<N), suggesting that in fragmented populations even low levels of gene flow may make the total metapopulation the appropriate scale of estimation. We also developed a genome-wide 10 000 Single Nucleotide Polymorphism (SNP) chip for the house sparrow and screened individuals from four populations. This demonstrated that genome-wide marker data gave results similar to microsatellites. Our results are relevant for a better understanding of evolutionary processes and hence conservation of threatened populations.
+
+Charlotte Urien
+INRA Versailles-Grignon
+Plant Genetics Unit
+France
+Species diversity in French traditional organic bread doughs
+poster D21SY27PS0472
+
+Author(s): Urien, C, Lhomme, E, Dousset, X, Onno, B, Legrand, J, Sicard, D
+
+Summary: 
+
+Microorganisms result from billion years of evolution, but research on microbial communities took off recently with the rise of genomics technics. Those one are notably useful to link species diversity, phylogeny and ecosystems functioning. In food-processing environments, species diversity has been characterized in cheese or meat but less extensively in bread. Microbiome of bread doughs has been already described in Italia and Belgium but never in France. Here, we have analyzed the species diversity in bread doughs of five French bakers interested by maintaining biodiversity. The dynamics of species diversity were studied along the bread making process and from one year to another. The density of Lactic Acid Bacteria (LAB) and Yeast was measured using classical microbiology. Species were identified by gene sequencing (5’ region of rDNA 26S and ActI for yeasts, and rDNA 16S for LAB). Biochemical characteristics of (sour)doughs and bread were also measured. Dominant yeast species varied between two bakeries (Candida humilis, Sacharomyces bulderi, S. exiguus or Torulaspora delbrueckii) and also from one year to another. In most cases, the same major yeast species was observed all along the bread making process. By contrast, LAB specific diversity was low with the same dominant species (Lactobacillus sanfranciscensis) found in most bakeries over the two years. The ratio of LAB over yeasts was relatively stable during the bread making process and from one year to another but differed between bakeries. Biochemical properties differed between bakeries and were related to the yeast and LAB frequencies. Previous studies from other European countries indicate that most bakers only maintain S. cerevisiae as Yeast in sourdoughs and the commonly reported LAB:yeasts ratio is 100:1. Taken together, our results suggest that French bakers sourdoughs host an interestingly diverse flora. The links between microbial communities and bread-making practices will be discussed.
+
+Aapo Kahilainen
+University of Jyväskylä
+The Department of Biological and Environmental Science
+Finland
+Species-genetic diversity correlation in Odonate communities
+poster D21SY27PS1150
+
+Author(s): Kahilainen, A, Elo, M, Hämäläinen, H, Keränen, I, Knott, E, Kuitunen, K, Marjeta, M, Mönkkönen, M, Kotiaho, J
+
+Summary: 
+
+Similarities in the theories of community ecology and population genetics suggest that species diversity and genetic diversity within populations are shaped by the same mechanisms (selection, drift and dispersal). Thus, if the characteristics of the locality (environmental heterogeneity, community size and connectivity) influence these mechanisms in parallel on both levels of biodiversity, a positive species-genetic diversity correlation (SGDC) can be observed. However, also negative SGDCs are possible, if the characteristics of the locality influence the mechanisms such that they act in opposing directions on the two levels. As large scale mapping of genetic diversity is not always feasible, studies on the SGDCs can yield information of whether species diversity patterns could be used in predicting genetic diversities of populations. Also, studies on the simultaneous effect of locality characteristics on species diversity and genetic diversity can help predicting the outcomes of different management and conservation actions on both levels of biodiversity. We studied the relationships between species richness of dragonflies and damselflies, the microsatellite allelic richness of two damselfly species (Calopteryx virgo and C. splendens), and locality characteristics of their stream habitats (environmental heterogeneity, density of individuals, latitude, and connectivity to similar localities). Our analyses revealed a positive correlation between species richness and C. virgo allelic richness with a parallel effect of latitude being a likely explanation for the positive SGDC. However, in C. splendens, no SGDC was observed. The absence of an SGDC was likely due to species richness and allelic richness of C. splendens having relationships of opposing directions with connectivity to similar localities. The differing SGDCs even within closely related species highlight the variability of SGDCs in nature.
+
+Corneel Vermeulen
+University of Groningen
+Evolutionary Genetics
+Netherlands
+The “omics” of inbreeding depression: a gene and protein expression study of conditional lethality
+poster D21SY27PS0334
+
+Author(s): Vermeulen, C
+
+Summary: 
+
+The study of inbreeding depression is relevant for agriculture, medical sciences, conservation and evolutionary biology. Although the population genetic principles of inbreeding depression are well known, the functional genomic basis remains poorly characterised. Recent studies have described changes in the metabolome and total gene and protein expression in inbred organisms. Functional studies enable us to explore mechanistic questions, e.g. what causes detrimental interactions between inbred genomes and environmental conditions. Since the complex and polygenic nature of general inbreeding depression makes this a difficult task, we focus on one aspect, conditional lethals in the fruitfly model system (Drosophila melanogaster). We present a detailed study of changes in the transcriptome and the proteome upon the triggering of a conditional inbreeding event, involving cold sensitivity and lethality. This study suggest that the inbreeding-related cold sensitivity in this line is caused by misregulation of normal mechanisms of cold tolerance. Therefore, study of the responsible QTL migth be informative about genetic variation in cold tolerance in outbred populations. In addition, we show that some of the changes in gene expression are part of a general signature of inbreeding depression.
+
+Maria Ruiz-Lopez
+University of Oregon
+Institute of Ecology and Evolution
+United States
+Use of nextRAD and RNA-seq to develop a conservation genomic resource for the endangered red colobus monkey
+poster D21SY27PS1148
+
+Author(s): Ruiz-Lopez, MJ, Goldberg, TL, Chapman, CA, Jones, JH, Switzer, WM, Frost, SDW, Gibson, MA, O'Connor, DH, Friedrich, TC, Lauck, M, Sibley, SD, Etter, PD, Johnson, EA, Ting, N
+
+Summary: 
+
+Red colobus monkeys are among the most endangered primates in the world due to habitat loss and hunting by humans. Genomic studies of these animals will assist in conservation efforts by allowing for a better understanding of neutral and adaptive genetic diversity, patterns of gene flow across a landscape, potential adaptation to known pathogens, and how best to designate conservation priorities. However, genomic approaches in this species have been hampered due to the difficulties inherent in marker development in endangered species, such as the lack of a reference genome and high quality starting biomaterials. To circumvent these issues, we applied two reduced representation genomic sequencing methods to field-collected blood samples from habituated individuals at Kibale National Park, Uganda. NextRAD, a newly developed version of RAD-seq, was employed in 10 individuals in order to develop a population-based SNP panel. We obtained between 8 - 24 million reads per sample and identified 10,000 SNPs after removing repetitive sequences and low quality reads. RNA-seq was used to develop a set of candidate immune-related loci that can be connected to epidemiological research being conducted in this population. We performed de novo assembly of blood transcriptomes from four individuals and obtained a total of 18,415 contigs, with an N50 of 591-bp and a mean length of 517-bp. Fifty-two percent of the contigs BLASTed to metazoan sequences, and after mapping and annotation we identified 1,085 transcripts involved in immune responses. Ongoing research projects are using these data in this population to identify how neutral diversity relates to adaptive diversity, how habitat fragmentation affects migration and retroviral transmission, and if patterns of infection are related to immunogenetic responses. These data represent a major advance in the genomic resources available for this endangered species and will ultimately aid in efforts to help prevent their extinction.
+
+Jacob Höglund
+Uppsala University
+Dept. Ecology and Genetics
+Sweden
+Why genetics, genomics, bioinformatics and evolutionary theory may matter for conservation
+talk D21SY27IT10:30R6
+
+Author(s): Höglund, J
+
+Summary: 
+
+Conservation biology and evolution may at fist sight be a contradiction in terms. Evolutionary Biology is about how life on planet Earth has changed and Conservation Biology is concerned about to halt and stop some of the unwanted changes brought about by human impact. In this talk I will argue that to preserve biodiversity and halt the ongoing extinction of populations and species, a fuller understanding of the evolutionary processes brought about by human activities on natural populations is needed. It is now often acknowledged that a useful conservation strategy is to preserve any natural population’s ability to adapt to future change. It is however, less clear how such a conservation program should be implemented. It has been claimed that in order to accomplish this task, conservation programs need to preserve genetic variation within the focal populations. It is however not clear what is meant by 'genetic variation'. I will discuss different approaches how genetic variation can be studied in a conservation context and how genomic data can be used to address issues of genetic variation relevant for conservation using examples from our own research.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

@@ -1,0 +1,729 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY23: Genomic Islands: their role in adaptation and speciation
+ Abstracts list Schedule Description
+View only talks or posters
+Radoslav Kozma
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+A genomic approach to the plumage colour differences in the Willow grouse (Lagopus lagopus)
+poster D20SY23PS0379
+
+Author(s): Kozma, R
+
+Summary: 
+
+My work aims to combine the field of genetics with the application of population structure modeling as well as a more individual based genome modeling. The species of my study is the willow grouse (Lagopus lagopus), which has an interesting phenotypic diversity across its range. In Scandinavia, individuals adopt a white plumage during winter, while individuals in the northern UK forgo moulting and remain brown. Interestingly, snow free islands off the coast of Norway harbor the Scandinavian populations in fluctuating densities, which are seemingly maladapted seeing as their white plumage stands out. With the help of population modeling, one of the aims is to model the dynamics of movement to identify conditions required for local adaptation (i.e. what would it take for the island populations to stop their winter moulting). Furthermore, the genome of the willow grouse will be sequenced with the aim of finding potential genes responsible for this variation in moulting behaviour. In turn, models of the genomic data will be constructed to find out which parts of the genome are likely to respond to local selection pressures and random forces such as drift. Is it the case that local populations become divergent throughout the genome (as predicted by drift) or at key loci (as predicted by selection)? As such, the project aims to tackle these questions from an empirical as well as a theoretical perspective.
+
+Marius Roesti
+University of Basel
+Zoological Institute
+Switzerland
+A novel genomic signature of adaptation from standing variation revealed in threespine stickleback
+talk D21SY23RT14:48R3
+
+Author(s): Roesti, M, Gavrilets, S, Hendry, AP, Salzburger, W, Berner, D
+
+Summary: 
+
+Understanding how natural selection shapes the genome is becoming a major endeavor in evolutionary biology. Selection will often target pre-existing (standing) genetic variation. Nevertheless, theory has generally been developed for selection on novel variants. We here use extensive modeling tailored to adaptive divergence in threespine stickleback to characterize the genomic footprints of adaption from shared standing variation. The emerging predictions are then examined using genome-wide markers and targeted sequencing across many natural populations. Combined, our findings offer a novel explanation for heterogeneous genomic differentiation between diverging populations, challenge the widely held view that genomic regions of high and low population differentiation reliably point to loci under divergent and balancing selection, and allow us to propose a novel methodological framework for searching adaptation genes in natural populations.
+
+Claus Vogl
+Institute of Animal Breeding and Genetics
+Department for Biomedical Sciences
+Austria
+A population genetic model of allopolyploid speciation
+poster D20SY23PS0719
+
+Author(s): Vogl, C, Guo, Y
+
+Summary: 
+
+Allotetraploid speciation, i.e. the generation of a hybrid tetraploid species from two diploid species, and the long-term evolution of tetraploid populations and species are important in plants. A population genetic model to infer population genetic parameters of tetraploid populations from data of the progenitor and descendent species is presented. The model links different time-scales: allopolyploid hybrid speciation is presumably rare and probably results in a population bottleneck, i.e., a founder event. Immediately after allopolyploid speciation, selection must be intense, as hybrids of early generations are usually relatively unfit but often evolve to out-compete their parental species and spread to occupy new ecological niches. Later, the accumulation of mutations may render one or the other homeologous copy of a gene dysfunctional and recombination or gene conversion may lead to mixing of two homeologous gene copies. These latter processes are relatively slow. In a first attempt, we develop a population genetic model to capture key parameters and apply this model to a data set of nuclear genes of two yarrow species, Achillea alpina-4x and A. wilsoniana-4x, that arose by allotetraploidization from the diploid progenitors, Achillea acuminata-2x and A. asiatica-2x.
+
+Jun Kitano
+National Institute of Genetics
+Ecological Genetics Laboratory
+Japan
+A young neo-sex chromosome is the site of divergence between incipient stickleback species
+poster D20SY23PS1065
+
+Author(s): Kitano, J, Yoshida, K
+
+Summary: 
+
+Sex chromosomes turn over rapidly in some taxonomic groups, where closely related species have different sex chromosomes. However, little is known about the functional roles of sex chromosome turnover in phenotypic diversification and speciation. We use a sympatric pair of threespine sticklebacks to understand the roles of sex chromosome turnover in phenotypic divergence and speciation. Previously, we found that the Japan Sea sticklebacks have a neo-sex chromosome system resulting from a fusion between an ancestral Y chromosome and an autosome, while sympatric Pacific Ocean sticklebacks have a XY sex chromosome system. Furthermore, we demonstrated that the Japan Sea neo-X chromosome plays an important role in phenotypic divergence and reproductive isolation between these sympatric species. Here, we conducted additional QTL mapping of other morphological and behavioral traits to confirm that both old-X and neo-X chromosomes have significant QTL important for morphological divergence, while the old-X, but not the neo-X chromosome, contributed to hybrid courtship abnormality. Next, we conducted whole genome sequencing of these two sticklebacks to find that the Japan Sea neo-Y chromosome has no large-scale deletion, but some regions on the neo-Y have started to accumulate deleterious mutations. Importantly, significant QTL on the neo-X chromosome were located at regions even outside the regions where deleterious mutations accumulate. Furthermore, comparison of genome sequences between these two species revealed that the neo-X chromosome showed faster protein evolution than autosomal genes. Thus, a young neo-sex chromosome is the site of divergence between incipient species.
+
+Janice Britton-Davidian
+University of Montpellier 2
+Institut des Sciences de l'Evolution
+France
+Are Robertsonian fusions barriers to introgression in a house mouse hybrid zone?
+talk D20SY23RT15:12R3
+
+Author(s): Britton-Davidian, J, Villafan de la Torre, E, Smadja, C, Caminade, P, Boursot, P
+
+Summary: 
+
+Genomic regions of low recombination are expected to contribute to the accumulation of incompatibilities allowing speciation with gene flow to occur. While chromosomal inversions are well documented in such processes, the role of Robertsonian (Rb) fusions (that join two acrocentric chromosomes by their centromere to form a metacentric one) is less clear. The house mouse is an emblematic model of Rb variation since one subspecies, M. m. domesticus, displays >80 Rb races. Previous cytogenetic studies demonstrated a decrease in recombination rates along the proximal 50% of Rb chromosomes in both homozygotes and heterozygotes. This study explores the role of Rb fusions in reducing gene flow by investigating their effect on genome admixture between two subspecies of the house mouse. In Denmark where the two taxa form a tension zone, M. m. domesticus carries 3 Rb fusions while M. m. musculus has an all-acrocentric karyotype. Genome admixture was assessed using 127 SNPs diagnostic of the two subspecies and covering the proximal 25% of 3 chromosomal arms involved in Rb fusions and 2 acrocentrics. We compared patterns of genomic admixture in the proximal regions to those at 86 diagnostic loci randomly distributed in the genome by fitting a genomic cline model with 3 parameters (centre and slope in each subspecific context). In the domesticus genomic context, Rb clines were much steeper than that of the average reference loci. Their centre was displaced in favour of musculus, however, due to introgression of large chromosomal blocks, and both of these patterns were stronger for the most proximal loci. This is compatible with the predicted effects of reduced recombination in Rb fusions coupled with incompatibilities in these genomic regions. In addition, clines for acrocentrics were smoother than average in the musculus genomic context, suggesting that other undescribed effects are acting, such as a possible advantage of domesticus acrocentric centromeres.
+
+Jose Martin Pujolar
+Aarhus University
+Denmark
+Assessing patterns of hybridization between North Atlantic eels using Genome-Wide Single Nucleotide Polymorphisms generated by RAD-Sequencing
+poster D20SY23PS0355
+
+Author(s): Pujolar, J, Jacobsen, MW, Hansen, MM
+
+Summary: 
+
+Hybridization is an important issue in evolutionary biology and conservation. We investigate the dynamics of introgressive hybridization in North Atlantic eels, the European eel (Anguilla anguilla) and its sister species the American eel (Anguilla rostrata). The two North Atlantic eels occupy a broad range of habitats from Morocco to Iceland in the eastern Atlantic and from the Caribbean to Greenland in the western Atlantic, respectively. Despite such a wide non-overlapping geographic distribution, both species spawn in partial sympatry in the remote Sargasso Sea, in a migration of over 5,000 km for the European eel and 2,000 km for the American eel, which still represent to this day one of the enigmas of the animal kingdom. Spawning grounds of both species overlap in space and time, setting the stage for interbreeding. Previous studies have pointed to the existence of hybrids limited to one particular location, Iceland, although markers used did not allow clarification of their hybrid status. In our study, diagnostic species-specific single nucleotide polymorphisms (SNPs) are developed using a RAD-sequencing approach, which is a reduced representation genome sequencing method. After generating and aligning over 8000 sequence read per individual, a total of 3,348 diagnostic SNP (FST> 0.95) were identified. 96 of of those loci were selected to design a low-density array, at which we genotyped 159 eels from Iceland and 29 eels from Faroe Islands. The study was supplemented with the analysis of 94 larvae (49 European and 45 American eel) collected in the Sargasso Sea. Our study reveals high levels of hybridization in Iceland mostly consisting of F1 hybrids but backcrosses (A. anguilla x hybrid) are also observed. In comparison, no hybrids are observed in the closely-located Faroe Islands.
+
+Tuomas Toivainen
+University of Oulu
+Department of Biology
+Finland
+CONSTANS is highly prone to natural selection in Arabidopsis lyrata
+poster D20SY23PS1386
+
+Author(s): Toivainen, T, Aalto, E, Mattila, T, Niittyvuopio, A, Savolainen, O
+
+Summary: 
+
+We examined the evolution and diversity of genes related to flowering time, an important adaptive trait in plants, and a set of unrelated reference genes in the perennial Arabidopsis lyrata in several populations in Europe and North America. Among the 38 loci, CONSTANS, one of the central flowering time genes, was the only which had experienced species-wide adaptive evolution when compared to A. thaliana, as shown by multilocus MK analysis. This was consistent with earlier result of selection on this gene in A. thaliana (Bustamante et al. 2002), and of the rapid evolution of this gene in Brassicaceae (Lagercranz & Axelsson 2000). The CONSTANS gene also was highly differentiated between the widespread A. lyrata populations (Fst=0.78). Further, an association analysis suggested a role in governing fitness in an experimental field site at the University of Oulu. Thus, we found CONSTANS gene to be adaptively important in all studied time levels of natural selection. Likely selection on flowering time, may often target the CONSTANS gene.
+
+Alice Saunier
+Laboratoire Littoral Environnement et Sociétés - UMR7266
+France
+Complete mitochondrial genomes of the Baltic clam Macoma balthica (Bivalvia: Tellinidae): variable gene arrangements between and within lineages and genetic incompatibility
+poster D20SY23PS0572
+
+Author(s): Saunier, A, Pante, E, Bouchez, O, Becquet, V, Garcia, P
+
+Summary: 
+
+Despite their large population sizes, high fecundity and dispersive potential, marine bivalves maintain adaptive polymorphism that help them cope with local environmental variations. The study of adaptive evolution can be facilitated by examining contact zones between close taxa. In these zones, maintained by endogenic genetic incompatibilities or exogenic barriers, hybrid genotypes persist despite a maladaptation state. The Baltic tellin Macoma balthica offers an opportunity to study the evolution of a hybrid zone within the context of contemporary climate change. A key species in intertidal trophic webs of northwest Europe, this bivalve seems to be affected by the warming of surface waters in the Bay of Biscay as its distribution range contracted 300 km poleward during the last thirty years. On European coasts, two lineages of M. balthica are present, and result from separate trans-arctic invasion events from the Pacific to the Atlantic Ocean, leading to strong admixture and hybridisation. How can these lineages maintain local adaptations? What are the genes implied? While screening for nuclear markers highly differentiated across populations, we found that the nuclear-encoded gamma subunit of the mitochondrial ATP synthase protein complex had high FST values, and may be undergoing adaptive selection. As proteins involved in the mitochondrial oxidative phosphorylation chain are prone to mito-nuclear genetic incompatibilities and contribute to the maintenance of genetic barriers, we have set to sequence eight mitogenomes of M. balthica, describe gene content and genome organisation. Using long-range PCR, these mitogenomes were amplified and sequenced (MiSeq, Illumina). These results will help identify the mitochondrial genes under selective pressure by analysis of non-synonymous to synonymous mutation ratios, and test the hypothesis that the mitochondrial subunits of the ATP synthase complex are under going positive selection, as their nuclear counterpart.
+
+Camille Roux
+Université de Lausanne
+Département d'écologie et d'évolution
+Switzerland
+Crossing the species barrier: genomic islands of introgression between two extremely divergent Ciona intestinalis species
+talk D20SY23RT17:45R3
+
+Author(s): Roux, C, Tsagkogeorga, G, Bierne, N, Galtier, N
+
+Summary: 
+
+Inferring a realistic demographic model from genetic data is an important challenge to gain insights into the historical events during the speciation process and to detect the molecular signature of selection along genomes. Recent advances in divergence population genetics have reported that speciation in face of gene flow occurred more frequently than theoretically expected, but the approaches used rarely account for genome wide heterogeneity (GWH) in introgression rates. However, GWH is expected as a consequence of variation in effects of natural selection on migrant alleles. We investigated the impact of GWH on the inference of divergence with gene flow between two cryptic species of the marine model Ciona intestinalis. These morphologically indistinguishable entities are highly diverged molecular-wise, but evidence of hybridisation has been reported in both laboratory and field studies. We examined polymorphism and divergence patterns across 852 genes scattered throughout the C. intestinalis genome. We compared various speciation models and statistically tested for GWH under the ABC framework. Our results demonstrate the presence of significant extents of gene flow resulting from a recent secondary contact between the two gene pools, after more than 3My of divergence in isolation. The inferred rates of introgression are relatively low, highly variable across loci and mostly unidirectional, which is consistent with the idea that numerous genetic incompatibilities have accumulated over time throughout the genomes of these highly-diverged species and that introgression could be adaptive. A genomic map of the level of gene flow identified two islands of introgression, i.e. large genome regions of unidirectional introgression. This study clarifies the history and degree of isolation of two cryptic and partially sympatric model species, and provides a methodological framework for the study of GWH in introgression rates at various stages of the speciation process.
+
+Bernd Egger
+Zoological Institute
+Switzerland
+Divergence between lake and stream populations in an East African cichlid fish
+poster D20SY23PS1018
+
+Author(s): Egger, B, Theis, A, Ronco, F, Indermaur, A, Roesti, M, Berner, D, Salzburger, W
+
+Summary: 
+
+Integrative studies of species that occur along an environmental gradient provide important insights into ecological speciation and serve as prime examples for the presence of a speciation continuum. The cichlid species Astatotilapia burtoni occurs in lacustrine environment as well as in the surrounding rivers of Lake Tanganyika (LT), offering the possibility to study a lake-stream environmental gradient in a member of a large cichlid adaptive radiation in East Africa. We have established phylogeographic relationships and assessed the population structure in A. burtoni from the southern LT drainage using neutral nuclear (microsatellite) and mtDNA markers. We detect an unexpectedly high genetic diversity in A. burtoni, exceeding – at least in mtDNA – the diversity of the entire cichlid species flock of Lake Victoria, and a relatively complex phylogeographic pattern. Next, we have examined morphological differences among these populations by analyzing body shape. Based on these results, we focused on four lake-stream systems in detail. We here find that stream fish show a more inferior mouth, a more streamlined body, and shorter gill-rakers compared to lake fish, shifts presumably associated with differential foraging styles. Current work is now evaluating this hypothesis directly, and includes high-density SNP marker data generated by RADseq for population genomic analyses.
+
+Alan Brelsford
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Does “Coyne’s Rule” apply to amphibians? Introgression of sex-linked and autosomal markers across a tree frog hybrid zone
+poster D20SY23PS0734
+
+Author(s): Brelsford, A, Dufresnes, C, Perrin, N
+
+Summary: 
+
+The large role of sex chromosomes in reproductive barriers between recently diverged species is one of the best-supported ideas in speciation research, and has been termed “Coyne’s Rule”. Most of this support, however, comes from studies of organisms with well-differentiated sex chromosomes such as fruit flies, mammals, and birds. In contrast to these groups, many fish and nearly all amphibians have homomorphic sex chromosomes, which contain a small sex-determining region and very large pseudo-autosomal regions. To date, little evidence is available to test how this dramatic difference in sex chromosome structure affects the genetic architecture of reproductive barriers. We genotyped 8 sex-linked and 16 autosomal microsatellites in frogs sampled along two transects across the hybrid zone between Hyla arborea and Hyla orientalis, and estimated cline width and position in order to test for differential introgression. Our results show no significant difference between introgression of sex-linked and autosomal markers, suggesting that the large effect of sex chromosomes on speciation may be limited to species with old and highly divergent sex chromosomes.
+
+Rui Faria
+CIBIO, University of Porto
+Portugal
+Ecologically driven morphological and genetic divergence between sheltered and exposed populations of the marine snail Littorina fabalis
+poster D20SY23PS1247
+
+Author(s): Faria, R, Pereira, C, Sotelo, G, Galindo, J
+
+Summary: 
+
+It is well established that ecology plays a critical role in the process of population divergence and ultimately in speciation. Nonetheless, our understanding of how it occurs is still scarce. Characterized by abrupt changes in the environmental conditions over a narrow spatial scale, the marine intertidal is an ideal system to provide valuable insights into the field of ecological speciation. In our study, we focus on North Atlantic populations of the flat periwinkle Littorina fabalis to explore to what extent adaptation and genetic divergence are promoted by contrasting wave exposure intensities and other associated factors. We analysed shell morphology and performed a genomic scan based on AFLP loci to estimate divergence between sheltered and exposed populations of L. fabalis at both micro (<40 Km) and macro-geographic (>1000 Km) scales. With this nested sampling approach, we aim to quantify phenotypic differentiation and to identify loci under disruptive selection among L. fabalis populations subject to different selective pressures in a repetitive manner along the species range. Doing so, we hope to shed light on the genetic mechanisms of ecotype evolution and ecological speciation, ultimately contributing to discern how repeatable (parallel) is divergent evolution in L. fabalis.
+
+Eckart Stolle
+Institute of Biology of the Martin-Luther-University Halle-Wittenberg
+Department of Zoology
+Germany
+Efficient Benchtop Population Genomics and and highly pooled population genetic screening with RESTriction fragment SEQuencing (RESTseq)
+poster D20SY23PS1143
+
+Author(s): Stolle, E, Moritz, RFA
+
+Summary: 
+
+We developed a new and efficient method (RESTseq) to employ benchtop next generation sequencing for efficient population genomic and genetic studies. In contrast to existing methods like RAD or GBS, this improved approach is a valuable alternative for a cost efficient, highly flexible and repeatable enrichment of DNA fragments from digested genomic DNA. With our method the sample preparation is fully scalable making it available for any platform including small scale Personal Genome sequencers like Ion Torrent. Easy adjustments to this method provide a very conveniant opportunity for sequencing highly pooled samples for population genetic studies aiming at only small numbers of SNP markers. Thus it can be used for large scale (high numbers of markers or individuals) SNP genotyping in model and non-model organisms. We demonstrate the validity and reproducability of our approach by comparing two honeybee samples at genomic level with genotyping several thousand SNP markers as well as with a pooled sample of a non-model stingless bee aiming at less than 1000 SNPs per individual for a population genetic study.
+
+Patrik Nosil
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Experimental insights into the processes driving genome evolution
+talk D21SY23IT10:30R3
+
+Author(s): Nosil, P, Gompert, Z, Parchman, T, Buerkle, A, Comeault, A, Farkas, T, Feder, J
+
+Summary: 
+
+Understanding the processes driving patterns of genome variation is a major goal in biology. Although observational genome scans have usefully quantified heterogeneity in levels of genetic differentiation across the genome, it can be problematic to infer evolutionary process and causation from such genome scans alone because a particular pattern of genomic divergence could arise via various combinations of selection, recombination, drift, gene flow, mutation, and demographic history. In this regard, experiments have the potential to isolate the contributions of specific evolutionary processes to patterns of genome variation. In this talk, I describe the processes driving and constraining genome evolution in experimental populations of stick insects that were transplanted to novel host-plant and climatic environments in the wild. I contrast the experimental results with genome variation among long-established natural populations and discuss the collective empirical results in light of theory. The talk will illustrate how combined experimental and genomic approaches can move the field of genomics towards becoming a more predictive science.
+
+Virginia Settepani
+Bioscience, Aarhus University (Denmark)
+Genetic and Ecology
+Denmark
+Extremely low genetic diversity and population differentiation in a social inbreeding spider
+poster D20SY23PS0967
+
+Author(s): Settepani, V, Bechsgaard, J, Bilde, T
+
+Summary: 
+
+Mating systems strongly influence many aspects of species’ biology, among them the level and structure of genetic variation. Evolution of sociality in spiders is associated with a transition from outcrossing to inbreeding mating system. All known social spiders (~23 species) are relatively young species that recently evolved regular inbreeding. Social spiders live and mate in colonies of highly related individuals with, while their solitary sister species disperse before mating. In addition they show highly female biased sex ratio (~8:1), reproductive skew, and are characterized by strong meta-population dynamics. All these factors are predicted to affect their population genetic patterns towards low diversity and, depending on the strength of meta-population dynamics, high among-population variation due to reduced gene flow among populations. Stegodyphus sarasinorum is a social spider distributed across the Indian sub-continent and adjacent countries. Spiders were sampled over more than 3000 km from Sri Lanka in the south to Himalaya in the north with denser sampling in central India, and 17 coding loci were sequenced in all individuals. As predicted, the diversity was found to be very low, both at the population and the species level. Interestingly, at this level of sequencing no population differentiation could be identified, suggesting a strong homogenization of genetic variation over extremely large areas caused by meta-population dynamics.
+
+Katie Lotterhos
+University of British Columbia
+Department of Zoology
+Canada
+FST Outlier Tests vs. Environment-Allele Associations in genome scans for local adaptation: when do they tell the truth and what are we missing?
+poster D20SY23PS0016
+
+Author(s): Lotterhos, KE, Whitlock, MC
+
+Summary: 
+
+Next-generation technology has made it possible to obtain large amounts of genomic data. But how do we find locally-adapted genes from this mountain of data? One method is to look for outliers in the distribution of FST (FST outlier tests, FDIST (Beaumont and Nichols 1996) and BAYESCAN (Foll and Gaggiotti 2008)). Another method is to look at the correlation between allele frequencies and the putatively selective environment (environment-allele associations or EAAs, such as SAM (Joost et al. 2007) and BAYENV (Coop et al. 2010)). Using a large-scale landscape genetics simulator, we compared these two approaches for four common demographic histories with the same mean FST: island model, isolation-by-distance, expansion from one refuge, and expansion from two refugia with secondary contact. The latter two demographies were non-equilibrium scenarios. We found a widely used EAA called SAM doesn’t control for population structure and has an unacceptable rate of false positives. For the refugia scenarios, we found that FST outlier tests had more false positives, but BAYENV had few false positives. In contrast, for isolation-by-distance, we found that FST outlier tests resulted in few false positives, but BAYENV had many false positives. We explored the range of conditions over which FST Outlier Tests and EAAs could detect loci under selection, and we show that each method has different power depending on demographic history. We propose a decision process that can used to identify demographic histories that are likely to cause high error rates. We also suggest two approaches that can be used to more accurately account for demographic history in genome scans and EAAs.
+
+Laure Kaiser
+CNRS
+Lab. Evolution, Genomes and Speciation
+France
+From ecological specialization to cryptic speciation in the parasitic wasp Cotesia sesamiae
+poster D20SY23PS1450
+
+Author(s): Kaiser, L, Le Ru, BP, Kaoula, F, Obonoyo, J, Herniou, E, Janceck, S, Paillusson, C, Branca, A, Silvain, J, Dupas, S
+
+Summary: 
+
+Cotesia species (Hymenoptera, Braconidae) are endoparasitoids of Lepidoptera larvae. Their virulence is mediated by a polyDNA symbiotic virus (Bracoviridae) of which genome is integrated to the wasp chromosomes. In Cotesia sesamiae Cameron it has been shown that host pressure exerts positive selection on the virulence gene CrV1, and that the evolution of the bracovirus genome is associated to cases of host specialization (Gauthier et al., this meeting). Here we studied the species status of C. sesamiae host races. It attacks a wide range of stemborer larvae, including pests of maize and sorghum in sub-saharan Africa. Our study was based on a geographically and ecologically diverse sampling. A phylogenetic analysis conducted on seven-gene concatenated tree revealed two major clades. One has a diversified ecological niche and gathers host races associated with distinct CrV1 allelic variants, supporting the hypothesis that conserved gene flow between populations maintains their ability to shift between hosts. In contrary, the second clade is invariably associated with one host species, Sesamia nonagrioides, on one host plant, Typha domingiensis. It harbors a unique CrV1 allele, namely Cs Snona, not present in the first clade. Further investigations allowed us to give the status of a new species, labelled C. typhae, to this lineage. (i) Cross mating experiments revealed reproductive isolation from two populations of the other lineage, as well as from C. flavipes, a sister species of C. sesamiae; (ii) Experimental analysis of parasitic success showed that C. typhae was the only lineage virulent against S. nonagrioides. Hence, C. typhae constitutes a new species in the C. flavipes complex, potentially resulting from sympatric speciation. It is characterized by reliable ecological niche and molecular markers. It represents a potential biological control agent for southern Europe where S. nonagrioides is a major pest of maize crops.
+
+Paulina Bolivar Balbas
+Harvard University
+Department of Organismic and Evolutionary Biology
+United States
+Genetic changes underlying host plant resistance in Drosophila sechellia
+poster D20SY23PS1415
+
+Author(s): Bolivar Balbas, P, Matute, DR, Hartl, DL, Ayroles, JF
+
+Summary: 
+
+The genetic basis of adaptation is a major question in evolutionary biology. In particular, ecological specialization can result from rapid host shifts and strong selective forces. Although most Drosophila species are generalists, D. sechellia a species endemic to the Seychelles archipelago is one such specialist species. D. sechellia feeds and breed almost exclusively on Morinda citrifolia, and its fruit commonly known as noni. M. citrifolia produces several volatile compounds which are toxic for most arthropod species and all closely related Drosophila species. Nonetheless, D. sechellia has evolved resistance and host preferences that include stimulation of egg production, oviposition site preference and chemotaxis. To understand how this suite of host specialization traits evolved, it is important to dissect the underlying genetic basis of these phenotypes. QTL mapping is an important tool for the study of such complex traits. In order to detect and localize loci that influence resistance to M. Citrifolia, we use bulk segregant mapping approaches, based on backcrosses between D. sechellia and its sister species D. simulans (which is sensitive to Noni) and use by deep sequencing to identify QTL regions. We combine this approach with genome scans, based on light coverage sequencing of over 250 isofemale lines of D. Sechellia and D. Simulans derived from recent field collections in the Seychelles. This approach allows us to unravel the genetic characteristics that allow D. sechellia to contend with the toxic compounds that are otherwise lethal to close relatives.
+
+Kirsten Wolff
+Newcastle University
+Biology
+United Kingdom
+Genetic diversity and hybridisation in ancient lime trees (Tilia)
+poster D20SY23PS0504
+
+Author(s): Wolff, K, Phuekvilai, P, Logan, S
+
+Summary: 
+
+Hybridisation and introgression between species affect both speciation and adaptation, to varying degrees. Studies in, for example, oak and poplar have shown genomic regions that reveal high differentiation between species for regions with reproductive isolation genes and other regions with lower differentiation, containing adaptive genes. Tilia cordata (small leaved lime) and T. platyphyllos (large leaved lime) are endemic in Europe and they can hybridize (T. x europea). Although currently commercially not important, they play important roles in their ecosystems. A cooler climate and human impact has reduced sexual regeneration and the number of trees, especially in the north. However, genotypes can survive for many hundreds of years and individuals may therefore be ancient. Microsatellites markers confirm that the species are diploid with high diversity and a predominantly outbreeding mating system. It is unclear what the extent and direction of hybridisation and introgression are in the wild. There are some morphological differences, but in the absence of flowers it is often difficult to identify the species or the hybrid with certainty. Here we present preliminary studies investigating hybridisation in Tilia. The individuals clearly grouped by species, confirming their genetic differences. We found a significant number of hybrid individuals in some populations, confirming morphological classification in most cases. In subsequent studies we aim to use NGS technologies to understand better the genomics of speciation.
+
+Max Lundberg
+Lund University
+Department of Biology
+Sweden
+Genetics of migration - insights from a willow warbler migratory divide
+poster D20SY23PS0154
+
+Author(s): Lundberg, M, Liedvogel, M, Åkesson, S, Bensch, S
+
+Summary: 
+
+Every autumn young passerines migrate to wintering areas without the guidance of experienced adults. This is made possible by the expression of a genetic program encoding information on when, in which direction and how far to migrate. Although it has been established that migratory behaviour has a strong genetic basis, virtually nothing is known about the underlying genes. Knowledge of specific migration genes would allow for a much deeper mechanistic understanding of migration. In addition, comparing the genes in different migratory organisms would shed light on the evolution of these behavioural adaptations.
+
+Our research focuses on two subspecies of the willow warbler Phylloscopus trochilus in Northern Europe. The subspecies are morphologically and genetically extremely similar, but migrate to different wintering areas in Africa. In order to detect genetic variation associated with their different migratory strategies, we used next-generation sequencing of expressed genes in migrating and breeding individuals of both subspecies. The sequence data suggests that a very small proportion of coding genes differ between the subspecies and that these genes are clustered in two chromosome regions. Genetic variation within these chromosome regions is currently being investigated in a hybrid zone between the subspecies. Because of the segregation of genetic variation in hybrids, the chromosome regions are expected to be more independently associated with the different migratory strategies. This will enable us to determine whether these chromosome regions are linked to migration.
+
+Esa Aalto
+University of Oulu
+Biology
+Finland
+Genome wide association of high divergence, transmission ratio distortion and QTL for male fertility in hybrids between Arabidopsis lyrata subspecies
+poster D20SY23PS0948
+
+Author(s): Aalto, EA, Mattila, TM, Tyrmi, J, Savolainen, O
+
+Summary: 
+
+Crosses between evolutionarily diverged populations may result in sterile hybrids, which can eventually lead to speciation. In plants, early evolution of male sterility can be caused by incompatibilities between maternally and bi-parentally inherited genomes. Another phenomenon associated with high divergence of genomes is distorted transmission of gametes of F1 hybrids. Genome wide divergence data allow us to examine whether transmission ratio distortion and the regions affecting hybrid male fertility co-locate with islands of high divergence. We examined post pollination reproductive isolation between subspecies of the perennial outcrossing self-incompatible Lyrate rockcress (Arabidopsis lyrata) by crossing experiments between two highly diverged populations. We grew large reciprocal F2 progenies and three generations of backcrosses. F2 plants were genotyped for altogether 96 markers and the genomes of their parents were sequenced on Illumina platform. Transmission of most of the markers was distorted indicating incompatibilities between the diverged genomes. We observed cytoplasmic male sterility in almost one fourth of F2 and half of backcross hybrids in one of the reciprocal crosses. This asymmetrical hybrid incompatibility is due to sterility factors in one cytoplasm, for which the other population lacks effective fertility restorers. However, genotyping and genetic mapping revealed that only 60 % of the plants having the male sterile cytoplasm and lacking the corresponding restorers were phenotypically male sterile. We found that there is only one male fertility restorer locus that mapped to a 600 kb interval at the top of chromosome 2 in a region containing a cluster of pentatricopeptide repeat genes. At the same genomic region, there is also high sequence divergence between populations. We also compare genome wide transmission ratio distortion to divergence and discuss the role of cytoplasm and genomic conflict in incipient speciation.
+
+Philine Feulner
+Max Planck Institute for Evolutionary Biology
+Evolutionary Ecology
+Germany
+Genomic islands of divergence: a comparison of five parapatric lake-river population pairs of three-spined sticklebacks
+talk D21SY23RT15:12R3
+
+Author(s): Feulner, PGD, Chain, FJJ, Panchal, M, Huang, Y, Eizaguirre, C, Kalbe, M, Lenz, T, Samonte, I, Stoll, M, Bornberg-Bauer, E, Reusch, T, Milinski, M
+
+Summary: 
+
+Sticklebacks have recently colonized various freshwater habitats and have since undergone recurrent phenotypic divergence. Here, we sample five geographically distinct lake-river population pairs of the three-spined stickleback for investigating patterns of population divergence at varying stages of ecological speciation. Using 60 whole genome sequences (15x coverage each) we identify genomic islands of divergence between parapatric lake-river ecotypes. This allows us to evaluate the number, size and distribution of genomic islands of divergence between several population pairs and to assess the extent of population differentiation across our samples. We identify different genes and genomic regions potentially associated with ecological differentiation in the five lake-river comparisons. This suggests that divergence patterns between lakes and rivers can involve multiple molecular pathways. Interestingly, we find some associations between genomic structural variations and islands of divergence. This is based on our extensive set of structural variations including deletions, copy-number variations, inversions, and translocations. Combined with estimates of the recombination rates across the genomes, we provide insights into the relevance of the genomic architecture and the role of genomic islands during adaptive divergence.
+
+Kieran Samuk
+University of British Columbia
+Zoology
+Canada
+Genomic signatures of reproductive isolation in the white stickleback
+poster D20SY23PS0671
+
+Author(s): Samuk, K, Schluter, D
+
+Summary: 
+
+Knowledge of the genetic architecture of reproductive isolation is key to an integrated understanding of speciation. Species that diverged with gene flow (or exchange genes currently) allow for this architecture to be probed directly via gene flow mapping. This method is based on the observation that genomic regions involved in reproductive isolation resist migration (i.e. are more differentiated) more than other regions, which flow freely across species boundaries. Here, I explore the genetic architecture of reproductive isolation in a novel stickleback system: the white stickleback. White sticklebacks are sympatric morphs of the Atlantic marine threespine stickleback (“common” sticklebacks), found in Nova Scotia, Canada. Previous work has established that male white stickleback display brilliant white nuptial coloration, do not perform post-fertilization parental care and nest exclusively in filamentous algae. In spite of these differences, previous genetic data suggest that gene flow between white and common sticklebacks is likely ongoing. Here, we take advantage of this fact to probe the genetic architecture of reproductive isolation between white and common sticklebacks via gene flow mapping. Using the recently developed technique of Genotyping By Sequencing (GBS), we generated a SNP dataset containing thousands of markers. We used this to infer the demographic history and evolutionary relationship between white and common sticklebacks. We then performed genome-scans of population differentiation and signatures of natural selection in the two morphs, and identified regions likely involved in reproductive isolation and divergent adaptation between the two types. We compared the findings to other stickleback systems, and attempted to identify parallels between the two. Overall, our findings paint a complex picture of the interplay between adaptation and reproductive isolation in this novel system.
+
+Qixin He
+University of Michigan
+Ecology and Evolutionary Biology
+United States
+Genomic tests of whether chromosomal rearrangements facilitated local adaptation in Anopheles gambiae based on coalescent expectations
+talk D20SY23RT16:33R3
+
+Author(s): He, Q, Knowles, LL
+
+Summary: 
+
+As the primary malaria vector that is widely distributed in sub-Sahara, Anopheles gambiae s. str. utilizes many different microhabitats where human reside. Its fast adaptation is partly attributed to polymorphic inversions within or between populations in the species. Theory predicts that large paracentric inversions, which do not directly affect individual fitness, can facilitate local adaptation by suppressing recombination among co-adapted genes captured by inversions. Clines and associations between inversions and specific environmental factors are suggestive of causal relationships, but do not demonstrate that the inversions facilitated the local adaptation. Here, by comparing the time to coalescence of genomic regions within inversions and among collinear regions, we can estimate the age of inversions, selective strength acting on inversions in local populations, and how selection varies depending on the connectivity among populations. Genomic regions inside inversions where co-adapted genes can be identified as well. In this study, wild mosquito samples were collected from five populations in transitional ecozones between forest and savanna in Cameroon. Karyotypes for two major inversions, 2La and 2Rb, were determined molecularly and genome-wide SNPs were identified for each individual from barcoded Illumina sequencing. Genetic data, together with spatial information on the sampled individuals, are then analyzed with a coalescent modeling framework to test whether inversions contributed to genomic divergence among ecologically dissimilar populations under gene flow. The approach provides new insights into genomic profiles when population divergence (or speciation) is promoted by structural genomic variants.
+
+Jacquelin DeFaveri
+University of Helsinki
+Finland
+Heterogeneous genomic differentiation in marine threespine sticklebacks: adaptation along an environmental gradient
+poster D20SY23PS0577
+
+Author(s): DeFaveri, J, Shikano, T, Shimada, Y, Merilä, J
+
+Summary: 
+
+Recent years have seen a shift in the way we view population structuring in organisms living in marine environments. Once thought of as panmictic and genetically homogenous, marine populations are now realized to have the potential to be subdivided on a finer geographic scale than previously appreciated. Descriptions of variation at genes whose functional roles are associated with specific selection regimes can offer insight towards the scale and degree of adaptive divergence among marine populations, but until recently this approach has traditionally been limited to very few loci. In our research, we use a genome-wide set of 140 microsatellite markers that are within (or close to) genes that have exhibited transcriptional responses to specific environmental conditions, in order to explore the patterns of adaptive population divergence and heterogeneous genomic differentiation among marine threespine sticklebacks (Gasterosteus aculeatus) in Northern European seas. Using 20 of these markers and a much denser sampling scheme, we then further explored adaptive divergence within the environmentally heterogeneous Baltic Sea in relation to the steep salinity and thermal gradients. The results of our candidate genome-scans provide support for the emerging view that, in spite of the high degree of physical connectivity in marine environments, there is a great deal of adaptive divergence among marine populations that is not apparent when neutral loci are analyzed.
+
+Alexandre Blanckaert
+University of Vienna
+Department for Mathematics
+Austria
+How Dobzhansky-Muller Incompatibilities accumulate in presence of gene flow?
+talk D20SY23RT11:18R3
+
+Author(s): Blanckaert, A, Hermisson, J
+
+Summary: 
+
+Interest in speciation research has experienced a recent shift from the classical problem of “When does it happen?” to more process-oriented questions: “How does it happen?” This is of relevance, in particular, for parapatric speciation, where the build-up of pre- or postzygotic barriers to gene-flow is a gradual process. The standard mechanism for the evolution of postzygotic isolation is the accumulation of Dobzhansky-Muller incompatibilities (DMI). While this process is reasonably well understood for allopatric speciation, one can ask how it unfolds in the face of gene flow. In a recent paper, Bank et al. (2012) have studied the very first step of this process and described the conditions for a first two-locus DMI to appear and be maintained. Here, we extend this model to study more than one DMI. In particular, we are interested in the influence of the presence of a first DMI on the fate of a second one and in predictions about the genetic architecture of the growing barrier. Using a combination of analytical and numerical methods, we analyze a migration-selection model with unidirectional gene flow from a continent to an island. As expected, we generally find that the presence of a first DMI makes it easier for further DMI's to be stably maintained – once it is established. However, the picture is much more complex for the establishment process of the second DMI itself. Depending on linkage patterns and the strength of the incompatibilities, the presence of the first DMI may either facilitate the origination of a second one or impede it. We interpret our results in the light of recent ideas of “islands of speciation” or “genome hitch-hiking.”
+
+Vitor Sousa
+University of Bern
+Institute of Ecology and Evolution
+Switzerland
+Identifying loci under selection against gene flow in isolation with migration models
+talk D20SY23RT18:09R3
+
+Author(s): Sousa, VC, Carneiro, M, Ferrand, N, Hey, J
+
+Summary: 
+
+When divergence occurs in the presence of gene flow there can arise an interesting dynamic in which selection against gene flow, at sites associated with population specific adaptations or genetic incompatibilities, can cause net gene flow to vary across the genome. Loci linked to sites under selection may experience reduced gene flow and may experience genetic bottlenecks by the action of nearby selective sweeps. Data from histories such as these may be poorly fit by conventional neutral model approaches to demographic inference which treat all loci as equally subject to forces of genetic drift and gene flow. To allow for demographic inference in the face of such histories, as well as the identification of loci affected by selection, we developed an isolation with migration model that explicitly provides for variation among genomic regions in migration rates and/or rates of genetic drift. The method allows for loci to fall into any of multiple groups, each characterized by a different set of parameters, thus relaxing the assumption that all loci share the same demography. By grouping loci, the method can be applied to data with multiple loci and still have tractable dimensionality and statistical power. We studied the performance of the method using simulated data, and we applied the method to study the divergence of two subspecies of European rabbits (Oryctolagus cuniculus).
+
+Ángeles De-Cara
+INIA (Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria)
+Dept. Mejora Genética Animal
+Spain
+Inference of selection using extended haplotype homozygosity
+poster D20SY23PS0731
+
+Author(s): De-Cara, ÁR, Fernández, J, Austerlitz, F
+
+Summary: 
+
+The fast-growing amount of genome-wide polymorphism data available has led to considerable efforts for developing methods to detect the footprints of natural selection at the molecular level. Finding regions under selection is one of the first steps to understand the process of adaptation and speciation. Our ability to detect selection at the molecular level depends critically on the type of data available and on the robustness of the methods to the underlying assumptions. Outlier methods are commonly used to infer selection. However, it has been shown that these methods have failed in some cases to clearly identify loci under weak selection and some markers in neutral regions of the genome have given strong signals of divergence (false positives). We study here the efficiency on simulated data of a recent method which allows to infer selection, which was firstly developed for human populations. This method, named iHS, is based on the concept that the action of selection on a given nucleotide will create a region of extended homozygosity around this nucleotide. Our results show that this method seems to only work when selection is strong and on a single locus, and fails to identify positions under selection in cases where selection acts on a quantitative trait coded by several loci.
+
+Petri Kemppainen
+Faculty of Life Sciences
+United Kingdom
+Inferring the history of inversions using sequenced restriction-site associated DNA (RAD) data from natural populations of mosquitoes
+poster D20SY23PS0522
+
+Author(s): Kemppainen, PM, Walton, C, Kumar Sarma, D, Prakash, A, Hlaing, T, Nuang, Y, Samboon, P
+
+Summary: 
+
+Due to restricted recombination in heterokaryotypes, genomic regions close to inversions breakpoints constitute genomic islands where mutational differences can accumulate thereby facilitating adaptation in the face of gene flow. Anopheles baimaii is an abundant mosquito malaria vector in SE Asia, with cytological evidence for at least four segregating inversions throughout its distribution. To study the inversions, we analyzed pair-wise Linkage Disequilibrium (LD) data from 3197 sRAD loci from 147 wild-caught individuals using a novel approach based on social network analysis (SNA). Assuming some mutations have had time to accumulate on the inverted chromosome, loci close to its breakpoints are expected to show high LD when a population sample includes all karyotypes but not when karyotypes are analyzed separately. When only allowing relatively high LD values in SNAs, loci close to inversion breakpoints are expected to form tight clusters with high average numbers of edges (representing LD values above the cut off) per vertex (representing loci). Using this approach we extracted four LD clusters (LDCs) from the networks from which 33-15 loci each were analyzed further. For each LDC we used discriminate analysis of principal components to sort individuals into (two) putative homokaryotypes and a heterokaryotype. LD was non-significant when homokaryotypes were analysed separately and individual heterozygosity was over five times higher in the heterokaryotypes compared to homokaryotypes (for all LDCs), as expected if recombination is only restricted in heterokaryotypes. Geographical distributions of inferred karyotypes suggest selection as mechanism for maintaining polymorphism for two of the LDCs. Coalescent-based Bayesian ancestral reconstruction (BEAST) and isolation with migration (IMa2) analyses and suggest that all four of putative inversions have segregated in this species for a long time (100~200ky), potentially due to balancing selection.
+
+Jo Hermansen
+Faculty of Mathematics and Natural Sciences, University of Oslo
+Department of Biosciences
+Norway
+Is hybrid speciation driven by stochastic or deterministic processes?
+poster D20SY23PS1206
+
+Author(s): Hermansen, JS, Haas, F, Sætre, G
+
+Summary: 
+
+Natural hybridization may have a multitude of consequences for biological diversity. One possible outcome is hybrid speciation. Whether this mode of speciation is primarily driven by stochastic or deterministic processes remains an open question. Recently, it was shown that the Italian sparrow (Passer italiae) is a hybrid species formed by interbreeding between the house (P. domesticus) and Spanish sparrow (P. hispaniolensis). Today, the parent taxa occur sympatrically over large parts of their breeding range. This allows for a rare opportunity to recapitulate the processes that were involved in the formation of this hybrid species. Previous studies have shown that the Italian sparrow is fixed for house sparrow mitochondria while mito-nuclear incompatibilities appear to act as strong reproductive barriers against its other parent species, the Spanish sparrow. Further, sex-linked genes appear to be involved in reproductive barriers between the hybrid species and both parents. Studying a sympatric population of house and Spanish sparrows on the Iberian Peninsula, we recover a similar pattern. We find strong asymmetry in introgression patterns between the two parental species as well as asymmetry in introgression patterns among genomic regions. All but one of the 60 admixed individuals out of a total of 292 sampled birds had house sparrow mitochondria. Moreover, sex-linked markers in general, and those with known mitochondrial function in particular, introgressed at much lower rates into opposite mitochondrial-genetic background than did autosomal markers. These striking similarities in introgression patterns across parallel systems suggest that the formation of this hybrid species was driven by deterministic rather than by stochastic processes.
+
+Tobias Kaiser
+Max F Perutz Laboratories
+Austria
+The genomics of biological clocks: local adaptations in diurnal and lunar emergence time of the intertidal midge Clunio marinus (Chironomidae, Diptera)
+talk D20SY23RT18:57R3
+
+Author(s): Kaiser, TS, Nguyen, L, Neumann, T, Sedlazeck, F, Zrim, A, Von Haeseler, A, Tessmar-Raible, K
+
+Summary: 
+
+The marine midge Clunio marinus (Chironomidae, Diptera) is found in the rocky intertidal zone of the European Atlantic coast. Reproduction is timed to the tides by means of diurnal and lunar rhythms. As tidal regimes differ along the coast, populations of Clunio marinus display a variety of local genetic adaptations in diurnal and lunar timing. These adaptations offer unique opportunities to study the evolutionary forces that shape local adaptation in a one-dimensional habitat, the coastline.
+
+Population genomic analysis revealed that the timing adaptations evolved within the last 20,000 years. Clunio marinus is restricted to rocky coasts. Populations from distinct rocky coasts, which are separated by long sandy stretches (e.g. Spain and the English Channel), are geographically isolated. This facilitated the evolution of timing adaptations. However, within stretches of continuous rocky coast there is little genetic differentiation between populations and timing adaptations are likely kept up by permanent local selection on the decisive loci.
+
+Crossing experiments, linkage mapping and QTL analysis revealed that the timing adaptations are controlled by only three major effect loci, the effective genes within these loci still being unknown. Some of the QTLs are associated with large chromosomal re-arrangements and regions of suppressed recombination.
+
+After assembling the Clunio marinus genome, population samples of the strains used in QTL mapping were re-sequenced and screened for strain-specific SNPs, insertion-deletions, inversions and transposable element insertions. Genome wide, this identified >600,000 genetic polymorphisms, but less than 1,000 of these sites have strain-specific alleles. Less than 100 strain-specific variants are within the QTLs, pointing to the decisive genes within the genomic islands of adaptation. Currently, the resulting candidate genes are being tested for their functional role in the local timing adaptations.
+
+Ludwig Geroldinger
+University of Vienna
+Mathematics
+Austria
+The influence of the genetic architecture of a trait on local adaptation in a subdivided population
+talk D21SY23RT11:42R3
+
+Author(s): Geroldinger, L, Bürger, R
+
+Summary: 
+
+We investigate the consequences of spatially varying, stabilizing or directional selection on a quantitative trait in a subdivided population. The influence of the genetic architecture of the trait on local adaptation and on differentiation is explored by employing a deterministic two-locus, two-deme model. Our analysis demonstrates that the critical migration rate, below which local adaptation is possible, depends crucially on the genetic architecture of the trait. Under stabilizing selection, but with different optima in the demes, strong recombination may facilitate local adaptation by enhancing genetic variability. In contrast, with directional selection in opposite direction, local adaptation is maximized by a concentrated genetic architecture, i.e., by a major locus and a tightly linked minor one. Complementing the work of Yeaman and Whitlock (2011), who found that concentrated genetic architectures may evolve in subdivided populations under directional selection, we showed that such architectures considerably facilitate local adaptation and increased differentiation.
+
+Reto Burri
+Uppsala University
+Department of Evolutionary Biology
+Sweden
+The landscape(s) of genome divergence in Ficedula flycatchers
+talk D20SY23RT18:33R3
+
+Author(s): Burri, R, Smeds, L, Olason, PI, Backstrom, N, Kawakami, T, Kunstner, A, Makinen, H, Nadachowska-Brzyska, K, Qvarnström, A, Uebbing, S, Wolf, JBW, Saetre, G, Saether, SA, Hogner, S, Bures, S, Garamszegi, LZ, Moreno, J, Ruzic, M, Torok, J, Ellegren, H
+
+Summary: 
+
+Unravelling the landscapes of genome divergence between individuals, populations, and species is key to understand the genomic architecture of biological diversification, and the forces driving its evolution. In the present study we make use of the recently available flycatcher genome (Ellegren et al. 2012, Nature), to study the genomic divergence between the naturally hybridizing but reproductively isolated collared flycatcher (Ficedula albicollis) and pied flycatcher (F. hypoleuca). Population genomic analysis of each 10 genomes of both species reveal a highly heterogeneous landscape of genome divergence with about 50 ‘divergence islands’ that show ~50-fold higher differentiation than the genomic background. The non-randomly distributed divergence islands are characterized by reduced nucleotide diversity, skewed allele-frequency spectra, elevated linkage disequilibrium and reduced proportions of shared polymorphisms in both species, indicating parallel episodes of selection. The high incidence of divergence islands with genomic regions resistant to sequence assembly, potentially including centromeres and telomeres, indicate that complex repeat structures may drive species divergence. In order to identify the molecular and evolutionary forces driving the evolution of divergence islands in Ficedula flycatchers, these insights are complemented with recent results from population genomic analyses of an additional 200 flycatcher genomes from multiple populations and species.
+
+Luisa Orsini
+University of Leuven
+Laboratory of Aquatic Ecology, Evolution and Conservation
+Belgium
+The role of selection in driving landscape genomic structure of the waterflea Daphnia magna
+poster D20SY23PS0020
+
+Author(s): Orsini, L, Megeay, J, Spanier, KI, Vanoverbeke, J, DeMeester, L
+
+Summary: 
+
+Evolutionary changes are determined by a complex assortment of ecological, demographic and adaptive histories. Predicting how evolution will shape the genetic structures of populations has principally relied on investigations through space, in lieu of time, because long-term phenotypic and molecular data are scarce. Yet, dormant propagules in sediments, soils and permafrost are convenient natural archives of population-histories from which to trace adaptive trajectories along extended time periods. The water flea Daphnia is a renowned ecological model system that produces subfossil dormant egg banks. Capitalizing on this system we identify selective and demographic processes driving present-day population genetic structure by analyzing dormant eggs in space and time. We provide solid evidence of differential selection at the genome level under well-characterized environmental gradients in populations distributed at regional scale and identify candidate genes linked to three environmental stressors. We validate these spatial patterns in "time" on populations hatched from sediment cores with known history for the same three stressors and in experimental evolution trials. Building on these results, we study how the complex mosaic of biotic and abiotic variables naturally occurring in the landscape, in addition to the already studied gradients, contributes to driving neutral and adaptive genomic variation. We infer past and recent demographic processes by contrasting patterns of local and regional neutral genetic diversity at markers with different mutation rates. We observe that selection plays a major role in determining the population genomic structure of D. magna. Environmental selection directly impacts genetic variation at loci hitchhiking with genes under selection. Priority effects enhanced by local genetic adaptation (cf. monopolization) affect neutral genetic variation by reducing gene flow among populations and genetic diversity within populations.
+
+Nicholas Barton
+IST Austria
+Austria
+What can we learn by sampling genomes across clines?
+talk D20SY23IT14:00R3
+
+Author(s): Barton, NH
+
+Summary: 
+
+Allele frequency clines reflect selection, whilst linkage disequilibria reflect patterns of gene flow and introgression. However, such patterns are noisy, because of sampling drift, patchy habitat, and the history of the cline; this makes it difficult to detect selection and gene flow by scanning across the genome. I review the inferences that can be made from genomic patterns of Fst, cline width, cline concordance, and introgression.
+
+Christen Bossu
+Uppsala Universitet, Uppsala, Sweden
+Ecology and Genetics
+Sweden
+Islands of genomic divergence across the hooded and carrion crow hybrid zone: linking genes and ‘magic traits’
+talk D20SY23RT14:48R3
+
+Author(s): Bossu, CM, Baglione, V, Grabherr, M, Kruszewicz, A, Lantz, H, Müller, I, Poelstra, J, Vijay, N, Wikelski, M, Wolf, J
+
+Summary: 
+
+A comprehensive understanding of the speciation process at a genomic level requires investigation at different stages in the evolutionary continuum from onset to completion and hybrid zones provide such opportunities. The European crow hybrid zone between the all black carrion crow (Corvus [c.] corone) and grey coated hooded crow (C. [c.] cornix) is a classic example of early stage speciation characterized by a lack of neutral genetic divergence, limited evidence of postzygotic reproductive isolation, and the rapid divergence of distinct plumage characteristics that mediate strong assortative mating. Here we took a population genomic approach to characterize genomic divergence between color morphs to identify genes with major effect on speciation and potential ”magic traits” involved in the earliest stages of divergence. Initial analyses of 66 re-sequenced genomes reveal a heterogeneous landscape of genome divergence with 4 narrow regions of the genome that show significant differentiation between the grey hooded crow populations from Sweden and Poland with respect to black carrion crow populations from Germany and Spain. These regions are potentially associated with structural variants (i.e. a pericentric inversion on chromosome 18), as well as differentially expressed candidate genes within the melanogenic pathway. However, fixed differences detected in these genomic regions in contrast to no divergence of the coding sequence of MC1R or intron regions linked to primary candidate genes points to potential cis-regulatory elements driving the initial divergence of expression profiles and plumage characteristics. Comparison of outlier regions with both a white coated and all black outgroup species (C. torquatus & C. brachyrhynchos, respectively) will determine whether the divergence is the result of standing genetic variation or derived mutations.
+
+Tanja Pyhäjärvi
+University of Oulu
+Department of Biology
+Finland
+Local adaptation, inversions and non-genic variation in teosinte
+talk D21SY23RT14:00R3
+
+Author(s): Pyhäjärvi, T, Hufford, MB, Mezmouk, S, Ross-Ibarra, J
+
+Summary: 
+
+Populations of widely distributed plant species have to adapt to local environmental conditions. Locally adapted plant populations are often observed, but the genetic basis of adaptation is rarely known. We used high-density genotype data and a wide set of environmental variables to identify adaptive genetic variation in teosinte, a wild relative of maize. Overall, population structure in teosinte was strong and was affected by altitude, dispersal events and admixture between subspecies. Patterns of linkage disequilibrium revealed four megabase-scale inversions that were polymorphic in teosinte populations. Inversions segregated in clinal patterns, were associated with environmental variation and were extremely differentiated among subspecies and populations. In addition, we found that non-genic variation plays a role in local adaptation of teosinte. These results suggest that large structural rearrangements and variation outside coding regions can be important for adaptation, especially in large plant genomes in which the gene space constitutes a small fraction of the entire genome.
+
+Christelle Fraisse
+Institute of Evolutionary Sciences
+Department of Genomics
+France
+Mosaic genomes in time and space revealed by large-scale targeted sequencing in Mytilus mussels
+talk D20SY23RT16:57R3
+
+Author(s): Fraisse, C, Welch, J, Belkhir, K, Bierne, N
+
+Summary: 
+
+Marine species with high rates of dispersal have often had complex histories of fragmentation and colonization. These can subtly modify the genomic barriers to gene flow between hybridizing populations, leading to mosaic patterns of genetic divergence. The Mytilus complex of marine mussels exemplifies these processes, as it includes populations with a wide range of divergences, and has a world-wide distribution, which has led to multiple independent contacts between the same species pairs in different ecological contexts. To understand patterns of genomic divergence in Mytilus, we conducted a large-scale targeted genomic capture experiment, investigating fine-scale variation in genetic diversity. Our target genomic regions included islands of divergence and valleys of introgression identified from Fst scans and BAC sequencing, as well as randomly chosen controls. Each region was sequenced in twelve genetic backgrounds from three Mytilus species, distributed throughout the northern hemisphere. By studying variation in gene genealogies, our results illustrate how genome mosaicism varies in time and space. We also compare nuclear coding genes of known function (including immunity, cyto-nuclear interactions and nucleoporins) to randomly chosen control genes.
+
+Nicola Nadeau
+University of Cambridge
+Department of Zoology
+United Kingdom
+Patterns of genomic divergence across parallel hybrid zones of mimetic Heliconius butterflies
+talk D20SY23RT16:09R3
+
+Author(s): Nadeau, NJ, Ruiz, M, Salazar, P, Counterman, B, Jiggins, C, Papa, R
+
+Summary: 
+
+The butterflies Heliconius erato and Heliconius melpomene are well known for their amazing mimetic similarities in colour pattern. These colour patterns vary across their geographic distribution with parallel hybrid zones in both species found between adjacent colour pattern races. Here we use RAD sequencing to investigate patterns of genome-wide divergence across two such hybrid zones of both species, in Peru and Ecuador. These data are successfully used to map loci controlling colour pattern differences between races and confirm previous findings that largely the same loci are responsible for colour pattern differences in the two mimetic species. In addition, these loci are among a handful of divergence outliers identified in the genomes, supporting the assertion that strong selection acting on colour pattern is one of the primary forces maintaining these hybrid zones. In spite of the striking parallels at the genomic level between species we do also find some previously unidentified differences. We also compare different techniques for analysis of this type of data, which we envisage being ever more widely used for the analysis of adaptive divergence in wild populations.
+
+Anne-Laure Ferchaud
+Aarhus University
+department of Bioscience
+Denmark
+Population genomics of adaptive divergence in three-spine stickleback using sequenced RAD tags
+poster D20SY23PS0491
+
+Author(s): Ferchaud, A, Hansen, MM
+
+Summary: 
+
+Local selective pressures exerted by environmental heterogeneity across the geographic range of species could act to maximize individual fitness within specific environments (local adaptation). Stickleback (Gasterosteus aculateus) inhabits a diversity of environments throughout the northern Hemisphere, ranging from relative stable marine environments and large lakes to small ponds, the latter of which are expected to represent stressful environments, particularly during hot summers. Here, we test the hypothesis that populations are locally adapted to their environment by analyzing footprints of selection along with possibly differences in morphological traits. We conduct a genome scan of nucleotide diversity and differentiation in natural Danish and Greenlandic populations of three-spine stickleback. We used Illumina-sequenced RAD tags to identify and type over several thousands of single nucleotide polymorphisms (SNPs) in each of 20 individuals per populations (marine versus freshwater populations). We specifically hypothesize that genes showing footprints of selection have functions that are of ecological importance in the specific environments. Hence, in shallow ponds experiencing warm summer temperatures, we would expect to see footprints of selection at genes related to thermal tolerance, such as heat-shock protein coding genes. We also expect to see footprints of selection at candidate genes for lateral plates in comparisons between freshwater and marine sticklebacks. In order to detect possible selection at the phenotypic level, we conduct morphological analyses of all sticklebacks subject to RAD sequencing. Finally, we estimate the divergence time between the freshwater populations and the marine ancestral populations, using neutral genetic variation to estimate the rates at which the adaptive responses have occurred.
+
+Bonnie Fraser
+Max Planck Institute for Developmental Biology
+Molecular Biology
+Germany
+Population genomics of parallel evolution in the Trinidadian guppy (Poecilia reticulata)
+talk D21SY23RT14:24R3
+
+Author(s): Fraser, BA, Dreyer, C, Weigel, D
+
+Summary: 
+
+Often the clearest evidence we have of natural selection is when populations or species independently adapt to a similar environment in a similar way. Despite its importance, however, we often do not know the genetic architecture of such evolution. The guppy (Poecilia reticulata) offers an exciting opportunity to study parallel evolution. In northern Trinidad guppies below waterfalls co-exists with many predators, while guppies above waterfalls experience low predation. Guppies in separate rivers often evolve similarly to predation pressure independently, e.g. more colouration, larger size at maturity, and less shoaling in low predation localities. Furthermore, the guppy, offers another advantage because their natural history facilitates experimental studies in nature. Researchers have established experimental populations, by transplanting fish from high predation populations, to areas without guppies or predators. The evolution at the phenotypic level has been well documented in these populations, where guppies adapt to their new environment in four years or less. I am using a population genomics approach to identify selected alleles in high and low predation population pairs and experimentally established populations. I genotyped approximately 20 individuals each from 14 populations using a RAD-Seq approach. The reads were sequenced on an Illumina HiSeq 2000, 100 bp single end. A total of 967 million reads were generated. The reads were then filtered for sequence quality, sorted for unique barcode, and mapped to a preliminary draft of the guppy genome. A signature of selection is detected when SNPs are more diverged at specific loci then what would be expected by neutrality. Parallel evolution is detected when outliers occur in the same region in multiple pairwise comparisons. This study will be the first to examine the genetics underpinning local adaptation in this evolutionary model system.
+
+Matthieu Delcourt
+IBEST, University of Idaho
+Department of Biological Sciences
+United States
+Quantifying the neutral expectations of genomic patterns of divergence
+talk D21SY23RT11:18R3
+
+Author(s): Delcourt, M, Hohenlohe, PA
+
+Summary: 
+
+With decreasing costs of sequencing, we see a tremendous accumulation of genomic data from natural populations and non-model organisms in particular. However, a rigorous understanding of the processes that determine the evolution of genomic islands of divergence is still incomplete. Moreover, we lack well-defined neutral expectations of genome-wide differentiation, making it hard to distinguish neutral patterns from true signatures of selection. To help theory keep up with the rapid accumulation of data, we use coalescent simulation modeling of neutral divergence with gene flow to fully characterize genome-wide distributions of Fst. Mean, variance and skew of Fst across the genome depend strongly on migration and mutation rates. In addition, autocorrelation in divergence along the genome resulting from physical linkage can lead to neutral patterns that strongly resemble genomic islands. These findings challenge our interpretations of genomic variation in the context of ecological divergence. A more comprehensive baseline of neutral expectations will help determine which statistics describing genomic patterns have the most power to distinguish genomic islands of divergence resulting from selection as opposed to neutral processes.
+
+Isa Matos
+Faculdade de Ciências, Uni. Lisboa
+CBA
+Portugal
+Quantitative transcriptome patterns in the allopolyploid S. alburnoides complex
+poster D20SY23PS1134
+
+Author(s): Matos, I, Machado, MMP, Schartl, M, Coelho, M
+
+Summary: 
+
+Squalius alburnoides is an allopolyploid fish complex characterized by a constant switch of genome compositions and ploidy level changes in consecutive generations. This promotes recurring situations of potential genomic shock that S. alburnoides successfully overcomes. Previously, in a study involving only few genes, it was seen that the transcription levels in diploid and triploid S. alburnoides were similar. In this work we assessed if this described compensation mechanism that reduces the transcript levels of some genes to the diploid state, occurs globaly in the transcriptome of this natural occurring allotriploids. Also, we want to determine if there is a genome specific dominance or a similar allelic contribution to the overall expression in these hybrids. We did ‘‘RNA-seq Illumina sequencing to perform a first comparative full transcriptomic analysis of the most frequent S. alburnoides complex forms (PA; PAA; AA and PP). For the first time, high-throughput gene expression levels between diploid and triploid forms of a hybrid vertebrate organism were determined and compared. Also, polymorphisms between genomes (P and A) were identified and the allele specific gene expression (ASGE) was estimated in the hybrids. The results indicate that there is a clear leaning towards positive nonaditive gene regulation following interspecific hybridization, and a global tendency to negative nonadditive expression in the triploid hybrid. Concerning ASGE, results show that there is no massive preferential allele/genome specific gene copy silencing but there is a bias towards increased amount of P allele expression. We also explored in silico a possible interaction of miRNA’s known to be up regulated in triploid S. alburnoides with identified genes with negative non additive expression in the same genomic composition. The results did not reveal a relevant involvement of miRNAs in the decay of specific mRNAs.
+
+Pascaline Dumas
+Université Montpellier II
+UMR DGIMI
+France
+Questioning the status of the two FAW (Spodoptera frugiperda, Noctuidae) host races using integrative approaches
+poster D20SY23PS0357
+
+Author(s): Dumas, P, Kergoat, GJ, Clamens, A, Gimenez, S, D'Alençon, E
+
+Summary: 
+
+The fall armyworm (FAW) Spodoptera frugiperda (Lepidoptera, Noctuidae) is a polyphagous pest responsible for serious damages on several crops in the Americas and Caribbean regions. The FAW is constituted of two strains that share the same distribution, one adapted to rice and one adapted to corn. Because adaptation to host plants is considered as a potential driver for ecological speciation, the FAW constitutes a classical model to study sympatric speciation. The two variants differ by their mating behavior, pheromone compositions, and present development variability according to the host plant. These evidences of reproductive isolation between the two strains suggest that the two variants may constitute two different species. However species status of S. frugiperda is still highly discussed because hybrids naturally occur in the wild and because of the controversial results concerning mating success between the two strains. Here, we present a combination of molecular and laboratory experiments performed in the aim of assessing the level of genetic differentiation between the two S. frugiperda strains. Species delimitation analyses based on coalescent approaches show that a wide sample of individuals from the two corn and rice strains, collected in natural populations, are segregated in two distinct putative species clusters. In addition, using microsatellites markers, and F2 inter- laboratory strains crosses of S. frugiperda, we found a high ratio (six out of 12) of markers departing from mendelian segregation, whereas only one microsatellite was distorted in intraspecific crosses. These two complementary approaches support a rather high level of genetic differentiation between the two strains. We will present preliminary analysis of genomic regions surrounding distorted markers (The FAW consortium, pers. comm.) which suggest putative involvement of candidate genes in inter-strain incompatibilities.
+
+Sonia Pascoal
+University of St Andrews
+School of Biology
+United Kingdom
+Rapid evolution in the wild: unravelling the genetic basis of a wing mutation in field crickets
+poster D20SY23PS0415
+
+Author(s): Pascoal, S, Cezard, T, Eik-Nes, A, Gharbi, K, Majewska, J, Payne, E, Ritchie, MG, Zuk, M, Bailey, NW
+
+Summary: 
+
+The field cricket Teleogryllus oceanicus is a textbook example of rapid evolution in the wild, but little is known about the genetics of this intriguing system. In Hawaii, a mutant variety of silent male crickets has recently arisen and spread in several populations, apparently in response to pressure from an acoustically-orienting parasitoid. The mutation, flatwing, first appeared on the island of Kauai in 2003, but it has since appeared on the neighbouring island of Oahu. It segregates as a sex-linked, sex-limited Mendelian trait in both populations, and it feminizes male wings by erasing the specialized sound-producing structures of a normal wing. The degree of feminization, however, varies between islands. Does this represent convergent evolution, or has gene flow introduced the mutation(s) into a different genomic background, resulting in different phenotypic manifestations? To pinpoint where the mutation or mutations reside within the genome, and to help answer this question, we applied Bulked Segregant Analysis (BSA) using RAD-seq in two different populations with distinct flatwing phenotypes and abundances: Kauai (>95% of males are flatwing, with heavily feminized wings), and Oahu (ca. 50% of males are flatwing, with less strongly feminized wings). We have identified the first group of candidate SNP markers associated with the flatwing phenotypes in each population. Using these, we tested different evolutionary hypotheses that could explain why there is a difference in mutant wing morphology between the two populations. The results provide insight into how convergent phenotypes arise and evolve in real-time, in the wild.
+
+Jeffrey Feder
+University of Notre Dame
+Dept. Biological Sciences
+United States
+Rapid genomic divergence across the speciation continuum
+talk D20SY23IT10:30R3
+
+Author(s): Feder, JL
+
+Summary: 
+
+A new genomic theory for population divergence is presented predicting rapid speciation-with-gene-flow when a critical threshold of divergently selected loci is reached. The theory is explored as a possible explanation for recent findings from several model speciation systems implying that extensive genetic differentiation may characterize even early stages of ecological divergence. In particular, patterns of genomic divergence among Rhagoletis fruit flies - a model for ecological speciation-with-gene flow via sympatric host plant shifting - are examined as a test for the theory. If true, the theory provides a means to account for how gradual adaptive change, as epitomized by Darwin, can be reconciled with observations of sudden bursts of speciation, as occur during adaptive radiations, without the need to invoke macroevolutionary processes.
+
+Vaclav Janousek
+Faculty of Science, Charles University in Prague
+Department of Zoology
+Czech Republic
+Rate of molecular evolution for genes in regions with limited gene flow across the house mouse hybrid zone
+poster D20SY23PS1221
+
+Author(s): Janousek, V, Wang, L, Luzynski, K, Dufková, P, Mrkvicová-Vyskocilová, M, Nachman, MW, Munclinger, P, Macholán, M, Piálek, J, Tucker, PK
+
+Summary: 
+
+Two (sub)species of house mouse (Mus mus musculus/M. m. domesticus) form a hybrid zone across Europe maintained by dispersal of individuals and selection against hybrids. Multiple regions on the X chromosome and autosomes have been previously shown to have reduced introgression across the hybrid zone. In this study we explore rate of molecular evolution inferred from rate of nonsynonymous and synonymous substitutions (dN/dS) in these regions to identify fast evolving genes as possible candidates involved in reproductive isolation. The nonsynonymous and synonymous substitutions were retrieved from a comparison of the reference mouse genome, mouse strains representing M. m. musculus (PWK/Ph) and M. m. domesticus (WSB/Ei) (sub)species and rat. Based on dN/dS ratios we have identifieda suite of candidate reproductive isolating genes.
+
+Hugo Tavares
+John Innes Centre
+Cell and Developmental Biology
+United Kingdom
+Selection on flower colour in a hybrid zone reveals interwoven patterns of genomic divergence at a linked cluster of loci
+talk D20SY23RT15:45R3
+
+Author(s): Tavares, H, Bradley, D, Boell, L, Copsey, L, Couchman, M, Elleouet, J, Field, D, Rebocho, X, Yongbiao, X, Barton, N, Coen, E
+
+Summary: 
+
+To understand how selection establishes reproductive barriers between populations, we need to identify the loci regulating the selected traits. Knowing that, how are sets of co-adapted alleles maintained when gene-flow occurs between distinct populations? One view is that genetic linkage maintains fit haplotypes, resulting in a genomic signature of selection as an “island of divergence”. To address these issues we study a hybrid zone between two Antirrhinum species with different flower colours. Various phenotypes result from this hybridization, but are restricted to a narrow region (~1km) and do not spread to the parental populations. A gene regulating magenta flower pigmentation, ROS, was found to have a steep cline correlated with a flower colour cline, suggesting this trait is under selection. A second tightly-linked locus also regulating this trait, EL, has now been mapped. A genomic comparison of diversity between the Antirrhinum species shows a signature of selection in the region containing both loci (ca. 180kb~0.9cM). Surprisingly, this “island of divergence” includes non-shared and shared polymorphisms, questioning how the parental ROS-EL haplotypes are maintained in face of gene-flow. By genotyping plants across the hybrid zone we show that even though LD between them is high (r~0.9), recombinants do occur (~12% in the zone). This suggests that gene-flow between the two populations was enough to break fixed differences within the “island”, resulting in a rugged divergence profile that includes fixed polymorphisms (linked to the functional loci) interspersed with shared ones. To our knowledge this is one of a few cases where a cluster of loci under selection has been finely mapped and its behaviour studied at a population-level. This analysis empirically demonstrates the significant impact gene-flow has in breaking associations of clusters of putatively co-adapted alleles, providing key insights to our interpretation of genomic signatures of selection.
+
+Magnus Jacobsen
+Aarhus University
+Bioscience
+Denmark
+Speciation history of the Atlantic eels
+poster D20SY23PS1242
+
+Author(s): Jacobsen, MW, Pujolar, JM, Frydenberg, J, Mayar, JM, Gilbert, MP, Bernatchez, L, Als, TD, Hansen, MM
+
+Summary: 
+
+Allopatric speciation has generally been considered the most prominent process for the evolution of new species. Although evidence for sympatric speciation has increased recently it is still controversial to what degree it occurs in nature. Hence, it is generally accepted that allopatric speciation should be the null hypothesis against which sympatric speciation is tested. Marine environments often have no obvious geographic barriers, which makes sympatric speciation a likely scenario. However, only few marine organisms have the characteristics that make them good candidates for testing mode of speciation. The European and American eel (Anguilla anguilla and A. rostrata) are panmictic species that spawn in the Sargasso Sea. Their spawning area and time overlap considerably. Hybrids are rarely observed, indicating reproductive barriers. In this study we conduct whole mitochondrial genome and RAD sequencing to investigate the speciation history of the two Atlantic species of eel. Using coalescence based analyses we estimate divergence time to test the hypothesis that speciation occurred long time ago in sympatry. As a result of continental drift the distance between the spawning grounds increased, causing selection on e.g. duration of the larval phase. The alternative hypothesis concerns speciation in allopatry during the Pleistocene. Glaciations significantly decreased the amount of available habitats in coastal regions and freshwater bodies. Hence, population size is likely to have undergone a severe decrease. The smaller population sizes of European and American populations would result in reduced overlap of spawning area leading to reproductive isolation. The impact of the last glaciation on effective population size is assessed by conducting Bayesian skyline plots based on the mtDNA. Finally, patterns of genome-wide selection between the two species are analyzed using RAD sequence data in order to detect genes and genomic regions involved in speciation.
+
+Eric Pante
+University of La Rochelle
+LIENSs Laboratory
+France
+Strong selection on mitochondria-targeting proteins across secondary contact zones in Macoma balthica
+poster D20SY23PS0622
+
+Author(s): Pante, EG, Becquet, V, Rohfritsch, A, Garcia, P
+
+Summary: 
+
+Little is known on the genes and gene interactions involved in inter-population genetic divergence in the context of secondary contact. The marine bivalve Macoma balthica has a complex biogeographic history in the NE Atlantic, punctuated by multiple events of trans-arctic invasions and the establishment of secondary contact zones. We used transcriptome-wide DNA sequence data to explore patterns of divergence and selection across divergent M. balthica populations, with emphasis on genes involved in mitochondrial processes. Analysis of non-synonymous to synonymous mutation (dN/dS) ratios revealed that up to 5% and 45% of the 752 tested genes were under positive and negative selection (respectively), with genes involved in mitochondrial energy production detected in both categories. Over 87% of genes coding for mitochondrial-targeting proteins were under negative selection. We evaluated potential adaptive protein evolution of the ATP synthase gamma subunit, because strong population differentiation was detected for this gene. A sliding window analysis of dN/dS revealed that this gene, while under strong negative selection overall (dN/dS = 0.08), showed strong positive selection (dN/dS > 2) along a 46-residue fragment (15% of the sequence). This area contains peptide-binding sites that may interact with the epsilon subunit (F1) and the mitochondrial-encoded F0 portion of the ATP synthase F0/F1 complex. Gene ontology terms associated with the mitochondrial machinery and multiple binding activities (including ATP binding) are enriched across populations, many of these terms being also enriched across divergent populations of the copepod Tigriopus californicus, a recognized model for the study of early stages of speciation in which mito-nuclear incompabilities were detected. There is therefore accumulating evidence suggesting that mitochondrial-targeting proteins and their interactions play a role in maintaining population divergence in M. balthica.
+
+Song Ge
+Chinese Academy of Sciences
+Institute of Botany
+China
+Sympatric speciation in two wild rice species: insights from genome-wide SNPs and expression patterns
+poster D20SY23PS0588
+
+Author(s): Ge, S
+
+Summary: 
+
+The genetic basis of speciation and adaptation is a fundamental question in evolutionary biology and remains largely unknown. Two wild rice species (Oryza nivara and O. rufipogon) are sympatric but distinct morphologically and ecologically. Thus they are typically incipient species and provide a unique opportunity to study ecological speciation at the genome scale. Here we investigate genome-wide variation responsible for speciation between the two species using next-generation sequencing technology. First, we obtained 5.3 million SNPs based on the re-sequencing data with an average 2-10x coverage for 11 individuals from each of the two species. We located and characterized 126 genomic regions or islands that are significantly differentiated between the two species. These speciation islands located across all 12 rice chromosomes, encompassed 30.5 M (7.98%) of the genome and contained 2308 predicted genes. These candidate speciation genes involve mainly transcription factors, regulation of gene expression, flower development, pollination, and reproduction. Second, we used RNA-seq to measure gene expression in three different tissues of the two species. We obtained 15390, 18938, and 19311 expressed genes for flag leaves, booting panicle, and flowering panicle, respectively. Of them, 3.1-5.4% of expressed genes have divergent expression (DE) between the two species, with the number of under-expressed genes being slightly more than that of over-expressed genes in O. nivara for all three tissues. The GO annotations indicated that the DE genes involved the pollination, reproduction, growth and development, response to stress, secondary metabolic process, etc. These results demonstrate that both coding sequence variation and regulatory changes contribute to adaptive differentiation of species. This study provides new insights into the genetic mechanisms underlying the differentiation and adaption of two wild rice species and plant speciation in general.
+
+Kohta Yoshida
+National Institute of Genetics
+Center for Frontier Research
+Japan
+Testing the link between heterochromatin evolution and speciation in sticklebacks
+poster D20SY23PS1370
+
+Author(s): Yoshida, K, Makino, T, Yamaguchi, K, Shigenobu, S, Hasebe, M, Mori, S, Peichel, K, Kawata, M, Toyoda, A, Fujiyama, A, Kitano, J
+
+Summary: 
+
+Genes that cause hybrid incompatibility between closely related species have not yet been identified in natural vertebrates. Stickleback fishes are a great model for identifying speciation genes, because there are multiple sympatric species pairs (i.e., pairs of incipient species that are sympatric, but are reproductively isolated). Our previous studies identified several QTLs of isolating barriers, including hybrid male sterility, between two sympatric incipient species of Japanese threespine stickleback fishes. Theoretical study suggests that heterochromatin-binding proteins can rapidly evolve in selfish manner and may affect the genetic incompatibility. Indeed, causal genes of hybrid male sterility in Drosophila and mice are rapidly evolving genes involved in heterochromatin regulation. To test the link between heterochromatin evolution and speciation in natural vertebrate systems, we determined the whole genome sequences of these two stickleback species and analyzed the sequence differences in the QTL regions in order to identify candidate speciation genes. Within the QTL regions of hybrid male sterility, we found two chromatin-binding domain containing genes with high Ka/Ks rate. Currently, we are analyzing the function of these genes in vitro using protein-protein interaction assays and in vivo using the transgenic sticklebacks.
+
+Simon Aeschbacher
+University of Vienna
+Department of Mathematics
+Austria
+The effect of linkage on sojourn times and patterns of genomic divergence
+poster D20SY23PS0426
+
+Author(s): Aeschbacher, S, Buerger, R
+
+Summary: 
+
+The combination of spatially heterogeneous selection and gene flow can lead to clustering of adaptive mutations and concentrated genetic architectures. This might contribute to observed genome-wide variation in differentiation between populations or species, sometimes reflected in 'islands of divergence'. A mechanistic explanation is that tight linkage to previously established mutations reduces the effective migration rate experienced by novel mutations, which increases their potential of establishment. Deterministic and stochastic studies of invasion properties suggest that this benefit of linkage is constrained to a small genomic neighborhood. Other mechanisms such as so-called 'genomic hitch-hiking' or translocations might be needed to explain observed patterns. However, we argue that invasion properties alone yield an incomplete picture. With one-way migration and genetic drift, invasion of adaptive mutations is ephemeral. Therefore, it is essential to study the time a beneficial mutation spends in the population before loss. This sojourn time limits the potential for a further mutation to occur and profit from linkage. Using diffusion theory, we show that even under the strong assumption of quasi-linkage equilibrium, the presence of a previously established adaptive mutation may considerably elevate the sojourn time of a weakly beneficial mutation. Depending on the rate at which beneficial mutations occur, even loose linkage might therefore enhance their chance of invasion. In view of empirical studies, accurate estimates of both migration and recombination rates are necessary to judge if patterns of divergence and concentrated architectures can be explained by direct benefits of linkage to previously established polymorphisms.
+
+Philipp Schlüter
+University of Zurich
+Institute of Systematic Botany
+Switzerland
+The genetic architecture of divergent pollinator attraction in sexually deceptive orchids
+poster D20SY23PS1030
+
+Author(s): Schlüter, PM, Sedeek, KEM, Qi, W, Xu, S, Schiestl, FP
+
+Summary: 
+
+Sexually deceptive orchids offer a fascinating system for studying ecological speciation, where species divergence is driven by adaptations to different specific pollinators. Here, differences in floral odour bouquets are largely responsible for pollinator-mediated reproductive isolation. Using comparative RNA-Seq analysis in combination with ecological and molecular approaches, we investigate the genetic architecture and molecular mechanisms that underlie traits relevant for specific pollinator attraction. Comparisons of sequence polymorphisms and expression levels allow us to pinpoint genes likely under selection that directly contribute to divergent phenotypes associated with differences in plant fitness. Likewise, we can now address the question of how interactions among genes can constrain of facilitate the divergence of lineages.
+
+Andreas Kautt
+University of Konstanz
+Department of Biology
+Germany
+The genomic landscape of speciation in the repeated adaptive radiations of Nicaraguan crater lake cichlid fishes
+talk D20SY23RT11:42R3
+
+Author(s): Kautt, AF, Machado-Schiaffino, G, Meyer, A
+
+Summary: 
+
+Understanding the factors that drive and constrain populations to build up reproductive barriers and diverge is a key objective in evolutionary biology. Based on the framework of ecological speciation, next-generation-sequencing tools allow researchers today to investigate the dynamics of divergent selection and gene flow at a genomic level. Although this endeavor has been very fruitful for our understanding of speciation, no generalities have emerged so far and more empirical data from different taxonomic groups and ecological settings are needed. One of the main questions, for example, concerns the importance of the temporal succession of restricted genomic islands of divergence (divergence hitchhiking) versus a genome-wide progression of divergence (genome hitchhiking). Having colonized several isolated crater lakes from the same source population, Midas cichlid fishes (Amphilophus cf. citrinellus) in Nicaragua have diverged into convergent ecotypes recently, repeatedly, and in sympatry; features that make this an interesting setting for studying the genomics of ecological speciation. Furthermore, the partly repeated and probably still ongoing radiations are at different stages of divergence, which makes this system one of the rare cases to investigate the temporal succession of this process. Here we investigate genomic divergence in the entire Midas cichlid species complex using double-digest restriction-site-associated-DNA sequencing (ddRAD-seq). With 700 individuals our data set covers the whole currently known diversity of the species complex and allows for a multitude of meaningful population genomic comparisons. By mapping the thousands of generated RAD loci on a preliminary Midas cichlid genome assembly, we are able to address questions concerning the genomic landscape of repeated but differently progressed speciation events and provide candidate regions that might harbor the genetic basis of adaptation and speciation in the Midas species cichlid complex.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

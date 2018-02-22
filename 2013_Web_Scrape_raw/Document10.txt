@@ -1,0 +1,436 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY10: Genomics and experimental evolution
+ Abstracts list Schedule Description
+View only talks or posters
+Magdalena Czajkowska
+Institute of Biology, University of Bialystok
+Department of Invertebrate Zoology
+Poland
+A novel functional polymorphism in the Fatty Acid Desaturase 2 gene (FADS2): possible role in basal metabolic rate
+poster D21SY10PS0511
+
+Author(s): Czajkowska, M, Swislocka, M, Duda, N, Dobrzyn, P, Brzek, P, Konarzewski, M, Ratkiewicz, M
+
+Summary: 
+
+As membrane components, polyunsaturated fatty acids (PUFAs) play an important role in cellular processes and have been shown to be associated with basal metabolic rate (BMR). While the link between BMR and membrane lipid composition is clear on an interspecific level, the underlying mechanism linking them on an intraspecific level is not well understood. Probably one reason for this is that variation of a physiological trait like BMR is much narrower within a species than between organisms from two different species, and in turn the mechanisms explaining any observed variation could be subtler. In this circumstance, a much stronger methodology for studying BMR should be found in artificial selection experiments which manipulate the frequencies of genes directly related to the trait under study. Here we describe a new polymorphism in the fatty acid desaturase (Fads2) gene for ?-6 desaturase (D6D), a key enzyme for PUFA synthesis, in 120 males from two genetic lines of outbred Swiss Webster laboratory mice (Mus musculus) selectively bred for 32 generations (F32) towards low and high BMR. For controlling the force of genetic drift, we also used 78 mice of generation 22 (F22). For the same reason, we analyzed 36 mice from three unselected lines of mice maintained in a separate, concurrent selection experiment in generation 16 (F16). The aim of this study was to verify a possible association between Fads2 genotypes and BMR. We found significant correlation between Fads2 variants and BMR within selected, as well as unselected lines of mice. We also used a FST outlier test to asses the effect of selection on the variation between L-BMR and H-BMR lines of mice at the Fads2 gene, using the Fads2 gene, together with data from the 11 microsatellite loci. Taken together, these results suggest that Fads2 is expected to become a major focus of membrane, metabolic rate and human metabolic syndrome research.
+
+Frederic Hospital
+INRA
+Génétique Animale et Biologie Intégrative
+France
+Detection of traces of selection with numerous SNP in small experimental populations undergoing directional selection
+poster D21SY10PS0681
+
+Author(s): Hospital, F, Bed’Hom, B, Gautier, M, Silveri, L, Bruneau, N, Coville, J, Gourichon, D, Pinard-van der Laan, M
+
+Summary: 
+
+Three lines of chickens (L1, L2, L3) have been selected for 12 generations for three different immune response traits. A fourth line (L4) was a contemporary random bred Control (Minozzi et al. 2008). Each generation, 200 chicks per line were hatched in a single batch. Selection for each trait was done by mass selection based on individual phenotype. Individuals from the three selected lines and the control line at generation G9, as well as individuals from the founding population (G0) were sampled (20 individuals/line) and genotyped with a 60K SNP chip. We present the use of this dataset to detect traces of selection in the three selected Chicken lines. An original method was designed to detect traces of selection by comparing the SNP allele frequencies between generations G0 and G9 for each line. The method was able to pinpoint a dwarfing gene known to have undergone strong selection hence, serving as a validation. In addition it highlights numerous SNPs that seem to behave non-neutrally, providing candidate regions for future search for selected genes. While classical approaches generally focus on traces of ‘historical’ (long term) selection, this work demonstrates that it is possible to detect short-term selection in experimental population using SNPs.
+
+Minozzi, G, et al., BMC GENETICS, 9:5, 2008.
+
+Alessia Guggisberg
+ETH Zurich
+Institute of Integrative Biology
+Switzerland
+Edaphic adaptation in the 'omics' era: a genomic view of the calcicole-calcifuge problem
+poster D21SY10PS0752
+
+Author(s): Guggisberg, A, Fischer, MC, Zoller, S, Widmer, A
+
+Summary: 
+
+Since almost 200 years, plant ecologists are debating about the causal factors underlying the striking floristic differences observed between plant communities occupying calcareous versus siliceous substrates. Indeed, it remains unclear which chemical (e.g. aluminium and bicarbonate toxicity, nitrate or phosphate depletion) or physical factors (e.g. water or temperature stress) actually drive edaphic adaptation in natural plant populations, advocating for comparative genomic studies on calcicole-calcifuge vicariants, i.e. sister taxa that grow on either soil type. We herewith propose to fill this knowledge gap, by deciphering the genetic basis of local adaptation in two diploid species of Arabidopsis (A. lyrata and A. arenosa, Brassicaceae) that grow on both calcareous and siliceous bedrocks. Using whole-genome re-sequencing of pooled DNA libraries (totalling 240 individuals per species), along with outlier analyses based on allele frequency divergence, we have identified a hundred loci that are enriched for genes acting at the cell periphery in response to ion homeostasis and trans-membrane transporter activity. Among them, a dozen contain up to 130 outlier SNPs, and constitute excellent candidates for functional validation. Overall, our results suggest that chemical soil composition is the main cause of ecological differentiation in these species. Our work further highlights the potential of Arabidopsis as a new model system in experimental studies on edaphic adaptation in plants.
+
+Elina Immonen
+Uppsala University
+Evolutionary Biology Centre
+Sweden
+Effects of experimental mating system variation on transcriptome evolution and mating response in female Drosophila pseudoobscura
+talk D21SY10RT16:33R5
+
+Author(s): Immonen, E, Snook, RR, Ritchie, MG
+
+Summary: 
+
+Interactions between the sexes are believed to be a potent source of selection on sex-specific evolution, but the way in which sexual interactions influence females at the molecular level is poorly understood. We examined the effects of 100 generations of elevated polyandry and enforced monandry on gene expression evolution in female Drosophila pseudoobscura. We assessed differences in gene expression between females from the two selection regimes and how the expression response to mating depended on female sexual selection history, indirect genetic effects (IGEs) due to the genotype of the male and female-by-male genotype interactions. Our data show large-scale gene expression divergence between the experimentally evolved females, with selection mainly targeting female-biased genes expressed in the ovaries. Most of the expression differences were un-affected by mating, however we also observed substantial differences in the expression response to mating between the experimental females. The indirect genetic effects of the male selection history on the female gene expression response were surprisingly small. Our results provide critical experimental evidence for a role of female-specific selection arising from polyandry in promoting rapid evolution of the female transcriptome.
+
+Karan Singh
+INDIAN INSTITUTE OF SCIENCE EDUCATION AND RESEARCH MOHALI
+Department of Biology
+India
+Evolution of sperm competitive ability as a correlated response to selection on environmental stress resistance
+poster D21SY10PS0773
+
+Author(s): Singh, K, Prasad, NG
+
+Summary: 
+
+Sperm competitive ability in Drosophila melanogaster is a crucial component of male fitness. Few empirical studies have focused on the effects of environment on evolution of sperm competition. We evolved laboratory population of Drosophila melanogaster to resist cold shock. After 11 generation of selection we found that the selected population eggs had higher hatchability post cold shock. Interestingly, following a cold shock, males from the selected populations were able to induce previously mated females to mate again. They also sired more progeny indicating better ability of sperm competition. There results indicate that sperm competition can evolve rapidly under adaptation to environmental stresses.
+
+Brian Hollis
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Evolution under monogamy feminizes gene expression
+talk D21SY10RT16:57R5
+
+Author(s): Hollis, B, Kawecki, TJ, Keller, L, Yan, Z, Houle, D
+
+Summary: 
+
+Many genes have evolved sexually dimorphic expression as a consequence of divergent selection in males and females. However, the degree to which evolution can shape gene expression independently in each sex is controversial. It is possible to directly test whether genetic constraints have prevented sex-specific optima from being obtained by enforcing a monogamous mating system, which eliminates both female choice and male-male competition. This relaxed selection on males should result in evolution towards female-specific optima for any genes previously under antagonistic selection in males. Here we demonstrate broad constraints on the evolution of sexually dimorphic gene expression by maintaining populations of Drosophila melanogaster for 65 generations under strict monogamy. Compared to polygamous controls, monogamous populations evolved lower expression of male-biased transcripts and higher expression of female-biased transcripts. This pattern of feminization was present in both sexes, evident throughout the genome and across tissue types, and strongest for genes located on the X chromosome, a known hotspot for sexually antagonistic genetic variation. The breadth of the evolutionary response to monogamy indicates that sexually antagonistic selection is ubiquitous in the genome and likely to play a major role in maintaining genetic variation, driving the evolution of sex chromosomes, and reducing population-level fitness.
+
+Monika Trienens
+University of Groningen
+Centre for Ecological and Evolutionary Studies (CEES)
+Netherlands
+Experimental evolution and transcriptional plasticity in an insect-fungus interaction
+poster D21SY10PS0157
+
+Author(s): Trienens, M, Wertheim, B
+
+Summary: 
+
+Organisms rarely occur solitary; viewed in this light, interaction is forced upon them. The fruit fly Drosophila melanogaster, frequently used as a model organism in evolutionary studies, makes use of rotting fruits as breeding sites. Concurrently, filamentous fungi utilise rotting organic material to obtain their nutritional substances. One trait of many fungi is the production of toxic secondary metabolites. It is hypothesised that these toxins hold a function as a chemical defence against other microbes, e.g. antibiotics like Penicillin, but furthermore features also a defence against larger organisms like insects. Drosophila larvae are constrained in leaving a food patch, due to the risk of desiccation, and have evolved other traits to cope with noxious fungi and their toxins on infested substrates. In an experimental-evolution approach, we mimic the infestation of Drosophila habitats by the filamentous fungus Aspergillus nidulans. A wild-type and a toxin-production-impaired mutant strain, as well as the mycotoxin Sterigmatocystin are used as selection pressures. After multiple confrontations, over 25 generations, we will analyse changes in the transcriptional response of the fly larvae using RNAseq. Additionally, changes in the immune respons and in phenotypic traits will be recorded. Currently, we are analysing the transcriptional plasticity of the fly larvae by disentangling the response towards the fungus and the mycotoxin. For this purpose we have confronted fly larvae with the 3 treatments (WT, mutant, toxin) that are used in the selection experiment. Over a time series, samples were taken and sequenced through NGS. We will compare this, yet unknown, larval response to the transcriptional response after experimental evolution of increased tolerance and/or resistance against the noxious fungus. Here we will present our current results on the dynamics of the interaction between Drosophila larvae and the toxin-producing fungus A. nidulans.
+
+Joachim Kurtz
+University of Muenster
+Institute for Evolution and Biodiversity
+Germany
+Experimental evolution and transcriptomics of Tribolium castaneum infections with Bacillus thuringiensis
+poster D21SY10PS0718
+
+Author(s): Kurtz, J, Behrens, S, Peuß, R, Milutinovic, B, Eggert, H, Bornberg-Bauer, E, Esser, D, Rosenstiel, P
+
+Summary: 
+
+Experimental evolution of hosts and parasites can help to elucidate the genomic basis of fast evolutionary processes. We are therefore using experimental coevolution in the red flour beetle Tribolium castaneum and its microparasite Bacillus thuringiensis to address evolving genetic specificity, while experimental selection on the hosts' immune system addresses the evolution of immunological specificity. We use two different infection routes, the oral route of infection, and infection through septic prick injury, which brings the bacterium into direct contact with the host’s immune system. Through RNA sequencing we characterised the genomic responses of the host to these two infection routes. We found astonishingly distinct transcriptomic responses for oral versus septic infection. To test for genetic differences between host populations we compared the transcriptomic responses to infection between a commonly used laboratory strain and a newly collected, genetically diverse field population. Not only is the latter population more resistant upon oral infection, but we also found that a much higher number of genes were differentially expressed after oral infection. Studying the transcriptomes of the evolved hosts will thus shed further light on the genomic basis of host-parasite coevolution.
+
+Mario Fares
+CSIC
+Abiotic Stress
+Spain
+Experimental evolution of Escherichia coli under inefficient selection reveals the evolutionary trajectories of symbiotic bacteria
+talk D21SY10RT11:42R5
+
+Author(s): Fares, MA, Toft, C, Ruiz-González, MX, Alvarez-Ponce, D
+
+Summary: 
+
+Many bacteria that establish mutualistic associations with insects are transmitted from mother to offspring under a vertical regime. This transmission mode imposes strong bottlenecks on the effective population sizes of bacteria, resulting in a high genetic drift effect and, consequently, increased genetic variability among populations and decreased polymorphism within populations. Inactivation and degradation of genes that are unnecessary in an intracellular environment is a common symptom of symbiotic lifestyle. Two main questions remain unanswered with regards to the evolution of these bacteria: (a) how do essential genes for symbiosis counteract the effect of mutations fixed under inefficient selection in the genome? And (b) what mechanisms increase the mutational robustness of symbiotic genes? Here we have conducted an evolution experiment using the bacterium Escherichia coli to simulate the mutation dynamics under inefficient natural selection occurring in symbiotic bacteria. Evolution of E. coli for more than 5000 generations reveals the network of interactions between mutations, the set of useful, although not essential, genes for symbiosis and the role of GroEL in mutational robustness. Our results unveil a more complex scenario for the evolution of symbiosis than anticipated by previous studies.
+
+Nagaraj Prasad
+Indian Institute of Science Education and Research Mohali
+Department of Biological Sciences
+India
+Experimental evolution of female traits under different levels of inter sexual conflict
+poster D21SY10PS0450
+
+Author(s): Prasad, NG, Nandy, B
+
+Summary: 
+
+A number of studies have documented the evolution of female resistance to mate harm in response to the alteration of intersexual conflict in the populations. However, the life-history consequence of such evolution is still a subject of debate. In the present study, we subjected replicate populations of Drosophila melanogaster to different levels of sexual conflict (generated by altering the operational sex ratio) for over 45 generations. Our results suggest that females from populations experiencing higher level of intersexual conflict evolved increased resistance to mate harm, in terms of both longevity and progeny production. These females were also found to have increased locomotor activity, a possible correlated response to the selection on males in that regime. Females from the populations with low conflict were significantly heavier at eclosion and were more susceptible to mate harm in terms of progeny production under continuous exposure to the males. However, these females produced more progeny upon single mating and had significantly higher longevity in absence of any male exposure – a potential evidence of trade-offs between resistance-related traits and other life-history traits, such as fecundity and longevity. We also report tentative evidence, suggesting an increased male cost of interacting with more resistant females.
+
+Ray Tobler
+Institute of Population Genetics Vienna
+Austria
+Experimental thermal evolution in D. melanogaster reveals temperature dependent population genomic signal of adaptation
+poster D21SY10PS0098
+
+Author(s): Tobler, RE, Orozco-terWengel, P, Nolte, V, Hermisson, J, Schlötterer, C
+
+Summary: 
+
+How adaptation effects segregating variation at the population genomic level in sexually reproducing diploids remains a poorly understood yet fundamental biological question. However, recent advances in sequencing technology in combination with experimental evolution have promised to reveal the temporal patterns of genomic adaptation down to individual SNP resolution. Here I discuss results from 15 generations of experimental evolution in replicated populations of D. melanogaster maintained in two separate thermal environments, which mimic either heat and cold stress. When taking the top candidate SNPs from each base-evolved population comparison, we find an enrichment of hot candidate SNPs in genes associated with heat tolerance, and likewise for cold candidate SNPs in cold tolerance genes, but not vice versa. Furthermore, we find that the rising allele (i.e. that most likely to be under selection) tends to start at either low or intermediate frequencies in the hot and cold treatments, respectively. Hence, it appears that thermal selection is involved in driving changes between the two treatments and is deferentially dependent on the starting allele frequency. The possible causes behind these intriguing patterns are discussed with respect to our emerging understanding of thermal adaption in D. melanogaster.
+
+Alexander Kotrschal
+University of Uppsala
+Animal Ecology
+Sweden
+From artificial selection to transcriptomics: The cognitive benefits of, and the gene responsible for, a large brain in fish
+poster D21SY10PS0584
+
+Author(s): Kotrschal, A, Harrison, PW, Mank, J, Kolm, N
+
+Summary: 
+
+The evolutionary causes and consequences of the enormous phenotypic variation in brain size among vertebrates remain enigmatic. Positive selection for increased cognitive abilities is a likely driver of brain size evolution, but the genetic bases of vertebrate brain size variation is largely unexplored. An experiment linking brain size, cognition and gene expression differences is therefore lacking. We used artificial selection for large and small brain size relative to body size in the guppy (Poecilia reticulata) to experimentally investigate the link between brain size, cognitive ability, and its genetic background. We found that brain size evolved rapidly in response to divergent selection, and that large-brained females outperformed small-brained females in a numerical learning assay designed to test cognitive ability. Whole transcriptome sequencing (RNA-Seq) of the brain of large- and small-brained fish revealed a dramatic expression difference in a single gene, Angiopoietin-1, which is an endothelial growth factor highly conserved among vertebrates and known to promote both neural proliferation and neural differentiation. We therefore show that a large brain size indeed confers cognitive benefits and nominate Angiopoeitin-1 as the candidate gene mediating the evolution of brain size and cognitive ability in vertebrates.
+
+Björn Rogell
+Uppsala University
+Animal Ecology
+Sweden
+Genetic basis of ageing evolution under differential extrinsic mortality in a nematode
+talk D21SY10RT16:09R5
+
+Author(s): Rogell, B, Chen, H, Maklakov, A
+
+Summary: 
+
+Ageing is inevitable in most living organisms but how ageing evolves is unclear. Because of extrinsic mortality due to a variety of biotic and abiotic factors, the strength of selection declines with age. This “selection shadow” may result in the accumulation of detrimental mutations with late-life expression or fixation of antagonistically pleiotropic mutations that increase fitness in early-life at the expense of fitness in late-life. Classic theory has thus predicted that if mortality is high, the evolutionary contribution of old individuals will be low and that this will lead to evolution of accelerated ageing and decreased longevity. However, if mortality is non-random, condition-dependent selection is likely to yield individuals with strong resistance to typical causes of mortality. Emerging theory thus suggests that condition-dependence may alter, and even reverse, the classic pattern. We have previously employed an experimental evolution design, using a nematode worm Caenorhabditis remanei, that allowed us to disentangle the effects of mortality rate (high vs low) and mortality source (random vs heat-shock) on the evolution of longevity. We observed the evolution of reduced longevity under high random mortality, confirming the classic prediction. In contrast, high condition-dependent mortality led to the evolution of increased longevity and lower late-life mortality rates, supporting a key role for mortality source in the evolution of ageing. In the present project, we examine which genes underlie the evolution of lifespan by quantifying divergences in gene expression across our selection lines. Using RNA sequencing, we quantified the differentially expressed genes in young and old nematodes from the four selection regimes. The results will be discussed.
+
+Elisabeth Herniou
+CNRS
+Institut de Recherche sur la Biologie de l'Insecte
+France
+Genomic adaptation to different hosts - What makes better-adapted viruses?
+talk D21SY10RT18:57R5
+
+Author(s): Herniou, EA, Chateigner, A, Pontleve, C, Jiolle, D, Hebert, A, Labrousse, C, Bezier, A
+
+Summary: 
+
+The interplay between ecological and genomic adaptation is at the heart of evolutionary processes. If we consider that species evolve as groups of genomes adapting to particular ecological niches, shifts to a new ecological niche should be connected with the adaptation and differentiation of a genome population to this particular niche. To study how ecological adaptation affects genomes simultaneously at both ecological and whole genome levels, we focussed on large DNA viruses because their ecological niches are mostly defined by their hosts. Among viruses, baculoviruses are uniquely transmitted between insect hosts as groups of genomes, which sets them further apart for studying the effect of niches on populations. We investigated this question of ecological genomic adaptation by an experimental evolution approach on a baculovirus. As their infectious particles contain >100 virions each enclosing a genome of 134 kb, baculoviruses foster the maintenance of high genetic diversity, as we discovered from ultra-deep illumina sequencing of the AcMNPV wild-type isolate. We found different level of polymorphism: few SNPs at high frequency located in essential genes involved in replication, transcription and transmission, and low frequency SNPs in every position, suggesting any potentially beneficial mutation is already present within the population. We used this diverse virus population to perform experimental evolution in two lepidopteran host species Trichoplusia ni and Spodoptera exigua. We performed 10 infection cycles in 10 replicate lines. We analysed the evolution of virulence phenotypes in parallel to resequencing the evolved progeny lines.
+
+Kirsten Jalvingh
+University of Groningen
+Centre for Ecological and Evolutionary Studies
+Netherlands
+Genomic changes under rapid evolution: selection for parasitoid resistance
+talk D21SY10RT14:48R5
+
+Author(s): Jalvingh, KM, Chang, PL, Wertheim, B, Nuzhdin, SV
+
+Summary: 
+
+Most studies of selection in experimental populations so far have focused on long term selection pressures of relatively small effect. In this study we use the parasitoid Asobara tabida as a strong, fast and ecologically relevant selection pressure on four replicate selection lines derived from an outbred, natural population of Drosophila melanogaster. Parasitoids are insects whose larvae feed on a host in order to complete development and in this process kill the host. In the Drosophila genus the ability to successfully induce an immune response to encapsulate and melanize a parasitoid egg, is present in the melanogaster subgroup, where D. melanogaster shows a high level of variation in immune defense.
+
+By combining artificial selection and whole genome HT-sequencing we identified several genomic regions carrying a signature of selection. In these selected regions we selected candidate genes associated with one or more significant SNPs, which potentially confer increased resistance against parasitoid attack. We propose that a 600kb region on chromosome 2R is a region of major effect on parasitoid defense, as it is highly enriched in highly significant SNPs.
+
+The power of our approach is that we use replicated artificial selection experiments and a natural selective agent on an outbred D. melanogaster strain. This enables us to show very narrow genomic ranges that have been affected by selection, even under such a fast and strong selective regime. In addition to providing a much more detailed insight in how rapid evolution impacts the genome, it has also given us specific hypothesis on the genes and genomic regions that confer higher defenses against parasitoids.
+
+Thomas Flatt
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Genomic patterns of experimental evolution of Drosophila lifespan
+talk D21SY10IT14:00R5
+
+Author(s): Flatt, T
+
+Summary: 
+
+The genomic basis of molecular polymorphisms that underlie adaptive phenotypic differentiation remains poorly understood. A potentially very powerful approach towards resolving this fundamental problem is to combine experimental evolution with next generation sequencing (NGS). In the last two to three years, a handful of studies have begun to combine experimental evolution in Drosophila with NGS in order to uncover the genomic basis of phenotypic differentiation due to laboratory selection. In the first part of my talk, I will briefly review these recent efforts and highlight interesting aspects of their methods and results. In the second part of my talk, I will focus on the genomic basis of artificial selection for increased lifespan and late-life fertility in Drosophila. The first artificial selection experiments on Drosophila lifespan were carried out about 30 years ago by Michael Rose and Brian Charlesworth and, independently, by Leo Luckinbill and Robert Arking and collaborators. In 2011, Remolina et al. have performed the first analysis of genome-wide changes in response to 50 generations of artificial selection for increased lifespan in Drosophila. In their experiment, the authors identified many interesting longevity candidate genes that are associated with oogenesis, immunity, and proteolysis. I will compare their novel findings to our preliminary analysis of the genomes of the Luckinbill/Arking lines, which by now have undergone approximately 150 generations of laboratory selection for postponed senescence. I will address the key question of whether our study turns up the same candidates and pathways as found by Remolina and colleagues, or whether most candidates do not overlap, maybe because there exist many different genetic ways to evolve the same life history phenotype.
+
+Sarah Otto
+University of British Columbia
+Department of Zoology
+Canada
+Genomic scope of adaptive mutations to different environments
+talk D21SY10RT17:45R5
+
+Author(s): Otto, S, Gerstein, A
+
+Summary: 
+
+A panel of adaptive mutations was obtained by exposing Saccharomyces cerevisiae strains to harsh environmental conditions. The genomic scope of mutations allowing adaptation to these conditions was then determined by sequencing 35 different adapted lines from each of two environments. This panel was then used to measures trade-offs in different environments, as well as properties such as dominance across environments. The implications for Haldane's sieve and the role of ploidy in adaptation will be discussed.
+
+Camille Clerissi
+INRA
+Laboratory of Plant-Microbes interactions
+France
+Genomics of adaptation during experimental evolution of legume symbionts
+poster D21SY10PS1439
+
+Author(s): Clerissi, C, Capela, D, Remigi, P, Torchet, R, Cruveiller, S, Rocha, E, Masson-Boivin, C
+
+Summary: 
+
+Exchange of genetic material plays a major role in bacterium evolution. Among the best illustrations are nitrogen-fixing legume symbionts that evolved and spread in many unrelated phylogenetic branches through lateral transfer of essential symbiotic genes. The full phenotypic expression of the acquired traits may require readjustment of the new genetic background. However mechanisms allowing post-LGT adaptation are largely unknown. To address this question, we took advantage of the experimental evolution of a pathogenic Ralstonia solanacearum chimera carrying the symbiotic plasmid of the rhizobium Cupriavidus taiwanensis into legume symbionts (1). The chimeric Ralstonia was progressively adapted to nodule tissues by 9 parallel lineages of serial ex planta-in planta passages. Evolution was very fast, since the two first major symbiotic steps, nodulation and intracellular infection, have been acquired in less than 16 cycles (1,2). Genome resequencing revealed an overabundance of mutations in our evolution experiment. A total of ca. 500 point-mutations were detected in the 9 final clones as compared to the original ancestor. We will present a first analysis of the genomic changes that came along with the adaptation process, i. e. mutation spectra, evolution of the number and nature of mutations and molecular convergences between lineages at the gene, operon and pathways levels.
+
+Rees Kassen
+University of Ottawa
+Department of Biology
+Canada
+Genomics of adaptation in evolving microbial populations
+talk D21SY10IT10:30R5
+
+Author(s): Kassen, R
+
+Summary: 
+
+The search for the genetic changes responsible for adaptive evolution has been, at least since Mendel, the ‘holy grail’ of adaptation research. With the introduction of cost-effective next generation sequencing (NGS) technology over the past few years the grail is finally within reach. Combining NGS with experimental evolution of microbial populations is particularly promising in this regard as it provides a glimpse into the natural history of evolving genomes under at least one fairly well defined set of parameters: large population sizes, asexual reproduction, and (usually) haploid genomes. I will review the results of studies that have come from combining NGS with experimental evolution for what they tell us about the genomics of adaptation at the genomic level. In many respects the results are reassuring: the bulk of adaptive changes occur in open reading frames and are non-synonymous, for example. But NGS has also provided some surprises: synonymous mutations that are clearly adaptive, for example, and mutations in genes that, at first glance at least, are hard to interpret in an adaptive light. Making sense of the full spectrum of results will require some careful rethinking in terms of experimental design and genomic sampling.
+
+Susanne Franssen
+Vetmeduni Vienna
+Institut für Populationsgenetik
+Austria
+High resolution linkage analysis during experimental evolution experiments
+poster D21SY10PS0182
+
+Author(s): Franssen, SU, Kofler, R, Schlötterer, C
+
+Summary: 
+
+Experimental evolution in combination with whole genome resequencing is a promising approach to investigate evolutionary responses to direct selective treatments or novel environments. In particular D. melanogaster has been used as a model for a sexually reproducing diploid organism. Using Pool-Seq to identify putative targets of selection, all studies identified a vast number of putatively selected loci. Hence, it appears likely that the distinction of true and false positives is a problem common to these studies. Most important, false positives do not necessarily appear only in close proximity to the targets of selection, but appear to be distributed throughout the entire genome. Reasoning that more detailed information about dynamics of the underlying haplotype structure will be highly instrumental to distinguish true and false positives, we analyzed the patterns of linkage disequilibrium in an experimental evolution study with D. melanogaster adapting to a novel temperature regime. We will show how the information about whole chromosome linkage pattern changes during experimental evolution and to what extent this linkage pattern provides the basis of an improved strategy to distinguish between true and false positives in Pool-Seq data from experimental evolution studies.
+
+Marinela Dukic
+University of Basel
+Zoological Institute
+Switzerland
+Loss of heterozygosity during asexual reproduction in Daphnia
+poster D21SY10PS1124
+
+Author(s): Dukic, M, Haag, CR, Berner, D, Ebert, D
+
+Summary: 
+
+Explaining the ubiquity of sexual reproduction despite its high costs remains one of the major challenges in evolutionary biology. This problem is known as “paradox of sex” and many theoretical models concerning it have been proposed. Following the recent breakthroughs of sequencing technologies we are now able to experimentally evaluate some of the basic assumptions of these models. We used Restriction site Associated DNA (RAD) sequencing to examine the common assumption that asexual reproduction results in perfect clonal offspring with mutations being the only source of new variation. For this we chose the emerging model system Daphnia magna, a cyclic parthenogenetic planktonic crustacean. Comparing pathenogenetic offspring with their mothers at several thousand genetic markers, we detected loss of heterozygosity (LOH) within single asexual generations of D. magna. Our results indicate surprisingly high rates of genome homogenization events (homologous recombination, gene conversions or ploidy losses) during asexual reproduction. These findings should be incorporated in future theoretical models which might lead to the resolution of the “paradox of sex”.
+
+Cristina Ariani
+University of Cambridge
+Department of Genetics
+United Kingdom
+Meiotic drive in the yellow fever mosquito Aedes aegypti
+poster D21SY10PS1137
+
+Author(s): Ariani, CV, Short, K, Juneja, P, Jiggins, F
+
+Summary: 
+
+Selfish genetic elements enhance their own transmission to the organism’s progeny in a disproportionate fashion. Sex chromosome meiotic drive normally involves X chromosomes and results in female biased sex ratios, but in the yellow mosquito Aedes aegypti a meiotic drive gene is tightly linked to the male chromosome and distorts the sex ratio towards males. This distortion can only be seen when males bearing the meiotic drive gene (D) are crossed to females from other populations. That is because a dominant insensitive gene (I) has evolved in females of the populations where D is present, preventing the sex ratio distortion while females from other geographical regions are commonly sensitive (s) to D. We crossed females of a line that is highly sensitive to meiotic drive to a line carrying the drive gene. Using restriction-site associated DNA (RAD) tags followed by deep sequencing, we were able to both map the meiotic drive gene and genes elsewhere in the genome which suppress meiotic drive. We then backcrossed the meiotic drive gene into a genetic background without any suppressors and repeated the experiment. This allowed us to map the meiotic drive gene with greater precision.
+
+Ana Catalán
+LMU
+Biologie II
+Germany
+Population and sex differences in Drosophila melanogaster brain gene expression
+poster D21SY10PS0986
+
+Author(s): Catalán, A, Hutter, S, Parsch, J
+
+Summary: 
+
+Changes in gene regulation are thought to be crucial for the adaptation of organisms to their environment. Transcriptome analyses can be used to identify candidate genes for ecological adaptation, but can be complicated by variation in gene expression between tissues, sexes, or individuals. Here we use high-throughput RNA sequencing of a single Drosophila melanogaster tissue to detect brain-specific differences in gene expression between the sexes and between two populations, one from the ancestral species range in sub-Saharan Africa and one from the recently colonized species range in Europe. Relatively few genes (<100) displayed sexually dimorphic expression in the brain, but there was an enrichment of sex-biased genes, especially male-biased genes, on the X chromosome. Over 340 genes differed in brain expression between flies from the African and European populations, with the between-population divergence being highly correlated between males and females. The differentially expressed genes include those involved in stress response, olfaction, and detoxification. Expression differences were associated with transposable element insertions at two genes implicated in insecticide resistance (Cyp6g1 and CHKov1). Analysis of the brain transcriptome revealed many genes differing in expression between populations that were not detected in previous studies using whole flies. There was little evidence for sex-specific regulatory adaptation in the brain, as most expression differences between populations were observed in both males and females. The enrichment of genes with sexually dimorphic expression on the X chromosome is consistent with dosage compensation mechanisms affecting sex-biased expression in somatic tissues.
+
+Antoine Branca
+Université Paris-Sud
+Ecology, Systematics and Evolution
+France
+Rapid genomic changes in pathogenic Bacillus thuringiensis during adaptation to its nematode host
+poster D21SY10PS0183
+
+Author(s): Branca, A, Masri, L, Sheppard, A, Rosenstiel, P, Bornberg-Bauer, E, Schulenburg, H
+
+Summary: 
+
+Bacillus thuringiensis is a pathogenic bacterium of invertebrates with a wide host spectrum, including the nematode Caenorhabditis elegans. We studied its ability to adapt to the nematode host with the help of an evolution experiment, during which a mixture of B. thuringiensis strains was either coevolved with C. elegans (coevolution treatment), adapted to a non-changing host population (one-sided adaptation), or evolved in the absence of the host (control evolution). Experimental evolution produced distinct phenotypic changes in virulence and also other life-history traits. Here, I present results on our analysis of the genetic basis of evolutionary changes based on whole-genome sequencing of replicate populations. Firstly, we were able to identify a central role for clonal selection during experimental evolution, especially under coevolution and control conditions. Each of these conditions was dominated by two different chromosomal genotypes, whereas an unexpected variability among replicate populations was observed in the one-sided adaptation treatment. Secondly, we were able to demonstrate that adaptation to the host is additionally influenced by the spread of genomic SNP and indel alleles as well as changes in plasmid composition and presence of phage infection. Taken together, our results highlight that the trajectory of evolution depends on multiple interaction levels: (i) host – pathogen; (ii) competition between pathogen strains and (iii) selfish mobile elements comprised of plasmids and phages.
+
+Claudia Bank
+École Polytechnique Fédérale de Lausanne & Swiss Institute of Bioinformatics
+School of Life Sciences
+Switzerland
+Shifting fitness landscapes in response to altered environments
+talk D21SY10RT18:09R5
+
+Author(s): Bank, C, Hietpas, RT, Bolon, DNA, Jensen, JD
+
+Summary: 
+
+One of the most controversial questions in evolutionary biology is the role of adaptation in molecular evolution. Following decades of debate between selectionists and neutralists, new high-throughput methods are beginning to illuminate the full distribution of fitness effects of new mutations. Here, we shed light on the adaptive potential in Saccharomyces cerevisiae by presenting systematic high-throughput fitness measurements for 578 possible point mutations in a region of Hsp90 in each of six environmental conditions. Under elevated salinity, we observe numerous beneficial mutations with growth advantages up to 7% relative to the wild type. We thus demonstrate that an essential protein can harbor adaptive potential upon an environmental challenge, and report a remarkable fit of the data to Fisher's geometric model - which well predicts the observed costs of adaptation associated with environmentally specific beneficial mutations. Furthermore, we utilize a Bayesian MCMC modeling framework to evaluate the statistical significance of the results - showing a remarkable accuracy of the experimental approach, e.g., allowing for direct inference of the non-neutrality of certain synonymous substitutions.
+
+Hanna Koch
+Max Planck Institute for Evolutionary Biology
+Evolutionary Ecology
+Germany
+Studying the effects of predation and sex on the evolution of prey defense traits in Chlamydomonas reinhardtii
+poster D21SY10PS0199
+
+Author(s): Koch, HR, Becks, L
+
+Summary: 
+
+Understanding the evolutionary advantage of sexual reproduction, as well as its maintenance and widespread occurrence, remain key areas of focus within evolutionary biology. Given the associated costs of sex, including the break-down of potentially beneficial genetic associations via recombination and the time-consuming process of finding a suitable mate, the fundamental question “why sex?” persists. Despite this, complete asexuality in the eukaryotic kingdom is rare and a substantial number of species rely on sex as the sole mode of reproduction. Previous studies have shown sex to confer an advantage in populations exposed to novel environments or intense selective stressors, as recombination can increase genetic variation, thereby facilitating increased rates of adaptation. Asexual populations may reproduce faster, but must then rely on standing genetic variation, which may be very low, and/or novel mutations to supply variation necessary for adaptation, which may happen slowly or not at all. Theoretical models based on these ideas require empirical validation; an effective research framework to study such evolutionary processes in real time would be to combine experimental evolution with ecogenomic analyses as a way to test for adaptive evolution and link phenotype with genotype for ecologically-relevant traits. The purpose of this project is to carry out such a study by using the predator-prey model system of rotifers, Brachionus calyciflorus, and unicellular green alga, Chlamydomonas reinhardtii, to test for adaptive evolutionary responses to rotifer predation in both sexual and asexual lines of alga. Through the use of next-generation sequencing technology and bioinformatics, we aim to better understand the underlying genetic basis of adaptive traits, with respect to defense, in C. reinhardtii. In turn, these results may help to elucidate the evolutionary consequences of sexual versus asexual reproduction, and we can better answer, “Why sex?”
+
+Thorsten Reusch
+GEOMAR Helmholtz Centre for Ocean Research Kiel
+Evolutionary Ecology
+Germany
+The genetic basis of adaptation to ocean acidification in Emiliania huxleyi , a key phytoplankton species
+talk D21SY10RT18:33R5
+
+Author(s): Reusch, TBH, Lohbeck, KT, Riebesell, U, Esser, D, Rosenstiel, P
+
+Summary: 
+
+Ocean acidification, the drop in seawater pH due to the uptake of anthropogenic CO2, is a major threat to marine calcifying organisms. In a long-term evolution experiment, we found that the biogeochemically important unicellular algae Emiliania huxleyi partly restored calcification and growth rates at elevated CO2 owing to adaptive evolution, compared to control lines kept at ambient CO2 levels. In order to unravel the genetic basis of adaptive change we re-sequenced replicated control and adapted populations to a high coverage. We identified SNPs and other polymorphisms that diverged with respect to CO2 selection treatments via mapping to the existing genome of E. huxleyi. We were particularly interested whether or not the same genes or metabolic pathways were affected, and how consistent these changes were across replicates. These data provide first insights into the dynamics and the parallelism of de novo mutations in an ecologically important phytoplankton species.
+
+Martin Kapun
+Vetmeduni Vienna
+Insitute for Population Genetics
+Austria
+The impact of chromosomal inversions on genetic variation in natural and laboratory populations of D. melanogaster
+talk D21SY10RT15:45R5
+
+Author(s): Kapun, MJ, Van Schalkwyk, H, Nolte, V, McAllister, B, Flatt, T, Schlötterer, C
+
+Summary: 
+
+Paracentric inversions are very common structural variants in many species of the genus Drosophila. Despite a large body of literature, still very little is known about the genetic mechanisms underlying inversion polymorphisms. Recent advances in sequencing technology now allow studying the distribution of genetic variation on a genome-wide level, which has reignited interest in the genomic basis of inversion evolution. To extend previous efforts we have combined karyotyping of polytene chromosomes with whole-genome sequencing in order to identify polymorphic inversions and examine associated haplotype structure in populations derived from a laboratory natural selection experiment in D. melanogaster. In addition, we combined information from 110 D. melanogaster genomes of known karyotype from Africa, Europe and North America to investigate patterns and distribution of fixed differences linked to different inversions. We used this novel dataset to estimate inversion frequencies from pooled next generation sequencing data (“Pool-Seq”) in our selection experiment and in populations collected along the North American and Australian latitudinal cline. Among six polymorphic inversions segregating in the experimental populations, two rare cosmopolitan inversions, In(3R)C and In(3R)Mo, showed a frequency increase consistent with non-neutral evolution. Genetic variation in and around In(3R)Mo was strongly reduced, consistent with previous findings from North America, and we found evidence for gene flux between this inversion and the non-inverted standard arrangement. Moreover, we identified a previously unknown latitudinal cline for In(3R)Mo in our Pool-Seq data from the North America east coast. Our novel data highlight the impact of inversions on patterns genetic variation and underline the importance of considering structural variants when attempting to detect patterns of adaptation.
+
+Ricardo Ramiro
+Instituto Gulbenkian de Ciência
+Portugal
+The rate of adaptation Escherichia coli to the mouse gut
+poster D21SY10PS1333
+
+Author(s): Ramiro, RS, Sousa, A, Barroso-Batista, J, Gordo, I
+
+Summary: 
+
+The process of adaptation in bacterial populations is often studied in simple and well-defined laboratory environments, mainly involving abiotic interactions. On the other hand, adaptation to complex environments, within ecological communities, involving biotic interactions, is only rarely studied. A medically important and extremely diverse community is the gut microbiome. Here, we study the process of adaptation of Escherichia coli to the mouse gut. We combine methodologies from evolutionary genetics and molecular biology to understand the rate of adaptation and the number and selective strength of newly arising mutations. Previous work from our lab has shown that, in contrary to what is theoretically predicted and normally observed in-vitro, the rate of adaptation does not decrease through time, during two consecutive colonizations of the mouse gut (~900 generations). We now isolated three genetically distinct clones (from the second colonization), which represent three independent evolutionary paths and test whether the evolutionary process proceeds at the same pace (both in terms of rate of adaptation and selective strength of new mutations). To better understand the adaptive process, we use genome re-sequencing of the evolved clones and measure their fitness across a variety of environments that mimic different components of the gut environment. Our results, will allow us to further test the relevance of the following theoretical predictions: 1) as populations adapt to a given environment, the rate of adaptation decreases; 2) in the absence of recombination, clonal interference dominates the adaptive process. Moreover, we will be able to infer what are the main forces shaping the adaptation of an important commensal to the mouse gut.
+
+Gunther Jansen
+University of Kiel
+Zoological Institute
+Germany
+Trample the weak - phenotypic and genomic evolution of Pseudomonas aeruginosa in immunocompromised hosts
+talk D21SY10RT11:18R5
+
+Author(s): Jansen, G, Crummenerl, LL, Thänert, R, Gilbert, F, Gildenhard, M, Schulenburg, H
+
+Summary: 
+
+Novel infectious diseases have been emerging at an alarming rate over the last few decades, with sometimes devastating consequences for public health. Prime examples include the rise of HIV or the increasing incidences of tuberculosis and MRSA. To understand the origin of these novel strains, detailed knowledge is required on the adaptive evolution underlying successful establishment and spread of emergent strains in new host populations. Both theoretical studies and occasional epidemiological reports identified host immune state as a key factor in disease emergence. However, the importance of this factor has not been studied in a rigorous experimental framework that explicitly allows for long-term evolution.
+
+I will present the results of an evolution experiment in which Pseudomonas aeruginosa PA14 adapted to populations of immunocompetent C. elegans and immunocompromised (mutant) host strains. Phenotypic analyses revealed rapid, to a large extent parallel evolution across all treatments. Strong increases in bacterial fitness were especially observed in immunocompromised hosts, suggesting immunocompromised hosts facilitated faster bacterial adaptation. Genomic analyses confirm the observed phenotypes and the large amount of parallel evolution. However, they further revealed distinct evolutionary paths chosen by bacteria adapting to immunocompromised hosts compared to those adapting to immunocompetent hosts. These results provide important insights for the understanding of bacterial adaptation to host populations, and may assist the development of theoretical models on pathogen evolution and adaptation.
+
+Richa Joag
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Transcriptomics of accessory gland proteins in sex peptide receptor-less Drosophila melanogaster populations
+poster D21SY10PS1136
+
+Author(s): Joag, R
+
+Summary: 
+
+Accessory gland proteins (Acps) are male reproductive tract proteins transferred to females during copulation, which alter their reproductive physiology and behaviour. One of the Acps in Drosophila melanogaster, sex peptide (SP) not only alters fecundity and sexual receptivity of the females, but also affects their immune system, feeding, and longevity. It is thus sexually antagonistic and costly to the females. We want to examine whether production of SP is costly to the males. SP acts through binding to specific sex peptide receptors (SPR) in the female reproductive tract and the central nervous system. We are studying gene expression levels of SP in males from selection populations of D. melanogaster in which females do not express the sex peptide receptor. The benefit of producing SP being thus removed, we hypothesize that, if production of SP is costly to males, this should lead to a decreased gene expression of SP in such populations. We also intend to test whether the males compensate by increasing production of other Acps/seminal proteins such as Ovulin and DUP99B (Ductus ejaculatorius peptide 99B) since these proteins have some overlapping functions with SP. RT-qPCR will be used to quantify the expression of SP, Ovulin and DUP99B in the males. ELISA of female reproductive tract will be used to quantify the Acps transferred to the females during mating. This will indicate whether or not there is a correlation between gene expression levels and the amount of protein retained in the females an hour after mating.
+
+Steve Chenoweth
+School of Biological Sciences
+The Univeristy of Queensland
+Australia
+Understanding the relationship between natural and sexual selection using the evolve and resequence approach in a non-model insect
+talk D21SY10RT15:12R5
+
+Author(s): Chenoweth, S, Appleton, N, Rundle, H
+
+Summary: 
+
+Sexual selection is a source of strong directional selection in nature that has received long-standing attention due to its role in the evolution of elaborate sexual ornaments and armaments. Although its contribution to the evolution of sexual traits is uncontroversial, the way in which sexual selection works alongside natural selection, specifically, whether the process favors similar or different allelic variants to natural selection, remains poorly understood. To address this question we assessed the genome-wide response from standing variation to natural and sexual selection using experimental evolution in a fly. RAD-seq sequencing was applied to replicate experimental populations of Drosophila serrata that were allowed to adapt to a novel environment over sixteen generations. Each line was randomly assigned to one of four experimental treatments that reflected a full factorial manipulation of the opportunity for natural and sexual selection. Our analysis of the genomic response suggests that the interaction between natural and sexual selection can lead to contrasting allele frequency trajectories compared to when either process operates alone. In the course of outlining our study I will address some of the statistical challenges posed by the analysis of “evolve and resequence” studies that are short-term and often involve highly polygenic responses. This will include our application of multivariate tools and generalised linear mixed effects models to experimental evolution data.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

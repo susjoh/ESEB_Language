@@ -1,0 +1,207 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY24: Unifying paleobiological and comparative perspectives on character evolution
+ Abstracts list Schedule Description
+View only talks or posters
+John Clarke
+University of Oxford
+Department of Earth Sciences
+United Kingdom
+150 million years of morphological and functional evolution in neopterygian fish: implications for notions of teleost superiority
+talk D23SY24RT11:18R7
+
+Author(s): Clarke, JT, Friedman, M
+
+Summary: 
+
+Teleost fishes are the dominant group of extant vertebrates; they include approximately 29,000 species, assume a bewildering array of morphologies, and have come to occupy nearly every aquatic environment. In dramatic contrast, their holostean sister group comprises a mere 8 living species, all of which are restricted to the freshwaters of eastern North America. It is this pattern of extreme dissimilarity, gleaned from living taxa alone, which has provided the basis for assertions of teleost ‘superiority’ and fuelled a series of evolutionary scenarios. However, the fossil record indicates that these groups arose in the Permian, and so around 250 million years of diversification has been largely excluded from the debate. By reconstructing the historical diversity trajectories for these groups, we can establish the pattern by which teleosts came to dominate. We quantify the morphological and functional diversity holosteans and teleosts across 150 million years of the Mesozoic (representing 70% of neopterygian history). Contrary to the pattern seen in extant taxa, holosteans appear morphologically and functionally superior over teleosts in the Triassic. However, teleost morphological and functional diversity increases in the Jurassic to the point that they overtake holosteans by the Lower Cretaceous. Bayesian analysis of evolutionary rates only weakly supports the notion that teleosts exhibit higher rates of morphological change than their holostean sister group.
+
+Jörgen Ripa
+Lund University
+Dept. of Biology
+Sweden
+Adaptive radiations in alpha and beta niche dimensions
+poster D23SY24PS0195
+
+Author(s): Ripa, J
+
+Summary: 
+
+Adaptive radiations are interesting and important, and probably more than just a sequence of speciations. Recently, there has been an increased interest in the more exact sequence of events, how a clade develops from its first ancestral population to a group of closely related species, adapted to different niches in the landscape in which they occur. Some traits seem to be conserved through evolutionary history, whereas some are more labile, with little phylogenetic signal. The concepts of alpha and beta niches, corresponding to within- and between-habitat selection, has made it possible it hypothesize that one set of traits diverge sooner than others. However, data points in different directions. Moreover, theory is essentially lacking. I here present a first attempt to disentangle the mechanisms underlying the sequence of trait divergence. A first, tentative, prediction is that traits with the strongest trade-off will diverge first. Model simulations show that this pattern is surprisingly robust to the level of dispersal between habitat types. They also show that there is more to learn about the ecological mechanisms driving adaptive radiations.
+
+Kjetil Voje
+Faculty of Mathematics and Natural Sciences, University of Oslo
+Department of Biosciences
+Norway
+Allometric constraints on adaptive radiation in sticklebacks
+talk D23SY24RT11:42R7
+
+Author(s): Voje, KL, Mazzarella, AB, Hansen, TF, Østbye, K, Klepaker, T, Bass, A, Herland, A, Bærum, KM, Gregersen, F, Vøllestad, A
+
+Summary: 
+
+The morphological differences between the marine ancestor and the descendant freshwater populations of threespine sticklebacks constitute a well-studied example of a phenotypic radiation. However the exact selective agents that drive these changes are not yet fully understood. We present a comparative study across 74 freshwater populations of threespine sticklebacks in Norway to test whether evolutionary changes in stickleback morphology can be explained as adaptations to lake characteristics thought to reflect different habitats and feeding niches. Only weak indications of adaptation were found, and the rates of adaptation varied from immediate to more constrained evolution among traits. Instead, populations have diversified in phenotypic directions predictable from allometric scaling relationships. This indicates that evolutionary constraints may have played a role in structuring phenotypic variation across freshwater populations of stickleback.
+
+Melanie Hopkins
+Friedrich-Alexander Universität Erlangen-Nürnberg
+GeoZentrum Nordbayern,
+Germany
+Decoupling of taxonomic diversity and morphological disparity during decline of the Cambrian trilobite family Pterocephaliidae
+talk D22SY24RT11:42R7
+
+Author(s): Hopkins, MJ
+
+Summary: 
+
+Though discordance between taxonomic diversity and morphological disparity is common, little is known about the underlying dynamics that drive this decoupling. Early in the history of the Cambrian trilobite family Pterocephaliidae, there was an increase in taxonomic diversity and morphological diversity. As taxonomic diversity declined in the later history of the clade, range of variation stayed high, and disparity continued to increase. However, per-branch rates of morphological evolution estimated from a recent phylogeny decreased with time. Neither within-trait nor within-species variation increased or decreased, suggesting that the declining rates of morphological evolution were more likely related to ecological opportunity or niche partitioning rather than increasing intrinsic constraints. This is further supported by evidence for increased biofacies associations throughout the time period. Thus the high disparity seen at low taxonomic diversity late in the history of this clade was due to extinction—either random or targeting mean forms—rather than increased rates of morphological evolution. Furthermore, patterns seen at higher taxonomic scales do not necessarily reflect patterns at lower levels or within an explicit phylogenetic framework. These results emphasize the importance of considering both extinction and phylogenetic context when comparing different types of diversity and seeking explanations for conflicting patterns. This pattern also provides a scenario that could account for instances of low taxonomic diversity but high morphological disparity in modern groups.
+
+Keisuke Shimizu
+Graduate school of Science, The Tokyo University
+Department of Earth and Planetary Science
+Japan
+Developmental mechanisms and evolution of shell coiling in gastropods
+poster D23SY24PS0311
+
+Author(s): Shimizu, K, Endo, K
+
+Summary: 
+
+Various shapes of gastropod shells have evolved ever since the Cambrian. Although theoretical analyses of shell morphogenesis exist, the molecular basis of shell development remains unclear. In order to understand developmental mechanisms and evolution of shell formation in gastropods, we focused on the decapentaplegic (dpp) gene that is expressed around the shell gland. We compared expression patterns of dpp in the shell gland and the mantle tissues at various developmental stages between coiled and non-coiled shelled gastropods. In the limpets, Patella vulgata and Nipponacmea fuscoviridis, dpp showed symmetric expression patterns throughout ontogeny. On the other hand, in the coiled shelled snail Lymnaea stagnalis, dpp showed asymmetric expression and mirror image patterns between the dextral and sinistral lineages. Moreover, we analyzed the functions of dpp using the Dpp signal inhibitor dorsomorphin. When the embryos were treated with Dpp signal inhibitor at the trochophore or veliger stage after the shell gland formation, juvenile shells grew to show a cone-like form rather than a normal coiled form. These results suggest that the shell coiling is controlled by dpp, and that the loss of coiling in Patellogastropoda was caused by loss of the asymmetric expression of dpp in the shell gland at the trochophore stage, which lead to symmetric dpp expression at the veliger and adult stages.
+
+Thomas Guillerme
+School of Natural Sciences, Trinity College Dublin
+Zoology Department
+Ireland
+Evolutionary ecology and extinct species: how do fossils change our interpretation of present-day biodiversity patterns? Using primates as an example
+poster D23SY24PS0186
+
+Author(s): Guillerme, T, Cooper, N
+
+Summary: 
+
+Studying events in the evolutionary history of a taxonomic group, such as adaptive radiation or extinction, requires a fine-scale and accurate resolution of their relationships through time. To achieve that, most scientists would agree that information about both extant and extinct species is needed. However few efforts have been made to combine extant and extinct species in the same phylogenetic trees, instead phylogenetic trees usually contain only extant species. Because the vast majority of species in a lineage will be represented by extinct species, studies focusing on extant species contain less than 0.1% of the lineage’s species richness. In some clades, ignoring extinct species may also obscure the true evolutionary history, species richness (i.e. Proboscidea), biogeography (i.e. Tinamiforms) or ecological diversity (i.e. Crocodilomorphs). Thus including the fossil record in these kinds of studies is essential to fully understand the evolutionary history of lineages. In this study, we constructed a new primate phylogeny based on Ronquist et al.'s (2012) Total Evidence Method. We used 73 genes from over 340 extant primates and approximately 350 morphological characters from over 250 species (half of which were extinct species). We applied phylogenetic comparative methods to investigate evolution of body mass variation through time in Primates. We show that taking account of extinct species morphological traits such as body mass affects the estimation of evolutionary rates especially among Lemuriforms (Strepsirhinni) where the evolutionary rates are highly increased.
+
+Tom Van Dooren
+Ecole Normale Supérieure
+UMR7625 Ecology and Evolution
+France
+Giants from dwarfs: support for sympatric processes of size divergence in Austrolebias South-American annual killifish
+poster D23SY24PS0900
+
+Author(s): Van Dooren, TJM, Thomassen, H, Kraaijeveld-Smit, FJL
+
+Summary: 
+
+To determine the plausibility of sympatric speciation, we need to determine its relative rate of occurrence across different speciation events. Here we focus on a small taxonomic group and a particular speciation mechanism which requires sympatry: the emergence of a large and small species pair where the large cannibalizes the small. This scenario has been named “giant-dwarf” diversification. A comparative analysis of body size measures of Austrolebias South-American annual killifish suggests that species evolve towards one of three size optima. Species evolving towards the largest optimal size appeared at least three times from small in the Austrolebias genus. The first large ancestral species per event appeared in a trait change with relatively high speed in all three cases, consistent with expectations of cannibalism evolution. A comparative analysis of lower jaw length, a proxy for the level of specialization in piscivory suggests that in one clade of large species trait values indicate a very weak or no specialization towards piscivory, and that in the two other clades species are selected towards two optima with relatively large jaw lengths. By means of a reconstruction of ancestral species ranges we show that speciation events leading to a large and smaller species pair were sympatric with a large likelihood. For the clade of large species with little specialization, the probability that speciation was non-sympatric is largest among the three events. Conditional on the data we analysed, one can therefore conclude that giant-dwarf speciation by cannibalism most probably occurred twice in Austrolebias and that a third appearance of large species in the genus likely occurred by other selective or non-selective processes.
+
+Laura Soul
+The University of Oxford
+Department of Earth Sciences
+United Kingdom
+How good is good enough? An investigation of tree-based analyses using paleontological phylogenies
+poster D23SY24PS1276
+
+Author(s): Soul, LC, Friedman, M
+
+Summary: 
+
+Many tree-based methods now available for macroevolutionary analyses can include extinct taxa. Unfortunately, many of the groups for which we have abundant and diverse fossils have not been subjected to cladistic analysis. It is therefore important to understand the sensitivity of tree-based analyses to uncertainty in relationships, and whether taxonomic information can be a useful substitute for an explicit phylogenetic hypothesis where one does not exist. With this in mind, I collected data for 20 animal clades (vertebrate and invertebrate) that include fossil taxa, for which a recent cladogram and pre-cladistic taxonomies were available. I measured a series of phylogenetically explicit parameters (e.g. phylogenetic clustering of extinction [Fritz and Purvis’ D], phylogenetic conservatism [Blomberg’s K], inferred divergence times) and determined the degree to which they co-varied for taxonomic and cladistic trees. Results show that pairwise distances between taxa in taxonomies match those for formal solutions very well (R2 > 0.9 for all clades). With the exception of measures of phylogenetic clustering of extinction — which are sensitive to differences in tree topology — when taxonomic information is used, results of analyses are strongly correlated with those obtained using the formal solution and are therefore unlikely to be misleading relative to this standard. The particular analysis performed and the quality of the taxonomic information used must be carefully considered, but under some circumstances taxonomies are ‘good enough’ to be used in place of formal cladistic solutions.
+
+Rui Castanhinha
+Instituto Gulbenkian de Ciência e Museu da Lourinhã
+Portugal
+Insights on neuroanatomy evolution of early mammalian ancestors from a new Permian dicynodont from Mozambique
+poster D23SY24PS0848
+
+Author(s): Castanhinha, R, Araújo, R, Costa Júnior, L, Angielczyk, K, Martins, R, Martins, G
+
+Summary: 
+
+A nearly complete skull and mandible, with a series of 19 articulated dorsal, sacral and tail vertebrae, ribs, ilia, partial pubis and femur (ML1620) was collected from the Late Permian Karoo sediments, Metangula Graben, northern Mozambique (Niassa Province), Cádzi Formation. The 3D visualization of the internal cranial bones, via µ-CT, combined with a phylogenetic analysis demonstrates a set of characters shared with Emydopoidea, a restricted clade of small-sized dicynodonts. Brain morphology and location of main cranial nerves is visualized by a virtual 3D model of the fossilized endocranial cavity. The brain is delimited by the basioccipital, exoccipital, supraoccipital and opisthotic posteriorly; by the postparietal, parietal, preparietal, and frontal dorsally; prootic and epipterygoid laterally; parasphenoid and basisphenoid ventrally; the olfactory tracts are delimited by the ethmoid ventrally. The brain is narrow and the cerebellum is broader than forebrain, resembling the condition of other non-mammalian therapsids. The orbits are located far anteriorly relative to the olfactory bulbs. The olfactory bulbs are separated from the cerebrum by a long olfactory tract. The anatomy of osseous labyrinth, pristinely preserved, is compared with the scarce data published on synapsid inner ear anatomy. These are the first detailed brain and auditory apparatus model of dicynodonts based on µ-CT. The preliminary observations indicate that there is a conservative reptilian-grade brain morphology governing the anatomy of non-mammalian synapsids.
+
+Dragana Cvetkovic
+Faculty of Biology University of Belgrade
+Serbia
+New approach to old vertebrae – a morphometric comparison of Miocene and extant snakes
+poster D23SY24PS1208
+
+Author(s): Cvetkovic, DD, Rubinjoni, L, Vujic, V, Ðuric, D
+
+Summary: 
+
+Comparative morphological study of fossil and recent snakes is of key interest for taxonomic identification, paleobiological reconstructions and character evolution analyses. Snake fossil record is sparse, due to the low occurrence of fossilisation of delicate bone structures, especially in smaller species. The characters used in study of extant snake vertebrae are most often degraded in fossils – protruding structures or exposed surfaces get broken off or eroded. The focus of this study was to explore the usability of structures less prone to damage, located near the centrum and at the base of the neural arch. This approach would allow the inclusion of a larger number of specimens, which could not be studied by the classical approach. We analyzed fossil snake vertebrae from a rich mid-Miocene assemblage at Vracevic locality, in the vicinity of Belgrade, Serbia. We selected a sample of undistorted trunk vertebrae in good condition, referred to genera Natrix, Vipera and Elaphe. The fossil sample was compared to extant snake vertebrae, belonging to appropriate taxa. Three axial and four pairs of lateral landmarks (11 landmarks in total) have been identified on all the specimens and used for 2D geometric morphometric analysis. Bilateral acquisition addressed the problem of taphonomic deformation. Symmetric component of shape variation was used for the comparison of fossil vertebrae with extant samples. Fossil specimens had lower mean centroid size (CS), and higher variation in CS compared to recent ones. The range of fossil CS values was larger than the recent (the smallest and largest vertebrae were fossils). Principal component analysis (PCA) showed that the highest variation in shape was associated with centrum/neural arch height ratio. For further research, more comprehensive sampling is needed to rigorously evaluate the applicability of this approach.
+
+David Vieites
+National Museum of Natural Sciences -CSIC
+Biogeography and Global Change
+Spain
+Reassessing the temporal evolution of salamandrids: the integrative evaluation of time constraints challenges current hypotheses
+poster D23SY24PS0845
+
+Author(s): Vieites, D, Nieto-Román, S
+
+Summary: 
+
+Two main types of time constraints can be implemented to perform divergence time estimation analyses: paleontological and paleogeographic. The first ones are set using fossils, which usually are placed in nodes of the phylogenetic trees corresponding to the common ancestor to the members of particular extant clades. Those usually allow only setting minimum dates for particular nodes on the phylogeny, which are set as priors in the analyses. Maximum dates for most clades are not available or are questionable, and the interpretation of fossils may derive in different placements in the tree, which can affect divergence time estimations and reconstruction of the evolution of characters. Paleogeographic constraints correspond to historical events that may have caused splits of ancestral lineages, in which two sister taxa occur on both sides of a barrier. However, these cladogenetic splits assigned to particular paleogeographic events may have been caused by other factors, even in different time periods that do not overlap with the assumed paleogeographic ones. Moreover, dispersal across potential barriers have been shown to be more common than previously thought. Here we analyzed and tested every time constraint available for salamanders of the family Salamandridae, including the effect of the molecular dataset and priors on divergence time reconstruction. Our results show important effects of all these factors that challenge current placement of some fossils as well some historical biogeographic events, affecting also our interpretation of how and when some characters have evolved.
+
+Rob Knell
+Queen Mary University of London
+School of Biological and Chemical Sciences
+United Kingdom
+Sexually selected traits in the fossil record
+talk D22SY24RT11:18R7
+
+Author(s): Knell, R
+
+Summary: 
+
+Sexual selection is one of the most important driving forces behind the diversity that we see in modern biological systems, and it is increasingly being recognised that sexual selection probably plays an important role in large-scale processes such as speciation, extinction and adaptation. It has, however, been largely ignored by many palaeontologists despite the large number of high-profile examples of apparent sexually selected features in the fossil record. There are a number of reasons why this is so, including the difficulty of assigning sex to most fossils, the problem that the more extreme sexual dimorphs are likely to be described as different species, the existence of sexual dimorphs that have arisen because of natural rather than sexual selection and the sheer variety of sexually selected traits, which makes it very hard to identify specific morphological features that can be used to distinguish sexually selected traits from others. These problems are not insurmountable and with careful thought and well-planned hypothesis testing sexually selected traits can be distinguished from others in the fossil record, opening up opportunities for firstly a better understanding of the biology and behaviour of extinct animals and secondly for the use of the fossil record in comparative studies to test ideas about the role of sexual selection in driving processes like adaptation and speciation.
+
+Filipe Da Silva
+Research Assistant at Federal University of Viçosa
+Department of General Biology
+Brazil
+Stingless bee nest evolution is characterized by multiple gain and loss of brood cells cohesiveness
+poster D23SY24PS1387
+
+Author(s): Da Silva, FO, Werneck, HA, Campos, LAO
+
+Summary: 
+
+Stingless bees can construct comb or cluster nests. Cluster-brood building species construct inter-spaced clusters of discoid, vertically elongated brood cells with gaps in between cells. Conversely, the comb-brood building species make hexagonal, vertically oriented brood cells arranged in layers of juxtaposed cells showing higher cohesiveness. Cluster nest has been hypothesized as the basal state based on morphology and classical taxonomy. Nevertheless, that hypothesis has not been formally evaluated with modern phylogenetic and comparative methods. We estimated the ancestral nest state for each node in a large phylogenetic tree containing stingless bees of the New World (NW) and Old World (OW) in order to undercover the stingless bee nest evolution. Nucleotide sequences of five genes were retrieved from GenBank and concatenated. Substitution models were chosen with MrModelTest. We estimated the phylogenetic hypotheses with MrBayes and checked the convergence of parameters in Tracer/AWTY. We have confidently assigned the nest type for 101 out of 111 OTUs. We chose the MCMC option in BayesTraits for estimating the rate parameters. Analyses strongly support the cluster nest as the ancestral state of all stingless bees. The comb nest derived at least five times, once in the NW. The cluster nest would have re-evolved at least four times from comb nest ancestors exclusively in the Neotropics. The current hypothesis about the stingless bee nest evolution is in agreement with our ancestral estimations, although we formally provide the evolutionary steps. Therefore, increasing in cohesiveness of brood cells would be a derived feature that has independently evolved several times. The re-evolution of cluster nests would reflect a recurrent loss of cohesiveness between brood cells. The next step is to identify correlations between the age of ancestors and the paleovegetation in the hopes of shedding light into the selective forces shaping the convergence of the nest types.
+
+Folmer Bokma
+Umeå University
+Ecology & Environmental Science
+Sweden
+Tempo and mode in evolution of complex organisms.
+talk D23SY24IT10:30R7
+
+Author(s): Bokma, F
+
+Summary: 
+
+Most evolutionary biologists appear to believe that populations and species are well adapted to their environment, as the result of continuous action of natural selection on all their traits. In complex organisms, however, many traits do not experience the outside environment: their environment consists of other traits. This implies that fitness is not determined exclusively by how well traits fit the external environment, but also by how well traits are adapted to each other. I will discuss whether the existence of co-adapted trait complexes may determine the tempo and mode in the evolution of their component traits, and discuss how we could distinguish the extrinsic and intrinsic components of fitness in phylogenetic and experimental studies.
+
+Gene Hunt
+Smithsonian Institution
+Department of Paleobiology
+United States
+The fossil record of lineage evolution
+talk D22SY24IT10:30R7
+
+Author(s): Hunt, G
+
+Summary: 
+
+The fossil record captures the only direct observations we have of evolutionary changes within species over substantial spans of time, and yet it has long been controversial as to how best to interpret such observations. In this talk, I review some of the important accumulated findings from paleontological research about the nature of evolutionary changes within fossil species. Specifically, I will address the frequency of different modes or patterns of evolutionary change, the tempo of these changes, and the implications of these for understanding evolutionary processes in the fossil record. In addition, I will discuss case studies that: (1) estimate the importance of anagenetic (within-lineage) versus cladogenetic (at speciation) changes in phenotypic traits, and (2) test hypotheses about specific causal drivers of phenotypic change in fossil species.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

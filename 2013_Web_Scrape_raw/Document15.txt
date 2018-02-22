@@ -1,0 +1,784 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY15: Attack and defense: evolutionary and ecological consequences of individual variation
+ Abstracts list Schedule Description
+View only talks or posters
+Weihao Zhong
+University of Bath
+Department of Biology & Biochemistry
+United Kingdom
+A Turandot family gene promotes immunity against sexually transmitted fungal infections in Drosophila melanogaster
+poster D20SY15PS0811
+
+Author(s): Zhong, W, McClure, CD, Immonen, E, Ritchie, MG, Priest, NK
+
+Summary: 
+
+Although it is well known that mating increases the risk of infection, we do not know whether females have adaptive responses to mitigate the fitness costs of sexually transmitted infections (STIs). The major problem has been that we lack a suitable model host/pathogen system for studying the costs of STIs. Recently, Turandot-M (TotM), a member of the Turandot family of genes involved in immune and stress response, has been shown to be upregulated in female Drosophila melanogaster when they hear male courtship songs. Here we use the Gal4/UAS RNAi gene knockdown system to test whether TotM provides survival and fecundity benefits for females that mate with fungus-infected males. We show that when the fungus, Metarhizium robertsii, is sexually transmitted it reduces female reproductive output across all fly lines. By comparing the knockdown line (Gal4/UAS-TotM) with control lines (Gal4/+ and UAS-TotM/+), we found that TotM provides a survival benefit for females infected with an STI and a survival cost for healthy females. Interestingly, TotM does not provide a benefit for females under direct topical infection with M. robertsii. Together these results show that TotM plays a previously-overlooked role in defence against STIs and it suggests that females use auditory cues to anticipate the immune challenges that come with mating.
+
+Anaid Diaz
+University of Cambridge
+Department of Veterinary Medicine
+United Kingdom
+A microcosm approach to understand the effects of host demography on disease transmission
+poster D20SY15PS1316
+
+Author(s): Diaz, A, Restif, O
+
+Summary: 
+
+One key aspect of the evolution of virulence is the rate of transmission between susceptible hosts. In theory, a virulent strain may increase in frequency if selection favours its transmission. However, it is not always know what host traits positively select for transmission and how individual variation and population demography affect its evolution. We are working with an experimental system in which specific aspects of infectious disease dynamics can be measured. We use the nematode Caenorhabditis elegans and fluorescent pathogenic bacteria (Salmonella enterica Typhimurium) to tract the spread of infection. In the soil, C. elegans lives in contact with many microorganisms, including pathogenic bacteria. It is known that similar to the mammalian innate immune response, C. elegans is able to mount a response to Salmonella. Despite this, Salmonella can colonise the worm intestine and increases death. Yet, it is not understood if and how the pathogenic effects of Salmonella can contribute the transmission of the disease in a population. We have characterised in detail C. elegans demography in response to the pathogen and varying conditions (i.e. age of infection, worm population size and genetic background). As reported before we found that Salmonella reduces worm survival. However, we found no reduction in the reproduction as a consequence of the pathogen, but a strong negative population density-dependence feedback on C. elegans. As a consequence of the high bacteria shedding of worms and little effects on its reproduction, Salmonella is very likely to thrive in the population
+
+Leila Masri
+IST Austria
+Evolutionary and Behavioral Biology
+Austria
+A stumbling Red Queen: host-parasite coevolution handicapped by Feeble males
+talk D20SY15RT11:42R4
+
+Author(s): Masri, L, Schulte, RD, Timmermeyer, N, Thanisch, S, Crummenerl, L, Jansen, G, Michiels, NK, Schulenburg, H
+
+Summary: 
+
+Our work highlights the potential influence of intra-specific variations among the sexes in immunocompetence on host-parasite coevolution. In particular, the Red Queen hypothesis proposes that coevolving parasites select for outcrossing in the host. Outcrossing relies on males, which often show lower immune investment as a consequence of sexual selection. Here, we show that such sex-specific variation in immunity significantly interferes with parasite-mediated selection. Two independent coevolution experiments with Caenorhabditis elegans and its microparasite Bacillus thuringiensis produced a decreased yet stable frequency of outcrossing male hosts. Subsequent tests verified that male C. elegans suffered from a direct selective disadvantage. In the presence of its microparasite, males showed lower survival, decreased sexual activity, and altered escape behavior. Each of these responses can reduce outcrossing frequencies. At the same time, males also offered an indirect selective benefit, because male-mediated outcrossing increased offspring resistance. As such intra-specific variations in immunity are widespread among animals, the resulting interference of opposing selective constraints may impose a fundamental limit to host adaptation during antagonistic coevolution.
+
+Miriam Stock
+IST Austria (Institute of Science and Technology Austria)
+Austria
+Adaptation of a fungal pathogen to individual versus social immunity in ants
+poster D20SY15PS0290
+
+Author(s): Stock, M, Grasse, AV, Cremer, S
+
+Summary: 
+
+Social insects fight diseases not only by the hygiene behaviour and physiological immune system of the individual group members, but also by their collectively performed, social defences ranging from sanitary behaviours, use of antimicrobials and organisational adaptations. Parasites infecting social insect colonies thus have to overcome both individual and social immune responses, which likely exert very different selection pressures on the parasite. To disentangle these effects and to understand the complexity of host-parasite-coevolution in social insect hosts, we performed a selection experiment on parasite adaptation towards solitary reared ants and ants in a social group, i.e. individual immune defence only or both, individual and social defences. We used the Argentine ant, Linepithema humile, and its fungal pathogen Metarhizium as our study system. Metarhizium is a soil-born entomopathogen and obligate killer of a broad range of insect hosts. It was recently found that the previously named M. anisopliae in fact is a species complex comprising a diversity of different Metarhizium species, which differ in ecological dominance and virulence against insects. To reflect this natural diversity, we used a mix of both M. roberstii and M. brunneum to perform ten passages through both solitary and grouped ants (10 replicates each). We found that fungal species composition and virulence changed over the ten generations, revealing a difference in the adaptation potential of the two sympatric fungal species, as well as an effect of the evolution regime. We can thus conclude that the ecological diversity of the different generalist Metarhizium species may reflect adaptations to a diversity of host species, and that the additional group level defences in insect societies adds new selection pressures for their coevolving pathogens with measurable effects on disease dynamics.
+
+Milan Vrtilek
+Faculty of Sciences of Masaryk University
+Czech Republic
+An invasive species reverses the roles in a host-parasite relationship
+poster D20SY15PS0592
+
+Author(s): Vrtilek, M, Vrtilek, M, Douda, K, Smith, C
+
+Summary: 
+
+Host-parasite relationships are often characterized by coevolutionary dynamics of parasite adaptations to exploit their host, and counter-adaptations in the host to avoid the costs imposed by parasitism. Such dynamic can be severely affected by introduction of a non-native species. We used a unique reciprocal host-parasite relationship between European bitterling fish, Rhodeus amarus, and European unionid mussels to study the effect of an invasive mussel species on bitterling oviposition behaviour and its consequences. Bitterling lay their eggs into gills of live mussels and, in turn, mussel larvae parasitize fish. The European bitterling colonized most of Europe relatively recently and parasitize all sympatric European mussels, which are evolutionarily naive and have not evolved strong defences (egg rejection) against bitterling parasitism. The parasitic larvae of European mussels are unable to utilize the bitterling, although readily parasites most other European fishes. The Chinese pond mussel, Anodonta woodiana, recently colonized European freshwaters from the region of high abundance and diversity of Asian bitterling species where it evolved strong adaptations against bitterling parasitism. We found that European bitterling behaviourally responded to A. woodiana as to a potential host, but failed to use it properly for oviposition (one population) or used it but all the eggs were lost due to rejections by the mussel (second population). Another experiment revealed that parasitic larvae of A. woodiana can develop on the European bitterling successfully, and hence effectively reversed the host-parasite relationship between the bitterling and mussels. We also discuss potential long-term consequences on population dynamics of the bitterling fish.
+
+Joana Fino
+Faculty of Sciences of the University of Lisbon/CIFC-Biotrop
+Department of Animal Biology/Centro de Investigação das Ferrugens do Cafeeiro
+Portugal
+Analysis of Illumina RNA-seq data from a susceptible vs resistant coffee - Colletotrichum kahawae interaction
+poster D20SY15PS1317
+
+Author(s): Fino, J, Figueiredo, A, Loureiro, A, Silva, MC, Batista, D, Paulo, OS
+
+Summary: 
+
+Coffee berry disease (CBD), caused by the fungus Colletotrichum kahawae, is considered one of the biggest threats to Arabica coffee production in Africa at high altitude. Some coffee genotypes are known to be resistant to CBD, but the molecular genetic basis of coffee resistance is still unknown. With the purpose of gaining some insights on this process, a RNA Illumina sequencing approach was used to characterize the defense response of two coffee genotypes, respectively resistant and susceptible to C. kahawae, during the early stages of the infection process. Three inoculation time-points were selected (24, 48 and 72 hpi) and two biological replicates were collected. Twenty four independent cDNA libraries were sequenced and data is being analyzed to assess differential gene expression when comparing inoculated with control samples. The data was trimmed, and two assemblies were made: one with the control libraries and the other with the inoculated libraries. The first was used in expression quantification for both gene and isoform, by using statistical methods. Particular attention was paid to data normalization, using FPKM algorithm in gene quantification, and a Maximum Likelihood statistical model in isoform quantification. The other assembly is being used to discover C. kahawae genes by codon usage frequency (ECLAT). Although fungal transcripts are weakly represented in the samples, we expect to detect new and unknown genes of C. kahawae. The identification and characterization of expression differences between these contrasting situations will allow us to understand which genes are potentially involved in the resistance response of coffee to C. kahawae. The subsequent identification of the predicted proteins and their location in the metabolic networks could provide new relevant knowledge able to support and improve coffee breeding for resistance to CBD.
+
+Funded by FCT (project PTDC/AGR-GPL/112217/2009)
+
+Pedro Vale
+University of Edinburgh
+Centre for Immunity, Infection and Evolution
+United Kingdom
+Are tolerant hosts more likely to be super-shedders of disease?
+poster D20SY15PS1336
+
+Author(s): Vale, PF
+
+Summary: 
+
+Understanding the causes of individual variation in transmission could improve the success of disease management, by allowing to target the most infectious hosts. Disentangling the causes of this variation is challenging in the context of epidemics, but an alternative is to study disease transmission (or transmission potential) under a variety of genetic and environmental contexts in controlled experimental conditions. During infection, hosts may recover by eliminating pathogens (resistance mechanisms) or by controlling damage caused by infection without eliminating pathogens (tolerance mechanisms). Because they suffer less for a given parasite load, very tolerant hosts may experience infections for longer and have more opportunities for disease transmission. I present experimental data from Daphnia-microparasite and rodent malaria systems testing the link between tolerance and transmission potential. These results may be particularly relevant in understanding the epidemiological consequences of anti-virulence therapies of infection, that essentially increase host health without eliminating parasites.
+
+Edyta Podmokla
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Avian malaria parasites and paternity in the blue tit
+poster D20SY15PS0881
+
+Author(s): Podmokla, E, Dubiec, A, Arct, A, Drobniak, SM, Gustafsson, L, Cichon, M
+
+Summary: 
+
+Monogamous bird species commonly adopt extra-pair mating as an alternative reproductive strategy. Since such behavior is potentially associated with very high costs in terms of desertion by the social male, it should be balanced by benefits, which may be either of direct or indirect origin. In the latter case, females may benefit from engaging in mating outside the pair bond if extra-pair males pass to the offspring genes of superior quality. One of the main determinants of individual quality is resistance to parasites. Therefore, if the social mate of the female is parasitized, she might be willing to seek resistance genes for her offspring through matings with other males. However, despite the strong theoretical prerequisites, robust empirical data verifying this prediction is lacking. Here, we test this hypothesis using infection status with malaria parasites as an index of genetic resistance. Blood parasites causing avian malaria (genus Plasmodium and Haemoproteus) are widespread among passerine birds and they may negatively affect fitness of the host by either reducing survival or reproductive success. We verified whether the occurrence of extra-pair offspring in the brood was related to infection status with avian malaria parasites of the social father in the wild blue tit (Cyanistes caeruleus) population characterized by relatively high frequency of extra-pair matings (40% of nests contain at least 1 extra-pair offspring) and approximately 60% infection rate with malaria parasites among adult males and females. Additionally, we examined whether the occurrence of extra-pair young is affected by infection status of the mother and the interaction between the infection status of both social parents.
+
+Yael Keinan
+University of Haifa, Haifa 31905, Israel.
+department of Evolutionary and Environmental Biology
+Israel
+Can parasitoid recognition of hosts be improved by conditioning to host mate-recognition cues?
+poster D20SY15PS0271
+
+Author(s): Keinan, Y, Harari, A, Keasar, T
+
+Summary: 
+
+Species-specific semiochemicals, such as mate recognition pheromones, are often exploited by predators and parasitoids as cues for recognizing their prey. Generalist predators, unlike their prey, respond to pheromones of many prey species. Therefore, generalist natural enemies used for pest management tend to search for alternative prey. This reduces biocontrol efficiency and harms non-target species. We tested whether generalist parasitoids increase parasitism on a specific host after conditioning to its synthetic sex pheromone. Parasitoids learn to associate host presence with related environmental cues. We hypothesized that the efficiency of host search and parasitism would increase at repeated encounter with the learned pheromone odor. Two-phase laboratory experiments tested whether the generalist egg parasitoid Trichogramma cacoeciae (Hymenoptera: Trichogrammatidae) can be conditioned to the synthetic sex pheromone of its host, Lobesia botrana (Lepidoptera: Tortricidae). In the conditioning phase, parasitoids oviposited in L. botrana eggs in the presence or absence of the host's pheromone. In the test phase, wasps of both treatments encountered additional L. botrana eggs, in the presence or absence of the pheromone. Parasitism rates were compared among treatments. Wasps exposed to the pheromone did not increase parasitism rates, neither in the conditioning nor in the test phase. Possibly, the wasps innately responded to the pheromone, which masked their response to conditioning. To examine this possibility, we tried to condition the wasps to rum extract, a neutral olfactory stimulus, foreign to their natural environment. No conditioning occurred in this experiment either, suggesting poor odor learning in T. cacoeciae. We now ask whether chemicals, associated with hosts or host plants, attract the wasps when no conditioning occurs. Olfactometer bioassays are underway to identify environmental cues that guide T. cacoeciae to its L. botrana hosts.
+
+Julien Vézilier
+CEFE CNRS Montpellier
+Evolutionary Ecology
+France
+Deciphering the impact of Plasmodium parasites on bird odorant profile: what makes infected birds more attractive to mosquitoes?
+talk D20SY15RT14:00R4
+
+Author(s): Vézilier, J, Nicot, A, Romain, P, Nicolas, B, Bruno, B, Rivero, A, Gandon, S
+
+Summary: 
+
+It was recently demonstrated, using the avian malaria system (Plasmodium relictum SGS1 lineage), that infected birds are more attractive than non-infected birds to host-seeking Culex pipiens mosquitoes (Cornet et al. 2013 Ecology Letters). These results suggest that malaria parasites might manipulate bird traits that are used by mosquitoes to locate their host. This previous experiment eliminated visual or behavioural cues as potential signals, leaving olfactory cues as the most likely mechanism responsible for this enhanced attractiveness. To elucidate the proximal mechanisms of this fascinating manipulation, we characterised bird odorant profiles before and after a Plasmodium infection. The volatile organic compounds (VOC) emitted by hosts were captured on a solid phase (odour trap) using an innovative experimental setup. Gas chromatography was used for identification (mass spectrometry) and quantification (flame ionization detector) of VOCs. Cx. pipiens mosquito feeding preference (between infected and non infected birds) was simultaneously recorded following the protocol described in Cornet et al.. Here we correlate bird odour profiles and mosquito choice measurements, in order to identify VOC candidates susceptible to manipulation by Plasmodium parasites to render their hosts more attractive to mosquitoes.
+
+Matthew Hartfield
+L’Institut de recherche pour le développement (IRD)
+Laboratoire MIVEGEC
+France
+Determining the effect of Hepatitis C genotype on virus outcome
+talk D20SY15RT17:45R4
+
+Author(s): Hartfield, M, Bull, RA, White, PA, Lloyd, AR, Luciani, F, Alizon, S
+
+Summary: 
+
+Infection by hepatitis C virus (HCV) leads to one of two outcomes, which varies amongst patients. Either the infection resolves itself within a matter of weeks, or it can persist over several years. It is difficult to ascertain to what extent this outcome is determined by the virus genotype itself using transmission networks, as these tend to be poorly known. Recently, phylogenetic methods have been created to estimate the proportion of set-point viral load that is inherited from one HIV-infected patient to the next. Studies found that up to half the variance in this trait is determined by the virus genotype. Here, we aim to investigate whether we can detect a similar signal in HCV infections. We first simulate inheritance of a binary trait outcome along a given phylogenetic tree to predict how traits gather in groups, and explain how these simulations are used to ascertain the virus effect on the infection outcome. Finally, we apply our method to HCV cohort data from Australia to try and detect an effect of virus genotype on whether hosts will clear the virus rapidly or develop a chronic infection. We also investigate whether key host SNPs, which are known to affect HCV infection outcome, affect this measure of inheritance.
+
+Jens Frickel
+Max Planck Institute for Evolutionary Biology
+Evolutionary Ecology
+Germany
+Eco-evolutionary dynamics in host-parasite interactions
+poster D20SY15PS0612
+
+Author(s): Frickel, J, Becks, L
+
+Summary: 
+
+It is known that rapid evolutionary processes can play a critical role in host-parasite interactions. Growing evidence suggests that rapid evolutionary change can influences species interactions and thus population dynamics. Here we present results from an experiment with freshwater algal-virus systems, where we examine the role of evolution on host-parasite dynamics for dozens of generations. We followed population dynamics in long-term chemostat experiments, where Chlorella variabilis populations were infected with Chloroviruses. Additional time shift experiments allowed distinguishing the evolution of new genotypes from phenotypic responses to infections. We found that high virus densities selected for resistant host genotypes but that the resistance comes at a cost of reduced competitive abilities. The trade-off between resistance and reduced competitive abilities resulted then in the coexistence of multiple host genotypes and ultimately in the stabilization of the host-parasite dynamics. Thus rapid evolution of host-resistance not only altered the population dynamics but also the maintenance of different genotypes in the host population. Our results underline the importance of rapid evolutionary change for species interactions and population dynamics even on ecological time scales.
+
+Benjamin Lange
+K U Leuven
+Faculty of Sciences 
+Belgium
+Effects of pathogens and food on host population dynamics in Daphnia magna populations
+talk D20SY15RT15:12R4
+
+Author(s): Lange, B, Reuter, M, Ebert, D, Muylaert, K, Decaestecker, E
+
+Summary: 
+
+In nature, hosts are exposed to a multitude of diseases and a wide range of food qualities and quantities. Hereby, hosts and diseases are in a constant co-evolutionary struggle, which might be influenced by the hosts‘ food intake. This could lead to non-linear responses in host-pathogen interactions. These host food intake dependent host-pathogen interactions on individual level could be translated to the dynamics in populations. Nevertheless, food and disease effects are usually studied independently. So far, prediction models from host individual to population level exist, which either predict food or disease effects, but not effects of both factors at the same time. To fill this gap, a new mathematical model was developed. Due to its characteristics, the model can additionally be used to inversely predict individual level host parameters from population parameters. The given predictions were then compared to the results of life history and population experiments. Therefore, we tested the crustacean model organism Daphnia magna, which offers a wide range of pathogens and foods. We concluded, that population parameters can be successfully predicted from single host parameters and vice versa, depending on specific host, disease and food properties.
+
+Michaël Moens
+Faculty of Biological Sciences of the Complutense University of Madrid
+Department of Zoology and Physical Anthropology
+Spain
+Evolution of a generalist assemblage of blood parasites in a megadiverse community of tropical birds
+poster D20SY15PS1437
+
+Author(s): Moens, M, Pérez Tris, J
+
+Summary: 
+
+Studies on host specificity and its underlying mechanisms are fundamental to understand the architecture of biodiversity and to predict the risks of host switching, which are especially important in conservation issues. Here we test the hypothesis that avian Plasmodium and Haemoproteus blood parasites have a tendency to be generalists when they face a mega diverse host environment, which is expected from the elevated costs of finding a specific host. We investigate if Haemoproteus parasites, which are usually more host specific than Plasmodium parasites, are more generalist in a megadiverse bird community in Southern Ecuador. We collected a diverse sample set of 345 wild birds, belonging to 89 species and 21 families and detect a total prevalence of 16.2%. We identify 21 parasite lineages with a wide phylogenetic distribution within the lineages known worldwide, of which 17 appear to be new. We report high levels of host generalization for Plasmodium and Haemoproteus, and the mean host range of Haemoproteus in this tropical bird community is the highest documented to date compared to similar samplings throughout temperate and tropical areas. These findings suggest that the evolution of generalist Haemoproteus and Plasmodium parasites could be favored in megadiverse bird communities. In these environments, generalist parasites may accrue benefits from the amplification effect associated with the exploitation of various host species, while parasite specialization in single host species may be penalized by severely reduced host availability.
+
+Sophie Armitage
+University of Münster
+Institute for Evolution and Biodiversity
+Germany
+Examining the role of Dscam (Down syndrome cell adhesion molecule) in immune defence in two insect models
+poster D20SY15PS0335
+
+Author(s): Armitage, SAO, Peuß, R, Woestmann, L, Wensing, K, Scharsack, J, Kurtz, J
+
+Summary: 
+
+Individual variation in defence can be based on genetic and phenotypic variation in host immune genes. An effective immune response needs to specifically recognise and act against numerous parasites. One way that a host can evolve diversity in immune recognition and effector molecules is through alternative splicing, potentially resulting in variation in gene expression at the individual level. It has been proposed for crustaceans and insects that the alternatively spliced gene Dscam, might be involved in specific immune responses against diverse parasites. Factors in the immune signalling pathways, Imd and Toll, can affect Dscam splice variants, but evidence from the literature appears to be scarce and inconsistent with respect to the effect of parasites on total Dscam mRNA expression. In a first experiment we therefore tested whether Dscam expression is increased after bacterial immune challenge in the red flour beetle, Tribolium castaneum, and the fly, Drosophila melanogaster. In a second experiment we tested whether there is a life-history cost at the individual level of Dscam knock-down in T. castaneum. We predicted that if Dscam is involved in immunity that it would result in reduced survival after a bacterial immune challenge, and given that Dscam has previously been found to be expressed in the gonads and is vital for nervous system development we predicted that there may be a fecundity cost to the knock-down. Our results take a step towards understanding a little more about the role of this intriguing gene in relation to host-pathogen interactions.
+
+Claudio Valero-Jiménez
+Wageningen University
+Laboratory of Genetics
+Netherlands
+Exploring natural variation of entomopathogenic fungi in controlling malaria mosquitoes
+poster D20SY15PS1050
+
+Author(s): Valero-Jiménez, CA, Koenraadt, CJM, Takken, W, Zwaan, BJ
+
+Summary: 
+
+Malaria is a vector-borne disease that causes a huge burden to humanity, causing around 600 thousands deaths each year, of which 80% are children under the age of five years. Action to interrupt malaria transmission can be achieved by drugs and vector control. Current tools for vector control involve the use of insecticides though impregnated bed nets (ITNs) or indoor residual spraying (IRS). Unfortunately, these strategies have limitations because of the rapid spread of insecticide resistance in mosquitoes. New tools have to be employed to effectively combat malaria, such as entomopathogenic fungi that could be more sustainable and safe for the environment. To make this approach more effective and evolution proof, is crucial to study the components and mechanisms of fungal virulence by exploring the potential development of fungal resistance by the mosquito. We focus on the cosmopolitan fungus Beauveria bassiana which has already been successfully tested in field-based trials. In this study we characterized the natural variation of virulence of 20 isolates of B. bassiana that come from distinct regions of the world against the malaria mosquito Anopheles gambiae. Our results showed pronounced differences in virulence between isolates. Interestingly, there was no clear trend concerning geographic origin of isolates and virulence. We further evaluated the relationships between virulence and several fungal characteristics such as spore size, hyphal growth, UV resistance and conidiation production, among others. The contribution of these components to the overall virulence is elucidated. This study highlights the need of further multidisciplinary approaches for understanding the interaction among the many mechanisms shaping the virulence of B. bassiana against the insect An. gambiae.
+
+Anti Vasemägi
+University of Turku
+Dept. of Biology
+Finland
+Field physiology meets genomics: the effect of proliferative kidney disease on host physiology and thermal tolerance in wild brown trout
+poster D20SY15PS1349
+
+Author(s): Vasemägi, A, Bruneaux, M, Gross, R, Primmer, CR
+
+Summary: 
+
+Understanding how genetic and environmental factors influence the response of the host against parasites in controlled laboratory conditions has been an active area of research for decades. However, relatively little is known about the physiological effects and genetic mechanisms of the host defence in wild populations in their natural environment. Here, we measured the effect of the proliferative kidney disease-causing parasite T . bryosalmonae on the physiology and performance of the host, wild brown trout. We estimated the effect of the parasite on host physiology by quantifying kidney swollennes, hematocrit and different white blood cell parameters in 0+ juvenile brown trout and tested whether PKD have negative effect on upper thermal tolerance and aerobic scope of the host. We also constructed a pedigree using microsatellite markers and used animal models to estimate the heritabity of the physiological traits. Finally, we used a high-throughput SNP chip and association mapping approach to identify genomic regions that affect the severity of PKD. This work demonstrates how integration of physiological, quantitative genetic and genomic approaches can reveal novel insights about disease in wild.
+
+Anna Dubiec
+Museum and Institute of Zoology, Polish Academy of Sciences
+Poland
+Fitness consequences of infection with malaria parasites in the great tit – the medication experiment
+poster D20SY15PS1430
+
+Author(s): Dubiec, A, Podmokla, E, Zagalska-Neubauer, M, Gustafsson, L
+
+Summary: 
+
+Malaria parasites are one of the most common and widespread parasites among bird species. While severe negative effects of these haemosporidians on host fitness have been observed in naïve populations and domestics birds, the effects in wild avian populations have been generally difficult to detect, because the majority of individuals hold chronic infections. To investigate the consequences of infection with malaria parasites for the parameters of reproductive success in the small hole-nesting passerine – the great tit (Parus major), we medicated the group of females at the early stage of the nesting cycle. The study was conducted in the population with a very high prevalence rate with over 80% of females being infected with at least one parasite lineage (genera Haemoproteus and Plasmodium) at the beginning of the breeding season. During two years females were caught at the nest building stage and injected intraperitoneally either with an antimalarial drug - primaquine, or with a physiological salt. Reproductive performance of birds from the two groups was characterized with clutch initiation date, clutch size, egg size, nestling body mass 2 days post-hatching and fledgling body mass and tarsus length. Clutches laid by primaquine- and physiological salt-injected females did not differ in initiation dates, egg number and size nor there was a difference in body size of nestlings. This data suggest the lack of observable fitness effects of malaria parasites in the study population of great tits.
+
+Lena Wilfert
+University of Exeter
+Centre for Ecology and Conservation
+United Kingdom
+Genetic specificity in an insect virus interaction
+poster D20SY15PS0892
+
+Author(s): Wilfert, L, Magwire, M, Jiggins, FM
+
+Summary: 
+
+Coevolutionary arms races are predicted to lead to rapid evolutionary changes in both competing partners, with the host evolving resistance mechanisms giving rise to counter-adaptations in the parasite and vice versa. This process may lead to specificity in genetic interactions, where the outcome of an infection depends on the genotype of both the host and parasite. We have studied the genetic basis of resistance to parasite replication in an insect virus. The sigma virus is a natural parasite of Drosophila melanogaster, which is vertically transmitted and tightly coevolved with its host. We mapped a major-effect polymorphism previously known as the ref(3)d locus to a region containing the two paralogous genes CHKov1 and CHKov2. In a panel of inbred fly lines, we found that a transposable element insertion in the protein coding sequence of CHKov1 is associated with increased resistance to infection. This resistant allele has rapidly increased in frequency under directional selection and is now the commonest form of the gene in natural populations. Using genetic mapping and site-specific recombination, we identified a third genotype with considerably greater resistance that is currently rare in the wild. By screening a panel of wild viral isolates, we found that there is indeed evidence for a viral counter-adaptation to this resistance genotype. Candidate mutations for this phenotype include a non-synonymous mutation in the m-gene, which produces the viral matrix. This currently rare viral variant illustrates how parasites can rapidly overcome host resistance mutations.
+
+Roberto Arbore
+University of Basel
+Zoological Institute
+Switzerland
+Genetics of feeding behaviour in Daphnia magna and its influence on infection risk
+poster D20SY15PS1146
+
+Author(s): Arbore, R, Andras, J, Roulin, A, Ebert, D
+
+Summary: 
+
+Pond sediments represent a primary source of infective stages of parasites of planktonic organisms. The time and the type of interaction with the sediment are therefore important determinants of infection risk. The fresh water planktonic crustacean Daphnia magna exhibits a highly variable and heritable phototactic behaviour which influences the time spent in proximity of the sediment. It has been shown that clones that spend more time nearer the sediment have a grater risk of infection. Even if suspension feeding is the primary feeding mechanism in D. magna, an alternative behaviour has been described in which small amounts of sediment are stirred up and filtered. This behaviour is expected to increase the encounter rate with parasite infective stages harboured in the sediment and, therefore, infection risk. In the present study we are testing this hypothesis by assessing the heritability of the behaviour and by measuring the infection rates of D.magna clones with different feeding behaviours, exposed to sediment banks of resting spores of the bacterial parasite Pasteuria ramosa. The study is being performed on a large number of clones derived from a quantitative trait loci (QTL) panel. This design allows us to explore the genetic mechanisms underlying the feeding behaviour of D. magna, an ecologically relevant trait expected to influence infection risk in natural environments.
+
+Ayco Tack
+University of Helsinki
+Department of Biosciences
+Finland
+Genotype and spatial structure shape pathogen dispersal and disease dynamics at small spatial scales
+talk D20SY15RT16:33R4
+
+Author(s): Tack, AJM, Laine, A
+
+Summary: 
+
+Many devastating pathogens are passively dispersed, and their epidemics are characterized by variation that is typically attributed to environmental factors. Here, by combining laboratory inoculations with wind tunnel and field trials using the wind-dispersed pathogen Podosphaera plantaginis, we demonstrate striking genetic variation affecting the unexplored microscale (<2 m) of epidemics. Recipient and source host genotypes, as well as pathogen strain explain 6-33% of variation of the three key dispersal phases: departure, movement and settlement. Moreover, we find genotypic variation affecting group size of the pathogen dispersal unit, ultimately resulting in increased disease development on hosts nearby the infection source. Together, our results show that the genotypic variation may generate considerable variation in the rate of disease spread through space and time with disease hotspots evolving around initial foci. Furthermore, the extent of genetic variation affecting the entire dispersal process confirms that these traits may be targeted by selection.
+
+Katja-Riikka Louhi
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Genotypic and phenotypic variation in transmission traits of a trematode parasite
+poster D20SY15PS0191
+
+Author(s): Louhi, K, Karvonen, A, Rellstab, C, Jokela, J
+
+Summary: 
+
+Understanding the processes that maintain genetic variation in transmission traits of parasites is important as they are directly related to evolution of transmission efficiency and virulence. In addition to variation among parasite genotypes, environmental factors such as the condition of the previous host may also affect infection success of the parasite in the next host. The life cycle of many macroparasites includes multiple consecutive hosts and clonal stages that replicate within intermediate hosts. Parasites that have a clonal reproduction stage in their life cycle provide interesting opportunities to test to what extent variation in life-history traits has a genetic basis. This is because both environmental and genetic sources of variation are present in life-history traits among individual clones whereas variation in life-history traits of one clone should result only from environmental effects. In this study we measured transmission traits (i.e. production, activity, infection success and survival of the transmission stages) of parasite clones (Diplostomum pseudospathaceum), and tested experimentally whether manipulation of the external environment (food deprivation of the snail host) could explain variability in these traits. All measured traits were highly variable among the parasite clones prior to the food-treatment indicating significant genetic variation in these traits. Importantly, the traits were also phenotypically variable as there was marked temporal variation in the traits within each individual clone. However, food deprivation of the snail hosts had little effect on the parasite traits suggesting that a short-term reduction in host resources was not limiting the production rate or performance of the parasite clones . Overall, these results suggest significant interclonal and phenotypic variation in parasite transmission traits that are not affected by short changes in host nutritional status.
+
+Marcel Salathe
+Penn State University
+Department of Biology
+United States
+Heterogeneity in contact networks and its effect on disease dynamics
+talk D20SY15IT15:45R4
+
+Author(s): Salathe, M
+
+Summary: 
+
+Host contact networks are the roadmaps of infectious disease spread. Much theoretical work has clarified which structural aspects about the networks are important for disease dynamics prediction, but progress has been hampered by a lack of data. Recently, however, novel technologies have allowed to measure host contact networks in great detail. In this talk, I'll give an overview of the field with equal time devoted to theoretical and empirical results.
+
+Ben Ashby
+University of Oxford
+Department of Zoology
+United Kingdom
+Host-parasite coevolution: local interactions can limit the severity of fitness costs associated with range expansion
+talk D20SY15RT18:57R4
+
+Author(s): Ashby, B
+
+Summary: 
+
+Many host-parasite systems are known to undergo coevolutionary arms races, where reciprocal increases in attack and defence mechanisms can lead to the emergence of broader resistance and infectivity ranges through time. Recent studies have identified that the extent of population mixing can play a crucial role in host-parasite interactions and can shape the coevolution of many traits, including range expansion. Much of this existing theory is based on the analysis of metapopulations, which incorporate a certain degree of spatial structure, but do not capture local interactions between individuals within subpopulations. These local interactions are known to be critical in many epidemiological scenarios, but their role in the coevolution of resistance and infectivity ranges is unclear. Here, we explore how the impact of fitness costs associated with range expansion is affected by the degree of population mixing at these very fine scales. We present results from an individual based model of microbial communities that incorporates a well-established framework of genetic specificity matching empirical observations of range expansion among bacteria and phage. We show that global competition in well-mixed populations leads to rapid selective sweeps, preventing range expansion at high fitness costs. In spatially-structured environments however, we find that local competition and spatial clustering can maintain coevolutionary arms races even when fitness costs are high. These findings highlight the importance of local interactions between individuals in shaping coevolutionary dynamics.
+
+Vanika Gupta
+Indian Institute of Science Education and Research Mohali
+Department of Biological Sciences
+India
+Immunity evolves without extracting cost from other life history traits in Drosophila melanogaster
+poster D20SY15PS1319
+
+Author(s): Gupta, V, Venkateshan, S, Ali, Z, Prasad, NG
+
+Summary: 
+
+Maintenance and deployment of immune system are costly in terms of the amount of resource consumed and has been predicted to trade-off with other resource demanding traits, such as reproduction. However, very few empirical studies have investigated this implicated trade-off surrounding evolution of immunity. We were interested in studying the changes in investment patterns of fruit flies when selected for survival (or better resistance) against a different gram – negative pathogen Pseudomonas entomophila. We subjected this long standing idea to test using laboratory experimental evolution approach. In the present study, replicate populations of Drosophila melanogaster were subjected to three selection regimes – I (Infection with Pseudomonas entomophila), S (Sham-infection with MgSO4) and U (Unhandled Control). Flies surviving the infection four days post – infection are the progenitors for next generation. After >5 generations of selection we observed the flies from the I-regime to have evolved increased resistance to P. entomophila in the form of better survivorship upon infection. However, contrary to the theoretical predictions and at least one previous report, we did not find any evidence of trade-offs between immunity and with other life-history related traits, such as fecundity and longevity. Thus, it becomes important to study different host – pathogen systems in order to have a better understanding of evolution of immunity.
+
+Flore Zélé
+CNRS - UMR 5290
+MIVEGEC
+France
+Implication of Wolbachia on avian malaria (Plasmodium relictum) transmission by Culex pipiens mosquitoes
+talk D20SY15RT14:24R4
+
+Author(s): Zélé, F, Nicot, A, Cornet, S, Duron, O, Rivero, A
+
+Summary: 
+
+In recent years, there has been a shift in the one host one parasite paradigm with the realization that, in the field, most hosts are co-infected with multiple parasites. This question is particularly relevant when the host is a vector of diseases, because multiple infections can have drastic consequences for parasite transmission at both the ecological and evolutionary time scales. Wolbachia pipientis is the most common parasitic microorganism in insects and as such it is of special interest for understanding the role of coinfections in the outcome of parasite infections. We have investigated whether Wolbachia can modulate the Plasmodium infection success and its effect on different life history traits of mosquitoes, such as adult’s size, fecundity and on what is, arguably, the most important component of the vectorial capacity of mosquitoes: their longevity. For this purpose, and in contrast to recent studies that have focused on mosquito-Plasmodium and/or mosquito-Wolbachia combinations not found in nature, we work on a Wolbachia-Culex pipiens-Plasmodium triad with a common evolutionary history. To explore different mechanistic explanations for our results, we have also carried out different experiments in which we investigated whether Wolbachia or Plasmodium can modulate the energetic budget and the immune response of mosquitoes. Further, we discuss different evolutionary explanations as well as their consequences for Plasmodium transmission.
+
+Line Ugelvig
+IST Austria (Institute of Science and Technology)
+Evolutionary Biology
+Austria
+Individual variation in collective disease defenses of ants
+poster D20SY15PS0560
+
+Author(s): Ugelvig, LV, Cremer, S
+
+Summary: 
+
+Pathogen transmission tends to increase with host density, relatedness and interaction frequencies among potential hosts. Disease defenses are thus particularly important in taxa like the eusocial ants, bees, wasps, and termites, which in turn have evolved sophisticated collective disease defenses. These defenses require the collective performance of several individuals. Variation among individuals in the propensity or frequency to perform these tasks, means that colonies may differ in their effective collective disease defenses based on group composition. It is known that honeybee workers respond differently to diseased brood based on their olfactory sensitivity, which has a genetic underpinning (e.g. patriline). A naturally high degree of multiple mating by honeybee queens thus translates into colony-level effects, where colonies that comprise large proportions of “hygienic” workers are more resistant to parasites and pathogens. We could recently show that – also in ants – collective antiseptic behaviors seem to be affected by the underlying genetics, as the response onset to diseased brood differed between genetically homogenous single-queen colonies and diverse multi-queen colonies. To understand whether individual variation in pathogen detection abilities underlies such behavioral responses at the colony level, we tested the olfactory sensitivity of, and variation among, ant workers from genetically homogenous versus diverse colonies.
+
+Steven Hamblin
+University of New South Wales
+School of Biotechnology and Biomolecular Sciences
+Australia
+Individual variation in viral life history
+poster D20SY15PS0252
+
+Author(s): Hamblin, SR, Tanaka, MM
+
+Summary: 
+
+Viruses attacking a host face life-history trade-offs in terms of their rate of reproduction (virulence) and their mutation rate, which can lead to advantageous and deleterious mutations that aid in immune escape and transmission or kill the virus. Though it is known that life history trade-offs can have strong effects on mutation and reproductive rates, few models addressing this problem have studied the role of individual variation in viral life history traits. In particular, we investigate optimal reproductive and mutation rates for viruses over the span of their host-pathogen interaction and ask whether individual variation in life history traits can be maintained. To address these questions, we extend population-level research on viral mutation rates and quasispecies interactions, and present the results of mathematical modelling and evolutionary simulations; we conclude by discussing the implications of our results for the study of viral evolution and medical treatment.
+
+Hendrik Eggert
+WWU Münster
+Germany
+Is there horizontal immune transfer in non-social but group-living insetcs?
+poster D20SY15PS0111
+
+Author(s): Eggert, H, Peuß, R, Joop, G, Kurtz, J, Armitage, S
+
+Summary: 
+
+Social immunity has evolved as an additional level of defense in social insects. Since they live in densely populated colonies of related individuals their risk of infection is high. Social immunity therefore is an upgrade in protection against parasitic attack, on top of individual immunity. Of special interest is the horizontal transfer of immunological protection between individuals as a relevant component of social immunity. Since group-living insects, especially when aggregated in high numbers, share similar risks of infection as social insects, we hypothesize, that horizontal transfer of immunity may also be found in group-living, but non-social insects. To test this, we used the Red Flour Beetle Tribolium castaneum. The beetles live in highly populated densities and have been shown to alter their environment by secreting quinones into the flour as a form of cooperative defense against microbes. Moreover, vertical transfer of immunity (i.e. from parents to offspring) has previously been demonstrated in this species. We cohabitated naive beetles with conspecifics that were either wounded (to activate their immune system) or left naïve. By comparing several immune traits, we found that an activated immune status was transferred to conspecifics. The transfer of an activated immune status among individuals might be an important component of the defense level of a population.
+
+Veerle Lemaire
+Faculty of Science of the KU Leuven
+Department of biology
+Belgium
+Local co-adaptation between a toxic primary producer and a herbivore in the aquatic: Microcystis and its grazer Daphnia magna
+poster D20SY15PS0587
+
+Author(s): Lemaire, V, De Meester, L
+
+Summary: 
+
+Recently, strong genotype x genotype interactions between the freshwater cyanobacterium Microcystis and its grazer, the large zooplankton species Daphnia, were demonstrated, reflecting a strong association: Microcystis may intoxicate and kill Daphnia, but Daphnia populations can graze on Microcystis nonetheless, genetically adapting and withstanding its toxins. As this genetic specificity of grazer-prey compatibility is a strong indication of close coevolution between Daphnia and Microcystis, we hypothesize there is local co-adaptation in this system: in order to persist, Daphnia clones would have to possess the right combination of tolerance mechanisms to tackle the exact set of anti-grazer defenses the local Microcystis strains have lined up. In this study we set out to quantify the degree of local co-adaptation between Daphnia and Microcystis populations on a subcontinental scale (Belgium vs. Sweden). In a small laboratory experiment, designed to cross-compare sympatric and allopatric Daphnia-Microcystis pairs, we exposed two Daphnia magna genotypes from a Swedish and a Belgian lake to two allopatric and two sympatric Microcystis strains isolated from the same lakes as the Daphnia clones in a full factorial design. We found significant patterns consistent with our hypothesis that Daphnia clones are better able to cope with sympatric than allopatric Microcystis strains. From these results, we could conclude that Daphnia magna populations are indeed adapted to the local Microcystis strain composition, and capable of withstanding reasonable amounts of cyanobacteria in their diet.
+
+Tuomas Aivelo
+University of Helsinki
+Institute of Biotechnology
+Finland
+Longitudinal study of intestinal nematode parasite dynamics in free-ranging brown mouse lemurs (Microcebus rufus)
+poster D20SY15PS0284
+
+Author(s): Aivelo, T, Laakkonen, J, Jernvall, J
+
+Summary: 
+
+Longitudinal studies on the parasite community dynamics in free-ranging mammals are challenging. By mark-recapturing 381 individual mouse lemurs over several years in Ranomafana National Park, Madagascar, we have tracked changes in the parasitic nematode community longitudinally. We have collected detailed data on host morphometrics, age, reproductive status, parasites loads, habitat, population structure, and fecal nematodes. Nematoda is the most specious group of intestinal helminths, but their identification is difficult based on morphology alone. Therefore, we have developed a new pipeline to recognize operational taxonomic units (OTUs) by isolating the nematode larvae from feces, pyrosequencing 450 bp segment of 18S and assigning the resulting sequences to OTUs and tentative species. The same protocol was used for collecting parasite data on other sympatric mammals, including lemurs, endemic rodents and invasive species, for example black rat (Rattus rattus). Mouse lemurs hibernate during the austral winter and in post-hibernation individuals the nematode prevalence is markedly lower and the composition differs from the rainy season. During onset of the rainy season, the nematode prevalence was found to reach 95 percent. Our preliminary genomic data shows that mouse lemurs have multiple different OTUs, one of which is the most prevalent. There are substantial differences in the nematode composition in the sympatric species and the endemic rodents have much lower prevalence of the nematodes compared to the mouse lemurs or the invasive species.
+
+Stineke Van Houte
+Wageningen University
+Plant Sciences Group
+Netherlands
+Mechanisms of caterpillar behavioural manipulation by two virus species: spot the difference
+poster D20SY15PS0794
+
+Author(s): Van Houte, S, Ros, VID, Vlak, JM, Van Oers, MM
+
+Summary: 
+
+Baculoviruses are known to manipulate the behaviour of their caterpillar hosts, by inducing hyperactivity and altered climbing behaviour. To date, however, knowledge on parasitic genes governing such behavioural manipulations is scarce. Previously we have shown that the baculovirus Autographa californica nuclear polyhedrovirus (AcMNPV) induces hyperactive behaviour in Spodoptera exigua caterpillars, and that the viral protein tyrosine phosphatase (ptp) gene is a key player in the induction of hyperactivity. However, this gene is present in only a subset of phylogenetically related baculoviruses, while it is hypothesized that also baculoviruses that do not carry ptp are able to manipulate behaviour, possibly induced by a different viral gene. We compared behavioural changes in Spodoptera exigua caterpillars induced by two baculovirus species: the generalist AcMNPV (carrying ptp) and the specialist SeMNPV (not carrying ptp). We discuss the possible (difference in) mechanism that these two viruses use to manipulate behaviour in the context of host-pathogen coevolution.
+
+Francisco Dionisio
+Faculty of Sciences - Lisbon University
+Plant Biology
+Portugal
+Mutualistic parasites
+poster D20SY15PS0932
+
+Author(s): Dionisio, F, Gama, JA, Domingues, IL, Reis, AM, Mendes-Soares, H, Matos, AM, Carvalho, AFP
+
+Summary: 
+
+We are going to analyze the hypothesis that organisms may use their pathogens for their own benefit: to infect other organisms of the same species. Across History, one can find several examples of humans gaining advantage in warfare using microorganisms. For example, in the Middle Ages victims of infections could themselves become weapons: they were simply catapulted into towns. We will discuss whether bacteria can use their temperate viruses as biological weapons. Temperate viruses are able to be kept in a dormant stage inside a bacterial cell, being vertically transmitted to bacterial progeny during bacterial replication. Sometimes (but rarely), a virus present in one of these bacterial cells “awakes” and starts self-replicating, leaving the cell in big numbers. Cells bearing dormant viruses (called lysogens) are not re-infected by the same virus. Therefore, these viruses, one integrated in the bacterial chromosome, may be used as <>. With Escherichia coli bacterial cells and the lambda virus, we present data showing that this is indeed possible. However, the best conditions for that (enabling massive virus multiplication among sensitive bacterial cells) are also the best conditions for the integration of the virus into the bacterial chromosome (lysogenization). We further discuss the generality of this experimental result.
+
+Hanna Kinnula
+University of Jyväskylä, Faculty of Mathematics and Science
+The Department of Biological and Environmental Science
+Finland
+Nutrient and bacterial doses affect virulence and host-specificity of the opportunistic fish pathogen Flavobacterium columnare
+poster D20SY15PS0278
+
+Author(s): Kinnula, H, Mappes, J, Valkonen, J, Bamford, J, Pulkkinen, K, Penttinen, R, Sundberg, L
+
+Summary: 
+
+Flavobacterium columnare is a gram-negative bacterial pathogen that causes columnaris disease in freshwater aquaculture. Columnaris outbreaks occur at fish farms during summer months and may cause mortality up to 100 %. Virulence of environmental isolates of F. columnare has been found to be lower than those isolated during disease outbreaks at fish farms. In order to understand factors selecting for the higher virulence at fish farms, we studied if the bacterial dose, exposure time (transient or continuous), or nutrients have an effect on the virulence of F. columnare. Three F. columnare strains were used in two separate experiments: a non-virulent strain B398 isolated from the lake and two virulent strains from disease outbreaks (B185 and B67). In the first experiment zebrafish (Danio rerio) and rainbow trout (Oncorhynchus mykiss) fingerlings were individually infected with bath immersion (transient challenge) with 9 different doses of bacterial strains B185, B398, and a mixture of these strains. In the second experiment the bacteria (strains B185, B398 and B67) were added in three doses directly into aquaria (continuous challenge) where zebrafish and rainbow trout were maintained. Longevity of fish was monitored for five days in both experiments, and the infection verified by bacterial culture from gills.
+We found bacterial dose to have a positive effect on mortality of both fish species. Increase in nutrients had a significantly positive effect on columnaris infection and fish mortality. The non-virulent strain was able to infect the fish when introduced in continuous exposure, but not in transient challenge. Our results suggest that the continuous exposure to bacteria at fish farms combined with a high nutrient level can promote virulence also in environmental non-virulent bacteria. In addition, the zebrafish can be used as a functional model host to study F. columnare virulence and infection dynamics in the laboratory.
+
+Kristina Karlsson Green
+University of Helsinki
+Department of Biosciences
+Finland
+On the multitrophic interactions between a fungus, a plant and two insect species
+poster D20SY15PS1106
+
+Author(s): Karlsson Green, K, Van Nouhuys, S, Saastamoinen, MAK, Laine, A
+
+Summary: 
+
+In the archipelago of Åland, Finland, lives the Glanville fritillary butterfly, Melitaea cinxia– a well-known model species for metapopulation studies. One of M. cinxia’s host plants, the ribwort plantain Plantago lanceolata, is also host to the powdery mildew fungus Podosphaera plantaginis. Both M. cinxia and P. plantaginis persist as metapopulations in Åland and some local butterfly populations inhabit patches where P. lanceolata is infected by P. plantaginis. It is known from previous studies that development of M. cinxia larvae is affected by mildew infected diet and, interestingly, a parasitoid wasp, Cotesia melitaearum, that uses M. cinxia as its host, is also affected by the presence of mildew in the host diet. Thus, the powdery mildew indirectly affects the higher trophic levels in this community of different hosts and exploiters. In an ongoing study, we investigate the ability of butterflies and parasitoids to tolerate the mildew effects by taking the natural variation within local populations into account. With a feeding experiment, we compared larvae from butterfly populations that have, or have not, been exposed to mildew infection in the past years. Preliminary results indicate that larvae groups originating from populations with different mildew history, responded differently to the diet treatment. However, this interaction between diet and population history does not show a clear-cut pattern and might need to be interpreted with caution. Interestingly, if population mildew history is not taken into account, there is an interaction effect by parasitism and diet on weight at diapause. In addition, parasitised butterfly larvae in general develop faster and weigh more at diapause than non-parasitised larvae. Currently, the effects on C. melitaearum itself, of developing in hosts fed on mildew-infected diet, are being addressed.
+
+Charlotte Rafaluk
+Zoological Institute, University of Kiel
+Germany
+Out running the Red Queen? Host extinction as a result of host- parasite coevolution
+poster D20SY15PS1038
+
+Author(s): Rafaluk, CE, Mitschke, A, Schulenburg, H, Joop, G
+
+Summary: 
+
+One prediction of host-parasite coevolution is that the virulence of the pathogen may change as it adapts to its host in a way that maximises its reproductive success and transmission potential. This has indeed been demonstrated in several controlled laboratory coevolution experiments, with both reductions and increases in virulence being seen. The majority of coevolution experiments, however, use discrete host generations taking only a limited number of usually uninfected hosts to start the next generation. Parasite generations are also often, to some extent, discrete, often being extracted from dead or infected hosts to start the next generation, discarding any spores or longer lasting parasite stages that made their way into the environment. For spore forming parasites, however, this is quite different from the likely natural scenario, where spores can survive for long periods of time in the environment and therefore may obtain the greatest evolutionary benefit by getting as many spores into the environment as possible. If under experimental conditions only spores from dead individuals are taken to the next generation, this benefit is not realised, potentially resulting in an outcome, substantially different to what might be seen in nature. I carried out a coevolution experiment using the red flour beetle, Tribolium castaneum, and its natural microsporidian pathogen, Paranosema whitei, with an overlap in host generations. Flour from the beetles’ environment, including any spores which made their way into it, was also transferred from generation to generation. Three treatments with different starting pathogen concentrations and a pathogen free control were used. In all cases coevolution resulted in extinction of the host population, with a pronounced increase in virulence being seen.
+
+Jessica Delhaye
+university of lausanne
+ecology and evolution
+Switzerland
+Oxidative stress in breeding Great tit (Parus major) infected by Plasmodium spp.
+poster D20SY15PS1460
+
+Author(s): Delhaye, J, Jenkins, T, Christe, P
+
+Summary: 
+
+The physiological mechanisms involved in the cost of reproduction are poorly understood. In addition, the interaction between reproduction and infection with pathogens is still not resolved. Birds infected with pathogen may be more impacted by physiological mechanisms such as oxidative stress, because of the double physiological cost of reproduction and resistance to pathogens. In this case, an increased metabolism is expected and should lead to a physiological stress involving higher oxidative stress driven by an increased in oxidant production, a higher antioxidant recruitment and/or more oxidative damage to biomolecules. Here, we investigated the effect of reproductive investment and infectious status on parental oxidative stress measures in three wild populations of the great tit, Parus major, naturally infected by Plasmodium spp. Different physiological measures involved in both oxidant production and resistance to oxidative stress were taken from parents when chicks were 14 days old: erythrocyte superoxide production, a proxy of erythrocyte mitochondria quantity (cardiolipin content), and erythrocyte membrane resistance to oxidative attacks. We found a sex dependent effect of reproductive effort on membrane resistance. We also found that parental infection with Plasmodium spp. was linked to an increased production of superoxides, which in turn indirectly decreased membrane resistance. This study suggests that breeding birds incur an additional physiological cost of reproduction linked to infection with malaria parasites.
+
+Yael Dagan
+George S. Wise Faculty of Life Sciences, Tel Aviv University
+Department of Zoology
+Israel
+Parasite-mediated selection promotes clonal diversity in a freshwater snail
+poster D20SY15PS0555
+
+Author(s): Dagan, Y, Liljeroos, K, Jokela, J, Ben-Ami, F
+
+Summary: 
+
+Sexual reproduction is ubiquitous among multicellular eukaryotes despite the many disadvantages of sexual reproduction compared to asexual reproduction. One of the most prominent hypotheses to explain the ubiquity of sex is the Red Queen hypothesis, which postulates that parasites track common host genotypes, giving rare host genotypes an advantage. Sexual reproduction is advantageous because it results in the production of genetically variable progeny, some of which may have rare genotypes and thus evade infection. However, in the face of genetically diverse asexual lineages, this advantage of sexual reproduction may be eroded and instead sexual populations would be replaced by diverse assemblages of clonal lineages. We investigated whether parasite-mediated selection promotes clonal diversity in 22 natural populations of the freshwater snail Melanoides tuberculata. We found that infection prevalence explains the observed variation in the clonal diversity of M. tuberculata populations, while no such relationship was found between infection prevalence and male frequency. Clonal diversity and male frequency were independent of snail population density. Incorporating ecological factors such as presence/absence of fish, habitat geography and habitat type did not improve the predictive power of regression models. Over 10% of the clonal snail genotypes were shared among 2-4 populations, creating a web of 17 interconnected populations. Taken together, our study suggests that parasite-mediated selection coupled with host dispersal ecology promotes clonal diversity. This, in return, may reduce the advantage of sexual reproduction in M. tuberculata populations.
+
+Simon Fellous
+CBGP INRA
+France
+Parasites in patchy environments: genetic influence on parasite dispersal, local spread and establishment
+talk D20SY15RT16:57R4
+
+Author(s): Fellous, S, Duncan, A, Quillery, E, Vale, P, Kaltz, O
+
+Summary: 
+
+Because host populations are generally sub-divided, the epidemiology of a parasite often depends on its ability to disperse among host sub-populations and successfully invade them. To investigate the factors that determine host-mediated parasite dispersal and its subsequent transmission we carried our microcosm experiments with the bacterial parasite Holospora undulata and its host, the fresh-water ciliate Paramecium caudatum. We found that (i) the dispersal of infected hosts largely depended on both host and parasite genotypes (but not their interaction), suggesting disease spatial dynamics varies with the genetic composition of local sub-populations. Besides, (ii) shortly after the arrival of infected hosts into a healthy population parasite success was determined by the genotype of the carrier hosts and its interactions with that of the parasite and the resident hosts. This further highlights the importance of host genotype for parasite dynamics among host sub-populations. (iii) After a couple of transmission cycles, parasite genotype, in combination with resident host genotype, gained influence, matching classical ideas of parasite transmission. It thus appears that different genetic factors play on parasite dispersal between groups of hosts, its short-term spread and longer-term establishment. This study also demonstrates the role of carrier host genotype for parasite dispersal and transmission among and within host sub-populations.
+
+Edze Westra
+Wageningen University
+Laboratory of Microbiology
+Netherlands
+Phage response to prokaryotic CRISPR defense
+poster D20SY15PS1408
+
+Author(s): Westra, E, Hoegh, S, Van Sluijs, L, Buckling, A
+
+Summary: 
+
+Adaptive immune systems in prokaryotes are centered around repetitive loci called CRISPRs (clustered regularly interspaced short palindromic repeat), into which invader DNA fragments are incorporated (reviewed in [1]). CRISPR transcripts are processed into small RNAs that guide CRISPR-associated (Cas) proteins to invading nucleic acids by complementary base pairing [2,3]. Mobile genetic elements that have been incorporated into the CRISPR blacklist can escape host defense through point mutagenesis [4,5]. Escape mutagenesis induces a secondary immune response leading to rapid incorporation of new invader DNA fragments into the CRISPR locus [6]. MGE’s can also escape CRISPR-immunity through alternative escape routes, including (partial) deletions of target sequences from their genome [4,5] and expressing CRISPR suppressors [7]. These features lead to a complex and dynamic co-evolutionary arms race. During this presentation, first the insights gained into the molecular mechanism of this intriguing immune system will be briefly discussed [2,3,5,8], followed by a discussion of the role of CRISPR in bacteria-phage co-evolution ([4] and unpublished data).
+
+References: 1. Westra ER, et al. (2012) Annu Rev Genet 46: 311-339. 2. Brouns SJJ, et al. (2008) Science 321: 960-964. 3. Jore MM, et al. (2011) Nat Struct Mol Biol 18: 529-536. 4. Semenova E, et al. (2011) Proc Natl Acad Sci U S A 108: 10098-10103. 5. Westra ER, et al. (2012) Mol Cell 46: 595-605. 6. Datsenko KA, et al. (2012) Nat Commun 3: 945. 7. Bondy-Denomy J, et al. (2012) Nature 493:429-32. 8. Westra ER, et al. (2012) RNA Biol 9.
+
+Ville-Petri Friman
+Imperial College London
+Division of Ecology and Evolution
+United Kingdom
+Phage therapy might not help everyone; bacterial resistance and phage infectivity evolution considerably varies between different Cystic Fibrosis patients
+talk D20SY15RT18:09R4
+
+Author(s): Friman, V, Soanes-Brown, D, Sierocinski, P, Johansen, HH, Molin, S, Buckling, A
+
+Summary: 
+
+Phage therapy, the use of viruses to specifically kill only the disease-causing bacteria, could offer an alternative way to fight against antibiotic resistant bacteria. Even though phage selection could lead to increased bacterial resistance, phage therapy has the potential to become an evolutionary sustainable medicine: phages can coevolve more infective and thus retain their efficiency to keep bacteria under control. Here we studied experimentally in vitro the long-term coevolutionary dynamics of model phage therapy by using four natural phage species and Pseudomonas aeruginosa bacterial strains isolated from the lungs of ten Cystic Fibrosis patients. We found that bacteria and phages coevolved during the three weeks of cocultivation. However, coevolution was asymmetric by favouring bacterial resistance over phage infectivity, which suggests that phages might not be able to overcome bacterial resistance evolution indefinitely. When ancestral and coevolved phages were applied continuously to ancestral bacterial cultures, coevolved phages were clearly more efficient in reducing bacterial densities with lower corresponding increase in bacterial resistance. These results demonstrate that environmentally derived phages could be used to eradicate clinical bacterial infections, while the effectiveness of phage therapy could be enhanced by coevolving phages more infective in vitro. Despite this potential, our study also shows an important caveat: phages’ ability to reduce bacterial densities varied considerably between different patients having very large to negligible effects. As a result, phage therapy is unlikely to work uniformly across all patients and might need to be adjusted case-specifically according to given host and parasite genotypes. Recognising between-patient variation in bacteria-phage coevolution is thus crucial for developing a broad-spectrum phage therapy, which is effective against multiple pathogen genotypes.
+
+Cyril Dutech
+INRA
+Forest Ecology
+France
+Phenotypic changes in oak seedlings infected by powdery mildew: host tolerance response or host manipulation by the parasite?
+poster D20SY15PS0324
+
+Author(s): Dutech, C
+
+Summary: 
+
+Plant parasites negatively affect their host fitness by deriving their nutrition from their host. Infection also often affects the physiology of the host leading to changes in morphology, timing of development or fecundity. Plant pathologists have paid much less attention to these life-history changes which could be seen either as tolerance response of the host or as manipulation by the parasite to enhance its transmission, than to resistance mechanisms preventing infection, thus yield loss. We studied the phenotypic changes induced by the oak powdery mildew on its host, Quercus robur in order to assess the effect of infection on host growth pattern. Fifteen half-sib families of oak (2595 individuals) were exposed to three different levels of powdery mildew: low (with fungicides), medium (natural infection) and high (natural infection supplemented by inoculations). Fine monitoring of host growth, phenology and leaf infection were performed over three years. As expected, increasing infection resulted in increasing growth losses in seedlings. More surprisingly, it also had a dramatic effect on seedling phenotypes by causing an accelerated shoot flushing both between and within years. This increased polycyclism provided benefits for both host and parasite: partial compensation of growth losses and extension of the availability of receptive tissues along the season, respectively. Nevertheless, increasing the number of flushes in a season may expose seedlings to higher damage by winter frost. Altogether, these observations are suggestive of both host tolerance and parasite manipulation responses in the “complex phenotype” resulting from the interplay of host and parasite genes.
+
+Luigi Pontieri
+University of Copenhagen
+Department of Biology
+Denmark
+Preference for infection: pathogen manipulation or host decision?
+poster D20SY15PS0739
+
+Author(s): Pontieri, L, Vojvodic, S, Graham, R, Pedersen, JS, Linksvayer, TA
+
+Summary: 
+
+Disease dynamics in social groups are affected by selection both at the individual and group level. This is particularly true in social insects, where highly related individuals frequently interact within densely populated colonies in a confined nest environment, therefore increasing the pathogen transmission and the risk of infection. In response to the high selection pressure imposed by pathogens, insect societies have evolved a battery of cooperative social defenses that complement the immune response of individual group members. In such social immunity, avoidance and nest hygienic behaviors have been recognized as playing a major role in reducing pathogen uptake and exposure risks. Here we show how colonies of the highly invasive ant Monomorium pharaonis fail to avoid pathogens during the critical step of nest site selection. Surprisingly, when presented with the choice of a nest containing nestmates overgrown with sporulating mycelium of the entomopathogenic fungus Metarhizium brunneum (infected nest) and a nest containing nestmates killed by freezing (uninfected nest), experimental colonies preferentially moved into the infected nest (83%, P < 0.001). Colonies did not show a preference when presented with the choice of a corpse-free and an infected nest (61%, P = 0.28), but colonies were more attracted by a corpse-free rather than an uninfected nest (84%, P < 0.01). Together, our results suggest a masking-effect produced by the pathogen, possibly increasing its transmission. Alternatively, pathogen contact can lead to socially inoculating nestmates, thereby increasing colony-wide immunity. We can therefore not rule out the possibility that colonies actively chose nests with pathogens to increase their survival chances when exposed again later in life. Colony-level selection operating on such trait can have important implication in shaping both host-disease dynamics and population structure.
+
+José Castro
+Universitat de les Illes Balears
+Biologia
+Spain
+Relating the outcome of Hepatitis C virus (HCV) infection with different host SNP polymorphisms in a HCV-Human Inmunodeficiency-1 virus (HIV) coinfected Majorcan population treated with pegylated interferon plus Ribavirin (pegIFN+RBV).
+poster D20SY15PS0179
+
+Author(s): Castro, JA, Matas, M, Cifuentes, C, Payeras, A, Homar, F, González-Candelas, F, López-Labrador, F, Moya, A, Picornell, A, Ramon, C
+
+Summary: 
+
+HCV infection is one of the main causes of chronic hepatitis, cirrhosis and hepatocellular carcinoma. The HCV-related disease is accelerated in HIV-coinfected individuals. In these patients, the response to antiviral treatment depends on viral and host factors. Among host factors, several genetic polymorphisms (SNPs) have been associated with treatment response. In the present study, we correlated different host SNPs in the IL28b, CTLA4, LDLr, and HFE genes together with mtDNA haplogroups with the outcome of HCV infection and the response to pegIFN-RBV treatment in a Majorcan cohort with HCV-HIV coinfection. We selected sixty-three HCV-HIV coinfected patients and 59 anonymous non-infected controls. Whereas the population frequency of IL28b alleles was similar to that found in other European-American cohort, the frequency of the rs12979860 C allele was lower compared to other Spanish cohorts. The frequencies of CTLA4 and LDLr polymorphisms were similar to those found in other populations. Differences between patient and control cohorts were found for the H63D mutation of the HFE gene. There were no other differences between patients and controls, regarding the frequencies of other polymorphisms or mitochondrial haplogroups. In the HCV/HIV cohort, the most significant data was found in pegIFN-RBV treatment at 4 weeks, where the IL28b rs12979860 (CC) genotype was significantly associated with rapid virologic response, whereas spontaneous clearance was higher in patients with the CTLA4 +49G allele. No significant relationship was found between SNPs in the LDLr, HFE, nor mtDNA haplogroups with response to treatment. In summary, our results highlight the importance of the genetic background of the host on response to therapy in this special cohort.
+
+Dimitri Stucki
+Faculty of Science
+Center of Excellence in Biological Interactions, Department of Biosciences
+Finland
+Seasonal changes in immune defense in the ant Formica exsecta
+poster D20SY15PS0725
+
+Author(s): Stucki, D, Freitak, D, Bos, N, Sundström, L
+
+Summary: 
+
+Eusocial insects are favorable targets for parasites due to high relatedness within a colony and a large amount of interacting individuals. Consequently, eusocial insects evolved a strong defense against parasites on an individual, as well as a social level. When resources are scarce, individuals and colonies are weakened and opportunistic pathogens might be able to infect the hosts, which face a trade-off between energy saving and immune defense. Different demands for energy use during the active season and hibernation are likely to influence this trade-off. This possible trade-off might even be stronger when resource availability is low and starvation imposes additional stress on the individual. Here we investigate seasonal differences in regulation of immune defenses under starvation in the ant Formica exsecta. We used bioassays coupled with gene expression analysis of immune, stress and storage protein. In order to estimate the organism’s capability to fight off infections, depending on seasonal and nutritional status, entomopathogenic bacteria Serratia marcescens and Pseudomonas entomophila were used.
+
+Meghan Duffy
+University of Michigan
+Department of Ecology & Evolutionary Biology
+United States
+Selection by predators on within host growth patterns of two natural parasites of Daphnia
+talk D20SY15IT10:30R4
+
+Author(s): Duffy, M, Auld, SKJR, Ochs, JH, Sebastian, M, Hall, SR
+
+Summary: 
+
+Predators can strongly influence the ecology and evolution of host-parasite interactions in a number of ways. Here, we explore the possibility that predators can select on patterns of within host growth by parasites. Are parasites with faster rates of growth within hosts favored in high predation environments? Are there tradeoffs associated with faster proliferation within hosts?
+
+We examined how two horizontally transmitted, natural parasites (the bacterium Pasteuria ramosa and the yeast Metschnikowia bicuspidata) of the crustacean Daphnia dentifera varied in their within-host proliferation, equilibrium spore number and transmission rate. We found that both parasites showed logistic growth inside hosts, but that Metschnikowia completed its within host growth much more rapidly than did Pasteuria. Bluegill sunfish (Lepomis macrochirus), an important natural predator of D. dentifera, actively chooses both Pasteuria-infected and Metschnikowia-infected hosts over healthy hosts as prey, and spores can survive and remain infectious after passage through the fish guts. Therefore, predation of infected hosts serves primarily to truncate the time available for a parasite to develop within the host.
+
+We selected Pasteuria and Metschnikowia in environments simulating either high or low predation on infected hosts. We found that Pasteuria responded to simulated high predation by accelerating within host growth. However, this came at a cost: Pasteuria that grew faster yielded fewer mature spores (and these spores were marginally less infectious). Conversely, simulated predation did not affect Metschnikowia infection traits; this result was expected, given that we have previously been unable to find any quantifiable variation in Metschnikowia. Overall, we conclude that predation has the potential to mediate the ecology, epidemiology and evolution of disease in a Daphnia-multiparasite system.
+
+Jakub Rybinski
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Spatiotemporal relationship between malaria infection and environment
+poster D20SY15PS0704
+
+Author(s): Rybinski, J, Kulma, K, Qvarnström, A
+
+Summary: 
+
+The recent integration of molecular genetics and geographic information systems has set a new stage for evolutionary studies of host-parasite interactions. It has been shown that spatiotemporal variation, especially in abiotic factors such as microclimate and habitat composition, can have large effects on transmission and prevalence of infection. Understanding the impact of landscape ecology on host-parasite interactions is increasingly important in the light of climate change and habitat fragmentation. However, epidemiological studies still lack information on how biotic and abiotic factors interplay in relation to host-parasite relations. We investigated the spatial distribution of avian malaria (Haemosporidia) infections in two migratory passerines, pied and collared flycatchers (Ficedula spp.) breeding on the Swedish island Öland in the Baltic Sea. We determined the prevalence and identity of infections using molecular tools (nested PCR, sequencing) and subsequently conducted an analysis of the spatial distribution of infection within habitat patches. Digitally derived data on habitat composition and weather conditions were used in our analysis. We report the relationship between malaria prevalence and a suite of abiotic factors, such as distance from habitat edges, water sources, and human settlements. We discuss the potential impact spatial heterogeneity in the distribution of different malaria lineages in relation to environmental factors has on infection dynamics in this system and on host-parasite co-evolution in general.
+
+Seth Barribeau
+ETH Zürich
+Institute of Integrative Biology
+Switzerland
+Spectacular variation in immune responses of bumblebees to a trypanosome parasite
+poster D20SY15PS0721
+
+Author(s): Barribeau, SM, Brunner, FS, Sadd, BM, Schmid-Hempel, P
+
+Summary: 
+
+Social living offers many benefits, but comes with a greater risk of infection, especially when the groups are genetically homogenous, as in some social insects. Surprisingly, the first social insect genome, the honeybee, revealed a reduced immune system. Honeybees, like many other highly social insects mate multiply, producing a genetically diverse and complex colony for parasites to invade. Bumblebees, however, mate singly thereby producing dense colonies of highly related sisters. The bumblebee Bombus terrestris is commonly infected with a trypanosome gut parasite Crithidia bombi. Different genotypes of bumblebees are susceptible to different clones of parasite, but the factors that produce this complex pattern of host-parasite matching remain elusive. We took a transcriptomic approach to understand how bumblebees respond to this parasite and whether host-parasite matching is driven by gene expression differences. We find exceptionally high variation in gene expression upon infection despite the low genetic diversity among sisters. This variation among individuals may be especially important in producing an immunologically diverse population, buffering the colony from parasite spread. We also find that different host genotypes down-regulate the same genes but up-regulate distinct suites of genes upon infection. This pattern suggests a core shared signal of infection, but a unique suite of up-regulated genes. We also find that clones of this parasite alter expression of their hosts differently. Highly infectious clones down regulate important immunological genes such as antimicrobial peptides but colonies differ in the scale of this effect. Host-parasite specificity may be generated by these specific patterns of expression. We discuss how parasites may manipulate host immune responses for their own gain and how variation among workers may contribute to the sustainability of highly related insect societies in a parasite rich world.
+
+Lauri Mikonranta
+University of Jyväskylä
+Department of Biological and Environmental Sciences
+Finland
+Strain-specific immune priming in wood tiger moth (Parasemia plantaginis)
+poster D20SY15PS0351
+
+Author(s): Mikonranta, L, Freitak, D, Kaukoniitty, M, Mappes, J
+
+Summary: 
+
+Recent studies on invertebrate immunity show that insects possess mechanisms to protect themselves from a secondary infection of a pathogen they have previously encountered. This suggests that invertebrates are able to differentiate between pathogens and mount more specific defence responses than previously thought. However, mechanisms for this specificity remain largely unknown. Here, we report a strain-specific immune priming response in the lepidopteran Parasemia plantaginis with enthomopathogenic Serratia marcescens bacteria. A major proportion of the moth larvae survived a septic injury with S. marcescens strain to which they had been previously orally exposed. Priming with another strain of S. marcescens and a similarly gram-negative, but harmless, Escherichia coli both failed to provide the protection later in life. We also show that production of caseinolytic proteases is likely a very important virulence factor in orally induced infection in this system. The findings have implications on the evolution of immune system in relatively short-lived insects, as well as on the selective processes entomopathogens may encounter in the arms race with their hosts.
+
+Rony Izhar
+Faculty of Life Sciences of Tel Aviv University
+Department of Zoology
+Israel
+The expression of virulence in a crustacean-bacterium host-parasite system: age matters
+poster D20SY15PS0635
+
+Author(s): Izhar, R, Ben-Ami, F
+
+Summary: 
+
+Virulence is a major theme in evolutionary biology. Its expression and evolution have widespread implications for the management of infectious diseases, administration of vaccinations and epidemiology. Underlying the theoretical framework used to describe the evolution of virulence is the trade-off hypothesis, which states that increased parasite transmission rate comes at the cost of shorter infectious periods and hence, less time for the parasite to transmit. However, epidemiological feedbacks resulting from host and parasite life history traits that are under selection during coevolution may alter the virulence-transmission trade-off. In the present study we examined the effects of host age on parasite-induced host mortality (virulence), infectivity and proliferation ability (transmission). We used two asexual clones of the freshwater crustacean Daphnia magna as hosts, and two clones of its semelparous endoparasite Pasteuria ramosa. We found that increased host age significantly reduced parasite infectivity, spore production, and the ability of the parasite to castrate its host, though GxG interactions also affected these variables. Nevertheless, the phenotypic expression of virulence did not differ among host age groups. Interestingly, host-parasite combinations that were highly infected in one age group were not necessarily highly infected in other age groups. Regardless of the possible source of these variations (e.g., differences in host defense mechanisms or enhanced immune function in adult Daphnia) our results emphasize the need to incorporate realistic epidemiological conditions when studying the expression and modeling the evolution of virulence.
+
+Frida Ben-Ami
+Tel Aviv University
+Zoology
+Israel
+The maintenance of interspecific hybridization by parasitism in a freshwater snail
+poster D20SY15PS0463
+
+Author(s): Ben-Ami, F, Guttel, Y
+
+Summary: 
+
+There is growing appreciation among biologists that interspecific hybridization presents an additional level in which animal evolution can create variability. Yet the long-term persistence of hybrids remains enigmatic, because they have often been labeled evolutionary dead-ends due to their lower fertility and viability. It has been suggested that parasite-mediated selection has the potential to promote and maintain hybridization, by differentially impacting the fitness of host parental taxa and their hybrids. We tested this hypothesis in the Melanopsis hybrid complex, the most abundant freshwater snails in Israel that are commonly found to be infected by a variety of trematode species. We sampled 49 independent sites, and recorded snail shell size and gender, snail population density and infection prevalence. We also measured several chemical and physical parameters such as water depth, substrate type, water temperature, salinity, conductivity, pH and dissolved oxygen. We found that hybrids were significantly less infected than their parental taxa. Moreover, we did not find differences between hybrids and parental taxa in any of the abovementioned biotic and abiotic parameters. These results suggest that hybridization in Melanopsis may be maintained by parasitism.
+
+Cecile LeLann
+VU University Amsterdam
+Department of Animal Ecology
+Netherlands
+Thermal changes alter the outcome of behavioural interactions between co-evolved host-parasitoid species
+poster D20SY15PS0601
+
+Author(s): LeLann, C, Lodi, M, Ellers, J
+
+Summary: 
+
+Climate change often triggers the question if species response to a changing environment will enable them to persist. However, species and especially tightly co-evolved ones, do not exist alone and are largely dependent on interactions with others within communities. Here, we use a mechanistic approach to test the general hypothesis that interspecific differences in the response to short-term thermal changes can change the outcome of host-parasitoid behavioural interactions. We measured the effect of temperature (15, 20 and 25°C) on resting metabolic rates (RMR) of the main pest of cereal crops in Western Europe, the grain aphid host pest Sitobion avenae and its main specialist parasitic wasp, Aphidius rhopalosiphi. Also, thermal behavioural responses of host and parasitoid were measured independently and in interaction, since behavioural strategies of both species largely determine parasitism success. At high temperature parasitoids had lower oviposition efficiency and aphids expressed more defensive behaviours. This alteration in behaviour is likely due to the higher RMR of hosts than parasitoids at high temperature, suggesting RMR is a valuable proxy for predicting the direction of change in the outcome of species interactions. We proposed temperature-induced alteration of species interactions to be a mechanism through which climate change affects ecological communities. Since our findings show that relatively modest thermal changes with non-lethal effects can alter interactions in co-evolved species, ecosystem services such as biological control of pest populations, could be drastically affected.
+
+Ana Vieira
+IICT
+Biotrop
+Portugal
+Unraveling the genomics of adaptation of Colletotrichum kahawae to Coffea arabica
+poster D20SY15PS1128
+
+Author(s): Vieira, AC, Silva, DN, Varzea, V, Silva, MC, Paulo, OS, Batista, D
+
+Summary: 
+
+Ecological speciation through host-shift has been proposed in recent years as a major route for the appearance of novel fungal plant pathogens. Colletotrichum kahawae is an emergent plant pathogen causing severe epidemics of Coffee Berry Disease on Arabica coffee crops in Africa at high altitude. This specialist pathogen revealed to be an outstanding model of rapid adaptation and ecological speciation due to its strikingly close proximity (< 2000 yrs) to a non-pathogenic and generalist fungal species. The remarkable genetic proximity of C. kahawae and those Colletotrichum species associated with a qualitatively change in pathogenicity (C. kahawae is able to infect green coffee berries while the closely related species are not) creates a unique opportunity to address fundamental questions behind the evolution of pathogenic fungi. This work aims to use a next generation sequencing approach with Restriction-site Associated DNA (RAD) markers, as well as a broad geographic sampling of C. kahawae and its closely related non-pathogenic sibling, to perform a SNP-based genomic population study and unveil the genomic base putatively responsible for the rapid adaptation and severe virulence of C. kahawae. Revealing, where and how natural selection is acting across the genome could point us into the direction of the underlying genetics that make the patogenicity of C. kahawae unique and specific to green coffee berries. Moreover, understanding the genomic bases behind these specialization processes will allow a more based-informed and effective control not only for C. kahawae populations but also for other plant pathogens with the same speciation mechanism.
+
+Nicholas Priest
+University of Bath
+Biology & Biochemistry
+United Kingdom
+Using model selection to deduce the influence of pathogen growth on the mortality trajectory of the host
+talk D20SY15RT18:33R4
+
+Author(s): Priest, NK
+
+Summary: 
+
+It is well established that individual mortality trajectories are influenced by both innate and external factors. However, we currently have no way of estimating the relative importance of factors that contribute to complex mortality trajectories, such as those which occur during epidemics. Because infection generates heterogeneity between individuals it is difficult to solve even the most elementary epidemiological questions, including whether individuals survive epidemics because they cleared the pathogen or because they never got infected. Here we use an information-theoretic approach to address this problem. First, we constructed a set of demographic models that described plausible influences of infection and cohort heterogeneity on host mortality. Next, we conducted a temperature-specific demographic study of the age-specific mortality rate of roughly 10,000 Drosophila melanogaster topically infected with Metarhizium robertsii, an entomopathogenic fungus. Finally, we estimated the fit of each mathematical model to the mortality data. We found that the all of the best fit and most efficient models in the model set described individual mortality trajectory as being driven by a rapid increase and subsequent decrease in fungal load, which provides substantial evidence that insects do indeed clear fungal infections. We also identified a significant cohort heterogeneity parameter, the estimate of which was large enough to shift the observed mortality peaks earlier and weaker than the underlying infection. This work illustrates the value of model selection in epidemiology and provides a novel method for testing the roles of infection and inflammation in healthy ageing.
+
+Dora Batista
+Instituto de Investigação Científica Tropical (IICT)
+Biotrop
+Portugal
+Using population genomics to uncover the genetic structure, adaptive variation and evolution of Hemileia vastatrix, the plant pathogen causing coffee leaf rust
+poster D20SY15PS1198
+
+Author(s): Batista, D, Silva, DN, Martins, R, Pereira, AP, Guimarães, L, Talhinhas, P, Silva, MC, Várzea, V, Paulo, OS
+
+Summary: 
+
+Coffee leaf rust (CLR) caused by the biotrophic fungus Hemileia vastatrix is the most important disease of Arabica coffee, reaching nowadays a worldwide distribution. Breeding for rust resistance has proven successful, but the highly adaptable nature of the fungus shaped by the dynamic system of host-pathogen co-evolution has been a critical limitation for achieving durable CLR resistance. As a consequence a gradual breakdown of resistance has been observed over the years in many improved varieties in several countries. In the presence of such a serious and constant threat of new evolving pathotypes emerging under a strong selective pressure and becoming epidemically spread on a continental scale, sound knowledge on population genetics can be used to determine the major forces and mechanisms driving evolution of pathotypes, providing ground to understand how host resistance genes are overcome. A project was recently initiated to address these questions using RADseq of H. vastatrix isolates comprising a comprehensive along-time coverage of geographical origins and virulence profiles that provides a unique opportunity for detection of temporal variation over the last 50 years. From the data of thousands of SNPs simultaneously genotyped on those samples, we will be searching for phylogeographical patterns and signatures of selection in the genome. This will allow the identification of putative loci/candidate genes of adaptive significance, and provide insights on the mechanisms of pathogen evolution underlying virulence differentiation. In a parallel conventional population analysis of a virulence-related candidate gene, divergent alleles were detected and signs of adaptive relevant genetic variation are being traced, which could lead us on starting to understand rust adaptation. Funded by FCT (project PTDC/AGR-GPL/119943/2010)
+
+Paul Schmid-Hempel
+ETH Zurich
+Institute of Integrative Biology (IBZ)
+Switzerland
+Variation in disease epidemics across colonies
+talk D20SY15RT11:18R4
+
+Author(s): Schmid-Hempel, P, Schmid-Hempel, R
+
+Summary: 
+
+Colonies of social insects are paradigmatic study subjects for how diseases spread in social groups. Infections are typically acquired naturally from an external source and passed on to the colony members whilst the colony grows and develops through its normal cycle. Here, we report on the spread of an infectious pathogen, the trypanosome Crithidia bombi inside colonies of its host, Bombus terrestris. We show how extensive variation leads to very different outcomes across groups; furthermore, we demonstrate how the parasite population changes genetically as the epidemics unfolds. The data will be embedded in a more general conceptual framework.
+
+Kayla King
+University of Liverpool
+Institute of Integrative Biology
+United Kingdom
+What’s your gut feeling? Co-infections drive parasite evolution in C. elegans
+talk D20SY15RT14:48R4
+
+Author(s): King, KC, Brockhurst, MA, Hurst, GDD
+
+Summary: 
+
+Host-parasite evolutionary dynamics are typically considered as binary interactions. In nature, most organisms are infected by multiple parasites (“co-infection”), and evolution will thus be driven by a network of antagonistic interactions. Given the fitness consequences of within-host competition and host immunity, we hypothesized that co-infections would change the trajectory of parasite evolution. We tested this using experimental evolution of a lab community – worm host and co-infecting gut bacteria, Staphylococcus aureus and Enterococcus faecalis. Co-infection altered the evolutionary trajectories of both parasite species. Additionally, we find that evolving resident gut bacteria may aid in defending the host from virulent co-infecting parasites. We conclude that understanding and predicting host-parasite evolution requires knowledge of other parasites in the system.
+
+Fanny Vogelweith
+University of Burgundy
+Biogeosciences
+France
+Which processes shape grapevine moth immune response against parasitism?
+poster D20SY15PS0145
+
+Author(s): Vogelweith, F, Thiéry, D, Moret, Y, Moreau, J
+
+Summary: 
+
+Identification of the selective forces shaping immune traits of organisms in natural conditions is a central question in the field of ecological immunology. The immune response is expected to be the evolutionary response to selective pressure from parasites and pathogens. While laboratory studies support this view, few have investigated variation in immune defence in natural populations and identified the putative causal factors of such variation. Here, I will present data showing significant geographical co-variation between levels of innate immune defences of the phytophagous moth, Lobesia botrana, and their infection prevalence by parasitoids among natural populations. I examine the potential causes of co-variation by testing two non-exclusive hypotheses. The first hypothesis is that such covariation between immune defences and prevalence of infection by parasitoids results from a plastic enhancement of immune defences in L. botrana in response to cues indicating the abundance of parasitoids in the environment. As immune defence is costly to maintain and use, the immune system may unsurprisingly exhibit plastic responses to perceived environmental threats, in the same way that phenotypic defences respond to environmental challenges. The second hypothesis proposes that the co-variation between immune defences and prevalence of infection by parasitoids corresponds to local optimal investments to the immune system driven by costs arising from the allocation of resources to immune functions and the benefits arising from higher defence to parasitoid attacks. Our results appear to refute the first hypothesis in which moth larvae would be able to adjust their immunity in response to the presence of parasitoids in the environment, but support the second hypothesis in which levels of investment to immune functions is shaped by the costs of immunity and the benefits of immunocompetence against parasitoids.
+
+Lien Reyserhove
+K.U.Leuven Campus Kortrijk
+Department of Aquatic Biology
+Belgium
+Within-species genetic variation for resistance in a P-limited environment: the Daphnia-parasite system as a case-study
+poster D20SY15PS0288
+
+Author(s): Reyserhove, L, Van Colen, W, Muylaert, K, Decaestecker, E
+
+Summary: 
+
+These last decades, there has been a strong plea to merge biochemical and ecological insights into a field called ecological stoichiometry. Here, ecological interactions are depicted as a flow of essential elements from one level to another. One established principle is that Daphnia suffer reduced growth and survival when fed on P-deprived algae. Moreover, Frost et al. 2008 demonstrated that parasites can intensify this negative effect by increasing their virulence in a P-limited host. As this study considered only one Daphnia clone, it remains to be seen how this environment – host – parasite interaction can be generalized to multiple genotypes. In this laboratory experiment, we selected two sets of six Daphnia magna clones and experimentally manipulated (i) food P-availability and (ii) presence of the microparasite White Bacterial Disease (WBD). Both clonal sets were originally hatched from the same sediment core, differing in their depth of isolation. As the selected depth range corresponds to a time span of about 40 years, we expected these sets to differ genetically as a result of historical adaptation towards differences in P-availabiltiy. Our results show a significant three-way GH x GP x E interaction. An increasing N:P ratio positively correlated with Daphnia mortality. For old clones, the negative impact of WBD was independent of food quality. On the contrary, recent clones suffered more under reduced P-availability when parasites were present. We conclude that the effect of parasites on Daphnia depends on the level of P-limitation and the identity of the considered population.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

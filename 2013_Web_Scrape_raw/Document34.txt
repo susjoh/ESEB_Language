@@ -1,0 +1,369 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY34: General symposium
+ Abstracts list Schedule Description
+View only talks or posters
+Tatiana Dimitriu
+Université Paris-Descartes
+Faculté de Médecine
+France
+Bacterial sex can enhance cooperation
+talk D24SY34RT10:54R9
+
+Author(s): Dimitriu, T, Julien, B, Ariel, L, François, T
+
+Summary: 
+
+Mobile genetic elements, such as plasmids, are the most prominent mechanism of bacterial sex and play a large role in bacterial adaptation. Plasmids move between bacteria by conjugation, an active, unidirectional horizontal transfer of genetic material from donor to recipient cells. Since conjugation is costly for donors and is primarily controlled by the plasmid itself, horizontal transfer is usually seen as parasitism of the bacterial hosts. However, chromosomal genes can also influence horizontal transfer. Transferring plasmids could benefit the donor host by generating a specific behavior in recipients. Using both modeling and experimental work we show that if cooperation genes are located on the plasmid, conjugation can benefit the host bacteria by facilitating the maintenance of cooperation. We modeled populations of donor and recipients and showed that horizontal transfer increases the selection for cooperation by increasing relatedness and the overall amount of public good secreted in the population. This effect in turn allows for the selection of transfer: when cooperation is needed, genes increasing donor and recipient abilities can be selected both on the plasmid and on the chromosome. Our results could explain the high frequency of genes related to cooperation that are located on plasmids. In addition to the models, we used a synthetic system with independent control of cooperation and conjugation to experimentally test their relationship in Escherichia coli. We introduced multiple fluorescent proteins into bacterial strains and were able to measure the frequency of different types of bacteria, plasmids, as well as transfer events, by flow cytometry. We show that plasmid transfer indeed increases the selection for cooperation. Based on our models and experiments, we can conclude that the role that bacterial sex plays in evolution is strongly linked to the presence of and interaction with cooperation via public good secretion.
+
+Stuart Wigby
+University of Oxford
+Department of Zoology
+United Kingdom
+Condition and molecular mating strategies in Drosophila melanogaster: large females get more, small males try harder
+talk D24SY34RT11:42R9
+
+Author(s): Wigby, S, Sirot, L, Perry, J, Kim, Y
+
+Summary: 
+
+Theory predicts that males in good condition should produce larger sexually selected traits, such as ejaculates, but the allocation of ejaculates should also vary with the number of mating opportunities available to males. Fruit flies, Drosophila melanogaster, who develop under crowded larval conditions have reduced body size, and these small males posses fewer ejaculate resources. We show, however, that these small males transfer relatively higher proportion of their reserves of a key seminal protein, sex peptide, at mating, and manage to match large males in the quantity they transfer to females. Small males could potentially benefit form this strategy because they have fewer mating opportunities: thus they are predicted to invest relatively more in each mating opportunity they get. Large females receive larger quantities of the receptivity-inhibiting sex peptide from males of all sizes, but unexpectedly these large females remate sooner than small females. Thus, female mating frequency is strongly dependent on the female developmental environment. Future work should aim to uncover to what extent female condition and male influences interact to regulate female remating rate.
+
+Luke McNally
+University of Edinburgh
+Centre for Immunity, Infection and Evolution
+United Kingdom
+Cooperative niche construction facilitates zoonosis in pathogenic bacteria
+poster D23SY34PS1466
+
+Author(s): McNally, L, Viana, M, Brown, SP
+
+Summary: 
+
+The majority of emergent human pathogens are zoonotic in origin. Understanding the factors underlying the evolution of pathogen host range is therefore of critical importance in protecting human health. Classical evolutionary theory predicts that the evolution of generalism in pathogens will be subject to trade-offs, and hence reduced within-host fitness compared to specialists, as pathogens evolve to tolerate multiple host environments. Here we show that rather than passively reacting to host environments, bacteria can use niche construction via cooperative secretions to achieve host generalism. We use an epidemiological framework to show that cooperative niche construction strategies can outcompete both specialists and classical generalists under a wide range of realistic conditions. We then use a phylogenetic comparative analysis of 191 bacterial pathogens to show that larger secretome sizes are associated with a greater probability of zoonosis, in agreement with our theoretical predictions. Our results suggest that cooperative behaviour is a key factor in the evolution of generalism in bacteria, and that monitoring programmes focusing on the horizontal transfer of secreted proteins could help identify future emerging human pathogens.
+
+Lutz Becks
+Max Planck Institute for Evolutionary Biology
+Germany
+Eco-evolutionary dynamics and the evolution of sex
+talk D24SY34RT10:30R9
+
+Author(s): Becks, L
+
+Summary: 
+
+The evolution of sexual reproduction is one of the most important and controversial problems in evolutionary biology because sexual reproduction is almost universal while its inherent costs have made its maintenance difficult to explain. Major hypotheses on the evolution of sex predict sex to be advantageous when the environment changes frequently over time. Recurrent change can occur as a result of eco-evolutionary feedback dynamics but has not been considered in the context of the evolution of sex. An eco-evolutionary feedback loop occurs when environmental change causes natural selection in a population within a few generations, and the resulting trait evolution then modifies the environment, causing further selection and evolution, and so on. An example for this eco-evolutionary feedback comes from a predator-prey system where the algal prey evolves a defence against predation when grazing by rotifer is intense, and loses the defence, but gains competitive ability when the predators (rotifers) are scarce and prey are abundant. I present experimental results showing that the rate of sex evolved to higher rates in the rotifer when eco-evolutionary feedback dynamics occur. In contrast, the rate of sex evolved to lower rates in control populations where the trait evolution in the algae and thus the eco-evolutionary feedback was prohibited. Thus the changes driven by the interplay of ecological and evolutionary change on one time scale can provide conditions allowing for a more globally relevant explanation for the evolution of sex.
+
+Deborah Dawson
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Engineering microsatellite markers to study and compare a wide range of species
+poster D23SY34PS0889
+
+Author(s): Dawson, DA
+
+Summary: 
+
+We have developed a set of conserved avian markers with high cross-species utility in order to save resources and enable new comparisons between species. These markers will not only reduce the necessity and expense of microsatellite isolation for a wide range of genetic studies, including avian parentage and population analyses, but will also now enable comparisons of genetic diversity among different species (and populations) at the same set of loci, with no or reduced bias. No other marker type enables such comparisons. Additionally, these markers (i.e. microsatellites), in contrast to single nucleotide polymorphism (SNP) and genotyping-by-sequencing methods, are readily typed in samples of low DNA quality or concentration (e.g. non-invasive samples or museum specimens), and enable the quick cheap identification of species, hybrids, clones and ploidy. We selected zebra finch (Taeniopygia guttata) sequences that possessed a repeat region and that displayed high sequence similarity to chicken (Gallus gallus). Each primer sequence was a complete match to zebra finch and, after accounting for degenerate bases, at least 86% similar to chicken. These markers are of especially high utility in passerines, but also show utility in non-passerine species. The approach used here can be applied to other taxa in which appropriate genome sequences are available.
+
+Katie Duryea
+Dartmouth College
+Biology
+United States
+Females bite back: sexual conflict and the evolution of venom proteins in the reproductive tract of female anole lizards
+poster D23SY34PS1427
+
+Author(s): Duryea, K, Calsbeek, R, Kern, A
+
+Summary: 
+
+Reproductive proteins evolve rapidly in many species, yet the ecological significance of these proteins remains largely unknown. In this study, we investigate reproductive proteins in Anolis lizards, a system in which the ecological basis for a fertilization bias has been established. When female A. sagrei mate with multiple males, they preferentially use the sperm from larger sires to produce sons. Field experiments reveal that this bias may be adaptive, based on patterns of offspring survival. Using Next Generation Sequencing, we investigate genes that are expressed in the reproductive tract of female anoles. Comparisons with Drosophila, the system in which female reproductive gene expression has been best studied, reveal broad similarities in the genetic response to mating across these distantly related taxa. Additionally, we investigated the molecular evolution of a group of serine proteases that are differentially expressed after mating in the reproductive tract of female anoles. Of these serine proteases, some appear closely related to snake venom proteins. Due to the deep origin of venom toxin in squamates and the hypothesized origin of Drosophila reproductive serine proteases from digestive proteases, our results suggest that Anolis reproductive serine proteases and venom serine proteases could share a common phylogenetic origin. This would imply that digestive enzymes have been involved in the evolution of cryptic aspects of female choice in multiple mating systems.
+
+Hannah Dugdale
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Fewer invited talks by women in evolutionary biology: men accept invitations to speak more often than women
+poster D20SY34PS0520
+
+Author(s): Dugdale, HL, Schroeder, J, Radersma, R, Hinsch, M, Buehler, DM, Saul, J, Porter, L, Liker, A, De Cauwer, I, Johnson, PJ, Santure, AW, Griffin, AS, Bolund, E, Ross, L, Webb, TJ, Feulner, PGD, Winney, I, Szulkin, M, Komdeur, J, Versteegh, MA, Hemelrijk, CK, Svensson, EI, Edwards, H, Karlsson, M, West, SA, Barrett, ELB, Richardson, DS, Van den Brink, V, Wimpenny, JH, Ellwood, SA, Rees, M, Matson, KD, Charmantier, A, Dos Remedios, N, Schneider, NA, Teplitsky, C, Laurance, WF, Butlin, RK, Horrocks, NP
+
+Summary: 
+
+Lower ‘visibility’ of female scientists, compared to male scientists, is a potential reason for the under-representation of women among senior academic ranks. Visibility in the scientific community stems partly from presenting research as an invited speaker at organised meetings. We analysed the sex ratio of presenters at the European Society for Evolutionary Biology Congress 2011, where all abstract submissions were accepted for presentation. Women were under-represented among invited speakers at symposia (15% women) compared to all presenters (46%), regular oral presenters (41%) and plenary speakers (25%). At the ESEB congresses in 2001–2011, 8–23% of invited speakers were women. This under-representation of women is partly attributable to a larger proportion of women, than men, declining invitations: in 2011, 50% of women declined an invitation to speak compared to 26% of men. We expect invited speakers to be senior scientists or authors of recent papers in high-impact journals. Considering all invited speakers (including declined invitations), 23% were women. This was lower than the baseline sex ratios of early–mid career stage scientists, but was similar to senior scientists and authors published in high-impact journals. High-quality science by women therefore has low exposure at international meetings, which will constrain Evolutionary Biology from reaching its full potential. We wish to highlight the wider implications of turning down invitations to speak. In particular, under-representation of women among invited speakers reduces the number of female role models for evolutionary biology students and contributes to the leaky pipeline. We encourage conference organisers to implement steps to increase acceptance rates of invited talks.
+
+Cristian Cañestro
+Universitat de Barcelona
+Genètica
+Spain
+Functional impact of gene loss in genome evolution and animal diversity: the chordate Oikopleura dioica as a case study
+poster D23SY34PS1412
+
+Author(s): Cañestro, C, Martí-Solans, J, Badia-Ramentol, J, Godoy-Marin, H, Albalat, R
+
+Summary: 
+
+What is the impact of gene losses in the generation of biodiversity is a crucial question in Evolutionary Biology that still remains largely unknown. Until now, gene losses have been often neglected because the proof for gene loss is negative and difficult to detect, especially in complex genomes outside bacteria and yeast. The state-of-the-art sequencing technology offers us for the first time the exciting opportunity to perform exhaustive genome-wide analyses to detect unambiguous cases of gene losses in animals with complex genomes. Our group has started an ambitious project with two main aims. First, we will sequence full genomes of a several individuals from many populations and species of the larvacean class to gain novel insights into the dynamics of gene losses, to understand the correlation of gene loss with phenotypic traits, and to test for evolutionary gene dispensability (EGD), a new concept that we have developed in this project. Second, we will perform systematic knockdown experiments and RNA–seq analyses to provide functional evidence for the impact of gene loss, and test for adaptive and neutral events of gene loss in the context of genetic robustness and gene network connectivity. In this project, we use the urochordate Oikopleura dioica (and other related larvacean species) as case study, because the recent genome-sequencing project, in which we participated, revealed that this organism exhibits the smallest genome and the largest genomic plasticity of all metazoans known to date, including an extraordinary amount of gene losses. Preliminary results show the feasibility to identify actual genes that are in the process of being lost in different populations, which appear as potential candidates of losses that can be adaptive.
+
+Kay Lucek
+University of Bern
+Institute of Ecology and Evolution
+Switzerland
+Historical contingency and parallel parapatric divergence between lake and stream stickleback pairs of variable age
+poster D23SY34PS1421
+
+Author(s): Lucek, K, Sivasundar, A, Kristjánsson, BK, Skúlason, S, Seehausen, O
+
+Summary: 
+
+When genetic constraints restrict phenotypic evolution, diversification is predicted to evolve along the so-called line of least resistance, the leading axis of the underlying G matrix. To address the importance of such constraints and their resolutions, empirical studies on parallel cases of phenotypic divergence of different age are valuable. However such studies are very rare. Here we study the parapatric evolution of six independently evolved lake and stream stickleback systems from Iceland and Switzerland, ranging in age from a few decades to several millennia. Using phenotypic data, we test to which degree parallel evolution occurs among independent lake-stream freshwater systems as well as during the marine-freshwater transition. We furthermore investigate in both cases how the underlying evolutionary trajectories diverge through time. We find that strong and consistent phenotypic divergence occurred independent of time for both the parapatric lake-stream systems and for the marine-freshwater transition. The extent of phenotypic divergence differs however between the two countries studied here. This indicates that historical contingency partially shapes the phenotypic outcome of divergent selection in lake-stream environments. Moreover, our results suggest that parapatric phenotypic divergence can evolve along a common evolutionary trajectory for some trait combinations, independently of their evolutionary age. The directionality of change in these traits may however differ due to historical contingency or environmental constraints. Other trait combinations differ rather between the two investigated countries but less within, suggesting that the underlying G matrix of each country could be differentially constrained. Thus phenotypic plasticity may play an important role during the colonization of novel habitats, where adaptive peak shifts may be readily achieved.
+
+Sascha Krenek
+Faculty of Environmental Sciences of Technische Universität Dresden
+Institute of Hydrobiology
+Germany
+Hsp70 gene family evolution and differential expression in microbial eukaryotes
+poster D23SY34PS1062
+
+Author(s): Krenek, S, Schlegel, M, Berendonk, TU
+
+Summary: 
+
+In eukaryotes, members of the 70 kDa heat-shock protein family (Hsp70) are separated into four subfamilies according to their sub-cellular localisation and function. While in metazoans multiple cytosolic Hsp70s can be found, which are either constitutively expressed and/or stress-inducible, information about the copy number and diversity as well as differential expression of hsp70 genes in microbial eukaryotes is scarce. In this study, we have characterised the hsp70 gene family of the ciliate Paramecium caudatum to gain insight into the evolution and differential response to temperature stress of the distinct Hsp70 family members in protists. We further focused on the evolution of heat-inducibility in cytosolic hsp70s and investigated intraspecific differences in hsp70 gene expression to evaluate its potential use as biomarkers for temperature adaptation studies in Paramecium. Phylogenetic analyses disclosed five homologous groups, each with a closer relationship to orthologous hsp70s of Paramecium tetraurelia than to another P. caudatum Hsp70-group, indicating duplication events preceding Paramecium speciation. Furthermore, heat-shock expression studies and comparative EST analyses revealed one cytosolic group as the major heat inducible hsp70s in both P. caudatum and P. tetraurelia, suggesting a functionally conserved evolution of this gene family in Paramecium. In addition, the herein developed RT-qPCR assay unveiled different expression patterns between diverse thermal tolerant P. caudatum clones, demonstrating the potential use of Hsp70 as a biomarker for environmental stress studies in Paramecium. Interestingly, our analyses also suggest that heat-inducibility of cytosolic hsp70s evolved several times independently during the course of eukaryotic evolution, thereby indicating convergent evolution during Hsp70 subfunctionalization.
+
+Vera Nunes
+Faculty of Sciences of the University of Lisbon
+Department of Animal Biology
+Portugal
+Species recognition in two sympatric European cicadas of genus Tettigettalna (Hemiptera, Cicadidae): is acoustic behaviour enough?
+poster D23SY34PS0417
+
+Author(s): Nunes, VL, Mendes, R, Quartau, JA, Seabra, SG, Paulo, OS, Simões, PC
+
+Summary: 
+
+The genus Tettigettalna is composed of nine morphologically similar cicada species, being seven of these endemic to the southern Iberian Peninsula. Males produce calling songs to attract females for pair formation and reproduction. These acoustic signals are thought to be species-specific mate recognition systems with an important role in the maintenance of reproductive isolation among cicadas. Because some Tettigettalna species are often found in sympatry, we investigated the patterns of intra- and interspecific variation in male calling songs of both allopatric and sympatric populations of two sibling species, T. argentata and T. mariae. Morphometric and genetic analyses were also performed. The results confirmed the distinction of species-specific calling songs based on time variables, but the calling songs of both species recorded in sympatry were downshifted in sound frequency. Interspecific variation in morphology is low but both species revealed a significant increase in general body size in sympatric populations. Sequence analyses with one mitochondrial gene (cytochrome oxidase I) and two nuclear genes (calmodulin and elongation factor) revealed that T. argentata is geographically structured, forming two distinct clades (North and South) and that specimens of T. mariae cannot be entirely distinguished from those of T. argentata (clade South). The genetic diversity and the distribution range are much smaller for T. mariae than for T. argentata and most mitochondrial haplotypes detected in T. mariae are shared with T. argentata (clade South), which is usually found in sympatry and parapatry with T. mariae. The genetic overlap between this pair of sibling species might have been caused by incomplete lineage sorting or recent introgression. It remains unclear whether the differences in species-specific male songs are enough to fully prevent hybridization when these species are in sympatry.
+
+Tim Schmoll
+Bielefeld University
+Evolutionary Biology
+Germany
+Strategic sperm allocation in relation to male age in the lek-mating lesser wax moth Achroia grisella
+poster D23SY34PS1355
+
+Author(s): Schmoll, T, Ruoff, M, Cordes, N, Engqvist, L
+
+Summary: 
+
+Theory predicts that males are selected to allocate limited sperm reserves in a way that maximises their lifetime fertilization success. Fertilization opportunities may decrease with male age and there is some evidence that males increase sperm expenditure with age. However, it remains unclear whether transferring more sperm with older ages reflects strategic sperm allocation or simply a higher number of sperm available to older males. To specifically test for strategic sperm allocation, we analysed copulation behaviour and sperm expenditure in Achroia grisella, a short-lived, aphagous, lekking moth with an elaborate pre-copulatory mate choice system based on ultrasonic sexual ornaments. We staged a single experimental mating between virgin males of different ages (day of eclosion to 12 days old) and randomly assigned four-day-old virgin females to test for effects of male age on copulation behaviour and sperm expenditure, including the proportion of available sperm that is transferred during virgin matings. We find clear evidence for strategic sperm allocation in relation to male age and discuss its implications for the significance of post-copulatory sexual selection in one of the most prominent model species for pre-copulatory mate choice.
+
+Alexandra Sá-Pinto
+CIBIO.UP
+Portugal
+Testing the role of reproductive proteins in the ecological speciation of Littorina species
+poster D23SY34PS1153
+
+Author(s): Sá-Pinto, AI, Flot, J, Seguin-Orlando, A, Martínez-Fernández, M, Ferreira, Z, Baird, SJE
+
+Summary: 
+
+The genus Littorina is a well known model for studying ecological speciation as non-allopatric divergence across the intertidal zone has been observed in several species from this genus. Although reproductive proteins (RPs), specially those involved in mate recognition, have been shown to evolve rapidly under positive selection, in both internal and external fertilizers, and to cause assortative mating within populations, the contribution of RPs to the speciation processes observed in this genus is unknown. With the present project we aim to study how sexual selection at RPs contributes to ecological speciation observed in Littorina. To identify RPs expressed in this genus we sequenced the transcriptome of non-reproductive tissues (foot and head), as well as male and female reproductive tissues (prostate, seminal vesicle, testis, ovary and bursa) of L. saxatillis and L. obtusata using next generation sequencing methods. After de-novo assembly, 26696 putative transcripts were identified. These putative transcripts were compared with 1513 peptides identified through shotgun proteomic analyses applied to three male (testis, seminal vesicle and prostate) and two female (ovary and bursa) reproductive tissues (RTs) of L. saxatilis. This comparison identified 7 good candidates RPs that are being sequenced in all Littorina species.
+
+Arne Traulsen
+Max Planck Institute for Evolutionary Biology
+Evolutionary Theory
+Germany
+The evolution of punishment in public goods games
+poster D23SY34PS0147
+
+Author(s): Traulsen, A
+
+Summary: 
+
+The evolution of costly cooperation, i.e. helping others at a cost and with no guarantee of future returns, is a challenge. Mathematical and computational models as well as experiments show that one way to stabilize cooperation between selfish actors is to allow them to punish each other, so called peer punishment. While such punishment seems to be relatively stable, it is not trivial to explain its evolution. One solution for the evolution of peer punishment, voluntary participation, works in a similar way for pool punishment, where the decision to punish is made before the public goods game. If participation is not mandatory, antisocial punishment should be rare. Both mathematical models and behavioural experiments are discussed.
+
+Erik Van Bergen
+University of Cambridge
+Department of Zoology
+United Kingdom
+The scent of inbreeding: a male sex pheromone betrays inbred males
+poster D23SY34PS0638
+
+Author(s): Van Bergen, E, Brakefield, P, Heuskin, S, Zwaan, B, Nieberding, C
+
+Summary: 
+
+Inbreeding depression results from mating among genetically related individuals and impairs reproductive success. The decrease in male mating success is usually attributed to an impact on multiple fitness-related traits that reduce the general condition of inbred males. However, the reduced mating success of inbred males could also be a consequence of strong selection on females to avoid mating with an inbred male. This is especially relevant if females gain direct benefits through appropriate mate choice (parental care, territory defences, nuptial gifts) or if they suffer direct costs should they mate with an inbred male (decreased offspring viability and fertility). Here we find that the production of the male sex pheromone is reduced significantly by inbreeding in the butterfly Bicyclus anynana. Other traits indicative of the general condition, including flight performance, are also negatively affected in male butterflies by inbreeding. Yet we unambiguously show that only the production of male pheromones affects mating success. Thus, this pheromone signal informs females about the inbreeding status of their mating partners. We also identify the specific chemical component, hexadecanal, likely responsible for the decrease in male mating success. Our results advocate giving increased attention to olfactory communication as a major causal factor of mate-choice decisions and sexual selection.
+
+Carolina Pardo
+University of Cambridge
+Department of Zoology
+United Kingdom
+Transcriptomics reveals patterning and pigmentation genes shaping the Heliconius melpomene wing colour variation
+poster D23SY34PS1431
+
+Author(s): Pardo, C, Jiggins, C
+
+Summary: 
+
+The wing colour patterns of the Heliconius butterflies are an excellent system to study the evolution of adaptive phenotypes in nature. Previous work has made important progress on the identification of both patterning and pigmentation candidate genes controlling wing colour phenotypes on these butterflies, however, a deep understanding of the genetic and developmental networks shaping Heliconius wing variation is still missing. Here, we have applied a transcriptomics approach (RNA-seq and expression arrays) on developing wings of two morphological and phenotypically different races of the butterfly Heliconius melpomene, in order to make a comprehensive identification of such genes. Across the genome, over 300 transcripts associated with colour pattern phenotype were identified, from which several associated to structural and pigmentation genes. Additionally, the tiling of three major colour loci, namely HmAc, HmBD and HmYb, pinpointed four genes within those genomic regions whose expression differed between phenotypic races, being therefore in association to wing colouration and likely play patterning roles controlling phenotypic “colour switches”. The information here derived constitutes a step forward in the understanding of the genes and pathways controlling colour pattern evolution in Heliconius.
+
+Anya Theis
+University of Basel
+Zoological Institute
+Switzerland
+Variation of anal fin egg-spots along an environmental gradient in a haplochromine cichlid fish
+poster D23SY34PS0008
+
+Author(s): Theis, A, Salzburger, W, Egger, B
+
+Summary: 
+
+Color and pigmentation patterns seem to play a central role in the explosive radiations of cichlid fish species in the East African Great Lakes. The majority of African cichlid species are members of a single tribe, the Haplochromini. A characteristic feature and possibly a key-innovation of haplochromine cichlids are the so-called egg-spots in form of ovoid markings on the anal fins, made up of carotenoid based pigment cells. Egg-spots show a tremendous variability among different haplochromine species with regard to number, size, intensity, coloration and position on the fin. In this study we investigate the differentiation of egg-spots within a single species, Astatotilapia burtoni, which inhabits lacustrine and riverine environments of the Lake Tanganyika drainage. This phylogeographic setting enables us to study egg-spots in different habitats under divergent selection regimes. Four lake-stream population groups were analyzed and differences between stream and lake populations as well as between sexes were detected, indicating that natural and sexual selection influence the egg-spot phenotype in this species.
+
+Arnaud Tognetti
+University of Montpellier 2
+Institute of Evolutionary Sciences
+France
+Is sexual selection involved in the maintenance of the cooperative mound-building in Mus spicilegus?
+talk D24SY34RT11:18R9
+
+Author(s): Tognetti, A, Raymond, M, Ganem, G, Faurie, C
+
+Summary: 
+
+The mound-building mouse (Mus spicilegus) possesses a unique cooperative behaviour amongst mice. In the beginning of autumn, groups of several individuals construct large earthen mounds in which they overwinter. This building is partly explained by kin selection. However, the presence of some distant or unrelated individuals suggests that kin selection may not suffice to explain this cooperative behaviour. Some observations in animal species suggest that cooperative behaviour increases access to mates. Investigations into whether sexual selection is involved could therefore provide significant insight. Here, spontaneous cooperativeness, exhibited during mound-building in captivity, was first assessed in a sample of 30 male mice captured in the field in Bulgaria. Then, we tested whether male cooperativeness influences mate preference of 20 females captured in the same area. Females significantly preferred cooperative males over non-cooperative ones. This is the first empirical evidence for the influence of sexual selection on cooperative behaviour in another species than humans.
+
+Richard Allen
+School of Biological Sciences, University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Maintenance of co-operation by positive feedback in quorum sensing networks
+poster D23SY34PS0806
+
+Author(s): Allen, RC, Brown, SP
+
+Summary: 
+
+Signal blind mutants are naturally occurring bacterial strains that are defective for cell to cell signalling. These mutants can produce signal but do not respond to it, so they have reduced expression of quorum sensing regulated genes. Public goods are often regulated by quorum sensing and so signal blind mutants act as defectors, exploiting signal competent co-operators. Critically, signal blind strains are unable to increase their signal output in line with co-operators, because signal production is increased in response to signal, via a positive feedback loop. Therefore signal concentration in the environment is expected to be reduced when signal blind defectors are common. When public goods are regulated by quorum sensing, lower signal concentrations may reduce the production of public goods, minimising exploitation. Using knock-out strains of Pseudomonas aeruginosa we demonstrate that signal in the environment decreases as signal competent co-operators become rare. We show that this translates to a reduced co-operator output of secreted protease. Using competition experiments we then demonstrate that this can lead to negative frequency dependence of co-operator fitness, because co-operators behave as phenotypic defectors when rare. Frequency dependence has important implications as socio-microbiology is applied to new fields, notably the emergence of drug resistance.
+
+Tobias Warnecke
+Centre for Genomic Regulation (CRG)
+Bioinformatics & Genomics
+Spain
+Nucleosome positions in eukaryotes and archaea primarily reflect rather than affect sequence evolution
+poster D23SY34PS0120
+
+Author(s): Warnecke, T, Becker, E, Facciotti, M, Supek, F, Nislow, C, Lehner, B
+
+Summary: 
+
+Histone proteins can affect the evolution of the sequences they bind. Their presence can promote or impede the formation of DNA lesions or interfere with efficient DNA repair, so that some mutations may occur more, others less frequently in a nucleosomal context. In addition, selection can eliminate mutations that disrupt beneficial nucleosome architecture, for example around promoters.
+
+Conversely, evolution at the sequence level can affect chromatin organization. Notably, as nucleosomes form preferentially on more bendable DNA, mutations that render the DNA template less bendable can prompt the nucleosome to shift to a position that is more conducive to nucleosome formation.
+
+In short, nucleosomes (and other DNA-binding proteins) can both affect and reflect sequence evolution.
+
+Several studies, screening a variety of eukaryotic genomes, have observed non-random associations between patterns of sequence evolution and nucleosome footprints. But do these associations reflect mutational biases or selection or are they evidence for sequence-directed nucleosome repositioning through evolution? And can we use comparative genomic data to discriminate between these competing hypotheses?
+
+Combining large-scale phylogenetic reconstruction of substitution histories with high-resolution nucleosome maps from eukaryotes and archaea, we show that – at the level of between-species divergence – substitution dynamics around nucleosome dyads are not consistent with mutational biases or purifying selection. Instead, they are consistent with frequent local nucleosome repositioning through evolution. Our results highlight the importance of considering the direction of causality between genetic and epigenetic change when interpreting variation at the genetic or epigenetic level and especially when trying to infer selection from patterns of genetic conservation.
+
+Marek Kwiatkowski
+University of Neuchatel
+Switzerland
+Ontogenetic growth models and life history theory
+poster D23SY34PS1462
+
+Author(s): Kwiatkowski, M, Koella, J
+
+Summary: 
+
+Ontogenetic growth depends on a number of factors, among them food availability and temperature. For example, compared to ideal conditions, cold-blooded animals mature later and at smaller size when food is scarce, but later and at a larger size when growth is retarded by low temperatures (this is known as the Berrigan-Charnov puzzle). In this talk we introduce a food- and themperature-explicit mathematical model of ontogenetic growth which allows us to interpret this and similar phenomena simply as life-history decisions of the organism seeking to maximise its expected reproductive output. We conclude by discussing future applications of our model to resource ecology of host-parasite interactions.
+
+José Cerca De Oliveira
+Universidade de Coimbra
+Departamento de Ciências da Vida
+Portugal
+Pollinator selection on floral traits in a natural hybrid zone of two generalist plant species
+poster D23SY34PS0997
+
+Author(s): Cerca De Oliveira, J, Agudo, A, Afonso, A, Castro, S, Álvarez, I, Loureiro, J, Torices, R
+
+Summary: 
+
+Hybridization can create natural hybrid zones where two related species mate and produce (some) viable hybrids. These areas are natural laboratories to investigate evolutionary processes and mechanisms operating in the organisms integrating them, especially gene flow and selective pressures on phenotypic traits. For example, hybrid zones often present a striking profusion of flower morphologies and floral traits may profoundly influence both formation and fitness of hybrids primarily through the effect on pollinator behaviour. Within the Circum-Mediterranean genus Anacyclus, the rayed-head species A. clavatus co-exists with the rayless-head A. valentinus along the Western Mediterranean coast. In these mixed populations, a high phenotypic diversity in the number and size of ray florets has been observed revealing the existence of a dynamic hybrid zone. The presence of rays has been shown to have significant consequences on pollination, primarily enhancing the attractiveness of heads and consequently influencing the levels of outcrossing. These species show a generalist pollination syndrome since they are commonly visited by more than 80 species of insects. However, the role of pollinator preferences in hybrid zones between highly generalist species remains unknown and its study might help understanding how generalist interactions exert selection of floral phenotypes. Hence, this hybrid zone provides an exceptional microevolutive framework to explore how generalist pollinators are driving the evolution of floral phenotypes. To explore the role of pollinator preferences on floral traits we investigated floral trait variation on a natural hybrid zone of A. clavatus and A. valentinus and assessed the number and type of pollinator visits on each phenotype. Furthermore, we performed phenotypic manipulations of floral morphologies for a better understanding of pollinator preferences
+
+Jorge Vieira
+IBMC – Instituto de Biologia Molecular e Celular, University of Porto
+Portugal
+Polymorphism at Frost gene explains developmental time variability in Drosophila americana
+poster D23SY34PS0596
+
+Author(s): Vieira, J, Reis, M, Páscoa, I, Rocha, H, Aguiar, B, Vieira, CP
+
+Summary: 
+
+Developmental time (DT) is a variable and complex trait that is of great relevance to all organisms. Nevertheless, in Drosophila, the specific genes contributing to DT variation in natural populations remain largely unknown. Here, we make the first attempt to characterize the molecular basis of DT variation in Drosophila americana, a species of the virilis group of Drosophila that is distantly related to D. melanogaster. The comparison of divergent species can shed light on the generality of the molecular basis of DT differences. For this purpose, we developed a set of 43 indel markers equally spaced along the D. americana genome and conducted two F2 association experiments. Associations are found between markers in all chromosomes and DT but two regions stand out, namely, a region in the middle of Muller’s element C, and the Frost (Fst) gene region on Muller’s element E. Variation at the Frost gene explains 25.3 % of the variation in DT in a sample of unrelated individuals from the same population. Fst is known to be involved in the Drosophila cold response, but there is a growing body of evidence suggesting that it is also a developmental gene.
+
+Vladimir Remes
+Faculty of Science, Palacky University
+Department of Zoology
+Czech Republic
+Quantifying sex roles during incubation in songbirds: a comparative analysis
+poster D23SY34PS0083
+
+Author(s): Remes, V, Matysiokova, B
+
+Summary: 
+
+Parental care, if present, is provided either by one sex or by both sexes. In birds, an important component of parental care is incubation of eggs. In uniparental incubators (only one sex is responsible for incubation), females usually incubate. As incubation behavior is time-consuming and energetically demanding, there might be an upper limit on incubation effort in these uniparental incubators. To overcome this limit and increase overall incubation intensity, males might help either directly by incubating the eggs (complementary parental care) or indirectly by feeding the incubating female on the nest (task specialization). To reveal whether there is an upper limit on incubation intensity in female-only incubators, we compared average nest attentiveness (% of daytime spent on eggs) in female-only incubators with species where only females incubate but males feed them, and with species where both sexes incubate. Further, we studied how total nest attentiveness changed with the degree of male help. Our phylogeny-based comparative analyses were based on a sample of 320 species of songbirds and data extracted from primary literature. We confirmed that i) total nest attentiveness increased from female-only incubators through species where incubating females are fed by males to biparental incubators. Further, we showed that ii) in species where females incubate and males feed them, nest attentiveness increased with the intensity of male incubation feeding, and that iii) in biparentally incubating species, male nest attentiveness correlated positively with total nest attentiveness, whereas female attentiveness did not. These results demonstrate that male help is indispensable for increasing total incubation effort in songbirds, which might be in turn dictated by environmental selective factors (e.g. temperature, nest mortality).
+
+Samantha Koehler
+Federal University of Sao Paulo
+Biological Sciences
+Brazil
+Reproductive biology of the 'Zygopetalum maculatum' orchid complex and its consequences for species diversification
+poster D23SY34PS0695
+
+Author(s): Koehler, S, Campacci, TVS, Oliveira, RLF, Suzuki, RM, Catharino, ELM
+
+Summary: 
+
+Reproductive and pollination biology studies are crucial to understand lineage diversification and thus species delimitation in plants. The ‘Zygopetalum maculatum’ complex comprise a taxonomically challenging species complex restricted to the 'campos de altitude' (highland fields) in the south and southeastern region of Brazil. Although reproductive isolation may be one of the most important proprieties of species divergence, there are no studies available for this group. We studied phenology, floral biology, pollination and breeding systems of three species of ‘Z. maculatum’ complex, Z. brachypetalum, Z. intermedium and Z. triste. We observed a main flowering peak in the dry and cold season, when few rewarding plants are in bloom. Pollination is deceptive, rare and achieved by Bombus atratus (Apidae) in the beginning of the flowering season. Of the 68% individuals that produced inflorescences only 0.8% developed fruits to completion. We found no difference in the number of fruits formed from auto-pollination and cross-pollination (within/between individuals and between species) and the number of viable seeds. About 30% of seeds are polyembrionic, which suggests the occurrence of sporophytic apomixis. As for other deceptive pollinated orchids, reproductive success is pollinator-limited. Deposition of pollinia in the stigmatic cavity is necessary for fruit formation and spontaneous self-pollination is extremely rare. This scenario rises the hypothesis that allopolyploidy apomixis evolved as a response to increase colonization ability in the harsh environment of 'campos de altitude' and not as an alternative strategy to avoid inbreeding caused by self-compatibility. Phylogeographical and population genetic studies are in progress to understand whether the low reproductive success determined by deceptive pollination is enough to maintain heterozygosity in populations and the role of apomixis in the diversification of this group.
+
+Jasmin Zohren
+Queen Mary University of London
+School of Biological and Chemical Sciences
+United Kingdom
+Sequencing the genome of Fraxinus excelsior (European Ash)
+poster D23SY34PS1231
+
+Author(s): Zohren, J, Sollars, ESA, Clark, J, Boshier, D, Joecker, A, Buggs, RJA
+
+Summary: 
+
+Fraxinus excelsior (European Ash) is a common tree in Europe with about 80 million individuals in the UK, and is of great ecological and economic value. Ash is diploid, with 2C = 46 chromosomes. Ash trees in Europe are now threatened by the fungal pathogen Hymenoscyphus pseudoalbidus; it is estimated that around 99% of the ash trees in the UK are at risk of infection. Natural genetic variation within Ash populations includes a small percentage of low susceptibility individuals, as has been confirmed by a field study in Denmark. However, until now there is no reference sequence available which made it impossible to study the genetic variants that confer a low susceptibility phenotype on a genome-wide scale. We extracted DNA from a young ash tree produced by the self-pollination of a low heterozygosity tree from the Cotswolds in England. We measured its 1C genome size with flow cytometry as 880Mb. We are sequencing this de novo using a combination of Illumina HiSeq2000 and Roche 454 FLX+ technologies at Eurofins. We are assembling the reads with the CLC Genomics Workbench and other de novo assemblers for comparison and annotating it using MAKER. This work lays foundations for the study of genome-wide polymorphisms in European ash, and selection of genes for resistance to Hymenoscyphus pseudoalbidus.
+
+Dusan Misevic
+Center for Research and Interdisciplinarity
+Université Paris Descartes - Sorbonne Paris Cité
+France
+Sex and cooperation in digital communities
+poster D23SY34PS1127
+
+Author(s): Misevic, D, Frénoy, A, Taddei, F
+
+Summary: 
+
+The evolution of cooperation and the evolution of sex remain two of the most widely debated evolutionary topics, affecting communities of species ranging from microorganisms to humans. Both present a similar dilemma of evolving and maintaining a trait with long-term benefit and short-term cost, and there is no unifying theory for either. It has been suggested that plasmid conjugation, a form of bacterial sex, promotes cooperation based on secretion of public good molecules. Here we propose that the relationship between conjugation and secretion goes in both directions: plasmid transfer may promote cooperation by spreading the cooperating plasmid, but also, if cooperation is selected for, it may in turn promote sex, as an effective mechanism for its maintenance. In short, sex affects cooperation, but cooperation may also affect sex. To test these theories, we used an in silico system, Aevol, in which large populations of digital organisms compete, mutate and evolve over tens of thousands of generations. Digital individuals may evolve their plasmid donor and recipient abilities as well as the level of secretion of the costly, diffusible public good molecule. Results of our experiments show that transfer was more likely to evolve when secretion was present than when individuals could not secrete. It was primarily the donor ability that increased, while only in a handful of cases the recipient ability decreased, making individuals more immune to plasmid infection. However, the secretion genes were not always located on the plasmid, as we expected. Instead, especially when the transfer rate evolved to high values, it was the metabolic genes that were primarily encoded on the plasmid, turning it into a kind of a selfish genetic element. In conclusion, we demonstrate that in the diverse communities of digital organisms, individuals engage in complex relationships relying on costs and benefits of both cooperation and sex that in turn shape their evolutionary fate.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

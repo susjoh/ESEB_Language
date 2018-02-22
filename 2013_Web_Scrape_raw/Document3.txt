@@ -1,0 +1,354 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY03: Molecular evolutionary innovations
+ Abstracts list Schedule Description
+View only talks or posters
+Kohtaro Tanaka
+Instituto Gulbenkian de Ciência
+Portugal
+cis-regulatory evolution and functional diversification of gene duplicates in Diptera
+poster D23SY03PS1105
+
+Author(s): Tanaka, K, Hazbun, A, Vreede, B, Diekmann, Y, Roch, F, Sucena, É
+
+Summary: 
+
+Gene duplication plays a major role in evolution of novel gene functions as it provides a material basis for variation and selection. We are interested in elucidating how cis-regulatory changes contribute to functional diversification ensuing gene duplication. To address this question we are studying the Three-Finger-Domain Protein/Ly6 gene family in insects. Members of this family encode different GPI-anchored membrane proteins and are fully conserved across drosophilids. Our analyses of the sequenced insect genomes indicate that a subset of these genes is unique to higher dipterans. We are focusing our attention on seven paralogues of Drosophila, which our phylogenetic analysis showed to derive from sequential duplications of a single orthologue. In order to determine how their expression domains diversified, we have characterized the embryonic expression patterns of the Drosophila paralogues and their unduplicated orthologues in other insects representing different phylogenetic positions and stages of duplication (the Mediterranean fruit fly, Ceratitis capitata, the scuttle fly, Megaselia abdita, the mosquito, Anopheles, the butterfly, Bicyclus anynana and the red flour beetle, Tribolium castaneum). We found that the original expression domain of the unduplicated orthologue localized predominantly to the developing nervous system, which, upon subsequent duplications, expanded to a wide array of tissues. While a subset of the duplicates retained the tissue-specificity of the unduplicated orthologues, the others acquired novel tissue-specific expression suggesting neofunctionalization. We are currently identifying the cis-regulatory elements of the duplicates and the unduplicated orthologues to elucidate the cis-regulatory mechanisms underlying the evolution of divergent expression patterns.
+
+Yannick Wurm
+Queen Mary University London
+School of Biological and Chemical Sciences
+United Kingdom
+AY-like social chromosome causes alternative colony organization in fire ants
+talk D24SY03RT10:30R8
+
+Author(s): Wurm, Y, Wang, J, Nipitwattanaphon, M, Riba-Grognuz, O, Huang, Y, Shoemaker, D, Keller, L
+
+Summary: 
+
+Intraspecific variability in social organization is common, yet the underlying causes are rarely known. In the fire ant Solenopsis invicta, the existence of two divergent forms of social organization is under the control of a single Mendelian genomic element marked by two variants of an odorant-binding protein gene4–8. Here we characterize the genomic region responsible for this important social polymorphism, and show that it is part of a pair of hetero- morphic chromosomes that have many of the key properties of sex chromosomes. The two variants, hereafter referred to as the social B and social b (SB and Sb) chromosomes, are characterized by a large region of approximately 13 megabases (55% of the chromosome) in which recombination is completely suppressed between SB and Sb. Recombination seems to occur normally between the SB chromo- somes but not between Sb chromosomes because Sb/Sb individuals are non-viable. Genomic comparisons revealed limited differenti- ation between SB and Sb, and the vast majority of the 616 genes identified in the non-recombining region are present in the two variants. The lack of recombination over more than half of the two heteromorphic social chromosomes can be explained by at least one large inversion of around 9 megabases, and this absence of recombination has led to the accumulation of deleterious mutations including repetitive elements in the non-recombining region of Sb compared with the homologous region of SB. Importantly, most of the genes with demonstrated expression differences between indi- viduals of the two social forms reside in the non-recombining region. These findings highlight how genomic rearrangements can maintain divergent adaptive social phenotypes involving many genes acting together by locally limiting recombination.
+
+Lene Martinsen
+Harvard University/Oslo University
+Department of Organismic and Evolutionary Biology
+United States
+Are there patterns in the formation and expression of novel genes?
+poster D23SY03PS1188
+
+Author(s): Martinsen, L, Ponce, R
+
+Summary: 
+
+Observed differences between species are often due to differences at genomic level. In particular, the analysis of newly evolved genes provides information that helps us to understand the evolution of novel functions. Here, we examine the mechanisms involved in the formation of novel genes (less than 50 MYA) and we characterize the expression patterns of these genes. This illustrates the variety of mechanisms implicated in the formation of new genes, as well as the preferential location of expression of novel functions. We further analyze the Sdic gene family and use it to investigate in greater detail the formation and expression of novel genes. The Sdic gene family, a young gene family in Drosophila melanogaster, represents an interesting window into the evolution of novel genes, as it evolved after the split of D. melanogaster and D. simulans i.e. less than 2 million years ago. This gene family originated from a formation of a chimera of two unrelated genes, that was followed by several duplication events, being therefore a candidate for the study of two important mechanisms of gene formation: gene shuffling and duplication. This family is composed by several tandem copies of the gene Sdic, and at least one copy (sdic1) is expressed in testis, incorporated into the sperm tail and encodes a sperm specific intermediate chain. It has recently been showed that although this novel gene is not essential for the development of spermatids and Sdic knock-out males are fertile with no effect on the size or sex ratio of their progeny, Sdic has a role on sperm competition. This effect of Sdic in improving sperm competition suggests that Sdic may have had an important role, contributing to the species barrier between D. melanogaster and D. simulans. The analysis of particular newly evolved genes provides information in finer detail, that we hope can be generalized and will help understand the evolution of new genes and new functions in the genomes.
+
+Vaishali Katju
+University of New Mexico
+Department of Biology
+United States
+Copy-number changes in experimental evolution: rates, fitness effects and adaptive significance
+talk D23SY03IT15:45R2
+
+Author(s): Katju, V
+
+Summary: 
+
+Gene copy-number differences due to gene duplications and deletions are rampant in natural populations and play a crucial role in the evolution of genome complexity. The rate at which new gene copies appear in populations greatly influences their evolutionary dynamics and standing gene copy-number variation in populations. The duplication rate may therefore have profound effects on the role of adaptation in the evolution of duplicated genes with important consequences for the evolutionary potential of species.
+
+In this talk, I will discuss three long-term experimental evolution experiments in Caenorhabditis elegans that we have utilized to investigate fundamental properties of the gene duplication process. First, we conducted oligonucleotide array comparative genome hybridization (oaCGH) on C. elegans mutation accumulation (MA) lines subjected repeatedly to single-worm bottlenecks each generation to provide the first direct estimate of the spontaneous genome-wide rate of duplication in a multicellular eukaryote. The gene duplication rate in C. elegans is quite high and exceeds the spontaneous rate of point mutation per nucleotide site in this species by two orders of magnitude. Second, I discuss new oaCGH results of low-fitness experimental lines subjected to adaptive recovery via population expansion to investigate whether copy-number variants (CNVs) constitute a common mechanism of adaptive genetic change during compensatory evolution. Lastly, long-term spontaneous MA lines maintained at three varying effective population sizes for >400 generations were used to investigate whether CNVs accumulate differentially under varying intensities of natural selection and provide some insights into their average fitness effects.
+
+Richard Cordaux
+CNRS / Université de Poitiers
+UMR 7267 Ecologie et Biologie des Interactions
+France
+Evolutionary innovations in sex determination mechanisms driven by Wolbachia bacterial endosymbionts in the isopod Armadillidium vulgare
+talk D23SY03RT18:57R2
+
+Author(s): Cordaux, R, Badawi, M, Grève, P, Giraud, I, Ernenwein, L, Leclercq, S
+
+Summary: 
+
+In the isopod Armadillidium vulgare, genetic sex determination follows female heterogamety (ZZ males and ZW females). However, many A. vulgare populations harbor maternally-inherited Wolbachia bacterial endosymbionts which can convert genetic males into phenotypic females, leading to populations with female-biased sex ratios (1). The W sex chromosome has been lost in lines infected by Wolbachia and all individuals are ZZ genetic males. The female sex is determined by the inheritance of Wolbachia by the A. vulgare individual, thereby leading to a shift from genetic to cytoplasmic sex determination. We are using comparative genomics and expression profiles to identify Wolbachia gene(s) responsible for feminization of A. vulgare males. Surprisingly, some A. vulgare lines exhibit female-biased sex ratios despite the lack of Wolbachia. In these lines, female individuals are ZZ genetic males carrying an unknown feminizing factor. To elucidate the genetic basis of female sex determination in these lines, we sequenced the genome of a female by illumina. We identified a large piece of the Wolbachia genome transferred to the A. vulgare nuclear genome. The transferred genomic fragment shows non-Mendelian inheritance and co-segregates perfectly with the female sex in pedigrees, in agreement with observed biased sex ratios. These results suggest that sex determination in these A. vulgare lines is under the control of nuclear gene(s) of bacterial origin. Overall, our results indicate that Wolbachia bacteria can drive shifts in sex determination mechanisms in A. vulgare. More generally, they emphasize that bacterial endosymbionts can be powerful sources of evolutionary novelty for fundamental biological processes in eukaryotes, such as sex determination. This research is funded by an ERC Starting Grant (EndoSexDet) to RC.
+
+(1) Cordaux et al. (2011) The impact of endosymbionts on the evolution of host sex-determination mechanisms. Trends in Genetics. 27, 332-341.
+
+Raquel Ruivo
+CIIMAR, University of Porto
+Portugal
+Evolutionary study of RDH10 gene family reveals a novel member retained in ectothermic vertebrates
+poster D23SY03PS1441
+
+Author(s): Ruivo, R, Lopes-Marques, M, Santos, MM, Castro, LC
+
+Summary: 
+
+Nuclear receptor-mediated retinoic acid signalling is crucial for organ modelling and maintenance. Active retinoid biosynthesis involves a two-step oxidation cascade: retinol oxidation followed by retinaldehyde dehydrogenase activity, suggested to coordinate retinoic acid supply. Recent studies have highlighted the functional role of a membrane-associated retinol dehydrogenase (RDH10) in the first oxidation step in mammals. This enzyme displays tissue and time-specific expression patterns that correlate with both retinoic acid and retinaldehyde dehydrogenase activities: suggestive of an additional checkpoint for retinoic acid regulation. Here we investigated the evolution of chordate rdh10. While a single copy, rdh10a, is observed in birds and mammals, reptiles, amphibians and teleosts exhibit an additional uncharacterized gene, rdh10b. Both rdh10a and rdh10b have duplicate copies in teleosts. Phylogenetic and paralogy analysis revealed that vertebrate rdh10a and rdh10b resulted from whole genome duplication in stem vertebrate evolution; interestingly, with significant functional divergence amongst paralogues. Following duplication, rdh10b was lost in warm-blooded lineages and retained in cold-blooded animals. Both enzymes exhibit conserved reaction cores and tri-dimensional folding; yet, the membrane-association designs appear different: unlike RDH10A, topology predictions advocate for RDH10B solubility. Also, a unique negatively charged insertion is observed in RDH10A isoforms. Gene expression patterns in teleosts, D. rerio and O. nicotilus, were also examined. While rdh10a is ubiquitously expressed, rdh10b expression is typically restricted to gonads, skin, and brain, and is concomitant with the onset of pigmentation and circulation during teleost embryonic development. Together these results support a functional specialization within the rdh10 family and emphasize a dichotomy among vertebrates according to thermal homeostasis mechanisms.
+
+Ariel Chipman
+The Hebrew University of Jerusalem
+Ecology, Evolution & Behavior
+Israel
+Evolutionary “tinkering” in the origin of the insect terminal patterning system
+talk D23SY03RT18:09R2
+
+Author(s): Chipman, AD, Weisbrod, A
+
+Summary: 
+
+A key early process in development is the determination of the embryonic axes. The anterior-posterior axis in insects is determined by a series of signaling pathways and transcription factors. These are best known from the fruitfly Drosophila melanogaster, where the torso pathway activates a number of posterior transcription factors, while interacting diffusible factors define the anterior. We have cloned the homologues of most of the key players in terminal patterning from the milkweed bug Oncopeltus fasciatus, focusing on huckebein, torsolike, hunchback, orthodenticle and tailless. We then studied their expression and function, and their interaction with other early developmental pathways. Our results show that many of the pathways known to be involved in Drosophila terminal patterning have different roles in Oncopeltus development. We suggest that their roles in Drosophila are derived from the more ancestral roles still preserved in Oncopeltus. We use our results to discuss a model for the evolution of the terminal patterning system in insects, and show that the evolution of this pathway is a classic example of evolutionary "tinkering", where different elements are co-opted independently into a single novel patterning system.
+
+Pierrick Labbé
+University of Montpellier 2
+Institute for Evolutionary Sciences
+France
+Gene duplications: a role in adaptive evolution
+talk D23SY03RT17:45R2
+
+Author(s): Labbé, P, Milesi, P, Weill, M, Lenormand, T
+
+Summary: 
+
+Evolutionary potential is limited by the number and type of genes present, but how these limits shape the evolution of new functions remains a matter of debate. In this context, gene duplications are thought to be the main source of raw material for new evolutionary features: duplications are essentially envisioned as genomic substrates for long-term adaptation. Their early evolution is thus often neglected, notably how gene-dosage modifications affect fitness and condition their first steps. The evolution of insecticide resistance in the mosquito Culex pipiens is one of the few examples of contemporary duplications. Resistance represents a genetic adaptation to the environmental changes induced by insecticides, and as such, provides evolutionary biologists with a contemporary model for studying parameters that influence ongoing adaptation. The ace-1 gene encodes the acetylcholinesterase (AChE1), the target of organophosphate (OP) insecticides. A mutation in this gene causes high resistance levels in many mosquito species. However, a strong genetic constraint drives resistance evolution, as the degree of resistance and the ability to degrade ACh trade off. Recently, we identified in Cx. pipiens new ace-1 alleles that carry one susceptible and one resistant copy associated on the same chromosome. These different duplicated alleles show different dynamics in the field. We propose that duplications are selected to disentangle the two functions, i.e., by improving synapse signaling and mosquito’s fitness while maintaining resistance. I will present our recent work investigating 1) the duplication origin at the molecular level and 2) the complex gene-dosage/fitness relations and their impact in the field dynamics of these innovations. Our work stresses the role of duplications as immediate adaptive features, but shows that their fate is checked by natural selection early on: only those passing its short-term sieve can become seeds for future evolution.
+
+Antoine Frénoy
+Université Paris Descartes
+Faculté de Médecine
+France
+Genetic architecture promotes the evolution and maintenance of cooperation: the evolutionary constraint of coding overlaps on functionally unrelated genes
+poster D23SY03PS0546
+
+Author(s): Frénoy, A, Taddei, F, Misevic, D
+
+Summary: 
+
+When cooperation has a direct cost and an indirect benefit, a selfish behavior is more likely to be selected for than an altruistic one. Kin and group selection do provide evolutionary explanations for the existence of stable populations of cooperators in nature, but we still lack the full understanding of the genomic mechanisms that can prevent cheater invasion. We used Aevol, an agent-based, in silico genomic platform to evolve populations of digital organisms that compete, reproduce, and cooperate by secreting a costly public good. We found that populations of phenotypically equal cooperating individuals often have very different abilities to resist cheater invasion. To understand the underlying mechanisms, we performed bio-inspired genomics analysis by determining and comparing the locations of metabolic and secretion genes, as well as the relevant promoters and terminators. We found that populations of cooperators characterized by the strong association between metabolic and secretion genes (promoter sharing, overlap via frame shift or sense-antisense encoding) were more robust to cheater invasion than ones where such association was weak. We performed mutation analysis of the evolved individuals and determined that the accessibility of mutations decreasing cooperation without decreasing overall fitness was negatively correlated with the amount of operons and overlap between secretion and metabolism. Effectively, cooperation evolved to be protected and robust to mutations through overlapping genetic architecture, especially when cooperation was costly. Due to operon sharing and gene overlap, even when mutations that eliminate cooperation appear, they are likely to be selected against due to their simultaneous and direct negative effect on fitness. Our results uncover an important genetic mechanism for the evolution and maintenance of cooperation, and suggest promising methods for preventing loss of genes introduced into biological synthetic organisms.
+
+Sanne Nygaard
+University of Copenhagen
+Denmark
+Genomic changes during the evolution of increasing specialization in fungus-farming ants
+poster D23SY03PS0915
+
+Author(s): Nygaard, S, Li, C, Schiøtt, M, Zhang, G, Xiao, J, Meng, X, Wang, J, Boomsma, JJ
+
+Summary: 
+
+Ants are an ecologically important group of insects with a vast array of specialized lifestyles and symbioses. One of the most spectacular ant symbioses is fungus farming, found in a single clade of New World (attine) ants, a mutualism to which the ants contribute plant material in exchange for food provided by the fungal crops. Since this mutualism evolved in the Amazon basin from hunter-gatherer like ancestors some 50 mya, it has undergone a series of evolutionary transitions of which the use of specialized rather than generalist fungal strains, active herbivory rather than using dead plant parts, polymorphic rather than monomorphic worker castes, and multiple rather than single mating of queens are the most important. The advent of high-throughput sequencing techniques now allows these questions to also be addressed at the molecular evolutionary level. In a recent study, we showed that the genome sequence of the leafcutter ant Acromyrmex echinatior, a representative of the most highly derived leaf-cutting fungus-farming ants, has characteristic changes in detoxification pathways, loss of function in arginine metabolism pathways, and expansion of specific peptidase gene-families relative to other ant genomes. We have now sequenced and partly analyzed the genomes of five additional fungus-farming ant species, representing all phylogenetic branches of the higher attine ants and a lower attine outgroup, and thus most of the major evolutionary transitions. These comparative genomic analyses allow us to assess rates of gains and losses of genes and variation in lineage-specific selective pressures, differences that we hope to connect to some of the phenotypic adaptations in the respective lineages.
+
+Yukako Katsura
+National Institute of Genetics
+Division of Evolutionary Genetics
+Japan
+Genomic structures and gene evolution on mammalian X chromosomes
+poster D23SY03PS0018
+
+Author(s): Katsura, Y, Satta, Y
+
+Summary: 
+
+Of genomic structures, intrachromosomal segmental duplications (ISDs) are relatively large repeats in neighboring regions on a chromosome. Counting of ISDs on each human chromosome found more ISDs on X than any of the other chromosome. In this study, we show that the concentration of ISDs are not a general characteristic for X chromosomes, or not due to sequence-specificity of the human X chromosome, but are correlated with gene evolution and expression control. ISDs on the X chromosome in four mammalian species with different origins or evolutionary histories (human, mouse, opossum, and platypus) were identified and characterized. The number or the size of ISDs was different among these species; ISDs on human and mouse X chromosomes were much larger in size, in the number, and more structurally complex than those in opossums. Moreover, gene density and the number of different gene families in ISDs-containing regions were larger in the human and mouse, whereas in the opossum, ISD-regions were gene-poor. Interestingly multiple X chromosomes of platypus did not have any ISDs, except for one on the X1 chromosome. These observations indicated that ISDs accumulated on the X chromosome in the eutherian ancestor. In the human, more than 70% of the genes within X chromosomal ISDs were cancer-testis antigen (CTA) genes, and they are highly expressed in testis and cancer cells. The CTAs showed primate or eutherian-lineage specific, suggesting the recent origin and rapid evolution within ISDs. The amplification and complexity of ISDs can be evolutionally maintained by the emergence and functional constraint of CTAs, respectively. In addition, the accumulation of X chromosomal ISDs might be involved in the mechanism for expression control, because the ISD-regions on X chromosomes were low-methylated and genes within the ISDs were expressed specifically in germ cells.
+
+Frédéric Brunet
+Ecole Normale Supérieure de Lyon
+Institut de Génomique Fonctionnelle de Lyon
+France
+Half of the sox genes remained duplicated since the teleost specific whole genome duplication
+poster D23SY03PS1404
+
+Author(s): Brunet, FG, Voldoire, E, Volff, J, Galiana, D
+
+Summary: 
+
+Two successive events of whole genome duplications (WGD) occurred at the base of the vertebrate lineage, coined 1R and 2R for Rounds of WGD. An additional third round of WGD (3R) occurred at the base of the teleostean fish. Sox genes encode a family of transcription factors that has experienced a phase of expansion leading to 20 sox genes well described in human and mouse. This gene expansion preceeded the vertebrates lineage and enhanced even more through both the 1R+2R WGDs and tandem duplication occurrences. In fish, additional sox genes have been described with orthologous relationship assessed by phylogenetical analyses. We were interested to know how have evolved such a group of genes since the 3R event. To this end, we carried out a bioinformatic analysis, searching exhaustively the public releases of fish genomes as well as other public databases. We combined both the phylogenetic information and synteny analyses to assess the evolutionary history of fish sox genes. We found evidence that in fish, 10 of the 20 mammalian orthologues of these sox gene family come from and remain duplicated since their 3R origination. This 50% ratio is way above the estimated global average of 12% of genes that remained duplicated since the 3R event, a value in favor of the idea that transcription factors have played a key role in the diversification of the teleost lineage. In addition, we performed expression analyses of these sox genes in three fishes (zebrafish, medaka and platyfish) and observed species specific expression for some of them, in agreement with this hypothesis.
+
+Karine Van Doninck
+University of Namur
+Department of Biology
+Belgium
+Horizontal gene transfer is an innovative mechanism in asexual eukaryotes to acquire novel functions
+talk D23SY03RT16:57R2
+
+Author(s): Van Doninck, K, Danchin, EGJ, Flot, J
+
+Summary: 
+
+Asexuality is considered an evolutionary dead-end for metazoans, but bdelloid rotifers challenge this view as they are assumed to have persisted asexually for millions of years. Neither male sex organs nor meiosis have ever been observed in these microscopic animals. Females form oocytes through two successive mitotic divisions, with no reduction of chromosome number and no indication of chromosome pairing. In addition, bdelloids are able to survive extreme desiccation at any stage in their life cycle. Supporting long-term absence of meiosis and sexual reproduction, the genome architecture of the bdelloid rotifer Adineta vaga presents a high level of shuffling and rearrangement incompatible with conventional meiosis. Using an alien index approach, 8% of protein-coding genes in the A. vaga genome are probably of non-metazoan origin. Confirming this abundance of genes of non-metazoan origin, it has been estimated that at least 8% of the genes in Adineta ricciae, a related bdelloid species, are of foreign origin. This suggests that horizontal gene transfers (HGT) happen in bdelloids far more often than in other eukaryotes studied so far. For instance, this is twice the proportion observed in root-knot nematodes (3-4% of foreign genes) that were considered as holding the record for metazoan animals. In these nematodes, HGT have been shown to play an important role in the emergence of plant parasitism. In A. vaga, gene families involved in resistance to oxidation and carbohydrate metabolism, essential for desiccation resistance, are significantly expanded and many have been acquired through HGT. Quantitative PCR studies confirm the expression of foreign genes related to desiccation resistance in the bdelloid species A. vaga. Whether acquisition of foreign genes via HGT is a key innovative mechanism in eukaryotes allowing adaptation to changing environments in the absence of sexual reproduction is an important question that deserves further investigation.
+
+Tiffany Taylor
+University of Reading
+School of Biological Sciences
+United Kingdom
+Hotwiring the flagellum: Rapid, repeatable rewiring of a gene regulatory network in Pseudomonas fluorescens
+poster D23SY03PS0297
+
+Author(s): Taylor, TB, Mulley, G, Alsohim, A, Silby, MW, Brockhurst, MA, Jackson, RW
+
+Summary: 
+
+Pseudomonas fluorescens, a common microbial inhabitant of the soil and plant commensal, uses flagella for swimming motility and a biosurfactant known as viscosin for sliding motility – both are required to maximise colonisation efficiency in the plant environment. The master regulator gene that differentially regulates flagellum expression is FleQ. Both ?fleQ mutants and those carrying functional mutations in the viscosin synthase genes maintain partial motility in liquid agar (0.25%) using the other function as a motility mechanism. However, loss of function in both the viscosin synthase and FleQ genes completely abolishes in vitro surface motility. Serendipitously, we observed a SBW25fleQ-viscoin mutant regained motility over agar surfaces after about 72 hours of starvation on agar plates. This heritable motility phenotype was observed with a range of ?fleQ mutants with independent mutations in viscosin genes following starvation selection. Electron microscopy showed motile evolved mutants were able to express flagella. Further growth analysis revealed major growth defects in minimal medium, and genome sequencing revealed the bacterium had “rewired” its genetic circuitry, co-opting homologous genes from the nitrogen regulation pathway, resulting in restored expression of the flagella at the cost of reduced efficiency in the nitrogen cycle. This work highlights how bacteria can use simple innovations to adapt to potentially catastrophic genome mutations.
+
+Fabian Zimmer
+University College London
+Department of Genetics, Evolution and Environment
+United Kingdom
+How important are sex chromosomes in sexual dimorphism?
+poster D23SY03PS0394
+
+Author(s): Zimmer, F, Harrison, PW, Mank, JE
+
+Summary: 
+
+There is an extensive body of evolutionary theory predicting that the sex chromosomes should play a large role in encoding sexually dimorphic phenotypes. Although gene expression often follows these theoretical predictions, phenotypic studies have been far less conclusive. Many studies have focused on a gene-by-gene analysis of expression differences between males and females, and although this approach has yielded many new insights, it can fall short in explaining how an expression change in one sex-linked gene can affect the expression pattern of other autosomal genes. To better understand the complex regulatory structure underpinning sexual dimorphism, we employ a network-based approach based on gene co-expression in the chicken, Gallus gallus. We used RNA-seq data from males and females in several tissues and across development to construct a global gene co-expression network. Genes on the Z chromosome are more connected to male-biased autosomal genes. Additionally, male-biased Z-linked genes have a significantly higher connectivity in comparison to unbiased Z-linked genes. Finally, we detected sex-biased sub-networks, revealing that sex-biased genes on the sex-chromosomes are tightly connected with sex-biased genes on the autosomes. Taken together, these analyses suggest that the Z chromosome plays a large regulatory role in male-biased expression, and therefore male-specific phenotypes. Our analysis also shows the potential of network approaches that integrate large-scale transcriptomic datasets in a systems biology framework for revealing the influence of the sex chromosomes on general sex-specific gene expression patterns.
+
+Sophie Abby
+Institut Pasteur
+Dpt "Genomes and Genetics"
+France
+Molecular tinkering of nanomachines: the evolution of a direct protein delivery system from the bacterial flagellum
+talk D23SY03RT18:33R2
+
+Author(s): Abby, S, Rocha, EPC
+
+Summary: 
+
+Protein secretion systems drive bacterial virulence, symbiosis and competition. Some components are homologous between systems and/or with other cellular appendages. This suggests extensive evolutionary tinkering of the molecular components of secretion systems and other complex cellular membrane machineries. Here, we present a scenario for the evolution of the non-flagellar type 3 secretion system (NF-T3SS). This system allows the direct injection of proteic effectors into eukaryotic cells, and is involved in both beneficial (symbiosis) and antagonist (pathogenicity) relationships between bacteria and eukaryotes. This system is partly homologous to the bacterial flagellum. We developed tools to detect NF-T3SS in genomes, and used phylogenomics and comparative genomics to study the evolution of this system. We could show that NF-T3SS derived from a flagellar ancestor in a series of steps, each representing accretions to the system of proteins from other molecular machines. This resulted in a secretion system that diversified and adapted to different types of hosts and ecological associations. We also found a new intermediate conserved system in myxococcales, which emerged from the ancestral NF-T3SS and is neither a direct protein delivery system nor a flagellum. Thus secretion systems have intricate histories. This study and ongoing work should help deciphering the common evolutionary history of different secretion systems. It also provides clues on patterns of evolution of the large molecular structures that drive ecological interactions.
+
+Heli Havukainen
+Norwegian University of Life Sciences
+Department of Chemistry, Biotechnology and Food Science
+Norway
+Multifunctional vitellogenin – Can the evolution of a pleiotropic gene be linked to the domain architecture of its protein product?
+poster D23SY03PS0277
+
+Author(s): Havukainen, H, Amdam, GV
+
+Summary: 
+
+How do single proteins perform a broad range of tasks, and how can evolution act on pleiotropic genes/proteins? Vitellogenin is a multitask protein mostly associated with its egg-yolk function. It transports lipids to the egg and provides a source of amino acids for the embryo, and this function is conserved across several taxa. However, in the honey bee workers, vitellogenin is also a central life-history regulator that supports immune cell viability, protects against oxidative stress, and suppresses risky foraging behavior. It is expressed in queens, workers and males. In fish, this egg-yolk protein has bactericidal effects and is overexpressed in infected females and males. The key to this multifunctionality may lie in the evolution and diversity of specific structural domains. Typical structural elements of vitellogenins are, among others, N-sheet, alpha-helical and the vertebrate phosvitin domain. The latter has been pinpointed as the bactericidal actor in fish. In the honeybee, it is known that different vitellogenin domains are evolving under differing selection pressure, the putative receptor-binding N-sheet being more conserved than the other parts of the sequence. Furthermore, honeybee vitellogenin is a structurally adjustable protein that can shed the N-sheet domain. We have identified the alpha-helical domain as a membrane-binding region. Using the methods of cell and molecular biology, we show that the membrane-binding can be linked to vitellogenin’s antioxidative and putative anti-inflammatory functions in the honey bee. Thus, research on protein domains can facilitate understanding the evolution of pleiotropic genes such as vitellogenin.
+
+Philipp Schiffer
+University of Cologne
+Zoologisches Institut
+Germany
+On the fast track to extinction? Origin, divergence and mutation rates of asexual organisms
+poster D23SY03PS0535
+
+Author(s): Schiffer, PH, Stier, G, Kroiher, M, Schierenberg, E
+
+Summary: 
+
+Recent research explored the parameters under which sexual reproduction is favourable. However, it is not clear whish genomic background allows for asexual reproduction to be established and which mechanisms confine parthenogenetic species to terminal phylogenetic branches with evolutionary short lifespans. One genetic condition observed in asexual species is polyploidy arising through hybridisation. The possession of multiple copies per gene could temporarily aid in buffering against detrimental mutations that cannot be eliminated by outcrossing in asexuals and thus accrue in genomes. Still, losing the ‘best’ genotype forever once it has mutated, asexual organisms might be trapped in a feedback loop culminating in extinction - especially as low quality genotypes might evolve elevated mutation rates. Conversely, elevated mutation rates could help in adaptation to novel and extreme environments where asexuals are often found. Employing a mutation accumulation (MA) experiment I have explored the mutation rate in a parthenogenetic species of the cosmopolitan nematode genus Panagrolaimus, analysing a closely related hermaphroditic species in comparison. I sequenced and assembled the genomes of both species in order to construct references against which genomic sequences of MA lines were mapped. I then differentially screened for mutations and directly calculated rates. To analyse the origin and genetic background of parthenogenesis in Panagrolaimus I also generated genomic and transcriptomic data of two dioecious and several parthenogenetic species. Here I am presenting results from these analyses, giving a first estimate of the mutation rates and divergence. My genomic and cellular data indicate that asexual Panagrolaimus species are tetraploid hybrids. This study will aid in a better understanding of evolutionary forces acting on asexual organisms and is a basis for research on molecular and cellular mechanisms leading to the establishment of parthenogenesis.
+
+Anamaria Necsulea
+Ecole Polytechnique Fédérale de Lausanne
+Swiss Institute for Experimental Cancer Research
+Switzerland
+Origins and functional evolution of long non-coding RNAs in tetrapods
+talk D23SY03RT16:33R2
+
+Author(s): Necsulea, A, Soumillon, M, Liechti, A, Daish, T, Grutzner, F, Kaessmann, H
+
+Summary: 
+
+The search for molecular evolutionary innovations strongly relies on comparative analyses of gene repertoires, sequences and expression patterns. Such studies have been instrumental for our understanding of the genetic basis of lineage-specific phenotypes and of individual gene functions. However, these analyses have so far been restricted to protein-coding genes, and the contribution of other categories of genes, such as long noncoding RNAs (lncRNAs), has yet to be explored. Here, we use RNA sequencing to identify lncRNAs in eleven tetrapod species and we present the first large-scale evolutionary study of lncRNA repertoires and expression patterns. We identify ~11,000 primate-specific lncRNA families, which show evidence for selective constraint during recent evolution. These “young” lncRNA genes are lowly transcribed and predominantly expressed in testes, in agreement with the hypothesis that the permissive chromatin state of the testis favors the emergence of new genes. Interestingly, we also identify ~2,400 highly conserved lncRNAs, including ~400 genes that likely originated more than 300 million years ago. We find that lncRNAs, in particular ancient ones, are generally actively regulated and may predominantly function in embryonic development. Most lncRNAs evolve rapidly in terms of sequence and expression levels, but global patterns like tissue specificities are often conserved. We compared expression patterns of homologous lncRNA and protein-coding families across tetrapods to reconstruct an evolutionarily conserved co-expression network. This network, which surprisingly contains many lncRNA hubs, suggests potential functions for lncRNAs in fundamental processes like spermatogenesis or synaptic transmission, but also in more specific mechanisms such as placenta growth suppression through miRNA production.
+
+Natalia Ryzhova
+Center “Bioengineering” RAS
+Department of Genetic Engineering
+Russia
+Primary and secondary structures of group II intron NadI gene in Petota species
+poster D23SY03PS0961
+
+Author(s): Ryzhova, NN, Slugina, MA
+
+Summary: 
+
+Group II introns are self-splicing, mobile elements, which share a common ancestry with the eukaryotic spliceosome and had fundamentally influenced on organization of terrestrial genomes. Here, we report primary and secondary structures of group II intron of mitochondrial Nad1 gene (b/c intron) in 12 Solanum (sect. Petota) species. b/c Nad1 intron length varied from 1513 bp in S. tuberosum to 1483 bp in other 11 potato species and tomato S. lycopersicum. The intron length in Nicotiana species taken as outgroup was 1212 bp. The boundaries of all six canonical domains of intron pre-RNA were revealed. Consensus sequences GUGCG at the 5’-and AY at the 3’-end were present in all introns. EBS1-IBS1\EBS2-IBS2 and other motives essential for interdomain interactions were identified. 20 variable sites and three extended indels were detected. 240-bp, 30-bp insertions and 10 SNPs were specific to all Solanum mitotypes. Only 6 SNPs were variable in analyzed Solanum intron sequences characterizing S. gourlayi, S. vernei, S. spegazzinii mitotypes. Most of mutations were localized in IV, I, II domains. V and VI domain sequences were completely invariable. Despite the fact that in Solanum species NadI b\c intron was conservative, some deviations of intron pre-RNA secondary structure in comparison with canonical bacterial introns II were detected. Besides the loss of the maturase ORF in the domain IV, several subdomains like IB, IC2, hairpin ID(ii) have not been detected in the Solanum NadI b\c intron. The domain VI lacked a bulged adenosine at the expected position (7 nucleotides from the 3’-end of the intron) required for the transesteri?cation step of the intron splicing. Instead of it a short tight helix VI with single bulged adenosine at the 10 nucleotides from the 3’-end of the intron was present. These structure deviations can point out quite different evolutionary pathways in group II introns of flowering plants. The work was supported by RFBR grant 11-04-00573.
+
+Sonja Grath
+University of Munich
+Department of Biology
+Germany
+Protein domain emergence and arrangements bear high potential for rapid evolutionary innovations and environmental adaptation
+poster D23SY03PS0708
+
+Author(s): Grath, S
+
+Summary: 
+
+True novelty is only rare in nature. Most biological systems use core units (or modules) which are rearranged and reused in various contexts. Here, we explore protein domains – the modules of protein evolution, structure and function – and how domain rearrangements can create diversity and evolutionary innovation in only a few steps and surprisingly fast. We study the dynamics of domain rearrangements for genomes of both plant and insect species. We demonstrate that protein domains are frequently reused to create new arrangements and functionality. By using a phylogenomic approach, we can explain the formation of around 80% of all new arrangements by simple modular events such as fusion, fission or terminal domain loss in just one step. The remaining new arrangements frequently consist of many repeat domains occurring in complex patterns and seem to result from multi-step events. Whereas many domains are lost along every lineage, newly emerging domains are found to be often evolved in stress response and developmental innovations. They appear to spread swiftly and to be associated with environmental adaptation. While we identify relatively large and well-conserved core sets of single-domain proteins, long multi-domain arrangements tend to be species-specific indicating their importance for functional novelties. We find that modular rearrangements of protein domains have impact on all levels of the cellular signaling apparatus and subsequently may have strong adaptive potential. In summary, we investigate the high volatility of single domains and complex arrangements. We highlight nature's potential to make use of protein domains for rapid evolutionary and functional innovation. The work has been carried out in collaboration with the following colleagues: E. Bornberg-Bauer, A. K. Huylmans, A. R. Kersting, A. D. Moore, and A. Schüler. Moore et al (2013), Biochim Biophys Acta. doi: 10.1016/j.bbapap.2013.01.007. Kersting et al (2012), Genome Biol Evol. 4(3):346-59.
+
+Reuben Nowell
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+The extent of horizontal gene transfer and its role in the evolution of bacterial species
+poster D23SY03PS1043
+
+Author(s): Nowell, RW, Green, S, Laue, BE, Sharp, PM
+
+Summary: 
+
+Horizontal gene transfer (HGT) is a key evolutionary force shaping the genomic repertoires of bacterial lineages and playing a major role in bacterial adaptation. In turn, adaptive shifts into new niche habitats may drive other evolutionary processes, such as speciation. Thus, to understand the evolution of bacterial species it is important to elucidate the extent to which HGT contributes to adaptation.
+
+Pseudomonas syringae is a plant-pathogenic bacterial species complex comprised of many host-specific pathovars. The diversification of lineages within this species appears to have involved numerous adaptive shifts onto new hosts. Here, we apply a comparative genomics approach to quantitatively assess the extent of HGT that occurred during the diversification of 27 strains of P. syringae. We have developed an improved analysis pipeline that is able to account for common errors associated with draft genome sequences. For example, we estimated that ~77% of the initial lineage-specific genes were accountable to error. We have determined the core and flexible genome components and used these data to reconstruct the history of gene gain and loss within a phylogenetic framework.
+
+We estimated the relationships among these strains using 2,141 core protein alignments, and mapped more than 11,000 gene gain events and 16,000 gene losses across this phylogeny using a maximum likelihood method. Our analyses suggest an extensive recent history of gene gain and loss in P. syringae, such that pathovars acquire on average approximately 925 genes within the timeframe of 1% protein sequence divergence within the core proteome. Thus, HGT is the predominant evolutionary force in these lineages, potentially explaining the rapid diversification of P. syringae via the differential adaptation of individual pathovars onto different host species. In light of these observations, we revisit the concept of HGT as a facilitator of, rather than a barrier to, bacterial speciation.
+
+Mónica Lopes-Marques
+CIIMAR/ICBAS, University of Porto.
+Portugal
+The pancreatic lipase-colipase complex: an unexpected old duo
+poster D23SY03PS1417
+
+Author(s): Lopes-Marques, M, Santos, MM, Castro, LC
+
+Summary: 
+
+Colipase (CPLS) is a small protein cofactor essential for the activation of pancreatic lipase (PL) an enzyme involved in hydrolysis of dietary triglycerides. CPLS gene orthologues have been described exclusively in mammals and birds, in contrast to PL which has a wider phylogenetic distribution. Here we investigate the evolutionary history of the CPLS gene family in metazoans. Our findings indicate that CPLS-like genes first emerged in chordate ancestry. In agreement, we find clear orthologues in the invertebrate chordate species, B. floridae and C. intestinalis. Similarly, agnathans and chondrichthyans have clear single copy CPLS genes. In contrast, the majority of teleost species examined here lack a CPLS gene. Sequence and structural analysis using comparative homology modeling demonstrated that all CPLSs recovered exhibit a true CPLS profile with conserved cysteine residues involved in the formation of the disulphide bridges and the three finger structural topology. Protein-protein docking analysis demonstrates that the lamprey and spotted gar PL-CPLS complexes show a very similar binding pattern when compared to the crystal structure of H. sapiens. Overall our data indicates that this enzymatic system is older than expected and represents a chordate innovation possibly linked with the emergence of the pancreas.
+
+Cristina Vieira
+Instituto de Biologia Molecular e Celular
+Portugal
+The paradigma of irreversibility in gametophytic self-incompatibility: the Malus and Prunus systems
+talk D24SY03RT11:42R8
+
+Author(s): Vieira, CP, Aguiar, B, Vieira, J, Cunha, AE, Iezzoni, A, VanNocker, S
+
+Summary: 
+
+In the present hypothesis, S-RNase-based gametophytic self-incompatibility (GSI) evolved once before the split of the Asteridae and Rosidae, but the Rosaceae Malus and Prunus GSI systems are different: in Prunus the S-RNase gene presents two introns and the S-pollen is a single F-box gene (called SFB). The two genes show evidence for a partially coevolved history, both presenting high levels of synonymous and non-synonymous divergence, as well as positively selected amino acid sites that account for the specificities present in natural populations. In Malus, the S-RNase gene has one intron, and multiple S-pollen F-box genes (called SFBBs) have been described. Levels of diversity at the S-RNase gene are 10 times higher than at the SFBB genes. Nevertheless, intra-haplotypic diversity of SFBB is similar to the S-RNase gene. Moreover, there is evidence for amino acids under positive selection only when intra-haplotype SFBB genes are analyzed. Thus, it is not surprising that different self-recognition mechanisms have been proposed: in Prunus self S-RNases are protected from degradation by the self-SFB protein, while in Malus each SFBB protein is predicted to interact with a subset of non-self S-RNases that mediates their degradation. Here, we perform a detailed characterization of S-RNase and F-box like genes present in the P. persica and M. domestica genomes. Phylogenetic analyses revealed three duplications that predate Malus and Pyrus speciation. The gene lineage determining GSI function are different in Malus and Prunus. Expression analyses in 12 Malus tissues revealed that two of the S-RNase lineage genes are expressed mostly in pistils, but one has acquired seed expression. In Malus the closest SFB-like gene shows the highest expression in stamen but is also expressed in seeds. An hypothesis for the evolution of Malus and Prunus GSI is presented. Implications of the polyphyletic S-RNase GSI evolution on uncharacterized GSI systems are discussed.
+
+Christian Schlötterer
+Vetmeduni Vienna
+Austria
+The rapid life cycle of Drosophila orphans
+talk D24SY03RT10:54R8
+
+Author(s): Schlötterer, C, Palmieri, N, Nolte, V, Kosiol, C
+
+Summary: 
+
+Orphans are genes restricted to a single phylogenetic lineage. They emerge at high rates and frequently provide a selective advantage or even essential functions to their host. While these features predict an accumulation of genes, the gene number has remained remarably constant through evolution. This paradox of a stable gene number in the presence of a high rate of gene birth has not been resolved. Because orphan genes were mainly analyzed over large evolutionary time scales, orphan loss, a key factor of orphan evolution, remained unexplored. Here, we study the patterns of orphan turnover among close relatives in the Drosophila obscura group. We show that orphans are not only emerging at a high rate, but they are also rapidly lost. The pattern of orphan loss is clearly non-random: young orphans are more likely to be lost than orphans, which originated earlier. Furthermore, highly expressed orphan genes with a strong male-bias are more likely to be retained. Since lost and retained orphans show similar evolutionary signatures of functional conservation, we propose that intron loss is not driven by different evolutionary rates, but lineage specific functional requirements.
+
+Tugce Bilgin
+University of Zurich
+Institute of Evolutionary Biology and Environmental Sciences
+Switzerland
+Unstable tandem repeats in primate promoters enhance expression divergence
+talk D24SY03RT11:18R8
+
+Author(s): Bilgin, T, Wagner, A
+
+Summary: 
+
+Tandem repeats in eukaryotic gene promoters can change gene expression drastically due to their extremely low stability. We hypothesized that unstable tandem repeats in promoters increase expression divergence along the primate phylogeny. A search for tandem repeats in promoter regions of 13,000 human, chimpanzee and macaque orthologous genes revealed that 30 % of primate promoters contain tandem repeats. Genes driven by these repeat-containing promoters show significantly higher rates of expression divergence. More specifically, we found a significant correlation between repeat instability and expression divergence. This relation might explain gene expression divergence in more special cases, as in gene duplication events or in disease formation.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

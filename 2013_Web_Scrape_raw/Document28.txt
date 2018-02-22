@@ -1,0 +1,230 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY28: Non-genetic transfer of immunity across generations – evolution and underlying mechanisms
+ Abstracts list Schedule Description
+View only talks or posters
+Juli Broggi
+Estación Biológica de Doñana, CSIC
+Aquatic Ecology
+Spain
+Avian maternal transfer of antibodies: are they affecting the specific immune response of their chicks?
+poster D21SY28PS1296
+
+Author(s): Broggi, J, Soriguer, RC, Figuerola, J
+
+Summary: 
+
+Avian parents influence their offspring’s phenotypes by providing different sorts of parental care. Mothers may transfer a variety of elements through the yolk sack that can affect the embryo’s development. Among these elements supplied, mothers transfer antibodies that provide transient adaptive immune protection to the chick. However, whether such transient specific immunity is enhancing the chicks’ subsequent immune response to the same specific immune challenge remains controversial. We explored whether mother’s specific immune response to Newcastle disease virus (NDV) affected their chick’s subsequent response to the same antigen. We studied a wild breeding population of house sparrow (Passer domesticus) in southern Spain. We captured 57 breeding females in two consecutive breeding events: 29 were vaccinated against NDV in their first brood, and the rest were sham-controlled. Chicks on their second brood were equally treated, the concentration of NDV antibodies (NDV-Ab) was measured, and the phytohaemaggulutinin-induced immune response (PHA) assayed from all before fledging. Leukocyte profile, antioxidative status and total protein concentration from blood was measured from all individuals. Both vaccinated mothers and chicks presented higher NDV-Ab levels than control individuals. Chicks’s level of NDV-Ab was marginally affected by their mother’s treatment, which was further confirmed when the level of maternal NDV-Ab was taken into consideration. Chicks challenged with NDV vaccine developed a stronger specific response whenever their mothers presented high levels of NDV-Ab. However, chick’s PHA response was unaffected by none of the treatments, nor the mothers’ condition (NDV-Ab, leukocyte profiles or antioxidative status) in any way. Our results suggest that house sparrow mothers transfer specific NDV-Ab, which help their chicks to respond more strongly when challenged with the same antigen, leaving other immune responses unaffected.
+
+Anne Beemelmanns
+Helmholtz-Centre for Ocean Research Kiel | GEOMAR
+Marine Ecology
+Germany
+Bi-parental immune priming in the sex-role reversed pipefish Syngnathus typhle
+talk D21SY28RT16:33R9
+
+Author(s): Beemelmanns, A, Roth, O
+
+Summary: 
+
+The transfer of immunity from mothers to offspring (trans-generational immune priming) yields in an improved offspring immunity and an induced parasite resistance. In teleost this occurs via maternal deposition of antibodies into the egg yolk. As yet, the paternal contribution to offspring immunity was suggested to be negligible because sperm are too small for a transfer over the scope of the DNA. Syngnathids like the sex-role reversed pipefish Syngnathus typhle have evolved a paternal placenta-like structure, in which embryos are nursed. This gives a mechanistic opportunity for paternal transfer of immunity but also implies that offspring are born in the paternal environment and thus share a similar parasite pressure. Hence, strong selection for the evolution of paternal immune priming can be expected.
+We experimentally investigated the potential of maternal, paternal and bi-parental immune priming on offspring cell activity and gene expression patterns. We found that offspring’s immune defence was enhanced upon parental bacteria exposure, independent of whether mother, father or both were challenged. This suggests that male pregnancy let to the evolution of bi-parental immune priming. Classically, maternal immune priming is considered to be of higher importance due to the fact that mothers invest more resources in production and care of offspring. However, since in sex-role reversal males do not only have an intense paternal investment but also realize evolutionary maternal traits like a more efficient immune response, selection pressures for paternal immune priming should be stronger. As immune priming is expected to be energetically costly for both parents and offspring, life history parameters provide clarification about incorporated costs and benefits. Further, future data will give insights in the mechanistic basis of bi-parental immune priming and assess what role antibodies, innate immunity and epigenetics play.
+
+Jennie Garbutt
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Changes in feeding rate can explain the maternal effect of food on disease resistance in Daphnia magna
+poster D21SY28PS1088
+
+Author(s): Garbutt, JS, Wilson, PJ, Little, TJ
+
+Summary: 
+
+Maternal effects are increasingly recognised to impact on infectious disease. In invertebrates, maternal parasite exposure, as well as changes in maternal abiotic environment (e.g. food availability, crowding, forced-flight), have been shown to influence the outcome of offspring-parasite interactions with profound fitness consequences for the host. An understanding of the mechanisms underlying these maternal effects is a prerequisite for recognising their adaptive value, yet proximate mechanisms have so far received little attention. We investigated the mechanism underlying a maternal effect on disease resistance in the crustacean Daphnia magna, an organism that produces offspring more resistant to the sterilising bacterium Pasteuria ramosa when food availability is relatively poor. We show that this maternal effect is likely to be mediated by a reduction in feeding rate in the offspring of food stressed mothers, explaining their improved resistance to a parasite that infects via the gut.
+
+Joshka Kaufmann
+Max Planck Institute for Evolutionary Biology
+Department of Evolutionary Ecology
+Germany
+Context-dependent paternal effects of infection on offspring survival and condition
+talk D21SY28RT16:09R9
+
+Author(s): Kaufmann, JP, Lenz, TL, Milinski, M, Eizaguirre, C
+
+Summary: 
+
+Besides traditional genetic inheritance, the phenotype of an individual can be influenced by its parents’ phenotypes and environment. Whether those environmentally-induced parental effects are adaptive though remains elusive. To address this question, we focused on paternal effects of exposure to a nematode parasite in the three-spined stickleback. We experimentally investigated how parasite infection affects adult stickleback males and their offspring’s early life history traits and parasite resistance. By means of in vitro fertilization, we produced over 50 maternal half-sibships sired by pairs of infected and uninfected brothers. We first present evidence for sperm deficiency in infected fathers compared to uninfected fathers (reduced velocity and fertilizing ability). We then show that although offspring of infected fathers suffered from low hatching success and survival rates, when exposed to the same parasite, they achieved higher body condition than their counterparts from uninfected fathers. These results highlight that the adaptive potential for paternal effects is only expressed in the presence of the paternal environmental stressor. We thus discuss the likelihood and potential consequences of sperm-mediated transgenerational effects under stable or predictable environments.
+
+Mike Boots
+University of Exeter
+United Kingdom
+Epidemiological and evolutionary implications of immune priming
+talk D21SY28IT17:45R9
+
+Author(s): Boots, M
+
+Summary: 
+
+The body of empirical evidence for immune priming in invertebrates is growing. To highlight this, here, I will give an example of within and transgenerational priming in an insect to challenge by a natural DNA virus. Given this widespread phenomena and the fact that priming, defined here as immunity following challenge to a pathogen, contrasts epidemiologically with acquired immunity which occurs after recovery from an infectious state, it is important to model the implications of priming. Defined in this way priming can also be a characteristic of vertebrate immunity. Here I will describe the epidemiological and evolutionary characteristics of a SPI (susceptible:primed:infectious) model as distinct from the SIR (susceptible:infected:recovered/removed) model of acquired immunity. The models highlight the potential importance of priming to the epidemiology and evolution of host parasite interactions.
+
+Thierry Boulinier
+CNRS
+CEFE-CNRS UMR 5175
+France
+Evolution of a transgenerational response to parasites, the maternal transfer of antibodies: theory, experiments and comparative approaches
+talk D21SY28RT18:33R9
+
+Author(s): Boulinier, T, Garnier, R, Ramos, R, Gandon, S
+
+Summary: 
+
+Among the many responses that hosts show against parasites, the transgenerational transfer of immunity is now receiving increased attention due to its broad potential evolutionary, epidemiological and ecological implications. In vertebrates, the maternal transfer of antibodies is a transgenerational response to parasites for which there is a relatively strong mechanistic and biomedical understanding of the processes involved. Recent theoretical work and experiments we conducted to address evolutionary predictions are nevertheless shedding new light on both the proximate and ultimate processes involved. We notably found that the temporal persistence of maternal antibodies in young birds after hatching can be much longer than previously thought, and that this persistence is predictably linked to the life history of the considered species. Because of the mechanistic link between antibody persistence in adults and young, this has implication for the evolution of acquired immunity. We also showed that offspring can receive maternal antibodies via allosuckling in social mammals. Such results have wide implications, from comparative immunology and the evolution of social behaviours, to the use of vaccines as management tools in eco-epidemiology. They also call for further work at the interface between mechanistic and evolutionary approaches.
+
+Jessica Purcell
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Foster care-givers influence brood pathogen resistance in ants
+poster D21SY28PS0581
+
+Author(s): Purcell, J, Chapuisat, M
+
+Summary: 
+
+Social organisms face a high risk of epidemics, and respond to this threat by combining efficient individual and collective defenses against pathogens. An intriguing and little studied feature of social animals is that individual pathogen resistance may depend not only on genetic or maternal factors, but also on the social environment during development. Here, we used a cross-fostering experiment to investigate whether the pathogen resistance of individual ant workers was influenced by their care-givers’ or their own colony of origin. The ability of newly eclosed, cross-fostered Formica selysi workers to resist the fungal entomopathogen Beauveria bassiana was influenced by the workers that cared for them during development. This effect persisted even in the absence of ongoing social interactions and did not depend upon the social structure of the colony of origin of either care-givers or brood. Social interactions during development thus influence individual resistance, blurring the line between individual and social immunity.
+
+Anna Forsman
+Cornell University
+Ecology & Evolutionary Biology
+United States
+Immune-based maternal effects in response to experimental manipulation of bacterial load in tree swallow nests
+talk D21SY28RT15:45R9
+
+Author(s): Forsman, AM
+
+Summary: 
+
+Birds encounter a variety of bacteria in their environment on a daily basis. The vast majority of these organisms likely exert minimal direct effects on avian fitness, while others may exert negative pathogenic effects or conversely, positive probiotic effects. Regardless of pathogenicity, the antigenic properties of many bacteria likely contribute to variation in immune status among individual birds at any given time. Some of this variation may in turn be inherited from mother to offspring through the deposition of protective immune compounds into eggs. Neonates may be especially sensitive to environmental bacteria during the first weeks of life, before the immune system is fully developed and the gut microbiota established. And thus, variation in female exposure to bacteria prior to egg-laying may result in indirect fitness consequences through maternal effects on early offspring immune phenotype. In this study, I manipulated bacterial load in tree swallow nests during nest-building and egg-laying to explore bacterial effects on female investment in egg defenses and on offspring growth and immune status. Contrary to my predictions, eggs collected from nestboxes with added bacteria contained lower concentrations and total amounts of yolk antibodies than eggs from control nests. These patterns, observed for total yolk antibodies, were also reflected in nestling plasma samples. Nestlings whose mothers were exposed to increased bacterial load also exhibited lower bactericidal capacity than control nestlings at six days post-hatch, but not at twelve days post-hatch. No differences in nestling size, growth, or PHA responsiveness were observed among treatment groups.
+
+Jennifer Grindstaff
+Oklahoma State University
+Department of Zoology
+United States
+Maternal immune challenges exert both enhancing and suppressive effects on offspring immune responses
+talk D21SY28RT18:57R9
+
+Author(s): Grindstaff, JL, Merrill, L
+
+Summary: 
+
+Maternal antibodies can both enhance and suppress offspring humoral immune responses. However, these enhancing and suppressive effects have typically been documented in separate studies conducted with different species and different antigens over variable time periods. Thus the conditions that induce a priming effect of maternal immune challenge versus a suppressive effect have been unclear. In this study, we exposed female zebra finches (Taeniopygia guttata) and their offspring to one of two antigens (keyhole limpet hemocyanin (KLH) or lipopolysaccharide (LPS)) or a control treatment and quantified maternal antibody transmission and endogenous offspring antibody production. Antigen-specific maternal antibodies reached their lowest levels between days 17 and 28 post-hatch and total antibody concentrations peaked at day 17 post-hatch. We found that both maternal KLH and maternal LPS exposure stimulated the production of antigen-specific antibodies in non-challenged offspring after the catabolism of maternal antibodies. This suggests a stimulatory effect of maternal immune challenge on offspring humoral immunity. However, offspring of both KLH and LPS challenged mothers exhibited weaker antigen-specific secondary immune responses when mothers and offspring were challenged with the same antigen. Maternal immune challenge did not impact the ability of young to respond to the other antigen. This supports a specific, suppressive effect of maternal immune challenge on offspring antibody production. Thus, maternal antibodies can have an instructive role, potentially acting as internal antigens, and stimulate offspring antigen-specific antibody production in response to two distinct antigens. However, when the early antigenic environment of offspring is similar to the maternal antigenic environment, maternal antibodies may suppress the endogenous antibody responses of young.
+
+Joanne Littlefair
+Queen Mary, University of London
+School of Biological and Chemical Sciences
+United Kingdom
+Maternal investment and larval fitness in the burying beetle Nicrophorus vespilloides
+poster D21SY28PS0409
+
+Author(s): Littlefair, J, Arce, A, Rozen, D, Knell, R
+
+Summary: 
+
+Studies of transgenerational immune priming have shown that an immune challenge to parents can lead to upregulated offspring immunity and increased resistance to disease1,2. Here we investigate whether mothers can anticipate immune challenges to their offspring by assessing the quality of resources that will be available to offspring. When resources are spatially and temporally variable, it could be adaptive to alter the offspring phenotype accordingly.
+
+The burying beetle Nicrophorus vespilloides feeds and reproduces on carrion. Females will breed multiple times during their lives, and carcasses will vary in levels of decomposition throughout their lifespan. Their offspring will therefore experience different levels of competition and challenges from micro-organisms, as well as variation in nutritional quality. Parents examine and carefully prepare carcasses for their broods, giving mothers an opportunity to assess the quality of the reproductive resource during this preparation phase.
+
+We tested the hypothesis that beetle mothers can anticipate the offspring’s environment during the preparation of the resource and match offspring phenotype to this by adjusting immune investment and/or development. We performed a cross-factorial experiment in which mothers bred on resources of either good or poor quality, and newly hatched larvae were transferred onto resources of either the same or different quality. During their final larval instar, traits relating to fitness and immune defence were measured. Adult life history traits from the offspring generation were also assessed, and we present those findings here.
+
+References:
+
+1 Tidbury, H., Pedersen, A., Boots, M. 2011 Within and transgenerational immune priming in an insect to a DNA virus Proc. R. Soc. B 278, 871-876 2 Sadd, B.M., Kleinlogel, Y., Schmid-Hempel, R. & Schmid- Hempel, P. 2005 Trans-generational immune priming in a social insect. Biol. Lett 1, 386–388
+
+Barbara Milutinovic
+University of Münster
+Institute for Evolution and Biodiversity
+Germany
+Oral immune priming in the red flour beetle Tribolium castaneum
+poster D21SY28PS0272
+
+Author(s): Milutinovic, B, Fritzlar, S, Kurtz, J
+
+Summary: 
+
+The phenomenon of immune priming and its transfer to the offspring as trans-generational priming has now been demonstrated for number of insect species, including the red flour beetle Tribolium castaneum. For testing this phenomenon, the majority of studies have focused on introducing the pathogen into the insects' hemolymph by making a small wound in the cuticle. Although such septic injury can occur in nature, many pathogens are able to infect their hosts also via the oral route, i.e. by uptake with the food. Bacillus thuringiensis is a spore-forming, entomopathogenic bacterium, which infects its hosts in this way, and penetrates the host gut epithelium to gain access to the hemocoel. We tested for immune priming of T. castaneum larvae by oral exposure to B. thuringiensis vegetative cells and spores, as well as by media supernatants from bacterial cultures. We found strong induction of immune priming when we exposed the larvae to the sterile media in which bacteria were raised, but not to the heat-killed bacteria, killed spores or low amounts of viable spores. Primed larvae showed increased survival upon oral challenge with a high dose of B. thuringiensis spores. Moreover, they had a longer developmental time, indicating that investment in such a priming response comes with a cost. We moreover show that increased survival in larvae exposed to the priming-inducing diet was not caused by a difference in the size of larvae after priming. We are currently testing for trans-generational oral priming, i.e. whether the offspring of primed individuals shows increased survival upon challenge.
+
+Rebecca Schulte
+University Osnabrueck
+Behavioural Biology
+Germany
+Priming against pathogen attack in Caenorhabditis elegans – effect of probiotics or immune system activation?
+poster D21SY28PS0431
+
+Author(s): Schulte, RD, Hanke-Uhe, M, Kubela, A
+
+Summary: 
+
+Parasites impose strong selective pressures on hosts since they reduce per definition host fitness. Immune reactions are advantageous, but they are also costly. Therefore, mechanisms reducing the costs of a continuous expression of immune genes are selected. An alternative strategy is the behavioural defence, for example escape behaviour. Hosts prevent contact to parasites by escaping potentially dangerous areas, particles or individuals. For the nematode Caenorhabditis elegans such escape behaviour is well known: It escapes pathogenic bacteria and prefers feeding on non-pathogenic variants of the same bacterial species. We here ask whether feeding on these non-pathogenic bacterial variants offers another advantage than just the uptake of non-pathogenic food. In detail we test whether previous contact to non-pathogenic Bacillus thuringiensis is advantageous upon later contact to pathogenic B. thuringiensis. We found indeed that nematodes with previous contact to the non-pathogenic bacteria survive better upon contact to pathogenic bacteria. Since this effect is equally strong if the non-pathogenic bacteria are alive or dead, this effect is most likely caused by an immune activation and not by the probiotic accumulation of non-pathogenic bacteria in the gut. These results highlight that also in species with a primitive immune system immune priming may occur, also the exact mechanism remains unclear.
+
+Elena Arriero
+University Complutense of Madrid
+Department of Zoology and Physical Anthropology
+Spain
+The role of maternal effects on the ontogeny of constitutive immunity in wild birds
+poster D21SY28PS1008
+
+Author(s): Arriero, E, Martin, TE
+
+Summary: 
+
+The ability to resist infections early in life is expected to be under intense selection pressure because infection may have severe impact on fitness. Maternally transmitted immune components provide some protection during early stages and may have long-lasting effects on the development of the humoral immune system. Extrinsic influences on mothers (i.e. exposure to pathogens) may also influence vertical transmission of immune components to offspring. However, maternal effects on the ontogeny of offspring immune function may not be restricted to vertically transmitted components. Mothers may influence the development of offspring immune function by providing a suitable environment for embryo development through parental care. Indeed, parental behaviour in birds plays an important role in keeping embryo thermal conditions within the optimal range for development. This parentally induced variation in embryo temperatures can thereby influence development and performance of the immune system. Yet, whether these maternal effects mediated by egg constituents or thermal environment interact with endogenous development of immune function differently among species remains unstudied. In this study, we examined the ontogeny of constitutive immunity in relation to developmental stage in a group of 22 Passerine bird species. Our results show that inter-specific variation in immune activity at hatching was mainly explained by extrinsic factors mediated by the mother, suggesting an important role of maternal effects on offspring immunity at hatching. Activity of constitutive components of the immune defense was detected as early as 1-3 days post-hatching, and increasing with age, indicating that immune function in older nestlings reflects intrinsic development. Our results highlight both endogenous immune activity of altricial nestlings at an early developmental stage, and maternal effects on the ontogeny of immune function of young birds.
+
+Ann Tate
+Princeton University
+Department of Ecology and Evolutionary Biology
+United States
+The temporal dynamics of immune gene expression and pathogen load reveal resistance and tolerance of bacteria infection by trans-generationally primed flour beetles
+poster D21SY28PS0084
+
+Author(s): Tate, AT, Andolfatto, P, Graham, AL
+
+Summary: 
+
+Immune priming allows individuals previously exposed to a pathogen to enjoy reduced susceptibility and higher survival probability upon re-exposure, compared to naïve cohorts. The protection can even be transferred across generations, but currently very little is known about the mechanisms that confer a primed immune response in invertebrates. Furthermore, whether trans-generational immune priming increases resistance (ability to kill pathogens), tolerance (ability to minimize or repair damage), or both is unknown. In trans-generational priming experiments reported here, we infected the larval offspring of naïve, sterilely wounded, or bacteria-challenged (primed) adult female beetles (Tribolium castaneum) with the bacterial entomopathogen Bacillus thuringiensis (Bt) and used DNA microarrays and qPCR to investigate the influence of maternal treatment on the temporal dynamics of bacterial load and immune gene expression. Meanwhile, we monitored the survival and development of infected and uninfected larvae from these treatments to quantify the functional outcomes of priming in this system. Initially, primed larvae were better able to curb bacterial proliferation and they subsequently exhibited increased tolerance for high bacterial loads. Moreover, primed larvae had better survival odds and buffered developmental costs of infection. Taken together, these results suggest that invertebrate immune priming is not just an outcome of more efficient microbe killing, as previously supposed, but rather a two-pronged reduction in the overall negative consequences of infection for the host, with broad implications for the evolution of immune priming and pathogen virulence strategies.
+
+Michael Lattorff
+Martin-Luther-University Halle-Wittenberg
+Institute of Biology
+Germany
+Transcriptome analysis of immune priming in the bumblebee (Bombus terrestris)
+poster D21SY28PS1263
+
+Author(s): Lattorff, M, Flemming, T
+
+Summary: 
+
+The innate immune system of invertebrates has been claimed to be unspecifically acting against saprophytes based on the observation, that the genes contributing to innate immunity are well conserved across species. However, in recent years specificity and a form of memory in invertebrate immunity (immune priming) have been shown to occur in a number of species. Homologous infections led to higher survival than heterologous infections. Especially long lived species that might be at risk of subsequent infections might have a selective advantage when developing a potentially costly immune response that shows specificity and longevity. As the underlying mechanisms of immune priming are not properly examined and understood we used a transcriptome analysis of heterologous and homologous infections using gram-positive and -negative bacteria in the bumblebee, Bombus terrestris. The results indicate that the gene expression pattern are determined by initial infections rather than by secondary pathogen exposure. Thus, the immune system is primed by the first pathogen to be encountered and shows a long-lasting response at the level of gene expression. Effector genes of the innate immune system pathways (e.g. antimicrobial peptides), which are differentially activated by gram-positive and -negative bacteria, do show a specific, long-lasting response initiated by the initial infections. Using a transcriptomic approach we are able to unravel the mechanism of immune priming in insects. Initial infections are indeed priming the immune response so that a secondary homologous infection might be better counteracted due to specifically expressed genes of the immune system than a heterologous infection.
+
+Andreas Vilcinskas
+Institute of Phytopathology and Applied Zoology, University of Giessen
+Applied Entomology
+Germany
+Transgenerational immune priming in Lepidoptera
+talk D21SY28RT16:57R9
+
+Author(s): Vilcinskas, A, Freitak, D, Schmidtberg, H, Vogel, H
+
+Summary: 
+
+Parental investment in offspring encompasses its preparation to defend themselves against pathogens or parasites initially encountered by the adults. In order to explore the mechanisms mediating trans-generational immune priming in insects we used the established lepidopteran model host Galleria mellonella. Here we show that feeding of G. mellonella larvae with either non-pathogenic bacteria or with bacterial pathogens such as Pseudomonas entomophila and Serratia entomophila is sufficient to increase expression of immunity-related genes such as the antibacterial protein gloverin. Dietary uptake of bacteria by the larvae resulted also in differential expression of immunity-related genes in the eggs laid by the corresponding female adults, providing evidence for trans-generational immune priming of the offspring. In subsequent studies we explored the mechanism mediating transgenerational immune priming in Lepidoptera.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

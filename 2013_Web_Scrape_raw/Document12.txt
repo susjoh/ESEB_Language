@@ -1,0 +1,302 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY12: Studying multigene-family evolution in the post-genomic era: Towards a population genomic approach to MHC evolution
+ Abstracts list Schedule Description
+View only talks or posters
+Helena Westerdahl
+Biology
+Sweden
+In silico peptide-binding predictions of MHC class I reveal similarities across distantly related songbird species, suggesting convergence on the level of protein function
+talk D20SY12RT11:18R9
+
+Author(s): Westerdahl, H, Follin, E, Karlsson, M, Drews, A, Lundegaard, C, Nielsen, M, Wallin, S, Paulsson, K
+
+Summary: 
+
+Many songbirds have a large number of transcribed MHC class I genes compared to most mammals. To elucidate the reasons for this large number of genes and to search for non-classical MHC genes in songbirds, we compared songbird MHC class I alleles (a1-a3 domains). By applying phylogenetic analysis, homology modelling and in silico peptide-binding predictions, we could compare both functional and genetic relationships among transcribed genes. We found more pronounced clustering of the MHC class I allomorphs (allele-specific proteins) in regard to their protein function (peptide-binding specificities) compared to their genetic relationships (amino acid sequences), indicating that the high number of alleles is of functional significance.
+
+The MHC class I allomorphs from house sparrow and tree sparrow, species that diverged ten MYA, had overlapping peptide-binding specificities. These similarities across species were also confirmed in phylogenetic analyses, and were similar for genes that we interpret as classical and non-classical. Remarkably, there were also overlapping peptide-binding specificities in the allomorphs from house sparrows and great reed warblers, although these species diverged about 30 MYA. This overlap was not found in a tree based on amino acid sequences. Our interpretation is that convergent evolution on the level of the protein function, possibly driven by selection from shared pathogens, has resulted in allomorphs with similar peptide-binding repertoires, although trans-species evolution in combination with gene conversion cannot be excluded.
+
+Jacek Radwan
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Evolution of MHC gene number: optimality hypothesis and beyond
+talk D20SY12IT14:48R9
+
+Author(s): Radwan, J
+
+Summary: 
+
+MHC genes code for proteins involved in recognition of pathogens. Their extreme polymorphism, thought to be driven primarily by selection from parasites, has been subject of much theoretical and empirical work. In addition to allelic diversity, MHC genes are often multiplicated, but the evolution of the MHC copy number received relatively less attention. Optimality hypothesis (Nowak et al. 1992) poses that an increase in parasite recognition capabilities with increased number of MHC molecules expressed is traded off against higher rate of deletion of auto-reactive lymphocytes, thus some intermediate individual MHC diversity should be favoured. Empirical tests of this hypothesis have been hampered by technical difficulties associated with the typing of multi-locus genotypes, but this has now been overcome by new generation sequencing methods. I will review the recent empirical studies of the optimality hypothesis. The presence of multiple MHC genes in the genome may also facilitate creation of new alleles via inter-genic recombination (Ohta 1991). The results of simulations of host-parasite coevolution showed that such newly created alleles are very likely to be retained in populations. This opens the possibility for haplotypes with a high number of MHC copies to hitch-hike with positively selected alleles.
+
+Mónica Silva
+Faculdade de Ciências, Universidade de Lisboa
+Centro de Biologia Ambiental
+Portugal
+Evolution of olfaction in tubenose seabirds
+talk D20SY12RT16:33R9
+
+Author(s): Silva, MC, Su, Q, Daugherty, S, Coelho, M, Silva, JC
+
+Summary: 
+
+The sense of olfaction is one of the most ancient senses with which vertebrates collect information about their surroundings, playing a critical role in survival and reproduction. We are extending the understanding of the evolution of the olfactory receptor (OR) genes in the avian group, by focusing on Procellariiform seabirds. This group has one of the largest relative olfactory bulb sizes among extant birds, and other anatomical features correlated with high olfactory capability. We built a cosmid library of Cory’s Shearwater (Calonectris diomedea) gDNA, which was screened with partial shearwater OR genes. 96 positive clones were sequenced with a combination of Sanger (cosmid ends), Illumina and 454 sequencing technologies. The resulting hybrid assembly has a cumulative length of 7.4Mb, including 399 unique scaffolds (2.6Mb), and ~ 21K degenerate scaffolds. A total of 144 ORFs (> 75 amino acids) have a significant similarity to OR genes, as determined with HMMs built from bird OR genes. Many are full length OR genes, and provide the basis for a comprehensive study of OR evolution in a lineage that relies extensively on olfaction. Preliminary phylogenetic analyses of shearwater, chicken, zebra finch and lizard OR genes revealed at least three distinct clades in Cory’s Shearwater. A few genes clustered with those of the remaining species in a clade, gamma, that predates the divergence of birds. However, most of the sampled shearwater genes belong to the avian-specific gamma-c clade, within which sequences cluster by species, consistent with a scenario of ubiquitous, lineage-specific expansions and/or the action of concerted evolution. Ongoing analyses will address the evolutionary history and genomic context of OR genes in this avian clade, namely the possible genomic association with MHC genes, as well as sequence diversity within and between clades, in particular in putative ligand-binding pockets encoded by shearwater-specific OR lineages.
+
+Etienne Loire
+Centre National de la Recherche Scientifique
+Institut des sciences de l'évolution de Montpellier
+France
+Evolution of two multigene families involved in subspecies recognition and sexual isolation in the house mouse: insights from a transcriptomic and genomic perspective
+poster D20SY12PS0939
+
+Author(s): Loire, E, Boursot, P, Smadja, C
+
+Summary: 
+
+The two subspecies of the house mouse Mus musculus musculus and M. m. domesticus have evolved in allopatry for half a million years before meeting secondarily in Europe 5000 years ago, forming a narrow hybrid zone with unfit hybrids. Previous studies have shown that these incipient species recognise each other through signals present in urine and mate assortatively in the contact zone. This suggests a reinforcement process in this zone where prezygotic isolation would evolve as a response to selection against hybridisation. Our study addresses the genetic basis of sexual isolation between these two subspecies by analyzing divergence of two large multigene families involved in chemosensory recognition. On the signaling side, we focused on the Major Urinary Proteins (MUP), a cluster of more than 21 duplicated genes known to act as pheromones in the house mouse. On the reception side, we focused on their potential receptors, the vomeronasal receptors (VR), a very large multigene family composed of more than 200 genes, expressed in the vomeronasal organ of the mouse and known to be involved in pheromone recognition. Since assortative mating is displayed in the hybrid zone, we predicted strong sign of divergence between the two subspecies at our candidate families provided that they are involved in sexual isolation. Moreover, if reinforcing selection is acting on the mate recognition system in the hybrid zone, we expected a stronger signature of selection in the genomic regions baring VR and MUP genes in individuals of the hybrid zone as compared to individuals residing in allopatric zones of the distribution range. By combining several high-throughput genomic methods such as RNA-seq and exome sequencing, we tested these predictions and explored divergence affecting the VR and MUP gene families at the sequence, expression and structural levels.
+
+Jim Kaufman
+University of Cambridge
+Department of Pathology
+United Kingdom
+Gene co-evolution in action: how genomic organisation impacts evolution of the adaptive immune system of jawed vertebrates
+talk D20SY12IT10:30R9
+
+Author(s): Kaufman, J
+
+Summary: 
+
+A crucial part of the adaptive immune system of jawed vertebrates is recognition by T lymphocytes of pathogen components presented by molecules of the major histocompatibility complex (MHC). MHC genes often have high levels of allelic polymorphism and sequence diversity, thought to be due to an on-going arms race with pathogens. However, the strong genetic associations of humans are with autoimmune disease. Starting with the chicken MHC as a model, we have found that key features of the MHC genomic organisation and subsequent function differ between typical mammals and many (if not most) non-mammalian vertebrates. In particular, the chicken MHC is organised differently than typical mammals, which leads to haplotypes of polymorphic interacting genes, which in turn leads to single dominantly-expressed MHC class I and class II molecules, which finally leads to strong genetic associations with resistance and susceptibility to infectious pathogens. The salient features discovered for the chicken MHC are shared with many non-mammalian vertebrates and are likely ancestral, with the organisation of the typical mammalian MHC arising from an inversion. However, among jawed vertebrates there are at least two other functional strategies for the MHC which have arisen independently, and still others (like passerine birds) not well understood. The co-evolution between antigen processing and antigen presenting genes should mean that evolution is slower in chickens than in mammals, so we have tried to understand the molecular basis for function in an historic recombinant, and have screened many commercial chickens and other populations for such recombinants.
+
+Christophe Eizaguirre
+GEOMAR|Helmholtz Center for Ocean Research
+Evolutionary Ecology of Marine Fishes
+Germany
+Genetic signature of local adaptation of MHC genes to varying parasite pressures
+talk D20SY12RT16:57R9
+
+Author(s): Eizaguirre, C, Lenz, TL, Kalbe, M, Milinski, M
+
+Summary: 
+
+Although crucial for the understanding of adaptive evolution, genetically resolved examples of local adaptation are rare. To maximize survival and reproduction in their local environment, hosts should resist their local parasites and pathogens. The major histocompatibility complex (MHC) with its key function in parasite resistance represents an ideal candidate to investigate parasite-mediated local adaptation. Using replicated field mesocosms, stocked with second-generation lab-bred three-spined stickleback hybrids of a lake and a river population, we show local adaptation of MHC genotypes to population-specific parasites, independently of the genetic background. Furthermore, the multi-locus specificity of MHC genes revealed that increased individual allele divergence of lake MHC genotypes allows lake fish to fight the broad range of lake parasites, whereas more specific river genotypes confer selective advantages against the less diverse river parasites. Such results demonstrate that not only the presence of given alleles is important for local adaptation but also that the combinations of alleles on the different duplicated loci are crucial for host-parasite coevolution.
+
+Thierry Wirth
+Muséum National d'Histoire Naturelle - EPHE
+Department of Systematics and Evolution
+France
+Genetic structure, selection and duplication in European eels MHC class II genes
+poster D20SY12PS0475
+
+Author(s): Wirth, T, Galan, M, Delgado, SF, Gilabert, A
+
+Summary: 
+
+Understanding adaptation and selection in populations facing environmental changes is a major concern. Our project aims to understand the adaptation and resilience of endangered catadromous European eel to increasing parasitic pressure. Anguilla anguilla has encountered successive waves of exotic invasive parasites, namely, the swimbladder nematode Anguillicoloides crassus. Infested individuals have high swimming performance costs; and might fail to complete the reproductive migration back to the Sargasso Sea. Prevalence of such parasites is much higher in the naive European populations compared to native Japanese hosts. However, the nature of the ongoing adaptation and impact on eel’s biology remain largely unknown. Given the role of Major Histocompatibility Complex (MHC) genes in host–parasite interactions, we designed specific primers to sequence 2 class II exons. Using NGS, we sampled alleles from 12 European populations (N = 120) collected throughout the species distribution range, as well as from one American population (N=10). Additional historical samples (1874) from Charente were included. Our results indicate success in isolating relevant MHC class II genes; we identified respectively 149 and 154 DAA and DAB MHC class II alleles. The multiple copy nature of the MHC loci was confirmed, with at least 4 and 5 gene copies for DAA and DAB loci, respectively. European and American eels were found to share the same allelic pool, a result in sharp contrast with microsatellite data, suggesting that balancing selection is acting on these genes while ancient polymorphisms is retained within the Atlantic lineages. There was no evidence for temporally fluctuating selection pressure. Finally, the eel MHC class II exons appeared to be under positive selection and at the upper range of rho and omega values in teleosts. These results suggest that recent duplications occurred in the genus that might have facilitated inter-locus recombination and high allelic diversity.
+
+Diego Hartasanchez
+Institut de Biologia Evolutiva (CSIC-Universitat Pompeu Fabra)
+Comparative and Computational Genomics
+Spain
+Interplay of gene conversion and crossover in the molecular evolution of multigene families
+talk D20SY12RT15:45R9
+
+Author(s): Hartasanchez, DA, Valles-Codina, O, Navarro, A
+
+Summary: 
+
+Multigene families are part of the pervasive Structural Variation (SV) present in eukaryotic genomes. In humans, regions with SV have been associated to disease and have been shown to participate in evolutionary innovation. Despite its widespread abundance and functional relevance, an accurate description of the underlying forces shaping the evolution of these regions is still lacking. In particular, the proper characterization of the interplay between mutation, crossover and gene conversion in multigene families is fundamental. We have developed a forward-time simulation program that incorporates duplications and focuses on the effect of concerted evolution (the non-independent evolution of duplicated regions). By means of simulations, we have explored a wide range of parameters, gaining insight into the evolution of regions under concerted evolution such as the MHC. First, we observe that neutral concerted evolution can confound scans for selection by mimicking the effects of both weak purifying selection or weak positive selection. These effects can be more pronounced if duplicated regions are collapsed, as is frequent in low-quality genome assemblies. Additionally, we explore the effects of crossover hotspots in duplicated regions that present gene conversion activity. Our results show that multigene-family evolution is highly dependent on the spatial distribution of crossover and gene conversion events and their rates, even under neutrality.
+
+Ludovic Duvaux
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Linking chemosensory multigene-family evolution with speciation in the pea aphid (Acyrthosiphon pisum)
+talk D20SY12RT16:09R9
+
+Author(s): Duvaux, L, Smadja, C, Ferrari, J, Zhou, J, Butlin, RK
+
+Summary: 
+
+Ludovic DUvaux, Carole Smadja, Julia Ferrari, Within and between species, multigene families (MF) are known to be highly diverse in terms of both Copy Number Variation (CNV) and allelic diversity. Accordingly, within and between population diversities of MF have a strong potential to result from, or to fuel, local adaptation – and possibly speciation. However, these diversities have seldom been contrasted and their relative evolutionary dynamics remain poorly understood. The host-plant races of the pea aphid provide an excellent system to understand these dynamics in the context of speciation with gene flow. Notably, Chemosensory MF (CMF) – e.g. Olfactory Receptors (OR), Gustatory Receptors (GR), Odorant Binding Proteins (OBP) – are critically important for specific host plant recognition, i.e. putatively a main cause of reproductive isolation. We sequenced 120 individuals from 8 races using a target enrichment protocol and Solexa sequencing – guaranteeing a median coverage of 150X. In doing so, we assessed CNV and nucleotidic diversity at about 3000 exons (from CMF, other MF and control genes) and 650 promoters of CMF genes. Preliminary results show CNV is widespread, as it occurs in 65% of all exons (even surprisingly up to 57% for control exons). As with SNPs in single copy genes, most CNV in non CMF genes is shared among races. In contrast, for targets linked to chemosensory genes – notably GR exons and promoters – CNV tends to structure by race. Also, the rate of duplication appears higher for CMF: OR, OBP and promoters show significantly more CNV than other MF. Together, these results suggest that many CMF genes may evolve under positive selection and contribute to adaptation to host plants. In order to better understand the genetic basis of adaptation, work is ongoing to link patterns of CNV (i) to the history of gene flow between races; and (ii) to observed differences in gene expression within and between races across native and non-native host plants.
+
+Elena Marmesat-Bertoli
+Estación Biológica de Doñana-CSIC
+Department of Integrative Ecology
+Spain
+Low genetic diversity in MHC loci in the critically endangered Iberian lynx
+poster D20SY12PS1138
+
+Author(s): Marmesat-Bertoli, E, Mazzoni, C, Soriano, L, Sommer, S, Godoy, JA
+
+Summary: 
+
+A central premise in Conservation Genetics is that genetic erosion occurring in declining populations reduces adaptive potential and compromises viability. However, functional variation is seldom assessed in endangered populations. Here we use the Major Histocompatibility Complex class I and II-DRB loci (MHC) as functional model loci to study the impact of the decline on Iberian lynx genetic variation, a species for which previous genetic studies have shown a strong decline in the neutral variation and concomitant fitness reductions.
+
+We genotyped the most variable exon of MHC I and II-DRB genes in 300 individuals from the two extant wild and the captive populations using a 454 platform and a new pipeline analysis. We used transcriptomic and genomic data for primer design and expression analysis. Captive individuals, having a well-established pedigree, allowed us to infer composite haplotypes and to analyse segregation. We found a total of 13 and 6 alleles probably corresponding to 7 and 3 loci for MHCI and MHCII, respectively. One allele shows signals of pseudogenization and not all other alleles were confirmed to be expressed. In the case of MHCII, most individuals in the smallest and less diverse Doñana population show a three-allele profile, consistent with homozygosity at all three loci. Additionally global diversity levels for MCH_I and II are low compared to other felid species.
+
+Our results suggest that the immune response in remnant Iberian lynx populations may be compromised and that the severe reduction and fragmentation may have eroded not only the neutral, but also the functional genomic diversity, thus compromising the evolutionary adaptive potential of the species.
+
+Jakub Vlcek
+Faculty of Science, University of South Bohemia
+Czech Republic
+Variation in MHC II genes in the context of Galapagos Mockingbirds study system
+poster D20SY12PS1373
+
+Author(s): Vlcek, J, Stefka, J
+
+Summary: 
+
+Galapagos mockingbirds comprise four species that radiated on the archipelago approximately 1.6-5.5 million years ago. Previous studies on mtDNA and microsatellite diversity as well as on co-evolution with their parasites showed geographically determined pattern of population structure, and differing levels of parasite load between some islands. Such well-studied system of Galapagos mockingbirds provides a robust background for answering questions related to MHC evolution in small populations of island colonists. Here we present preliminary results from an analysis of variation in the MHC class II genes, and hypotheses that we want to test when the genotyping is completed for a sample set of 250+ individuals. Using 454 method we sequenced exon 2B of the MHC class II in 33 individuals of Galapagos mockingbirds from 9 island populations. Substantial level of variation in this region was found, which is consistent with results published for other passerines. Number of variants per amplicon was on average 10.2 (S.D. = 3.3) with a coverage of 732 (S.D.= 297) reads per amplicon. As was expected, allelic variants were mostly shared between individuals from the same island or species, but a few exceptions occurred. Analyses of selection found high level of nonsynonymous mutations at multiple aminoacid positions. The questions to be tested in future work concern 1) the impact of drift and balancing selection on variation in the MHC gene alleles, 2) the relationship between MHC variation and ectoparasite load, 3) the usability of MHC in conservation genetics of the critically endangered Floreana mockingbird. Genetic compatibility of the two surviving populations will be analyzed. This will provide information useful to devise a plan of successful cross-breeding and reintroduction of the birds to mainland Floreana.
+
+David Richardson
+University of East Anglia
+Biological Sciences
+United Kingdom
+What drives the rapid regeneration of MHC diversity amongst recently bottlenecked populations?
+talk D20SY12IT14:00R9
+
+Author(s): Richardson, DS, Van Oosterhout, C, Emerson, BC, Illera, J, Bridgett, S, Gharbi, K, Spurgin, LG
+
+Summary: 
+
+.Population bottlenecks can restrict variation at functional genes, reducing the ability of populations to adapt to new and changing environments. Understanding how populations generate adaptive genetic variation following bottlenecks is therefore central to evolutionary biology. The major histocompatibility complex (MHC) is a multigene family that provides an ideal model for studying adaptive genetic variation due to its central role in pathogen recognition. While de novo MHC sequence variation is generated by point mutation, gene conversion can generate new haplotypes by transferring sections of DNA within and across duplicated MHC loci. However, the extent to which gene conversion generates new MHC haplotypes in wild populations is poorly understood. We used a 454 sequencing protocol to screen MHC variation across all 13 island populations of Berthelot’s pipit (Anthus berthelotii). The recent colonisation of this species (<75,000 years ago), along with the replicated island system gave us a unique opportunity to identify which MHC alleles were involved in the original colonisation events, and which have been generated in situ, post colonisation. This, in turn, allowed us to identify how new MHC haplotypes have been regenerated across the island populations. In light of these results, I will discuss the roles of mutation, gene conversion and selection in generating and maintaining functional genetic diversity in bottlenecked populations.
+
+Melinda Hofmann
+National Museum of Natural Sciences (MNCN)
+Department of Biodiversity and Evolutionary Biology
+Spain
+MHC Evolution in Neotropical Cichlids (Amphilophus sp.)
+poster D20SY12PS0524
+
+Author(s): Hofmann, MJ, Bracamonte, SE, Eizaguirre, C, Barluenga, M
+
+Summary: 
+
+The Major Histocompatibility Complex (MHC) is a key component of the adaptive immune system of all vertebrates. Considerable evidence has accumulated suggesting that parasite-mediated selection acting on MHC genes may ultimately lead to speciation. The Midas cichlid species complex of the crater lakes of Nicaragua is an ideal model system for the study of speciation, because it has recently colonized several isolated crater lakes where it has independently diverged into sympatric sister species. We evaluate the hypothesis that host parasite interactions might be contributing to the speciation process in this system. To this end we have characterized and sequenced the MHC class IIB of individuals from different putative species of this cichlid species complex.
+
+Arnaud Gaigher
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+MHC evolutionary ecology in European barn owls (Tyto alba)
+poster D20SY12PS0401
+
+Author(s): Gaigher, A, Burri, R, Roulin, A, Fumagalli, L
+
+Summary: 
+
+Major histocompatibility complex (MHC) genes play an essential role in the adaptive immune response and thus constitute a good model to study adaptive genetic variability. The extraordinary diversity exhibited by MHC genes is thought to be maintained by pathogen-driven selection, for which three hypotheses have been proposed: rare-allele advantage, heterozygote advantage and fluctuating selection. Despite a growing amount of empirical data, it is still difficult to distinguish the relative role of the different forms of selection in maintaining MHC variability. Moreover other mechanisms such as sexual selection through mate choice can shape the MHC diversity. The barn owl (Tyto alba) exhibits a number of characteristics that make it an ideal model to study MHC diversity. Indeed it is one of the most widespread birds worldwide and it has been shown that this species exhibits mate choice related to an ornamental trait that is associated to parasite resistance. In addition, this bird possesses a relatively simple MHC organization, and is one of only few species in which the two functional MHC class IIB genes can be amplified specifically. Using 454 technology, we sequenced exon 2 of the two MHC class IIB loci in a large number of individuals sampled throughout Europe (N=384) and Switzerland (N=960), for the latter of which information related to individual fitness is available (e.g. immunocompetence, parasite fecundity). We examined the effects of particular alleles and MHC diversity on these fitness parameters. First results indicate a positive effect of heterozygosity on parasite resistance, in agreement with expectations of the heterozygote advantage hypothesis. With the sampling across Europe we will be able to study spatial patterns of MHC diversity and evaluate if MHC genotypes are locally adapted or under balancing selection at the spatial scale. Therefore, this study provides interesting perspectives for the understanding of MHC evolutionary ecology.
+
+Marco Galaverni
+Istituto Superiore per la Protezione e la Ricerca Ambientale (ISPRA)
+Italy
+MHC variability and mate choice in a recovering wolf population
+poster D20SY12PS1085
+
+Author(s): Galaverni, M, Caniglia, R, Lapalombella, S, Fabbri, E, Randi, E
+
+Summary: 
+
+Isolated small populations might experience low adaptability and increased extinction risks due to reduced genetic variability, especially if at important functional genes such as the Major Histocompatibility Complex (MHC). We investigated for the first time the variability of three class-II genes (DRB1, DQA1, DQB1) in the Italian wolf population, which was long isolated and is now expanding after a recent bottleneck. Compared to other populations, we still found a remarkable MHC variability with 6 to 9 alleles per locus, showing signatures of historical selection (high dN/dS ratio). The Italian wolves are known to hybridize with domestic dogs, and dog-derived MHC alleles were detected in some genetically-admixed individuals. Background microsatellite and MHC loci did not show reduced variability due to the recent bottleneck. Thus, the population recovery seems not to be threatened by reduced MHC variation nor by deep domestic dog allele introgression. The observed variability could be also influenced by reproductive patterns, which can rely upon MHC similarity between mates. Based on pedigree data of wild-living packs, as reconstructed from extensive non-invasive genetic sampling, we tested the hypothesis of non-random mate choice in 26 breeding pairs. Unexpectedly, the results showed a prevalence of MHC-based assortative mating, with excess of peptide similarity between breeding pair members as compared to random expectations. Moreover, variation in both relatedness and heterozygosity showed significant positive correlations with fitness traits (total offspring, years as reproducers, mean offspring per year) deduced from pedigrees. These findings suggest possible advantages for breeders that are more related at the MHC, but not at the genetic background. This balance of general inbreeding avoidance, MHC-assortative mating and heterozygote advantage can reflect the social structure of the species, potentially maximizing the adaptation to the environmental pressures
+
+Irem Sepil
+University of Oxford
+Department of Zoology
+United Kingdom
+MHC-based qualitative and quantitative resistance to avian malaria in a wild bird population
+poster D20SY12PS1170
+
+Author(s): Sepil, I, Lachich, S, Hinks, AE, Sheldon, BC
+
+Summary: 
+
+Major histocompatibility complex (Mhc) genes are believed to play a key role in the genetic basis of disease control. Although numerous studies have sought links between Mhc and disease prevalence, many have ignored the ecological and epidemiological aspects of the host-parasite interaction. Consequently, interpreting associations between prevalence and Mhc is difficult, while discriminating alleles for qualitative resistance, quantitative resistance and susceptibility remains challenging. Moreover, most studies to date have quantified associations between genotypes and disease status, overlooking the complex relationship between genotype and the properties of the Mhc molecule that interacts with parasites. Here, we solve these problems and demonstrate malaria parasite species-specific associations with functional properties of Mhc molecules in a wild bird population; effects that depend crucially on understanding the impacts and spatial epidemiology of these parasites. Furthermore, we demonstrate common functional properties of malaria-resistance alleles in passerines, suggesting this is a model system for parasite-Mhc associations in the wild.
+
+Roseanne Miller
+University of Aberdeen
+Ecology Department
+United Kingdom
+Mate choice, multiple mating and MHC variation in sea trout (Salmo trutta)
+poster D20SY12PS0391
+
+Author(s): Miller, RJ, Martin, SA, Youngson, AF, Piertney, SB
+
+Summary: 
+
+Understanding the factors that affect spatio-temporal levels and distribution of genetic diversity is essential for the management of genetic resources in natural populations. Traditionally, neutral markers have been utilised to examine the extent of migration-drift equilibrium within populations, but this ignores how sexual selection and plasticity in life strategy can influence patterns of adaptive genetic diversity that may directly influence individual fitness and population viability. Here we examine how MHC variation is maintained by mate choice decisions and multiple paternity in a population of sea trout in NE Scotland. Parentage of 1519 S. trutta offspring from 72 nests was characterised using ten microsatellite loci and one MHC-linked minisatellite locus. The level of multiple paternity was examined within and among nests and both sexes were found to practice multiple mating, with females mating with up to 11 males per nest and males with up to eight females. The level of amino acid dissimilarity among MHC alleles between consort and non-consort males was assessed and the overall levels of MHC diversity within nests under different mating scenarios was quantified to examine how extra pair paternity influences overall brood diversity. Multiple paternity is likely to increase genetic variation in a female’s offspring therefore maximising the chances that some offspring will be genetically equipped to deal with selective pressures. This bet hedging strategy may be pronounced in species, such as salmonids, which produce large broods, have high mortality rates in their first year, and spawn in their natal breeding grounds, which may heighten the risk of inbreeding. Mate choice towards consort males may enhance the chances of producing viable offspring as a more direct mechanism of estimating ‘good genes’.
+
+Aleksandra Biedrzycka
+Institute of Nature Conservation, Polish Academy of Sciences
+Poland
+Next Generation Sequencing reveals high complexity of the Major Histocompability Complex class I exon 3 in sedge warbler
+poster D20SY12PS0933
+
+Author(s): Biedrzycka, A, Radwan, J, Westerdahl, H
+
+Summary: 
+
+The major Histocompability Complex (MHC) class I genes have received a considerable of interest from evolutionary biologists. Their role in parasite recognition and extreme polymorphism makes these genes a paradigm for studying genetic effects on survival, mate choice and pathogen resistance. Exon 3 of MHC class I genes encodes a part of the domain that binds and presents peptides from pathogens. Species possessing many highly polymporphic MHC loci are potentially under strong natural selection from parasites. Determining selection acting on MHC in natural population of such species over extended periods of time offers a great opportunity to reveal mechanisms maintaining MHC diversity. Here we present initial characterization of MHC class I genes diversity in a sedge warbler Acrocephalus schoenobaenus from population inhabiting natural wetlands in the Nida valley, SE Poland. We designed primers and determined diversity at MHC class I exon 3 both in cDNA and gDNA of 4 unrelated individuals with use of Next Generation Sequencing methods. We found extreme diversity at the MHC class I exon 3 of the sedge warbler. This data will be used for designing specific primers amplifying functional alleles of MHC class I exon 3 in sedge warbler. Subsequently, we are going to infer long-term selection on MHC class I in the species.
+
+Julien Goebel
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Phylogenetic origin of the avian MHC class IIB
+poster D20SY12PS0392
+
+Author(s): Goebel, J, Burri, R, Promerová, M, Fumagalli, L
+
+Summary: 
+
+The major histocompatibility complex (MHC) multigene family encodes genes involved in the vertebrates’ adaptive immune response. The exceptional evolutionary dynamics of MHC genes, including high rates of gene duplication and recombination, qualifies them as an ideal system to understand multigene family evolution. Mammalian MHCIIB paralogs evolve independently and their duplication history can commonly be traced back over tens of millions of years. Recent studies on birds report also strong evidence for the persistence of two ancient MHC class IIB lineages over at least 100 million years. At odds with this result, only few species studied so far appear to have retained both MHCIIB lineages, and it is unclear whether they have gone largely undetected, or whether they have been lost at high frequency. In the present study we therefore isolated MHCIIB genes from species all over the avian phylogeny. We aim at reconstructing the phylogenetic history of avian MHCIIB in order to provide an accurate estimate for the time of origin of the two ancestral avian MHCIIB lineages and estimate the rates of gene loss in each lineage. Qualitative results show that the two avian MHCIIB lineages evolved prior to the evolution of extant birds, and suggest the action of generally high, but strongly variable and phylogenetically unconstrained rates of concerted evolution in the avian MHCIIB. Thereby the present study provides important insights into the avian MHCIIB long-term evolutionary history and thus provides new information in unprecedented details about the evolution of an enigmatic multigene family.
+
+Jamie Winternitz
+Academy of Sciences Czech Republic
+Institute of Vertebrate Biology
+Czech Republic
+Sexual selection more than parasitism explains functional variation of the MHC across mammals
+talk D20SY12RT11:42R9
+
+Author(s): Winternitz, JC, Minchey, SG, Garamszegi, LZ, Altizer, SM
+
+Summary: 
+
+Diversity at the major histocompatibility complex (MHC), vitally important for vertebrate immune defense, varies widely across species. Parasites have been identified as a major evolutionary force driving MHC polymorphisms across species, but sexual selection and disassortative mating is another likely mechanism. MHC-based mating preferences have been observed for multiple species including humans, but the generality of mate choice as a driver of MHC polymorphism in the wild is debated. In reality, both parasite-mediated selection and sexual selection may act in concert in wild populations. To investigate potential contributions of parasitism and sexual selection in explaining among-species variation in MHC diversity, we used comparative methods to examine measures of MHC diversity across 115 mammal species, including carnivores, chiroptera, primates, rodents, and ungulates. Specifically, we tested whether parasite species richness and relative testes size (as an indicator of sexual selection) were correlated with two measures of MHC class II DRB diversity: allelic richness and nucleotide diversity. Controlling for mammal phylogeny, neutral mutation rate and confounding ecological variables (i.e. population size, body mass, and sampling effort), we found that parasite species richness was positively correlated with MHC nucleotide diversity for bats and ungulates, and negatively correlated for carnivores. In contrast, relative testes size was positively correlated with MHC nucleotide diversity for carnivores, rodents, and ungulates, and for all taxa combined. Mammal taxonomic group was the strongest predictor of MHC allelic richness, with ungulates having lower diversity in general. This study provides support for both parasite-mediated selection and sexual selection in shaping variation in functional MHC polymorphism across a broad suite of mammals, and importantly, suggests that sexual selection may be more ubiquitous than previously thought.
+
+Barbara Lukasch
+Konrad Lorenz Institute of Ethology, University of Veterinary Medicine Vienna
+Department of Integrative Biology and Evolution
+Austria
+The influence of MHC on fertility success in house sparrows (Passer domesticus)
+poster D20SY12PS1309
+
+Author(s): Lukasch, B, Westerdahl, H, Moodley, Y, Winkler, H
+
+Summary: 
+
+Over 30 years ago, the first study concerning MHC (major histocompatibility complex)-dependent mate choice was published in which female mice preferred MHC-dissimilar males. Since then, numerous studies about MHC preferences and mate choice in different species were issued. The MHC has a crucial role in the immune system and should therefore be important in mate choice decisions. There is evidence that breeding pairs who do not share the same MHC alleles are more ‘compatible’ in terms of fertility success and offspring survival. Most passer species are socially monogamous, but genetic polyandry is widespread. Females commonly engage in extra-pair matings and therefore it is likely that paternity of offspring is determined by postcopulatory sexual selection mechanisms. In this study we tested the postcopulatory fertility success of similar/dissimilar breeding pairs (respective to their MHC composition) in house sparrows. Additionally we analyzed if ‘compatible’ pairs also produce more chicks. With next generation sequencing technologies (454 sequencing), we sequenced the alleles of MHC class I, exon 3. We used an aviary population of wild house sparrows (61 males and 58 females) and kept them in 14 aviaries with 3-5 breeding pairs/aviary. The obvious benefit of an aviary population is that we could exclude several environmental factors influencing the results. We removed the first clutch of all breeding individuals (52 clutches with 4 eggs on average; 208 eggs total) to count the number of spermatozoa on the inner and outer perivitelline layer of the egg to study the postcopulatory fertility success. Additionally we allowed them to breed a second time to compare the postcopulatory success with the actual breeding success of these pairs (number of eggs, amount of hatching and fledging chicks). This comparison helped us to gain a deeper insight in the principles of MHC-dependent compatibility and fertility success.
+
+Barbara Tschirren
+University of Zurich
+Institute of Evolutionary Biology and Environmental Studies
+Switzerland
+Toll-like receptor (TLR) evolution in wild vertebrates
+poster D20SY12PS0408
+
+Author(s): Tschirren, B
+
+Summary: 
+
+Members of the Toll-like receptor (TLR) gene family play an important role in pathogen recognition and the initiation of innate and adaptive immune responses. However, their role in host-parasite interactions and adaptation has rarely been considered in an eco-evolutionary context, and little is known about the selective pressures that have shaped TLR evolution across species and populations. Using an integrative approach that combines analyses of molecular evolution across several rodent species, large scale analyses of diversity and differentiation across populations, and ecological research on within-population associations between TLR polymorphisms and parasite susceptibility, I show that TLRs are evolutionarily dynamic and a target of parasite-mediated selection in wild vertebrates. The findings of these studies contribute to a better understanding of evolutionary processes in multigene families other than the MHC, and the selective pressures that contribute to the maintenance of immunogenetic diversity in the wild.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

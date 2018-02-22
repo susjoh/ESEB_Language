@@ -1,0 +1,329 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY21: The evolution and maintenance of heritable colour polymorphisms: from ecology to genomes
+ Abstracts list Schedule Description
+View only talks or posters
+Bibiana Rojas
+Centre of Excellence in Biological Interactions, University of Jyväskylä
+Biology and Environmental Sciences
+Finland
+Being complex can be safe: testing predator avoidance of varying aposematic signals in a novel environment
+poster D21SY21PS0912
+
+Author(s): Rojas, B, Rautiala, P, Mappes, J
+
+Summary: 
+
+Conspicuous colour patterns may function as interspecific signals in the context of predation by warning predators about prey unprofitability (aposematism). This strategy relies on the ability of predators to learn the association between colouration and unprofitability, and the subsequent avoidance of the unprofitable prey. Frequency-dependent selection is expected to favour uniformity and act against variability in aposematic signals. However, variation in aposematic species occurs in many taxa suggesting that signal variation may serve other purposes or be under variable selective pressures. Although the fundamental assumptions of aposematism have been well supported by mathematical models and experiments in controlled laboratory setups, their implications in the natural environment of both predators and prey have been until recently greatly overlooked. Predators are supposed to learn simpler patterns easier. Because variation in aposematic signals may imply morph-specific attack rates, aposematism as an anti-predator strategy could be overall less effective for individuals with complex colour patterns, especially when exposed to naïve predators or when invading novel environments, unless there were associated differences in detectability. We tested that hypothesis using wax models of the polymorphic, aposematic poison frog Dendrobates tinctorius placed in the wild, in a site where the actual frogs do not occur. We found that over time aposematic prey get less attacks than cryptic prey, but there were no differences in the attack rate between simple and complex morphs. However, complex morphs seemed to be more difficult to detect than simple ones. We suggest that wild predators are able to generalise aposematic colour patterns. Complex patterns may compensate being difficult to learn by being less detectable, which may contribute to the maintenance of the great intra-populational variation in colour patterns in this species.
+
+Chris Jiggins
+University of Cambridge
+Dept Zoology
+United Kingdom
+Defining the regulatory regions that control Heliconius butterfly colour pattern mimicry
+talk D21SY21IT14:48R2
+
+Author(s): Jiggins, CD, Baxter, SW, Wallbank, R, Martin, S, Nadeau, N
+
+Summary: 
+
+Genomic studies of natural populations are offering novel insights into adaptation and diversification. In particular, recent studies of parallel evolution of similar phenotypes in divergent lineages have commonly shown the utilization of shared genetic variation. Heliconius butterflies represent a recently documented example of shared allelic variation across species boundaries.
+
+Heliconius display bright wing patterns that warn predators of distastefulness and also act as mating cues. The diversity of patterns displayed within and between the hundreds of forms is remarkable, as is the convergence between species onto near-perfect mimetic patterns. Recent field studies have identified a group of populations along the eastern slopes of the Andes that are allied to H. timareta and share wing phenotypes with sympatric H. melpomene. Genomic studies have shown that the populations with similar phenotypes also share allelic variation at wing patterning loci, with adaptive introgression across the species boundary providing the most likely explanation for this pattern.
+
+We sequenced a 600 Kb genomic region that regulates diverse red wing pattern phenotypes, using 80 Heliconius samples. Genomic intervals associated with at least three independent red colour pattern phenotypes were resolved using sequence comparisons that grouped similar wing phenotypes, irrespective of species. By comparing the level of nucleotide variation within each colour pattern interval, we estimate the time in generations when introgression events occurred between H. melpomene and H. timareta. Gene exchange after speciation has resulted in the adaptive spread of colour pattern alleles. Here we have identified narrow genomic regions that must act through cis-regulatory control of the transcription factor optix, in order to control complex phenotypes.
+
+Viviana Marri
+Faculty of Science of the University of Bern
+Department of Biology
+Switzerland
+Differential effects of pigmentary and non-pigmentary antioxidants on growth, plumage coloration and resistance to oxidative stress in wild great tits
+poster D21SY21PS0882
+
+Author(s): Marri, V, Richner, H
+
+Summary: 
+
+Carotenoid-based colorations are thought to be honest signals of individual quality but the mechanism underlying their expression is still not clear. Since carotenoids act both as antioxidants and immunostimulants, it has been suggested that carotenoid-based coloration can signal an individual’s ability to resist oxidative stress and/or to mount an immune response. However, the antioxidant role of carotenoids in vivo has recently been debated. The "protection hypothesis" holds that carotenoids, which are minor antioxidants and are bleached by reactive oxygen species, can be used as signals to indicate the availability of non-pigmentary antioxidants (e.g. vitamins) that protect them from oxidation. Here, we evaluated this hypothesis by assessing the interactive effects of carotenoids and vitamins on plumage coloration, oxidative stress, growth and fledging success in nestling great tits. We supplemented nestlings with carotenoids (lutein and zeaxanthin) and/or vitamins (E and C) in a 2x2 full-factorial design, and subsequently measured plumage reflectance, antioxidant capacity, oxidative damage and body condition. Vitamins enhanced the expression of the carotenoid-based plumage coloration during the breeding season and improved antioxidant capacity. They did not influence oxidative damage, probably because supplied nestlings invested more in growth, which is a major cause of free-radical production, rather than in reducing oxidative damage. Moreover, vitamin-treated nestlings had a higher probability of fledging. In contrast, carotenoids did not influence any of these traits and did not show any synergistic effect when supplemented together with vitamins. Our results support the "protection hypothesis" and hence the idea that carotenoids are minor antioxidants in vivo. Furthermore, we could show the importance of antioxidants during growth, supporting the idea that oxidative stress may play a central role in life-history trade-offs.
+
+Erik Svensson
+Faculty of Science, Lund University
+Evolutionary Ecology Unit, Department of Biology
+Sweden
+Ecology and mating interactions: temperature influences male-female conflict in a colour polymorphic damselfly
+talk D20SY21RT17:45R8
+
+Author(s): Svensson, E
+
+Summary: 
+
+Heritable and conspicuous colour polymorphisms have a long research tradition in ecological genetics, and these systems have been used to investigate issues such as negative-frequency-dependent selection (NFDS), maintenance of genetic variation, sexual selection and sexual conflict. Here I will present long-term field observational data and experiments on the evolutionary dynamics of a sexually selected colour polymorphism in the damselfly Ischnura elegans. Three female morphs exist in this species, one of them being a male mimic ("androchrome females"). Androchrome have lower mating rates than other female morphs, suggesting that male mimicry is a female defence against excessive and costly male mating harassment that is detrimental to female fitness. I will present long-term field data from a longitudinal study across multiple populations that show the stability of this female polymorphism and the results of experiments where we have manipulated morph frequencies and densities and evaluated the effects on morph and population fitnesses. I will also present data showing that the male-female mating interactions are environment-dependent and moulded by ambient temperatures, resulting in geographic variation in morph frequencies. Thus, sexual conflict in this system and the benefits of male mimicry is highly context-dependent upon local ecology and the thermal environment.
+
+Sofia Seabra
+Faculdade de Ciências da Universidade de Lisboa
+Centro de Biologia Ambiental
+Portugal
+Experimental and genomic approaches in the study of the balanced colour-polymorphism of the meadow spittlebug (Philaenus spumarius)
+talk D20SY21RT18:33R8
+
+Author(s): Seabra, SG, Rodrigues, AS, Silva, SE, Silva, J, Marabuto, E, Pina-Martins, F, Gharbi, K, Blaxter, M, Borges, PAV, Jiggins, C, Quartau, JA, Paulo, OS
+
+Summary: 
+
+Philaenus spumarius (Insecta, Hemiptera, Aphrophoridae) has for long been a subject of interest of evolutionary biologists due to its heritable colour polymorphism that shows evidence of balancing selection and of clinal variation in the colour mophs frequencies. We are studying the adaptive significance of this polymorphism, particularly to understand if the melanic morphs (e.g. “marginellus” morph) have any advantage/disadvantage in terms of survival and reproductive success, efficiency of egg maturation and resistance to desiccation compared to non-melanic morphs (“typicus” and “trilineatus”). Results so far indicate a higher survival, higher number of eggs clutches and higher number of eggs laid by the “trilineatus” females than “typicus” or “marginellus” females. We are also taking a genomic approach for a) the identification of genetic basis of the colour polymorphism and b) for detecting signatures of balancing and directional selection in the genome of P. spumarius. For this purpose we are applying RAD sequencing in a) a set of samples from the three different morphs referred above, using a high frequency cutter enzyme (PstI) and in b) another set of samples from 8 populations across the distribution range of the species representing the main mitochondrial haplogroups, using a lower frequency cutter enzyme (SbfI). We are also assembling a draft of the genome that will aid in the identification of homologous regions to available references, although the very large genome size of this insect constitutes an extra challenge.
+
+Alexandre Roulin
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Expression levels of genes belonging to the melanocortin system are associated with melanin-based coloration in two colour polymorphic owl species
+poster D21SY21PS0903
+
+Author(s): Roulin, A, Ducrest, A
+
+Summary: 
+
+The adaptive function of colour polymorphism is a long-standing debate, principally because of limited knowledge of the genetic mechanism underlying morph production. A recent genetic model suggested that the melanocortin system could account for covariations between melanin-based colour morphs, behaviour, morphology and physiology. This genetic system may therefore account for the observed morph-specific life history strategies. In two owl species we explored whether the expression levels of genes belonging to the melanocortin system (MC1R, POMC, PC1, PC2 and the antagonist ASIP) as well as 15 other melanogenic genes are associated with melanin-based coloration. We considered the tawny owl (Strix aluco) because individuals vary continuously from light to dark reddish. We measured gene expression in feather follicles collected in nestlings at the time of melanin production. Our results are consistent with a key role of the melanocortin system on the expression of colour morphs. We indeed found that the expression levels of convertases (that process melanocortin hormones) covary with melanin-based coloration, an effect that strongly depends on genetic polymorphism at the melanocortin-1-receptor (MC1R). We conclude that the melanocortin system may explain why dark and light melanic morphs adopt alternative life history strategies and differentially cope with stressful factors.
+
+Tom Ellis
+IST Austria
+Austria
+Floral pigmentation evolution and movement through genetic space in snapdragons (Antirrhineae)
+poster D21SY21PS0208
+
+Author(s): Ellis, T
+
+Summary: 
+
+Floral pigmentation is a conspicuous and variable trait with an enormous effect on sexual selection, and the underlying genetic pathways are well-understood. As such, flower colour evolution has great potential to inform our understanding of the relationship between genes and phenotype. Previous work has found consistent patterns of irreversible transitions from purple to white, red and blue flowers, via single-locus loss-of-function mutations in regulatory genes of the flavonoid pathway. Since yellow pigmentation is typically controlled by a wholly different pathway, transitions to yellow must involve mutations at two loci. However, transitions involving yellow flowers, or at broader taxonomic scales have never been properly examined. I present results from an ongoing comparative study of floral evolution in a tribe of snapdragons (Antirrhineae, Plantaginaceae), which aims to assess patterns of evolution between yellow, white and purple flowered species in a phylogenetic context. Single locus transitions appear to dominate at short time scales, demonstrating the need to look beyond the genus level. Transitions also appear to be generally more reversible than in previously examined groups. I also examine the role of other floral traits that may be correlated with shifts in flower colour.
+
+Branka Tucic
+Siniša Stankovic Institute for Biological Research, University of Belgrade
+Department of Evolutionary Biology
+Serbia
+Flower colour morphs of Iris pumila differ in the amounts of Hsp90 and phenolic compounds
+poster D21SY21PS0796
+
+Author(s): Tucic, B, Manitaševic Jovanovic, S, Vuleta, A
+
+Summary: 
+
+Natural populations of the dwarf bearded iris, Iris pumila, display a striking flower-colour polymorphism. It was noted that the combination of fluctuating temperatures and the varied attractiveness of diverse colour morphs promotes a stable coexistence of multiple colour variants in a population. We have quantified the amounts of Hsp90 and the antioxidants, anthocyanins and total phenolics, in I. pumila flowers. These molecules impact abiotic stress tolerance, ultimately influencing the fitness of individual plants. A total of 100 clones that were raised in a common garden and assessed to different colour classes (dark violet, violet, light violet, dark blue, light blue, yellow/white) were examined. The amounts of two Hsp90 forms, inducible (Hsp90a) and constitutively expressed (Hsp90b) proteins were lowest in yellow and white flowers as compared to other colour classes. In blue flowers, the concentration of Hsp90a was observed to decrease gradually when proceeding from light blue to dark blue variants, whereas an inverse trend was observed in violet-coloured flowers. The concentration of anthocyanins was notably low in white/yellow flowers and in the blue and violet colour classes it progressively increased from light to dark floral morphs. The amounts of total phenolics were highest in the white and yellow colour morphs; they were relatively high in all of the blue variants, and gradually increase from light to dark colour morphs in the violet class. These results suggest that each I. pumila colour genotype is responsible for the production of unique amounts of Hsp90 and phenolics that protect cellular homeostasis under fluctuating temperature conditions within populations.
+
+Kang-Wook Kim
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Genetic and genomic insights into a colour polymorphism of the Gouldian finch (Erythrura gouldiae)
+talk D20SY21RT18:57R8
+
+Author(s): Kim, K, Pryke, SR, Griffith, SC, Burke, T
+
+Summary: 
+
+The Red locus of the Gouldian finch Erythrura gouldiae is a pigmentation switch that determines black (melanin) and red (carotenoid) morphs. This locus offers a unique opportunity to investigate the genetic basis and evolutionary history of a sympatric polymorphism for colour that has also been found to be associated with multiple physiological and behavioural differences. We used classical linkage mapping combined with RAD (Restriction site Associated DNA) sequencing and association analysis to localize the locus to a small (65-kb) genomic region. The pattern of nucleotide diversity at the Red locus is characterized as a genomic island that shows significant differentiation and divergence between the black and red haplotypes. Evolutionary theory suggests two distinct hypotheses to explain this pattern. First, sequence divergence may have accumulated within the species due to reduced gene flow between morphs, supported by the observed high degree of pre- and post-zygotic incompatibility, or due to a genomic rearrangement. Second, the sequences may have diverged in isolated lineages, prior to population merger or introgression. We examined the two alternative possibilities by using genetic and genomic tools and assess the evidence for balancing selection.
+
+Andreas Härer
+Faculty of Biology of the University of Constance
+Department of Biology
+Germany
+Genomic instability in the locus responsible for a conspicuous polychromatism in Nicaraguan Midas Cichlid Fish
+poster D21SY21PS0859
+
+Author(s): Härer, A, Henning, F, Meyer, A
+
+Summary: 
+
+Body coloration is polymorphic in many species. It is subject to both natural selection (e.g. cryptic coloration) and sexual selection (e.g. male nuptial coloration). Two extraordinary features of Cichlids are their enormous diversity in coloration and their rapid rates of diversification. Sexual selection on coloration has been proposed to be one of the major forces driving their explosive speciation rates, which makes them an ideal system to study the effects of body coloration on speciation processes. Most of the Nicaraguan lakes are inhabited by two color morphs of Midas cichlids: a barred dark morph, which represents the majority of individuals (~90%), and a gold morph (7 - 10%). All individuals have the normal phenotype at early stages of their life but some lose their dark coloration and become gold. Gold and normal fish mate assortatively and genetic divergence of neutral markers occurs between the two morphs. All of which suggests a role of this trait in the process of incipient speciation. In this study, we characterize the architecture of the genomic region that harbors the causal gold polymorphism. The interval was reduced to approximately 60 kb and it, as well as the flanking regions, shows strong evidence of genomic instability. This includes several indels of various sizes, gene duplications and chromosomal rearrangements. Lineage-specific, tandemly duplicated genes have been identified, some of which show signs of pseudogenization and selection. Comparative genomic analysis of the region indicates the presence of cichlid-specific and perhaps even Midas-specific chromosomal rearrangements. Regions of genomic instability have been proposed to have an impact on speciation due to altered recombination and mutation rates. The present study illustrates the architecture of an unstable genomic region that might underlie incipient sympatric speciation in Nicaraguan Midas cichlids.
+
+Violaine Llaurens
+CNRS
+Museum National D'Histoire Naturelle de Paris
+France
+Investigating the role of dominance in the polymorphism of wing colour patterns in the mimic butterfly Heliconius numata
+poster D21SY21PS0567
+
+Author(s): Llaurens, V, Le Poul, Y, Annabel, W, Joron, M
+
+Summary: 
+
+Dominance is a widespread mechanism by which the phenotype of heterozygotes is determined. In polymorphic loci, dominance thus plays an important role in the dynamic of the phenotypic polymorphism because of the high number of heterozygotes. This talk focuses on dominance in a striking case of colour polymorphism caused by Müllerian mimicry. In the unpalatable butterfly species Heliconius numata, several wing colour patterns are co-existing and these patterns exhibit high resemblance with other unpalatable species. Colour patterns thus seem to act as a warning signal of toxicity for predators. In H. numata, this protective mimicry is adapted to the spatial variation in communities of unpalatable butterflies, leading to a stable polymorphism of wing colour patterns due to selection/migration equilibrium. These complex wing colour patterns are mainly controlled by a single locus, the supergene P, which contains about 18 co-segregating genes. Dominance relationships among the haplotypes at the supergene P are predicted to be under high selective constraint due to an increased predation risk for non-mimetic intermediate heterozygotes. Using an original morphological approach based on automatic detection of pattern variation, we quantify the coefficient of dominance between haplotypes at the supergene P. The study of controlled crosses between sympatric and allopatric morphs suggests a complete dominance among haplotypes occurring within populations whereas mosaic of dominance is mainly observed in allopatric haplotypes. This highlights the important role of dominance in the polymorphism of distinct wing colour patterns involved in mimicry relationships and allow us to open research on the possible mechanisms of dominance at the supergene P.
+
+Frederico Henning
+University of Konstanz
+Department of Biology
+Germany
+King Midas meets Mendel: unraveling the genetic basis of an evolutionarily relevant color polymorphism
+talk D21SY21RT11:18R2
+
+Author(s): Henning, F, Fukamachi, S, Meyer, A
+
+Summary: 
+
+Color polymorphisms are tractable traits that are directly related to various crucial evolutionary processes including adaptation and speciation. The genetic basis of coloration has been the focus for genetic and evolutionary research for over a century. Despite this interest, few studies have successfully unraveled the genetic basis of color polymorphisms in natural populations; and the processes governing the origin, spread and maintenance of polychromatism are still poorly understood. The Midas cichlids of the crater lakes in Nicaragua are an excellent system to investigate the maintenance of a conspicuous color polymorphism and its role in speciation-with-gene flow. Midas cichlids are characterized by a conspicuous polychromatism: most individuals are grayish with dark bars, while some exhibit a gold coloration. The color morphs mate assortatively and have been suggested to be undergoing divergence in sympatry. Here, we explore the genetics of this trait using a combination of genetic mapping and next-generation sequencing technologies. The results show that a simple mendelian genetic architecture can underlie sympatric divergence, and might even constitute evidence for one-gene models of speciation. We further show that the onset of the phenotype is variable and dosage dependent (i.e homozygotes have earlier onset). This observation is of interest to understanding the fitness landscapes under predation pressure in the wild. The genomic region that harbors the gold locus is genomically unstable and characterized by the presence of tandem duplications and innumerous indels. The genes in the region are related to immune function, coloration and social affiliation. Patterns of association found in population-based fine-mapping using SNP genotyping and targeted-enrichment NGS are complex and compatible with multiple origins. These results indicate a role of mutation rate, hitch-hiking and pleiotropy in the maintenance of this conspicuous color polymorphism.
+
+Hui Wang
+Université Montpellier 2
+Institut des Sciences de l'Évolution de Montpellier - UMR 5554 - ISE-M
+France
+Maintenance of flower color polymorphism in Iris lutescens Lam. (Iridaceae)
+poster D21SY21PS0059
+
+Author(s): Wang, H, Conchou, L, Bessiere, J, Cazals, G, Schatz, B, Imbert, E
+
+Summary: 
+
+As pollinator visitation rate is generally correlated with plant fitness in entomogamous species, stabilizing selection mediated by associative learning is expected to occur on floral traits, leading to low intra-specific variation. Flower color is among the most important visual signals to attract pollinators. Consistently, previous studies suggested that flower color polymorphism could be maintained by pollinator-mediated selection. In addition, flavonoid/anthocyanin, carotenoid pigments, which are responsible for coloration in most plants, have pleiotropic effects for plant survival. Therefore selection pressures induced by a range of abiotic (precipitation, soil or temperature) /biotic (herbivores and pathogens) factors could also be involved. Herein, we investigated flower color polymorphism in a common species in the Mediterranean area, Iris lutescens Lam. (Iridaceae), which displays a tremendous purple-yellow flower color polymorphism within populations. We revealed that I. lutescens is a rewardless species displaying mainly different anthocyanin accumulation induced flower color difference, that is not associated with marked difference in odor emitted nor level of defense against abiotic/biotic factors. Results of pollinator/florivore observations and genetic analyses underlying flower color variation will also be presented in this talk. Pollinators are the most probable selective agent responsible for the maintenance of this polymorphism, suggesting that this species is a good candidate to investigate the maintenance of flower color polymorphism.
+
+Verena Kottler
+Max Planck Institute for Developmental Biology
+Molecular Biology
+Germany
+Mapping of the guppy pigmentation gene blond using RAD-seq
+poster D21SY21PS1212
+
+Author(s): Kottler, VA, Künstner, A, Hoffmann, M, Weigel, D, Dreyer, C
+
+Summary: 
+
+The guppy (Poecilia reticulata) is a long-standing model for the study of sex-linked inheritance of male ornamental traits. The species also offers excellent opportunities to observe ‘evolution in action,’ as its populations adapt rapidly to changing predator regimes. While numerous studies have investigated the delicate interplay between natural and sexual selection shaping male coloration in the wild, surprisingly little is known about the genes and developmental pathways underlying guppy coloration. We have shown previously that spontaneous mutations in kita and colony-stimulating factor 1 receptor a (csf1ra) significantly change the normal camouflage as well as the variable male ornaments of the guppy. Another spontaneous guppy mutant, blond, greatly reduces all black pigmentation and thereby dramatically changes male color patterns. To map this pigmentation gene, we used next-generation sequencing followed by a quantitative trait locus (QTL) analysis. A total of 141 F2 individuals from a cross between a wild-type female and a blond male were sequenced by representational analysis using the restriction-site associated DNA tag method (RAD-seq). RAD-seq reads were mapped to a draft version of the guppy genome and single-nucleotide polymorphisms (SNPs) between the individuals were identified. The resulting ~7,000 high quality SNPs were used to narrow down a major QTL spanning 118 kb on autosomal linkage group 2. The target region contains three genes, of which adenylate cyclase 5 (adcy5) is a promising candidate gene as preliminary analysis suggests that it contains a frameshift mutation in blond guppies. Our study demonstrates that RAD-seq is a powerful tool to identify genes of interest even in organisms for which only limited genomic information is available.
+
+Paul Richards
+University of Nottingham
+School of Biology
+United Kingdom
+Mapping the Cepaea nemoralis shell colour and banding supergene using RAD-Seq
+poster D21SY21PS1270
+
+Author(s): Richards, PM, Liu, MM, Lowe, N, Davey, JW, Blaxter, ML, Davison, A
+
+Summary: 
+
+The classic shell colour and banding polymorphism of the land snail Cepaea nemoralis played a crucial role in establishing the importance of natural selection in maintaining morphological variation. Cepaea is also a pre-eminent model for ecological genetics because the outward colour and banding phenotype is entirely genetically determined, primarily by a ‘supergene’ of at least five loci. Unfortunately, progress in understanding the evolution and maintenance of the Cepaea polymorphism stalled, partly because of a lack of genetic markers. However, high-throughput genotyping-by-sequencing technologies, such as Restriction Site Associated DNA sequencing (RAD-Seq), now enable systems with few existing genetic resources to be researched from new angles and in far greater detail than ever before. Consequently, with an ultimate view to identify and dissect the individual components of the Cepaea supergene, and to understand their evolution, we used RAD-Seq to construct a local map of markers linked to the shell ground colour (C) and banding presence (B) loci of the supergene. We have identified and validated 11 linked markers, with the closest being within ~0.6 cM (1 recombinant out of 168) of the C-B supergene linkage group, with the combined loci together forming a 35.8 cM linkage map of markers that flank both sides of the Cepaea C-B supergene. This initial set of linked markers should form the foundations of future work to re-establish Cepaea as a prominent model of molecular ecology.
+
+Jonathan Whitney
+University of Hawaii
+Department of Biology
+United States
+Natural selection drives incipient divergence despite continuous gene flow in sympatric color morphs of a coral reef fish
+talk D20SY21RT18:09R8
+
+Author(s): Whitney, JL, Karl, SA
+
+Summary: 
+
+The role that natural selection plays in initiating divergence-with-gene-flow remains controversial. Color polymorphisms offer rich opportunities to explore how selection can drive the evolution of reproductive isolation even in the face of gene flow. We integrate genetics, ecology, and behavior to outline how disruptive selection on color pattern in combination with assortative mating is driving divergence in sympatric color morphs of the arceye hawkfish (Paracirrhites arcatus) in Hawaii. First, ecological surveys show a strong correlation between phenotype & environment. Fine-scale microhabitat variation in visual backgrounds creates distinct niches that appear to favor alternative color patterns. Experimental tests are ongoing, but preliminary evidence shows reduced fitness in morphs found in contrasting habitats. Second, field observations of mating pairs indicate that, even in zones of overlap, fish are 10x more likely to pair with like morphs. Lab-based experiments of captive fish are currently being used to further explore the strength of assortative mating and its impact on reproductive isolation. Third, genome scans using 30 microsatellite loci show divergent patterns of genetic variation across morphs indicative of divergence-with-gene-flow; and outlier detection methods confirm three loci as candidates for positive selection. The strong association between genetic variants, color pattern, and ecological gradients all suggest that P. arcatus has evolved genetically-based alternative phenotypes that are adapting to spatially heterogeneous habitats despite continuous gene flow. We are currently using comparative genomics to discover regions showing signatures of natural selection and identify the underlying genetic basis of adaptive color pattern and correlated traits. This research outlines one of the few case studies of ongoing sympatric divergence in any marine fish and will help elucidate the role color polymorphism plays in promoting speciation.
+
+Ossi Nokelainen
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Prey and predator community composition promotes polymorphic warning signals
+poster D21SY21PS0274
+
+Author(s): Nokelainen, O, Valkonen, J, Lindstedt, C, Mappes, J
+
+Summary: 
+
+Polymorphic warning signals are puzzling since positive frequency-dependent selection should promote monomorphic warning coloration. We studied predation pressure in the aposematic moth Parasemia plantaginis by using artificial prey resembling white and yellow male colour morphs in five separate populations. We tested if predation was influenced by: 1) natural frequencies of colour morphs; 2) number of interspecific Lepidopterans sharing similar coloration, and; 3) predator community composition. Predation on yellows was lower than whites’ regardless of their local frequency. The number of white interspecifics increased the attack risk of whites and decreased it on yellows, whereas yellow interpecifics lowered predation on both morphs. Interestingly, predation pressure was dependent on predator community composition: Yellows suffered less attacks when Paridae were abundant, whereas whites suffered less attacks when Prunellidae were abundant. Our results suggest spatial heterogeneity in prey and predator community composition can generate geographic mosaic selection facilitating the evolution of polymorphic warning signals.
+
+Swanne Gordon
+University of Jyväskylä
+Biology
+Finland
+Role of frequency dependent selection on the maintenance of polymorphism in aposematic organisms
+poster D21SY21PS1366
+
+Author(s): Gordon, S, Rojas, B, Kokko, H, Mappes, J
+
+Summary: 
+
+The maintenance of trait polymorphisms in aposematic organisms is an evolutionary puzzle. The advantage of predator learning should drive warning signals of prey towards monomorphism, yet there are several examples of polymorphic aposematic species. Solving the riddle of polymorphism in such challenging cases would therefore represent an important contribution to our understanding of polymorphism maintenance in nature. Here, we examine the role of frequency dependent selection (FDS) on the maintenance of color polymorphism in an aposematic species. While models of frequency dependent selection are common, empirical evaluations are rare. The aposematic wood tiger moth (Parasemia plantaginis) presents two distinct male color morphs (yellow and white). Some populations have an admixture of both morphs whereas a few populations present only one of them. Research has previously shown that the more conspicuous yellow morph has a survival advantage under predation, which increases with morph frequency (i.e. positive FDS). This advantage and positive FDS should lead the yellow morph to fixation, yet this is not the case. We hypothesized that counteracting reproductive FDS (negative or positive) could maintain the polymorphism. First, we tested for reproductive FDS in the species using semi-natural enclosures set with three different frequencies of male color morphs (control, white-biased, and yellow-biased) to examine if the rare or common morph has a mating advantage. The experiment showed positive FDS in mating success for both morphs. Second, we formulated a theoretical model to test whether these results, and previous results on survival, can explain the maintenance of the observed polymorphism. The model showed that our patterns of positive frequency dependence can lead to polymorphism if considered in a spatial context, where variation in interacting ecological factors (e.g. predation), combined with a very small amount of gene flow can maintain the polymorphism.
+
+David Field
+Institute of Science and Technology
+Evolutionary genetics
+Austria
+Selection on flower colour genes in a snapdragron hybrid zone
+talk D21SY21RT11:42R2
+
+Author(s): Field, DL, Tavares, H, Couchman, M, Copsey, L, Bradley, D, Ellis, T, Boell, L, Rebocho, X, Coen, E, Barton, N
+
+Summary: 
+
+A major goal of evolutionary biology is to understand how diverging populations become distinct species. Although much progress has been made in identifying genes that contribute towards population divergence and speciation, direct measurements of their effect on fitness in nature are often difficult to obtain. We are studying the evolutionary dynamics of speciation between two subspecies of Antirrhinum (snapdragons) with different flower colours (yellow and magenta). In this system, two major loci control flower colour and give rise to six colour phenotypes across a narrow hybrid zone. Surprisingly, these species are visited by the same array of pollinators (large bees). This raises the question of how these genes initially arose and spread and how populations are currently maintained in the face of gene flow. To better understand the role of flower colour genes in speciation we are using an integrated approach to examine the role of selection, epistasis, drift and gene flow over multiple time scales. To examine short and long-term evolutionary processes we are using SSR and SNP markers for individuals sampled across the hybrid zone as well as sequence variation with Restriction-Associated DNA sequencing (RAD) data from allopatric populations. The existence of a steep cline (~280m wide) for flower colour and diagnostic markers linked to the underlying genes, suggests selection is acting against some of the hybrid colour phenotypes. Significant heterozygote deficit at small spatial scales (<30m) and an excess of parental phenotypes also suggests assortative mating may play a role in maintaining the hybrid zone. Initial results from RAD tags indicate that the highest regions of divergence (Fst) between allopatric populations are located near the genes that control flower colour. Taken together, these results suggest that selection is acting on the flower colour genes, likely through pollinators discriminating among the flower colour phenotypes within the hybrid zone.
+
+Nagarjun Vijay
+Evolutionary Biology center, Uppsala University
+Department of Evolutionary Biology
+Sweden
+Speciation genomics in the European crow: a magic hybrid zone where sexual selection and few major effect loci may promote speciation
+talk D21SY21RT15:12R2
+
+Author(s): Vijay, N, Poelstra, J, Bossu, C, Baglione, V, Grabherr, M, Kruszewicz, A, Lantz, H, Müller, I, Wikelski, M, Wolf, J
+
+Summary: 
+
+Plumage colour differences within and between species are characteristic of many organisms and are particularly conspicuous in birds. The evolution of such colour polymorphisms, their contribution to prezygotic isolation and their general role in speciation has been a central theme in the evolutionary sciences. The hybrid zone between carrion and hooded crows (Corvus [c.] corone and C. [c.] cornix) is a prime example. The zone appears to have been maintained by strong assortative mating mediated by plumage colour for at least a century. The discrete segregation in colouration strongly contrasts with a surprising lack of genetic differentiation. Here, we aim at identifying the genetic basis of this colour polymorphism and assess its role in the speciation process. To achieve this goal, we generated an annotated draft reference sequence of one Hooded crow individual which we then used a backbone for population genomic analyses. We further conducted an extensive (RNAseq) gene expression experiment under common garden conditions focusing on differential gene expression of genes expressed in active feather follicles. The combination of the population genomic data and detailed information from the gene expression experiment provides a powerful approach to identify the genetic cause of colouration differences and its consequence for local genomic divergence between this pair of incipient species.
+
+Nick Mundy
+University of Cambridge
+Zoology
+United Kingdom
+The genetic basis of adaptive plumage colour polymorphism in common buzzards
+poster D21SY21PS0514
+
+Author(s): Mundy, N, Pointer, M, Krüger, O
+
+Summary: 
+
+Common buzzards (Buteo buteo) display substantial variation in ventral melanin-based plumage colour, with three main morphs. Intermediate morph birds have higher lifetime reproductive success than pale and dark morphs in a German study population. Transmission studies suggest that a major locus underlies much of the colour variation. Here we investigate genotype-phenotype association at the MC1R locus, which has been frequently implicated in melanin polymorphisms in birds and other vertebrates. We find significant association between several SNPs and morph colour, with the strongest association occurring in a region upstream of the MC1R coding region. No association is found at other loci, including the ASIP pigmentation locus. These results imply that regulatory mutations at MC1R underlie variation in adaptive plumage coloration in buzzards, which provides a strong contrast to other studies in vertebrates to date, which have focused on the MC1R coding sequence. Thus a further nuance in the issue of the relative importance of coding and regulatory mutations in adaptation is that both types of mutation can occur at the same locus.
+
+Jon Slate
+University of Sheffield
+Department of Animal & Plant Sciences
+United Kingdom
+The origins of two colour polymorphisms in a wild mammal population
+talk D21SY21IT14:00R2
+
+Author(s): Slate, J, Feulner, PGD, Gratten, J, Pemberton, JM
+
+Summary: 
+
+In a wild population of Soay sheep, that has been the focus of a >25 year field study, two coat colour polymorphisms are segregating as single locus Mendelian traits. Previously, the underlying mutations have been discovered, and it has been shown that both genes are under selection. However, the age and origins of the polymorphisms were unknown. In this talk, we show that Soay Sheep underwent admixture with more modern breeds in the 1800s, and that both polymorphisms arose through the introgression of domesticated genetic variants into the Soay population. Therefore, the current field site can be regarded as a ‘natural laboratory’ in which wild type and domesticated variants have been competing with one another for over 100 years. It is shown that domesticated variants are not necessarily less fit in the wild. More generally, admixture between domesticated and wild populations may be a common source of genetic variation, capable of providing the material required for evolutionary change and adaptation.
+
+Rocio Ng
+Stony Brook University
+Department of Ecology and Evolution
+United States
+The role of melanin pathway genes in natural variation of pigmentation traits in Drosophila melanogaster
+poster D21SY21PS1290
+
+Author(s): Ng, RS, True, JR
+
+Summary: 
+
+Research on insect pigmentation has been informative in determining how evolutionary mechanisms can produce high levels of animal diversity. Scientists are only beginning to understand how pigmentation genes may contribute to natural diversity in pigmentation traits. Identifying these genes, their functional roles, and impact on population-level processes will elucidate how genetic components may contribute to the natural variation, adaptation, and evolution of a species. This study attempts to do this by closely examining the candidate pigmentation genes pale and ebony in the fruit fly species, Drosophila melanogaster. I conducted a SNP assocation study with pigmentation traits in isogenic flies derived from a population in Raleigh, NC. SNPs within coding and non-coding regions of pale and ebony were significantly associated with phenotypic variation. This suggests a putative role of these genes and specific genic regions in pigmentation variation. Phenotypic data was also collected in individuals derived from five geographically distinct populations in the Eastern United States. Significant variation was identified among lines and populations, suggesting geographic patterns in these traits and a possible contribution of pigmentation to adaptation. Phenotype data from these populations will be used in conjunction with sequence data to determine if these genes are contributing to variation in other populations, whether there are informative geographical patterns in SNP or haplotype frequency, and if there are signatures of natural selection. My work will allow me to determine the extent that ebony and pale are involved in natural variation in pigmentation in D. melanogaster and uncover possible underlying evolutionary mechanisms. Additionally, this knowledge can be applied to research on the evolution of other pigmentation genes and mechanisms responsible for species diversification and adaptation.
+
+Rosemary Gillespie
+University of California Berkeley
+Environmental Science
+United States
+The role of transient versus balanced color polymorphism In adaptive radiation: spiders in the Hawaiian Islands
+talk D21SY21IT10:30R2
+
+Author(s): Gillespie, RG, Brewer, MS, Croucher, PJP, Oxford, GS
+
+Summary: 
+
+Color variation, when genetically determined, provides a visual tool for examining selection. Moreover, variation is a key to rapid adaptive response, which in turn forms the basis for adaptive radiation. Our work focuses on different genera of spiders in the Hawaiian Islands, in particular: (1) Long jawed spiders in the genus Tetragnatha (Tetragnathidae) that are characterized by exuberant adaptive radiation. This genus has colonized the islands an estimated 5mya and shows evolutionary progression from older to younger islands. One lineage, the “spiny leg clade”, is represented throughout the archipelago by four distinct color ecomorphs and molecular phylogenetic analyses indicate that each ecomorph has evolved repeatedly. However, species on the older islands (Kauai and Oahu) show a developmental switch between two ecomorphs – Green and Maroon. More derived species on the younger islands exhibit a single ecomorph, Green or Maroon, at all life stages, though species formation is associated with multiple shifts between ecomorphs. We are currently using a genomic approach to understand how the color-switching characteristic of species on the older islands has translated into diversification of species representing different ecomorphs on the younger islands. This system contrasts with (2) the exuberantly patterned Hawaiian Happy Face spider, Theridion grallator, a single species which displays a visible and balanced genetic color polymorphism. The happy face spider retains variability between individuals within a population (as compared to within individuals or between species in Tetragnatha). Moreover, while the frequency of color morphs is similar in different populations of happy face spiders, the mode of inheritance of the color polymorphism has changed between islands in the Hawaiian chain. Together, these studies provide insights into how, and under what circumstances, variability can translate into diversity.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

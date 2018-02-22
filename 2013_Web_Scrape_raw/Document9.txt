@@ -1,0 +1,809 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY09: Genetics and genomics of host-­parasite coevolution
+ Abstracts list Schedule Description
+View only talks or posters
+Mateusz Buczek
+Faculty of Biology and Earth Sciences, Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Antler quality in red deer: a test of Hamilton and Zuk hypothesis
+poster D21SY09PS0358
+
+Author(s): Buczek, M, Radwan, J, Okarma, H
+
+Summary: 
+
+The evolution and maintenance of elaborate secondary sexual traits in males has been the subject of intense interest since Darwin. Hamilton and Zuk (1982) hypothesis of parasite-mediated sexual selection suggests that genetically resistant males can afford to invest more in costly ornaments. Therefore elaborated sexual traits can serve as honest indicators of male health and parasite load. We study the association between the MHC (Major Histocompatibility Complex) class II genes, gastro-intestinal and lung parasite burden and the development of antler (sexual ornament) in red deer (Cervus elaphus). We analyzed associations between antler elaboration (mass and 8 other measurements) and parasite burden (lung nematode larva, abomasum nematodes and fecal egg counts). We found a very complex pattern of relationships. The mass of antler was significantly affected by the lung nematode larva burden. We used 8 antler measurements to describe antler size using principal component analysis (PCA). PC1 (explaining 80% of variance in antler size) was significantly affected by lung nematodes burden and PC3 (explaining 5% of variance) by abomasum nematode burden. We will additionally present results of analyses investigating the effect of MHC genotype on parasite load.
+
+Enrique Gonzalez Tortuero
+Faculty of Biology of the Ludwig-Maximilien-University
+Department Biology II
+Germany
+Bioinformatic analysis of amplicon sequencing data to study spatial and temporal variation in a Daphnia microparasite
+poster D21SY09PS0263
+
+Author(s): Gonzalez Tortuero, E, Rusek, J, Giessler, S, Petrusek, A, Wolinska, J
+
+Summary: 
+
+Caullerya mesnili (Opisthokonta, Ichthyosporea) is an endoparasite infecting Daphnia (Crustacea, Cladocera) gut. This protozoan has high virulence and a strong genetic specificity for the infection, thus it seems to be a good model to study host-parasite coevolution dynamics. However, little is known about population structure of this microparasite. Previous work based on cloned sequences has shown that variation of the ITS region (internal transcribed spacer of ribosomal DNA) can be used to analyse spatial and temporal variation in C. mesnili. However, high-throughput next generation sequencing (NGS) allows much larger scale analyses. In this work we will present a bioinformatic pipeline analysing 392 bp long ITS amplicons from Caullerya obtained from 454 pyrosequencing. With this approach, it is possible to study in detail aspects such as the spatio-temporal distribution of Caullerya in different host populations or clones. We will also demonstrate the comparison of patterns obtained by cloning with the NGS approach.
+
+Nellie Konijnendijk
+KU Leuven
+Belgium
+Can differential gene expression explain differential host resistance?
+poster D21SY09PS1191
+
+Author(s): Konijnendijk, N, Raeymaekers, J, Howes, T, Milan, M, Volckaert, F
+
+Summary: 
+
+Our ability to find signatures of selection in the genome is rapidly increasing. As a consequence we now know that strong selection leading to local adaptation can affect many regions in the genome. However, not all local adaptations result in structural gene changes. Changes in regulation of existing genes might be at least as important. To what extend this happens and whether selection only affects genes directly related to the focal trait, or also other gene classes is for many cases unknown. Host-parasite systems are very suitable for testing the importance of gene expression alterations in local adaptation. Selection is often strong due to the fact that parasites can have a big impact of fitness of the individual, making it probable we can pick up alterations in expression. Start and finish of changes in gene expression are much easier to predict than for many other (somatic) traits and temporal an spatial fluctuations in parasite abundance are common in nature, which may favor changes in gene expression rather than genetic changes as they are much easier to reverse. We used the F2 generation of two populations of stickleback fish that differ in host resistance, in order to identify which genes are involved in resistance and to understand whether heritable differences in resistance across populations are linked to differential gene expression. We infected naive fish with Gyrodactylus gasterostei, a parasitic flatworm and tracked the infection by counting parasites on the skin over time. Targeting the beginning and peak of the infection, we used microarrays to identify differential gene expression across the genome. We will present whether differences in host resistance result in differential expression patterns among populations and whether infection only affects immune related genes or a wider set of genes, thereby contributing to a better understanding of the role of gene expression alterations in host adaptation to parasites.
+
+Aliya El Nagar
+The University of Nottingham
+Biology
+United Kingdom
+Can parasites drive population divergence in three-spined stickleback?
+talk D22SY09RT11:18R8
+
+Author(s): El Nagar, A, MacColl, A
+
+Summary: 
+
+The role of parasites in driving the evolution of hosts is poorly understood. Adaptive evolution occurs with a change in adaptive allele frequencies derived either from standing genetic variation or from new mutations. Looking at population structure of adaptive genes together with neutral markers may reveal whether the adaptive traits that differ between populations are likely to have resulted from divergent selection or genetic drift.
+
+Parasites can be potent agents of selection which act both directly on survival and have also been known to affect mate choice. The three-spined stickleback Gasterosteus aculeatus is a good model system to study mechanisms of adaptive evolution due to its propensity to radiate into young postglacial habitats. We have surveyed the composition and abundance of parasites in stickleback populations on the Island of North Uist, Scotland for four years, and conducted infection experiments on lab bred naïve progeny. Our previous results show that populations display adaptation to their parasites in that they are resistant to naturally occurring parasites. Furthermore this is genetically based; maternal effects were ruled out through breeding schemes and experiment replicates over generations.
+
+An RNAseq experiment was conducted and used to identify genes that were differentially expressed when fish were experimentally infected with a parasite. Some of these genes were selected together with known candidate immune genes. Linked microsatellites were found and genotyped together with a set of neutral microsatellites (as controls). Stickleback samples were from populations with known parasite communities. Any detectable selection on these loci, together with adaptive (immune) and neutral structure will be presented in correlation with parasite composition.
+
+Sabine Giessler
+Ludwig-Maximilians-University Munich
+Department Biologie II
+Germany
+Capturing the population structure of microparasites: using ITS-sequence data and a pooled DNA approach
+poster D21SY09PS1322
+
+Author(s): Giessler, S, Wolinska, J
+
+Summary: 
+
+The internal transcribed spacer (ITS) region of nuclear ribosomal DNA is a central target not only for molecular identification of different taxa and strains but also for analyses of population structure of wild microparasite communities. Importantly, the multi-copy nature of this region allows for successful amplification of low quantity samples of the target DNA, a common problem in studies on unicellular, unculturable microparasites. We analysed ITS-sequences from the protozoan parasite Caullerya mesnili (class Ichthyosporea) infecting waterflea (Daphnia) hosts, across several host population samples. We showed that analysing representative ITS-types (as identified by statistical parsimony networks) is a suitable method to address relevant polymorphism. The spatial patterns were consistent regardless of whether parasite DNA was extracted from individual hosts or pooled host samples. Remarkably, the efficiency to detect different sequence types was even higher after sample pooling. As shown by simulations, an easily manageable number of sequences from pooled DNA samples was already sufficient to resolve the spatial population structure in this system. In summary, the ITS-region analysed from pooled DNA samples can provide valuable insights into the spatial and temporal dynamics of microparasites. Moreover, for the analysis of sequence variation in multi-copy gene regions, the application of statistical parsimony network analysis is clearly advantageous.
+
+Christoph Kurze
+Martin-Luther-University Halle-Wittenberg
+Institute of Biology
+Germany
+Cell sacrifice in the gut: an adaptive response towards Nosema spp. infection in honey bees
+poster D21SY09PS0598
+
+Author(s): Kurze, C, Huang, Q, Moritz, RFA
+
+Summary: 
+
+The microsporidian Nosema ceranae is a natural parasite of the Asian honeybee Apis cerana but is now also a widespread cause of Nosemosis in the European honey bee A. mellifera. N. cerana infections can have severe effects on honey bee fitness at the individual and colony level. We found that the extensive breeding effort by Danish beekeepers against the native microsporidian parasite N. apis has produced a Nosema tolerant honey bee strain, which revealed a strongly up-regulated immune response when challenged by N. cerana infection compared to an unselected strain. After transmission via the fecal-oral route, spores normally germinate in the midgut, where they penetrate, replicate and destroy the cells of the gut epithelium. To understand the effect of the altered immune response on the level of infestation and destruction of the midgut epithelium, we compare sections between the selected and an unselected strain over the course of infection. We discuss these results in the context of an adaptive immune response and other underlying biological mechanisms of the selected strain against N. ceranae infection.
+
+Meriem Belheouane
+Max Planck Institute for evolutionary biology, Plon, Germany
+Evolutionary genetics
+Germany
+Characterization of candidate genes from a QTL analysis of the skin microbiota in house mice
+poster D21SY09PS0928
+
+Author(s): Belheouane, M, Ibrahim, S, Baines, JF
+
+Summary: 
+
+Meriem BELHEOUANE1,2, Saleh IBRAHIM3 and John F. BAINES1,2 1Institute for Experimental Medicine, Christian-Albrechts-University of Kiel, Germany 2Max Planck Institute for Evolutionary Biology, Plön, Germany 3Department of Dermatology, University of Lübeck, Lübeck, Germany
+
+The skin is a complex ecosystem inhabited by diverse microbial communities, and various factors including host genetics, immune status and the environment influence community structure and diversity over space and time. Several skin diseases are postulated to have a microbial component, but little is known about the underlying mechanisms or origins of disease susceptibility. To measure the host genetic contribution to the structure and diversity of the skin microbiota and its potential contribution to disease, we performed quantitative trait locus (QTL) mapping of both autoimmune skin blistering and bacterial traits in an advanced intercross between house mouse strains derived from multiple subspecies. To understand the evolutionary origin of host genetic variability influencing both individual bacterial abundances and susceptibility to disease, we are subjecting candidate regions to more detailed molecular population genetic analysis in natural populations of house mice. In parallel, bacterial species with putative probiotic effects will be cultured and subject to genomic analysis to shed light on the role of host - commensal microbe coevolution in maintaining homeostasis of the skin community.
+
+Patrick Brunner
+ETH Zurich
+Institute of Integrative Biology
+Switzerland
+Coevolution and life cycle specialization of plant cell wall degrading enzymes in a hemibiotrophic pathogen
+talk D21SY09RT16:09R4
+
+Author(s): Brunner, PC, Torriani, SFF, Croll, D, Stukenbrock, EH, McDonald, BA
+
+Summary: 
+
+Zymoseptoria tritici is an important fungal pathogen on wheat that originated in the Fertile Crescent. Its closely related sister species Z. pseudotritici and Z. ardabiliae infect wild grasses in the same region. This recently emerged host-pathogen system provides a rare opportunity to investigate the evolutionary processes shaping the genome of an emerging pathogen. Here, we investigate genetic signatures in plant cell wall degrading enzymes (PCWDEs) that are likely affected by or driving coevolution in plant-pathogen systems. We hypothesize four main evolutionary scenarios and combine comparative genomics, transcriptomics and selection analyses to assign the majority of PCWDEs in Z. tritici to one of these scenarios. We found widespread differential transcription among different members of the same gene family, challenging the idea of functional redundancy and suggesting instead that specialized enzymatic activity occurs during different stages of the pathogen life-cycle. We also find that natural selection has significantly affected at least 19 of the 48 identified PCWDEs. The majority of genes showed signatures of purifying selection, typical for the scenario of conserved substrate optimization. However, six genes showed diversifying selection that could be attributed to either host adaptation or host evasion. This study provides a powerful framework to better understand the roles played by different members of multi-gene families and to determine which genes are the most appropriate targets for wet lab experimentation, for example to elucidate enzymatic function during relevant phases of a pathogen’s life-cycle.
+
+Sophie Gryseels
+Faculty of Sciences, University of Antwerp
+Department of Biology
+Belgium
+Contrasting evolutionary patterns in recent and deep time suggest old origins for East-African arenaviruses and strong specificity to their multimammate mouse hosts
+poster D21SY09PS1166
+
+Author(s): Gryseels, S, Baird, SJE, Makundi, R, Borremans, B, Bryjová, A, Leirs, H, Goüy de Bellocq, J
+
+Summary: 
+
+To understand the relationship between evolutionary histories of zoonotic RNA viruses and their hosts, we study patterns of viral divergence across a host geographic range structured by both recent and ancient events. We focus on East African arenaviruses closely related to the virus causing human Lassa fever in West Africa and which infect the same natural host, the multimammate mouse Mastomys natalensis. We sampled at regular intervals along a 200 km transect in Tanzania, capturing a total of 1284 multimammate mice, of which 57 harbored arenaviruses. Multilocus microsatellite, mitochondrial and Y chromosome markers reveal a cryptic host contact zone between two M. natalensis taxa along the transect, with one admixed central locality and the surrounding 11 localities dominated by one of either taxon. The host mitochondrial lineages split about 1 million years ago and the current zone is likely the outcome of secondary contact of M. natalensis geographic isolates some thousands of years ago, driven by Holocene climate oscillations. We show that each M. natalensis taxon hosts a very distinct arenavirus, yet both arenavirus species are present in the host-admixed locality. Both hosts and viruses show further genetic differentiation within each host-taxon’s ranges, but on this level the geographic patterns of host and virus structure are not correlated. These observations suggest that recent host evolutionary history has little effect on recent arenaviral divergence (despite similar differentiation time scales), yet host-virus associations at a deeper taxonomic level have likely persisted since their shared isolation during the last glacial cycle, predating current ancestry estimates for these RNA viruses. Furthermore, if arenavirus species are unable to cross between pairs of taxonomically cryptic host sister taxa in geographic contact, a rapid arenavirus spread across M. natalensis’ pan-African range, likely home to many such cryptic taxa, seems remote.
+
+Darren Obbard
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Discovery, distribution and evolutionary genomics of viruses naturally infecting Drosophila melanogaster
+talk D21SY09RT11:42R4
+
+Author(s): Obbard, DJ, Webster, CL
+
+Summary: 
+
+Drosophila melanogaster is an important model for innate immunity, and is arguably our primary model for antiviral resistance in arthropods. Several groups have used population-genetic and phylogenetic approaches to show that some antiviral immune genes in Drosophila (notably the antiviral RNAi pathway) display highly elevated rates of adaptive evolution. However, although this is consistent with a host-virus arms race, the evolutionary genetics of Drosophila viruses are almost unstudied - only a handful of viruses which naturally infect Drosophila melanogaster are known, and only Drosophila Sigma Virus (a Rhabdovirus) has been regularly isolated from wild populations.
+
+In an attempt to understand the evolutionary genetics of Drosophila viruses, we have sequenced both RNAseq, and small-RNA, libraries from large pooled samples of wild-caught D. melanogaster. This has allowed us to identify several new viruses, including several RNA viruses (viruses with sequence similarity to Sacbrood Virus, Slow Bee Paralysis Virus, Chronic Bee paralysis virus, Acyrthosiphon Pisum Virus, Flaviviruses, and Cypoviruses) and a DNA virus (Nudivirus).
+
+Following a geographic survey of D. melanogaster, we find that the previously known viruses of D. melanogaster (including DAV, Sigma and Nora) are widespread at low to intermediate prevalence. None of the viruses shows high rates of adaptive evolution, and in general (despite substantial synonymous divergence) protein sequences are very highly conserved. However, while this may indicate that these viruses are not engaged in ‘arms race'-like coevolution, we suspect that the short timescale of viral co-ancestry (tens to hundreds, rather than thousands, of years) makes this process extremely difficult to detect. This is in sharp contrast to viral evolution in response to vertebrate adaptive immunity, which adapts plastically on the same timescale as viral evolution.
+
+Anna Rosanas-Urgell
+Institute of Tropical Medicine
+Biomedical Sciences
+Belgium
+Erythrocyte polymorphisms associated with protection against P. vivax malaria in Papua New Guinea children
+poster D21SY09PS0949
+
+Author(s): Rosanas-Urgell, A, Kattenberg, E, Lin, E, Robinson, L, Rarau, P, Nicolas, S, Manning, L, Moses, L, Peter, S, Ivo, M
+
+Summary: 
+
+Malaria parasites have long coexisted with hominid ancestors: P. falciparum might had infected humans before the out-of-Africa migration and followed the human expansion throughout the tropics. This long-term interaction may have driven the co-evolution of the host-parasite and left evolutionary foot-prints in both human and parasite genomes. According to the “malaria hypothesis”, the high frequencies of deleterious mutations of some human populations are probably due to the strong selective pressure of malaria A remarkable range of polymorphisms have been associated with protection against malaria.Populations of the South West Pacific, a co-endemic region for all four human malaria parasite species, are highly diverse and exhibit a range of unique red blood cell polymorphisms, with geographical patterns paralleling malaria endemicity. We conducted three independent studies in the Madang area of Papua New Guinea to analyse the association of South East Asian Ovalocytosis (SAO) (caused by band 3 deletion SLC4A1?27) and Gerbich negative blood group (caused by a deletion in exon3 of the glycophorin C gene (GYPC)), with protection against P. vivax malaria, testing the hypothesis that P. vivax malaria contributed to the selection of those polymorphisms. Our results showed that SAO was associated with a 46% reduction in risk of clinical P. vivax episodes in a cohort of infants 3-21 months and a 52-55% reduction in P. vivax reinfection in children 5-14 yrs. A case-control study of children 0.5–14 yrs revealed the potential for a strong protection against severe P. vivax malaria. Analysis of Gerbich blood group variants in a cohort of children 1-3 yrs showed that GYPC homozygote is associated with strong protection against P. vivax malaria and that the strength of protection increases with parasitemia. This strongly suggest that P. vivax malaria may have contributed to shaping the unique host genetic adaptations to malaria in Asian and Pacific populations.
+
+Kathrin Näpflin
+Institute of Integrative Biology ETH Zurich
+Switzerland
+Evasion or suppression? Infection strategies of a trypanosome gut parasite of bumblebees
+poster D21SY09PS0108
+
+Author(s): Näpflin, K
+
+Summary: 
+
+Parasites can either avoid host detection (evasion) or actively suppress host immune responses (suppression) in order to infect their hosts. These two strategies could have important consequences for multiple infections. Evasion would not be beneficial in mixed infection if the co-infecting strain fails to also evade, but immune suppression would benefit both infecting strains irrespective of the other co-infecting strain’s strategy. Co-infection, in turn, provides the opportunity for both parasite competition and sexual recombination. The bumblebee Bombus terrestris is commonly infected by multiple strains of the trypanosome gut parasite Crithidia bombi in nature. We tested whether successful infection is achieved by suppressing or evading the host’s immune system by experimentally infecting workers of several colonies with Crithidia strains that were either highly or lowly infective. We used both single and mixed inocula of C. bombi clones, where mixed infections consisted of pairings between a highly and a lowly infective strain. We measured host gene expression of 27 candidate genes and quantified infection intensities within the same individual 18 hours post infection. We discuss implications and insights into the complex genetics of host-parasite interactions.
+
+Gilberto Bento
+University of Basel
+Institute of Zoology
+Switzerland
+Evolution of Daphnia magna resistance to the pathogen Pasteuria ramosa
+talk D21SY09RT18:57R4
+
+Author(s): Bento, G, Routtu, J, Hall, M, Ebert, D
+
+Summary: 
+
+Crustaceans of the genus Daphnia have long been used as models in studies of ecology and evolution and of host-pathogen coevolution in particular. However, little is known about the genetic and molecular basis of Daphnia resistance to pathogens. A well-known ecology combined with recent advances in genomic, genetic and molecular tools make Daphnia crustaceans, and in particular Daphnia magna and Daphnia pulex, remarkable models for modern evolution and ecology. D. magna is colonized by a wide range of parasites and pathogens, among them the bacterium Pasteuria ramosa. The study of inheritance patterns of resistance and susceptibility of D. magna clones to different P. ramosa genetic isolates reveals strong genotype-to-genotype interactions, suggesting coevolution between host and pathogen populations. Resistance and susceptibility of D. magna to different P. ramosa isolates follow mendelian patterns of inheritance and segregation, suggesting that a small number of loci underlie natural variation in D. magna resistance to P. ramosa infection. A F2 panel of D. magna was generated, with more than 200 genotypes that are kept by clonal reproduction. A QTL analysis revealed one genomic region of 150kb in linkage group 4 that explaining approximately 60% of the observed variation. However, further inheritance analysis showed that at least 3 loci underlie natural variation in D. magna resistance to P. ramosa infection. One of those loci corresponds to an indel of approximately 50kb. We are currently fine-mapping the QTL interval to identify genes and polymorphisms underlying Daphnia resistance to Pasteuria. We aim to identify which genes and networks and which polymorphisms underlie the natural variation and evolution of pathogen resistance in D. magna. We plan to use molecular tools recently developed for D. magna to achieve our objectives.
+
+Cassandra Marinosci
+ISEM, UMR 5554
+Diversity
+France
+Experimental adaptation of the phytophagous spider mite, Tetranychus urticae to a new host plant
+poster D21SY09PS0227
+
+Author(s): Marinosci, C, Devaux, C, Olivieri, I
+
+Summary: 
+
+Our ultimate goal is to identify the underlying genetic mechanisms of adaptation of phytophagous mites, Tetranychus urticae, to tomato plants, i.e. a new host species. For this purpose, we transferred in replicate lines on tomato plants individuals from two experimental groups consisting of independent ancestral populations previously maintained for four hundred generations on cucumber and bean plants. For each of the four (two ancestral and two evolved) treatments we measured on tomato leaves individual changes in life-history traits after 25 generations and then calculated growth rates from female individual measures; an additional one-generation transfer on tomato leaves before measures allowed control of potential genotype × environment effects. After 25 generations, growth rate of individuals originating from the cucumber ancestral populations was identical between the replicate lines maintained on cucumber and those transferred on tomato plants, despite the male adult survival being higher for the latter. In contrast, growth rate was higher for individuals transferred on tomato than those maintained on bean plants, mainly due to an increase in female fecundity and a decrease in the development time of both male and female individuals transferred on tomato plants. We are now comparing these data obtained on tomato leaves to similar data measured on entire tomato plants so as to evaluate potential differences in induced-defenses between leaves and plants, and subsequent potential differences in adaptation measures.
+
+Nelson Martins
+Instituto Gulbenkian de Ciência
+Portugal
+Experimental evolution for increased virus resistance in Drosophila melanogaster reveals no costs and a simple genetic basis
+talk D21SY09RT11:18R4
+
+Author(s): Martins, NE, Faria, VG, Nolte, V, Schlötterer, C, Teixeira, L, Sucena, É, Magalhães, S
+
+Summary: 
+
+Because hosts and parasites exert strong selection pressure on each other, it is particularly relevant to study their interaction in an evolutionary context. Experimental Evolution permits the establishment of causality between evolutionary processes and adaptation patterns. Here we use experimental evolution of Drosophila melanogaster exposed to Drosophila C virus (DCV) to address the phenotypic and genotypic changes of hosts evolving in presence of parasites. Upon exposure to the virus, Drosophila survival increased from 33% to almost 90% after 35 generations of selection. This response carried no detectable costs in fitness in the absence of infection, and was not lost after 10 generations in the absence of selection. Cross-resistance was found for other viruses, such as CrPV and FHV, but not to bacterial pathogens. Whole genome sequencing of pooled samples of virus-selected populations and their matching controls at generation 20 uncovered two regions of significant differentiation between these groups of populations. The first corresponded to a region of 4 megabases(Mb) in the 3L chromosomal arm. This region’s peak of differentiation corresponded to a polymorphism in pastrel (pst), a gene recently associated with increased DCV resistance. The second was a pair of significantly differentiated SNPs in the X chromosome, in genes not previously associated with virus resistance. Results with a panel of deficiencies in the 3L chromosome confirmed that deficiencies which encompass pst are the ones with more influence on survival after DCV infection, in a region of approximately 2 Mb. There is ongoing work to confirm the involvement of other candidate genes in this region and of the genes in the X chromosome in resistance to DCV infection. Overall we show that selection for increased virus resistance I) is stable and bears little costs, II) is advantageous in the defense against other viral pathogens, and III) has a simple genetic basis.
+
+Ksenia Zueva
+University of Turku
+Department of Biology
+Finland
+Footprints of directional selection in wild populations of Atlantic salmon: evidence for parasite-driven evolution?
+talk D22SY09RT10:54R8
+
+Author(s): Zueva, KJ, Lumme, J, Veselov, AE, Kent, MP, Lien, S, Primmer, CR
+
+Summary: 
+
+European populations of Atlantic salmon (Salmo salar) exhibit natural variance in susceptibility levels to the ectoparasite Gyrodactylus salaris, ranging from resistance to extreme susceptibility, and thus are a good model for studying the evolution of virulence and resistance. Advances in genome technologies provide new opportunities for obtaining a genome-scale view of the action of natural selection in wild populations. However, distinguishing the molecular signatures of genetic drift and environment-associated selection may challenge the search for specific pathogen driven selection. We used a novel genome-scan analysis approach aimed at i) identifying signals of selection in salmon populations affected by genetic drift at varying levels; and ii) separating the potentially selected loci identified into those affected by pathogen (G. salaris)-driven selection and salinity-driven selection. 4631 single nucleotide polymorphisms (SNPs) were screened in 472 salmon individuals from 12 different north European salmon populations. We identified several genomic regions potentially affected exclusively by parasite-driven selection, as well as several regions affected by salinity mediated directional selection. Functional annotation of candidate SNPs supported the participation of the detected genomic regions in immune defense and osmoregulation. These results provide new insights in genetic basis of pathogen susceptibility/resistance and adaptation to various salinity levels in Atlantic salmon, and open possibilities for specific candidate gene search.
+
+Bouchon Didier
+University of Poitiers
+EBI UMR CNRS 7267
+France
+Functional analysis of differentially expressed genes in the symbiotic association between the pill-bug Armadillidium vulgare and the feminising Wolbachia
+talk D21SY09RT16:57R4
+
+Author(s): Didier, B, Yves, M, Marie-Christine, C, Fabrice, V, Christine, B, Pierre, G, Frédéric, C
+
+Summary: 
+
+Today, there is a wide consensus on the essential role of microbial associations to eukaryote evolution. In most cases, the relationship between host and symbiont is so close that the microorganisms cannot be cultured, making them difficult to study. However, high-throughput sequencing has offered new opportunities for symbiosis research. Due to their widespread association with the Wolbachia endosymbionts, terrestrial isopods represent a model system to understand intimate symbioses. Wolbachia are vertically transmitted facultative bacteria acting as reproductive parasites in isopods, inducing the feminisation of genetic males in the pill bug Armadillidium vulgare. Among the three feminising Wolbachia identified in this host, two strains (wVulC and wVulM) vary in their prevalence and extended phenotypes. wVulC, the most prevalent strain exhibiting the strongest feminising effect, is also the most virulent strain inducing various fitness costs. To decipher the conflicting associations between wVulC, wVulM and A. vulgare, we have constructed cDNA libraries from ovaries and from whole animals challenged by pathogenic intracellular bacteria according to their Wolbachia infection status. RNA from infected and uninfected animals was subjected to RNA-seq sequencing followed by de novo data assembly and annotation. This process generated a library of 33,120 annotated transcripts. Identification of differentially genes (DE) genes as well as overrepresented gene ontology (GO) terms was then carried out using the R packages DESeq and GOSeq. Interestingly the highest number of DE genes was recorded in the animals infected by the less virulent strain wVulM. In most treatments, these DE genes could be assigned to GO categories that are underrepresented when Wolbachia are on board. This study is part of the widest program ImmunSymbArt granted by the French National Research Agency which aims to determine the symbiotic syndrome in four model systems.
+
+Wasim Uddin
+Institute of Vertebrate Biology, Academy of Sciences of the Czech Republic
+Department of Population Biology
+Czech Republic
+Genetic structure of a nematode parasite (Trichuris muris) across the European house mouse hybrid zone
+poster D21SY09PS0872
+
+Author(s): Uddin, W, Bryja, J, Piálek, J, Baird, SJE, Ribas, A, De Bellocq, JG
+
+Summary: 
+
+A continuous arms race between hosts and parasites may lead to co-adaptations varying both spatially and temporally. In secondary contact hybrid zones between divergent host taxa, these co-adaptations may break down, leading to a higher/lower prevalence of parasites in hybrids and a barrier to parasite gene flow at the centre of host contact. Here we aimed to study the genetic structure of a common gastrointestinal nematode parasite, Trichuris muris (Trichuridae) of the house mouse (Mus musculus) in the European house mouse hybrid zone (HMHZ). Specifically, we asked i) Are parasites genetically structured according to the host hybrid zone? ii) Could there also be a hybrid zone between the parasites? We analyzed 172 worms from 47 localities (one nematode per wild caught house mouse) covering an area of 6,500 km2 in Central Europe (Czech Republic and Germany). We sequenced the mitochondrial cytochrome oxidase-I (COX-I) gene and genotyped three microsatellite markers from these parasites. We found 22 haplotypes in COX-I sequences which, by performing haplotype network analysis grouped into two large and two small clades. However, the geographic pattern of these parasite mt clades did not correlate with host genotype across HMHZ. Hierarchically clustering (Structure, k=2) the parasite microsatellite data suggests two clusters, but again with no correlation to the east-west host contact. Our results strongly contrast with the genetic structure of another nematode, Syphacia obvelata which mirrors the host HZ geography. We suggest this contrast is due to the lesser host specificity of T. muris compared to S. obvelata. In the sampled field area, the house mouse is sympatric with woodmice (genus Apodemus) or rats (Rattus norvegicus), both being common hosts of T. muris. Such alternative hosts provide a way round any transmission barrier. In conclusion, T. muris is not genetically structured according to its host in the HMHZ and there is no evidence of hybrid individuals.
+
+Marion Picard
+UMR5244
+Ecology and Evolution of Interaction
+France
+Genetic/epigenetic mechanisms to trigger off separate sex appearance example of intriguing dioecious parasite: Schistosomatidae
+poster D21SY09PS0479
+
+Author(s): Picard, MAL, Rognon, A, Duval, D, Mouhaid, G, Grunau, C, Cosseau, C, Boissier, J
+
+Summary: 
+
+Sex determination and gonadal differentiation have always aroused a strong interest in evolutionary biology. Sexes appeared independently through all the animal kingdom. For instance, among the 18.000 species of classically hermaphroditic Trematodes, the hundred species of Schistosomatidae are intriguing because they possess separated sexes. In Schistosomes it has been proposed that the apparition of sexes resulted from host pressure when the hermaphroditic ancestors had colonized the warm-blooded hosts having a more sophisticated immune system. Sex of Schistosomes is genetically determined in the zygote at fertilization, but there is no phenotypic dimorphism in all larval stages: sexual dimorphism only appears in adult worms, in the vertebrate definitive host. From a cytogenetic point of view, males are homogametic ZZ and females are heterogametic ZW. The W heterochromosome presents a unique feature: it is devoid of W specific genes but instead, it presents satellite repeat sequences. Moreover, the chromatin structure of these satellite repeat sequences changes through the different stages of parasite life cycle. These elements argue in favor of an original epigenetic mechanisms triggering for sex appearance in Schistosomes. But this does not exclude any possible genetic determinant. These uncommon ZW Trematodes display four putative testis associated genes: Doublesex/mab-3 related (Dmrt) family of transcription factors. In order to connect the apparition of phenotypic sexual dimorphism to molecular mechanisms we have studied the expression on these Dmrt candidates on Schistosomula, the stages where the differentiation appears. Besides, we carried out whole genome approaches: RNA and ChIP (Chromatin ImmunoPrecipitation) sequencing on the same developmental stages. These powerful new technologies and the coming of new epigenetic concepts should offer a new gaze on these important, yet unsolved old evolutionary questions.
+
+Jérémy Gauthier
+CNRS, UMR 7261
+Institut de Recherches sur la Biologie de l’Insecte
+France
+Genomic adaptation in the bracovirus of Cotesia sesamiae identified by targeted resequencing
+talk D21SY09RT14:24R4
+
+Author(s): Gauthier, J, Gayral, P, Le Ru, B, Dupas, S, Gaypay, G, Jancek, S, Kaiser, L, Herniou, EA
+
+Summary: 
+
+Cotesia sesamiae are small parasitoid wasps parasitizing over twenty lepidopteran African stem borer species. It is thought that local adaptation to these different host species is mediated by their symbiotic bracoviruses (BVs). BVs derive from large DNA viruses and have been stably integrated in the wasp genome. The wasp use BVs to introduce ~150 genes in parasitized caterpillars, inducing immunosuppression and allowing wasp larval development. In C. sesamiae, different alleles of the CrV1 BV gene explain parasitic success in a particular host species. Nonetheless, other BV genes could be involved in wasp local adaptation or specialization to their lepidopteran hosts. To investigate this, we focused on the BV genome of 25 samples representative of different African C. sesamiae populations. As we worked with tiny organisms, we used custom-made targeted sequence capture to enrich our sequence library in BV genomes (257 kb) prior to Illumina resequencing. This proved to be a very efficient technique as we obtained high target coverage (1100X) and high percentage of mapped reads (90%) for all C. sesamiae populations and for the more distant outgroups. First, we used population genetics tools to identify regions under strong divergent selection by comparing nucleotide diversity (p) and genetic differentiation (FST) along the BV genome and between populations. Secondly, we used a phylogenomic approach to establish the evolutionary relationships between these populations using BV sequence of three outgroup species. Third, comparative genomics helped to assess the effects of particular mutations and identify sites evolving under positive selection. Last, we compared the molecular evolution of all orthologous BV genes both between and within populations and measured the rate of non-synonymous versus synonymous substitutions under a branch-site evolutionary model. Overall our results indicate that different BV genes are at play depending on local host context.
+
+Elise Maze
+Centre National de la Recherche Scientifique
+Station d'ecologie Expérimentale du CNRS à Moulis
+France
+Heritable variation in parasite tolerance and resistance inferred from a wild host-parasite system
+poster D21SY09PS1251
+
+Author(s): Maze, E
+
+Summary: 
+
+As defense mechanisms against parasites, hosts have evolved two distinct strategies: resistance (i.e. prevent infection or limit parasite growth) and tolerance (i.e. alleviate the fitness consequences of infection).Distinguishing between these strategies has important evolutionary implications to predict the coevolutionary outcome of host-parasite interactions.Most theoretical models predict the maintenance of genetic variation in resistance but the fixation of tolerance along the course of host-parasite coevolution.Moreover, a negative genetic correlation is expected between these two traits.However, these predictions have rarely been characterized in wild host populations,and few are known about the environmental and genetic bases of tolerance and resistance.Here,we estimate quantitative genetics parameters for resistance and tolerance in Leuciscus burdigalensis,a freshwater fish species being parasitized by the fin ectoparasite Tracheliastes polycolpus.
+
+Using a long-term survey,we reconstructed a full-sib pedigree in our host population using microsatellites data.We confronted empirical pedigree to simulated pedigrees to estimate the reliability of molecular-based pedigrees.We then used Bayesian animal models to estimate (i) both genetic and environmental variation in resistance and tolerance respectively,and (ii) the genetic correlation between these two traits.
+
+The reconstructed pedigree included 670 individuals assigned in 302 full-sib families.Although simulations revealed that our pedigree was perfectible,we found it was powerful enough to unravel significant broad-sense heritability for both host resistance and tolerance (i.e. ~10-20% for both traits).Animal models also revealed environmental effects for both traits (i.e. > 35 %).We failed to detect significant genetic and phenotypic correlations between these two defense strategies.
+
+Nelson Martins
+Instituto Gulbenkian de Ciência
+Portugal
+Host adaptation is contingent upon the infection route taken by pathogens
+poster D21SY09PS0630
+
+Author(s): Martins, NE, Faria, VG, Teixeira, L, Magalhães, S, Sucena, É
+
+Summary: 
+
+Horizontally-transmitted pathogens can infect their hosts through different routes. Yet, the physiological and evolutionary consequences to the host of distinct modes of pathogen access are virtually unknown. To tackle this question, we used Experimental Evolution of Drosophila melanogaster infected with Pseudomonas entomophila by two different routes (oral and systemic). We found that adaptation to both routes relied on resistance. Moreover, adaptation to infection through one route did not protect from infection through the alternate route, indicating distinct genetic bases. Also, the two selection regimes led to markedly different evolutionary trajectories. Finally, relatively to the control population, evolved flies were not more resistant to bacteria other than Pseudomonas and showed higher susceptibility to viral infections. These specificities and trade-offs may contribute to the maintenance of genetic variation for resistance in natural populations. Moreover, our data shows that pathogen infection route affects host evolution. Therefore, the study of host-pathogen interactions should account not only on host and pathogen evolution, but also on the ecology of the infection, when interpreting patterns of variation in natural populations.
+
+Ellen Decaestecker
+KULeuven
+Science & Technology, KULAK
+Belgium
+Host allelic diversity drives long-term host-parasite coevolutionary dynamics
+talk D21SY09IT17:45R4
+
+Author(s): Decaestecker, E, De Gersem, H, Michalakis, Y, Rayemaekers, JAM
+
+Summary: 
+
+Background: Hosts and parasites are involved in a coevolutionary interaction in which hosts do not evolve as fast as their parasites. Yet, fast adaptive genetic changes occur upon infection, especially if host-parasite interactions are characterized by Red Queen dynamics. Red Queen dynamics between both antagonists are caused by negative frequency-dependent selection and are assumed to have constant amplitudes. Here, a long-term time shift experiment, based on a unique historical reconstruction of a Daphnia-parasite coevolution, reveals that infectivity cycles with a smaller amplitude in experienced than in naive hosts. Experienced hosts were isolated from recent time periods, naive hosts from past time periods. A coevolution model, incorporating an increase in allelic diversity over time in the host confirmed the asymmetry in the infectivity cycles. In contrast, increased virulence over time did not confirm the observed experimental results. The accumulation of resistance alleles affects long-term Red Queen dynamics. Long-term effects in host-parasite coevolution have so far been neglected, but this reconstruction in combination with a theoretical study on long-term time shifts between a host and a parasite extends current insight into the dynamics of co-evolutionary antagonistic interactions.
+
+Pascal Hablützel
+University of Leuven
+Biology Department
+Belgium
+Host dispersal shapes host-parasite co-evolutionary dynamics in cichlid fishes
+poster D21SY09PS1081
+
+Author(s): Hablützel, PI, Grégoir, AF, Roose, AK, Volckaert, FAM, Raeymaekers, JAM
+
+Summary: 
+
+Parasite communities have been proposed to drive adaptation and reproductive isolation of their hosts mediated by the pleiotropic role of immunogenes in both parasite defence and assortative mating. Parasite communities themselves are shaped by the abiotic environment, the availability of intermediate hosts, and live history traits of the host species. The degree to which parasites drive the evolution of their hosts hence may directly rely on intrinsic host traits. Here, we tested the hypothesis whether host dispersal can drive parasite community structure and investigated how this influences the degree local immunogenetic adaptation of the host. We compared parasite communities and Mhc (major histocompatibility complex) allele frequencies in two sympatric cichlid fish species with contrasting dispersal patterns along the shoreline of Lake Tanganyika. We found that allopatric and genetically diverged colour morphs of philopatric blunt-headed cichlids (Tropheus spp.) are infected by contrasting parasite communities and are immunogenetically adapted to them. We could not detect such a pattern in the closely related, but non-philopatric cichlid fish species Simochromis diagramma. This suggests that the presence of migrants among isolated host populations homogenises their respective parasite communities in Lake Tanganyika and ultimately affects immunogenetic adaptation. Therefore we conclude that host-parasite co-evolutionary dynamics are the main driver of diverging parasite communities among allopatric host populations. The proposed pleiotropic role of the Mhc in parasite defence and assortative mating lets us speculate, whether contrasting parasite communities could drive speciation in colour morphs of philopatric blunt-headed cichlids.
+
+Maria Strandh
+Lund University
+Department of Biology
+Sweden
+Host species specificity of Borrelia afzelii strains
+poster D21SY09PS0876
+
+Author(s): Strandh, M, Råberg, L
+
+Summary: 
+
+Most pathogens consist of a number of antigenically different strains. The coexistence of several antigenic variants is often considered to be a result of diversifying selection from host acquired immunity. In multi-host pathogens (i.e., pathogens that infect >1 host species), an additional potential cause of antigenic diversity is that different strains are adapted to different host species. Here, we tested for such host species specificity of strains of the tick-transmitted bacterium Borrelia afzelii. The main hosts of B. afzelii are rodents and shrews. B. afzelii can be divided into strains based on outer surface protein C genotype (ospC) and individual hosts are often infected by multiple ospC types. We used 454 amplicon sequencing to resolve the strain composition of infections in bank voles, yellow-necked mice and common shrews. Among 123 infected individuals, we found seven different strains. All strains were found in all host species, but the prevalence of strains varied in a species-specific manner. Thus, host specificity may contribute to the maintenance of antigenic diversity in this pathogen.
+
+Mélissa Lemoine
+University of Lund
+Department of Biology
+Sweden
+Host specificity in a vector born disease
+poster D21SY09PS1169
+
+Author(s): Lemoine, M, Råberg, L
+
+Summary: 
+
+Understanding the processes that generate genetic diversity and which ultimately lead to speciation is a long standing issue in evolutionary ecology. As originally proposed by JBS Haldane, host-parasite interactions play a crucial role in this context. Both host and parasite can exert a strong selective force and induce diversification. Host specificity of Borrelia, the agent of the most common vector borne disease in temperate regions, is suggested since 15 years. While different processes have been proposed, the mechanisms leading to host specificity and the high genetic diversity in Borrelia are still unknown. It is generally assumed that the genetic diversity of Borrelia cannot be attributed to the vector since they are mainly transmitted by a single generalist tick species - Ixodes ricinus. However host specificity of vectors has only rarely been tested and recent work suggests that it may be more frequent than previously thought. Here we investigate the degree of specialisation of I. ricinus by comparing the genetic variation of larval ticks on two important host species for Borrelia: the yellow-necked mouse and the bank vole. After correcting for either within host individual structure or geographical structure, we find consistent support for a low but significant genetic differentiation between ticks harboured by the two sympatric host species. Our results suggest that the tick-vector may play a crucial role in the host specificity and the genetic diversity of Borrelia. Further studies on the genetic diversity of Borrelia as well as on vector competence in each tick population are now needed to estimate the potential contribution of the vector in the evolution of a common vector born disease.
+
+Tina Henrich
+Max Planck Institute for Evolutionary Biology
+Germany
+Host-specificity in hybrids of two Schistocephalus species with different stickleback hosts
+talk D22SY09RT11:42R8
+
+Author(s): Henrich, T, Kalbe, M
+
+Summary: 
+
+Schistocephalus solidus is a highly specific tapeworm that only infects the three spined stickleback Gasterosteus aculeatus as a second intermediate host. The closely related S. pungitii uses the nine-spined stickleback Pungitius pungitius as second intermediate host, showing the same host specificity at this level. Both parasites potentially share the same final hosts – piscivorous birds - and can occur in sympatry. It is therefore possible that natural hybridization takes place but they have not been detected. We used an in vitro breeding system to hybridize S. solidus and S. pungitii and quantified the hybridization rate using microsatellite markers. We measured several fitness relevant traits in pure lines of the parental parasite species as well as in their hybrids: hatching rates, infection rates in the copepod first host, and infection rates and growth in the two species of stickleback second hosts. We show that the parasites can hybridize in the in vitro system, although the proportion of self-fertilized offspring was higher in the heterospecific breeding pairs than in the control pure parental species. Hybrids have a lower hatching rate, but do not show any disadvantages in infection of copepods. In fish, hybrids were able to infect both stickleback species with equal frequency, whereas the pure lines were only able to infect their normal host species. This suggests that the hybrids have given up the host specificity and raises the question why natural hybrids have not been identified in the wild. We are currently investigating pre- and postzygotic mechanisms that might prevent natural hybridization. Our results furthermore indicate a co-dominance of the genes responsible for infection of different fish hosts. This system offers the unique possibility to investigate the genetic mechanisms underlying this host specificity using backcrosses and a QTL approach.
+
+Fardo Witsenburg
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+How malaria gets around: the genetic structure of a parasite, vector and host compared
+poster D21SY09PS0381
+
+Author(s): Witsenburg, F, Clément, L, Dutoit, L, Lòpez Baucells, A, Palmeirim, J, Pavlinic, I, Scaravelli, D, Ševcik, M, Goudet, J, Christe, P
+
+Summary: 
+
+Parasites with complex life cycles have two host species shaping their genetic structure, but the traditional view posits that the parasite’s structure will be mainly determined by the most mobile host species. Malaria causing protozoa are a prime example of parasites with a complex life cycle, needing both a dipteran and vertebrate host to complete their life cycle. In both hosts they impose selection pressures and are known to have reshaped host populations both demographically and behaviourally. Yet, how these host populations shape the parasite’s genetics has been little studied. Especially the role of the dipteran vector has often been neglected. The relative contribution of each host to the parasite’s population structure has therefore never been satisfyingly determined. In this talk we will compare the genetic structure of all three actors in a parasite-vector-host system: the vertebrate host, the long-fingered bat (Miniopterus schreibersii), a long distance seasonal migrant; the vector/dipteran host, the wingless bat fly Nycteribia schmidlii; and the malaria parasite Polychromophilus melanipherus, a close relative of the malaria parasite Plasmodium spp. Being the most mobile host, our hypothesis was that M. schreibersii will show the most similarities with the structure of P. melanipherus. Traditional microsatellite markers, cytb DNA sequencing and a SNP library obtained by ddRAD-tagging reveal relatively high structure in the bats. In contrast, the haplotype distribution of P. melanipherus shows little geographic differentiation. Using both pattern-based and process-based coalescence methods we will try to demonstrate that the dipteran host plays a vital role in the observed patterns. In the end the specific life history traits of the vertebrate and dipteran host together are responsible for the found patterns and these are therefore discussed within the frame work of coevolution.
+
+Tony Bélicard
+IBENS, CNRS UMR 8197 and INSERM U 1024
+Environnemental and evolutionary genomics
+France
+Identification of a major natural polymorphism responsible for the sensitivity to the Orsay Virus in Caenorhabditis elegans
+talk D21SY09RT14:48R4
+
+Author(s): Bélicard, T, Ashe, A, Le Pen, J, Frézal, L, Sarkies, P, Lehrbach, NJ, Miska, EA, Félix, M
+
+Summary: 
+
+The nematode Caenorhabditis elegans and its natural pathogen, the positive-strand RNA virus Orsay have recently emerged as a new animal model of host-virus interaction. When infected, sensitive strains of C. elegans show disorganization of intestinal cells. The virus was originally detected in the C. elegans isolate JU1580 and is horizontally transmitted. Using a genome-wide association study on 97 wild C. elegans isolates and finer mapping with Near Isogenic Lines, we identified a region of 155 kb in the center of chromosome IV as carrying the major determinant of viral sensitivity. In JU1580, this region contains a 159 base-pair deletion called niDf250, affecting the conserved drh-1 gene (encoding a RIG-I-like helicase). We found that DRH-1 is required for the initiation of an antiviral RNAi pathway and the generation of virus-derived siRNAs (viRNAs). In mammals, RIG-I-domain-containing proteins trigger an interferon-based innate immunity pathway in response to RNA virus infection. Our work in C. elegans demonstrates that the RIG-I domain has an ancient role in viral recognition. We propose that RIG-I acts as modular viral recognition factor that can couple viral recognition to different effector pathways including RNAi and interferon responses. Surprisingly, the drh-1 deletion - the derived sensitive allele - is commonly found in C. elegans wild populations (23% of wild isolates). Two main hypotheses could explain this distribution: 1) niDf250 is linked to a beneficial allele or 2) niDf250 is beneficial by itself in certain conditions. Supporting the first hypothesis, niDf250 lies in a region with strong linkage disequilibrium. To further test these hypotheses, we are now performing laboratory fitness and competition experiments to decipher the impact of the niDf250 allele and the linked region on C. elegans fitness.
+
+Charissa De Bekker
+Pennsylvania State University
+entomology and biology
+United States
+In search of the fungal compounds that manipulate animal host behavior
+talk D21SY09RT16:33R4
+
+Author(s): De Bekker, C, Lukasiewicz, K, Hughes, DP
+
+Summary: 
+
+Parasite-host co-evolution has driven parasites to evolve strategies to invade, overcome the immune system, and exploit their hosts for their own survival and dispersal. Some parasites also interact with the host’s nervous system, changing behavior. One of the most dramatic examples is the fungus Ophiocordyceps unilateralis s.l. infecting Camponotus species, where ants bite into vegetation before dying to facilitate spore dispersal. To establish this, the fungus not only overcomes the immune system, but also manipulates the brain and atrophies the muscles. Through extensive fieldwork on three continents we established that a high diversity of manipulation phenomena involving ants and fungi exists. This provides a framework for comparative profiling of manipulator compounds using a combination of metabolomics and proteomics.
+
+We are combining metabolite and protein profiling with ex vivo insect tissue culturing to study compounds secreted in different areas of the host. Using this technique we established that generalist and specialist fungal entomopathogens react differently when presented with the same insect tissues. Next to that, these entomopathogens react heterogeneously to brain and muscle tissue by secreting a significantly different array of metabolites. Furthermore, O. unilateralis employs different metabolites when presented with brains from different ant species, while similar compounds are found as well. Identifying if the “behavioral manipulator” compounds are only found when the fungus is presented with its co-evolved host, or also when presented with other hosts, will inform us if host specificity lies at the level of behavioral manipulation or that of spore entry and overcoming the immune system. By combining metabolite and protein discovery we are identifying candidate compounds involved in manipulation. We are also testing the effect of potential brain manipulating compounds by combining artificial ant infection with behavioral assays.
+
+Marius Wenzel
+University of Aberdeen
+United Kingdom
+Landscape genomic analysis highlights how parasite-driven processes affect neutral and adaptive genetic diversity in red grouse
+poster D21SY09PS0124
+
+Author(s): Wenzel, MA, Webster, LMI, Paterson, S, Piertney, SB
+
+Summary: 
+
+A major endeavour in evolutionary ecology is to elucidate the relative contribution of stochastic and deterministic processes to genetic diversity and how this influences fitness, population dynamics and adaptation. Genotyping individuals sampled densely from a heterogeneous landscape across both neutral markers and candidate genes considered to be functionally relevant for the ecological character of interest is a useful approach that informs an understanding of the interplay between ecological and evolutionary processes. The red grouse (Lagopus lagopus scoticus) is a Scottish upland game bird whose population dynamics are to a large degree affected by a nematode parasite (Trichostrongylus tenuis). Our aim is to shed light on the genetic basis of parasite response and adaptation, by employing a candidate gene approach on a landscape scale. We use 454 pyrosequencing to genotype 190 grouse sampled across north-east Scotland (Cairngorms area) at 12 candidate loci for parasite response (identified from previous microarray and sequence data), and 3 putatively neutral intronic loci. We identify associations between patterns in genetic variation and environmental variables, particularly landscape, parasite loads and management regimes. We further test for signatures of natural selection in genetic patterns, employing Fst outlier analysis with intronic loci as a neutral reference. Our results elucidate the influence of ecological dynamics on genetic diversity and the consequences for population dynamics in a management context for this economically important game bird species.
+
+Lise Genty
+Université de Poitiers
+Ecologie et Biologie des interactions UMR CNRS 7267
+France
+Last minute passengers or priority travellers: view of a Wolbachia journey in Armadillidium vulgare ovaries
+poster D21SY09PS0465
+
+Author(s): Genty, L, Raimond, M, Bouchon, D, Bertaux, J
+
+Summary: 
+
+Wolbachia is a widespread endosymbiotic bacterium of arthropods and nematods. With the aim to better understand close interactions linking Wolbachia and its hosts, we study mechanisms of Wolbachia entry and long-term installation in a host easy to handle, the terrestrial isopod Armadillidium vulgare. Wolbachia is vertically transmitted to the host offspring, even though ovary cells are cyclically renewed. Thus, we search to identify mechanisms allowing Wolbachia to enter and to maintain itself in oocytes. Using Fluorescent in situ hybridization (FISH), we showed that the proportion of infected ooocytes increases in the course of ovary and oocyte maturation. At the end of ovary maturation, this proportion reaches the transmission rate to offspring. This enrichment can be explained by a secondary acquisition of the bacteria by oocytes (Wolbachia can be seen as last minute passenger) and/or by a preferential selection of oocytes infected with Wolbachia (as priority traveller). To confirm our first hypothesis, we highlighted Wolbachia’s ability to infect oocytes along maturation by transinfection. Cellular mechanisms then need to allow Wolbachia internalization into the cell, without its destruction. Wolbachia also needs to intercept components required for its proliferation. To identify the processes involved, we monitored metabolic pathways via a host mRNA detection method (Single molecule FISH) compatible with our Wolbachia detection. The novelty of this approach is that we detect mRNA expression for the entire organ. Comparing uninfected ovaries, naturally infected ones and ovaries in the course of invasion after transinfection with Wolbachia, we denoted some different mRNA response patterns. For mRNA markers reporting the activation of internalization pathways, we observed an expression in all oocytes although Wolbachia was not present in each cell. In other cases, we could observe different mRNA sub-cellular localization, even some co-localizations with Wolbachia.
+
+Tine Huyse
+University of Leuven
+Biology
+Belgium
+Linking parasite genetics with host disease phenotype, the case for human schistosomiasis
+poster D21SY09PS1325
+
+Author(s): Huyse, T, Boon, N, Van den Broeck, F, Chaturvedi, A, Meurs, L, Volckaert, FAM, Polman, K
+
+Summary: 
+
+Schistosomiasis is a major, poverty-related disease affecting more than 200 million people in developing countries, 85% of them in sub-Saharan Africa. It has a complex epidemiology with a large variation in infection intensity, immune responses to infection, and schistosome-related pathology. Up till now, studies have concentrated on the contribution of host genetics to explain this variation in disease outcome, while the role of parasite genetics remains unexplored. We conducted a large epidemiological study in northern Senegal. We genotyped 1692 Schistosoma mansoni larvae collected from 45 human hosts with nine microsatellite loci and linked this with host data such as age, gender, infection intensity, liver and bladder morbidity. Linear regression and redundancy analysis revealed a positive relationship between schistosome infection intensity (measured as eggs per gram feces (epg)), and the frequency of a certain parasite allele. We corrected for age, sex, and co-infection with S. haematobium. Two other alleles in this locus were negatively correlated with epg. If we divide infection intensity by worm burden (measured by parasite antigen levels in the blood serum of patients), we have a measure of parasite fecundity. This parameter appeared also positively correlated with the specific allele. The respective microsatellite locus is located in the untranslated region of a protein kinase gene. Inhibiting this gene results in a decrease in schistosome egg production by 30%. Epigenetic control of this gene and its role in host disease phenotype will be discussed.
+
+Olivia Roth
+Helmholtz Centre for Ocean Sciences (GEOMAR)
+Marine Ecology
+Germany
+Male pregnancy and immune defence anomaly
+talk D22SY09RT10:30R8
+
+Author(s): Roth, O, Haase, D, Wegber, M, Reusch, TBH
+
+Summary: 
+
+The major histocompatibility complex (MHC) - mediated adaptive immune system was claimed to be the hallmark of vertebrate immune defence. Now recent work suggests that vertebrate immune systems and in particular the MHC - mediated immunity are much more plastic than previously assumed. Based on deep-transcriptome sequencing, we report the loss of the MHC class II immune pathway in the sex-role reversed pipefish Syngnathus typhle. In contrast, MHC class I genes were present, and their diversity correlates with the efficiency of immunity and male mate choice behavior. We identify “sex-role reversal” as a potential selection factor for loss of MHC II and other surprising anomalies in the pipefish immune defence, and give an outlook of how this can affect host-parasite coevolution.
+
+Catalina Gonzalez Quevedo
+University of East Anglia
+Department of Biological Sciences
+United Kingdom
+Mapping immune gene variation across bottlenecked populations of an island bird
+poster D21SY09PS1395
+
+Author(s): Gonzalez Quevedo, C
+
+Summary: 
+
+Understanding how functional genes evolve is a key issue in evolutionary biology. Genes involved in immune responses are expected to evolve faster than the rest of the genome due to the selective pressure that arises from hosts-pathogen co-evolution. Toll-like receptors (TLR) and beta defensins (BD) have been identified as important effectors of the innate immune response. In vertebrates TLRs function as non-clonal receptors of the immune system that bind and recognize pathogen associated molecular patterns (PAMPs), while BDs directly disrupt the membrane of invading microbes. We investigated the variation at four avian BD loci (AvBD) and five TLR loci in 13 populations of Anthus berthelotii, an endemic passerine that inhabits all islands in the Atlantic archipelagos of Madeira, Selvagens and the Canary Islands. The pipit appears to have gone through a severe population bottleneck when first colonising these islands ca. 75,000 years ago. Now these populations are isolated from each other and have been shown to vary significantly and consistently in terms of the pathogens they harbour. Previous studies have also shown that despite the severe bottleneck variation between populations exists at the major histocompatibility complex (MHC) due to rapid regeneration caused by gene conversion across this gene family. In the present study we found no variation at the AvBD loci, but considerable variation at the TLR loci, both within and across populations. Our evidence suggests that each of the 5 TLR loci are evolving independently, that new haplotypes have been generated since the colonisation but there is no evidence of gene conversion. Analyses of molecular variance show that two TLR loci have significant levels of differentiation between archipelagos. We discuss our findings in the light of the spatially variable pathogen pressures observed across the populations of Berthelot’s pipit and in comparison to the variation, and mechanisms of evolution, evidenced at the MHC.
+
+Joelle Gouy de Bellocq
+Institute of Vertebrate Biology, Academy of Sciences of the Czech Republic
+Population Biology
+Czech Republic
+Matryoshka hybrid zones: the pinworm Syphacia obvelata in the European house mouse hybrid zone
+talk D21SY09RT15:12R4
+
+Author(s): Gouy de Bellocq, J, Uddin, W, Baird, SJE, Ribas, A, Bryja, J, Pialek, J
+
+Summary: 
+
+Hybrid zone studies of host-parasite coevolution have largely taken a host-centric viewpoint: does parasitism affect the outcome of host hybridization by differentially impacting the fitness of host taxa and their hybrid descendants? This viewpoint neglects the possibility that host taxa have distinctive genetic clusters of parasites that may themselves potentially hybridize. Hybridization, bringing together combinations of genes previously untested by natural selection, may affect parasites in similar ways to free-living organisms: revealing a barrier to gene flow, promoting divergence via reinforcement, homogenizing genetic clusters or leading to rapid adaptive diversification via the formation of hybrid parasite species. We use the European house mouse hybrid zone (HMHZ) between Mus m. musculus and M. m. domesticus and their pinworms to explore these issues. First, from a host-centric viewpoint, we tested whether hybrids have greater or lesser load of pinworms than additive expectations. Sampling of 689 mice from 107 localities typed for 1401 diagnostic SNPs across the Bavaria-Bohemia region of the HMHZ we found hybrids have significantly reduced pinworm load, contradicting the idea that pinworms reduce host hybrid fitness through increased load. Second, from a parasite-centric viewpoint, we analyzed the genetic structure of Syphacia obvelata across the same part of the HMHZ by typing 267 female worms from mice at 87 HZ localities and 18 allopatric localities for 10 microsatellite markers and the mtCOX1 gene. We found distinct genetic clusters of S. obvelata meeting at the host HZ, with hybrid pinworm genotypes at the centre. Our results are consistent with independent host-parasite arms races running during isolation of the host taxa: any accumulated co-adaptation will breakdown on hybridisation of host and of parasite. The low parasite loads observed in the HMHZ centre may be due to “immune vigor” of hybrid hosts and/or low fitness of their hybrid parasites.
+
+Martin Andersson
+Biology department, Lund University
+MEMEG
+Sweden
+Multiple-strain infections of Borrelia afzelii – a role for within-host interactions in the maintenance of antigenic diversity?
+poster D21SY09PS1453
+
+Author(s): Andersson, M, Scherman, K, Råberg, L
+
+Summary: 
+
+Competition is an important evolutionary force and is expected to be most severe between closely related species. In infectious diseases many infections consist of genetically distinct strain, suggesting that and competition between strains might be important. Signs of such competition have been observed in for example malaria infections. Here we investigated the occurrence of competition between closely related strains of the tick-borne disease Borrelia afzelii, one of the species causing Lyme disease in Europe, in one of their most important reservoir hosts, the bank vole (Myodes glareolus). We separated strains based on the highly polymorphic ospC gene using strain specific PCR primers, and found that infected voles on average harbored 2.5 different ospC types. The strains showed a highly aggregated distribution and there were surprisingly little indication of competition. The results rather indicates that strains have a positive effect on each other. Moreover, genetically more different strains were more often found together. In conclusion we suggest that positive interactions might help maintain strain diversity in B. afzelii and that competition between strains play a relatively minor role in this system.
+
+Ignacio Bravo
+Catalan Institute of Oncology
+Infections and Cancer Laboratory
+Spain
+Novel papillomaviruses in free-ranging Iberian bats challenge the dogmas: interspecies transmission, no virus-host coevolution and evidences for recombination
+poster D21SY09PS1399
+
+Author(s): Bravo, IG, Wibbelt, G, Vázquez-Morón, S, Ibáñez, C, Echevarría, JE, Juste, J, García-Pérez, R
+
+Summary: 
+
+Papillomaviridae are a wide and divergent family of small, non-encapsulated dsDNA viruses that infect most vertebrates. Animal PV diversity is poorly sampled, and thence most of our hypotheses about PV evolution are biased because of the clinical focus on PV research. We communicate here the sequencing and cloning of five new PVs isolated from different bat species: Eidolon helvum PV type 1 (EhelPV1), Rhinolophus ferrumequinum PV type 1 (RferPV1), Eptesicus serotinus PV type 1 (EserPV1), Eptesicus serotinus PV type 2 (EserPV2) and Eptesicus serotinus PV type 3 (EserPV3). These novel PVs were isolated from three different bat families: Pteropodidae, Rhinolophidae y Vespertilionidae, respectively. Phylogenetic relationships within Papillomaviridae were inferred by means of maximum likelihood, Bayesian, and supernetwork analyses. Further, we have studied the prevalence of EserPV1, 2 and 3 in a number of E. serotinus and E. isabellinus bat colonies in the Iberian peninsula. There are currently nine bat PVs, and they are not monophyletic: five of them belong to the Lamda+Mu PVs crowngroup, one to the Alpha+Omicron PVs crowngroup, and three of them are close to root and their precise phylogenetic positions cannot be inferred with certainty. The increased sampling of the Lambda+Mu PV crowngroup is welcome, as it hosts viruses infecting diverse hosts (carnivores, chiroptera, primates, rodents and lagomorpha), with diverse tropisms (cutaneous and mucosal) and with divergent clinical manifestations of the infections (asymptomatic, benign proliferations and malignant tumours). Our results question once again the old assumption of virus-host coevolution for the PVs and reinforce the hypothesis of a biphasic evolution in the story of the PVs: an initial adaptive radiation linked to the definition of new niches during the evolution of mammalian skin that generated the ancestral PV crowngroups, followed by a limited co-especiation between viruses and hosts.
+
+Lotta-Riina Sundberg
+University of Jyvaskyla
+Department of Biological and Environmental Science
+Finland
+Parasitic lifestyle and genomic reduction in metazoan parasites
+poster D21SY09PS0169
+
+Author(s): Sundberg, L, Pulkkinen, K
+
+Summary: 
+
+Even though parasitism is the most common lifestyle on earth, the impact of the lifestyle on parasite genomes is still poorly known. Adaptation to a specialized niche has been shown to cause reduction of genome size in intracellular parasites (bacteria and eukaryotes) when compared to free-living organisms. However, this genomic reduction has been suggested to be connected to intracellular lifestyle only. We explored the effect of parasitism on genome size in four metazoan taxa: flatworms, nematodes, annelida and arthropods. We found that the genome size was significantly smaller in parasitic taxa when compared to closest free-living taxa in all the studied metazoans. Our results advocate that despite of the high variation in the taxonomic position, evolutionary history and diverse life cycles, parasitism as a lifestyle promotes genomic reduction. The selection for genomic reduction associated with parasitic lifestyle must be strong and adaptive. We suggest that small genome size benefits parasites by decreasing the costs of genome replication, thus increasing their growth and likelihood of successful transmission, leading to enhanced virulence. Because the number of sequenced metazoan parasite genomes is low, it is difficult to estimate if reduction in genome size is due to gene loss or by compaction, both of which are observed in protozoan parasites. In many protozoan parasites genome is reduced by loss of even complete core metabolic pathways, leaving the parasites parasitizing directly on the function of host genes. If similar findings are made with metazoan parasites, we suggest that parasitism on host genes, functions and metabolism could be considered as a core component of the definition of virulence (harm caused by the pathogen leading to reduction of host fitness).
+
+Laura Salazar-Jaramillo
+Groningen University
+Centre for Ecological and Evolutionary Studies
+Netherlands
+Parasitoid resistance in Drosophila: from short to long term evolutionary patterns
+talk D21SY09RT14:00R4
+
+Author(s): Salazar-Jaramillo, L, Jalvingh, K, Wertheim, B
+
+Summary: 
+
+With the availability of genome sequences of closely related species and the tools to investigate genome changes, we have come closer to understand the complexity of the evolutionary history of immune systems. We investigate the genomic changes associated with the evolution of cellular immunity in the Drosophila genus, focusing on the ability to encapsulate and melanize parasitoid eggs. While parasitoid wasps are widely distributed and a common threat for many insects, within the Drosophila genus there is large variation in encapsulation ability, from completely absent in some species to high resistance in others. Through a combination of parasitization-experiments and comparative genomics we found that the ability to encapsulate parasitoid eggs has evolved in a branch of the Drosophila lineage and has subsequently been lost in one species of this group. The evolution of this trait is associated with the acquiring of a special type of differentiated blood cells, the lamellocytes. Some key genes that play important roles in the cellular immune defense are found to be restricted to this taxonomic group, and show large-scale sequence changes in the species that lost the ability to resist against parasitoids. Variation in resistance is not only present at the inter-species level but also between populations inside one species. Understanding the source of this variation requires a better understanding of the mapping from the genome sequences to the phenotypic pattern. For this, we are currently comparing the transcriptome (RNAseq) after parasitization with the wasp Asobara tabida of 4 species and 2 artificially selected lines for increase resistance. This set of data will allow us to contrast the long term variation found between species with the short term evolution found in the selected lines.
+
+Larissa Silva
+Centro de Pesquisas René Rachou, Centro de Excelência em Bioinformática, FIOCRUZ
+Brazil
+Phylogenomics: an evolutionary framework bridging Schistosome genomics and biology
+poster D21SY09PS1241
+
+Author(s): Silva, LL, Andrade, LF, Mourão, MM, Nahum, LA, Oliveira, GC
+
+Summary: 
+
+Phylogenomics has opened new frontiers in Science by connecting genomic diversity to evolutionary systems biology. Many studies have applied this approach to improve functional annotation of genes/proteins and to reconstruct phylogenetic relationships across different domains of life. Moreover, this evolutionary framework has a broader impact that is to bridge parasite genomics and biology with potential applications in biomedicine and biotechnology. Here we focus on the phylogenomics of Schistosoma (Platyhelminthes), which causes human schistosomiasis, a neglected disease affecting over 230 million people worldwide. By applying phylogenomics to the predicted proteome analysis of Schistosoma mansoni in comparison to other metazoans, we have shed light on the evolutionary processes that shaped host-parasite interactions over evolutionary time. Our work has focused on Schistosoma distinct protein families that play key biological functions, e.g. eukaryotic protein kinases (ePKs). Our findings indicated that each protein kinase group, family, and subfamily have a unique evolutionary history. Furthermore, the main processes shaping the evolution of S. mansoni ePKs include exon shuffling and gene duplication followed by divergence. We also identified S. mansoni mitogen-activated protein kinases that play pivotal roles in multiple cellular processes as described in other metazoans. Based on these findings, S. mansoni proteins of the MAPK pathway were chosen for knockdown by RNA interference assays. Our results showed that SmJNK (Smp_172240) has an important role in the parasite transformation and survival representing a potential drug target to disrupt the schistosome life cycle preventing disease progression. Altogether, this study provides an evolutionary view of the S. mansoni ePKs improving its functional annotation and allowing for a better assessment of the parasite genome complexity and lineage-specific adaptations potentially related to the parasitic lifestyle.
+
+Justyna Wolinska
+Ludwig-Maximilians-Universität München
+Department Biology II
+Germany
+Population structure of microparasites infecting Daphnia: spatio-temporal dynamics
+talk D21SY09RT18:33R4
+
+Author(s): Wolinska, J, Rusek, J, Gonzalez-Tortuero, E, Petrusek, A, Giessler, S
+
+Summary: 
+
+Surprisingly, in many field studies of natural host-parasite systems genetic changes have been investigated for one player only – the host. This is astonishing as coevolution requires changes in the frequencies of both players. The previous restrictions were mainly caused by limited access to molecular markers for unculturable microparasites. Recently, we have established a NGS protocol to shed light on the genetic changes within populations of Caullerya mesnili (Ichthyosporea), the parasite of the waterflea Daphnia. This parasite is one of the most common pathogens of European Daphnia species that inhabit large, permanent lakes. We show that the genetic structure of parasite populations varies both over space and, most interestingly, over time. Given its high virulence (up to 95% fecundity reduction), strong genetic specificity for infection, large prevalence in natural populations (up to 40%), and currently established molecular tools - Caullerya is a strong candidate to become a model parasite for future coevolutionary studies of natural host-parasite systems. Our preliminary studies show that the genetic structure of parasite populations varies both over space and, most interestingly, over time. In the near future, the new molecular and bioinformatical techniques will allow to track changes in genetic population structure on a large scale for the often unstudied member of a coevolutionary pair – the parasite.
+
+Eve Toulza
+University of Perpignan Via Domitia
+Ecology and Evolution of Interactions
+France
+Private selective sweeps identified from next-generation pool-sequencing reveal convergent pathways in two inbred Schistosoma mansoni strains
+poster D21SY09PS0383
+
+Author(s): Toulza, E, Clément, JAJ, Gautier, M, Parinello, H, Roquis, D, Boissier, J, Rognon, A, Moné, H, Mouahid, G, Buard, J, Mitta, G, Grunau, C
+
+Summary: 
+
+The trematode flatworm of the genus Schistosoma, the causative agent of schistosomiasis, is among the most prevalent parasites in humans, affecting more than 200 million people worldwide. In this study, we focused on two well-characterized strains of S. mansoni, to explore signatures of selection underlying phenotypic variation. Both strains are highly inbred and exhibit differences in life history traits, in particular in their compatibility with the intermediate host Biomphalaria glabrata. We performed high throughput sequencing of DNA from pools of individuals of each strain using Illumina technology at an overall 20-fold genome-wide coverage. As a whole, 708,898 SNPs were identified and roughly 2,000 copy number variations. The SNPs revealed low nucleotide diversity (p = 2 × 10-4) within each strain and a high differentiation level (Fst = 0.73) between them. Based on a recently developed in-silico approach, we further detected 12 and 19 private (i.e. specific non-overlapping) selective sweeps among the 121 and 151 found in total for each strain respectively. Interestingly, functional annotation of transcripts lying in those private selective sweeps revealed specific selection for functions related to parasitic lifestyle (e.g. cell-cell adhesion or oxydo-reduction). Despite high differentiation between strains, we identified an evolutionary convergence for proteolysis, known as key virulence factor and potential target for drug and vaccine development.
+
+Peter Kriesner
+Faculty of Science at the University of Melbourne, Australia
+Department of Genetics
+Australia
+Recent rapid spread of Wolbachia variants in east Australian Drosophila simulans: induced by protection against naturally occurring pathogens?
+poster D21SY09PS0501
+
+Author(s): Kriesner, P, Hoffmann, AA, Lee, SF, Turelli, M, Weeks, AR
+
+Summary: 
+
+The maternally inherited intracellular bacteria Wolbachia are ubiquitous amongst arthropod hosts. Although well known for their ability to induce various host reproductive manipulations, Wolbachia have also been shown to increase host fitness by protecting against infectious microbes or increasing fecundity; and they are expected to evolve towards mutualism in natural host populations.
+
+Recent data from our lab indicates the rapid sequential spread of two Wolbachia variants (wAu and wRi), only one of which induces significant reproductive parasitism in the form of cytoplasmic incompatibility, in Australian populations of Drosophila simulans over approximately 20 years. In each case analyses suggest that these dynamics are best understood as Fisherian waves of favourable variants, involving net host fitness benefits of a non-trivial magnitude.
+
+Despite their leading roles in genetics, the suite of naturally occurring pathogens which significantly impact field populations of Drosophila melanogaster and D. simulans is not well characterized. Moreover specific infections (such as DMelSV) that are maintained for study in laboratory populations may have relatively benign effects in nature.
+
+We have found that each of the wAu and wRi Wolbachia variants currently persist, at quite different infection frequencies, amongst geographically isolated populations of D. simulans within Australia. If these Wolbachia variants have the effect of promoting host fitness by protecting against infectious microbes, a comparison of these different host populations has potential to reveal pathogens that are ecologically significance and provide some indication of the intensity of the selective pressure they exert on a genetically tractable model host.
+
+Clément Gilbert
+Université de Poitiers
+France
+Remarkable diversity of endogenous viruses in the genome of an isopod crustacean
+poster D21SY09PS0664
+
+Author(s): Gilbert, C, Cordaux, R
+
+Summary: 
+
+Recent studies in paleovirology have uncovered myriads of viral genome fragments integrated in the genome of their eukaryotic hosts. These fragments result from endogenization, i.e., integration (often accidental) of the viral genome into the host germline genome followed by vertical inheritance. So far, most studies have used a virus-centered approach, whereby endogenous copies of a particular group of viruses were searched in all available sequenced genomes. Here we follow a host-centered approach whereby the genome of a given species (the crustacean isopod Armadillidium vulgare) is screened for the presence of endogenous viruses using all viral genomes sequenced to date (n = 2048) as queries. This search and downstream evolutionary analyses revealed that 50 viral genome fragments belonging to 10 viral families became endogenized in A. vulgare. We show that viral endogenization occurred recurrently during the evolution of isopods and that some endogenous virus loci are polymorphic in A. vulgare, suggesting they result from recent endogenization of viruses likely to be currently infecting isopod populations. Overall, our work shows that isopods have been and are still infected by a large variety of DNA and RNA viruses. It also extends the host range of several families of viruses and brings new insights into their evolution. More generally, our results underline the power of paleovirology in characterizing the viral diversity currently infecting eukaryotic taxa.
+
+Khalid Sedeek
+Faculty of Science, University of Zurich
+Institute of Systematic Botany
+Switzerland
+Reproductive barriers and candidate genes involved in the isolation of four closely related sexually deceptive orchids
+poster D21SY09PS1026
+
+Author(s): Sedeek, KEM, Scopece, G, Xu, S, Qi, W, Cozzolino, S, Schiestl, FP, Schlüter, PM
+
+Summary: 
+
+Sexually deceptive orchids of the genus Ophrys have a highly specialized pollination system in which each orchid species is thought to attract only one or very few specific pollinator species. This study aims at dissecting the ecological and molecular mechanisms of reproductive isolation between four closely related and sympatric Ophrys species (O. exaltata, O. sphegodes, O. garganica and O. incubacea) that specifically attract males of four different pollinator bee species. Flowering phenology and pollinator behaviour were found to act as pre-mating reproductive barriers among these species, but crossing experiments and ploidy analysis revealed no post-mating barriers. Transcriptome sequencing allowed the identification of candidate genes involved in specific pollinator attraction and reproductive isolation. This approach identified candidate genes for hydrocarbon (odour) and anthocyanin (colour) biosynthesis, as well as transcription factors putatively involved in the regulation of flower odour, colour and morphology.
+
+Heidi Aisala
+University of Oulu
+Department of Biology
+Finland
+Sequentially varying reproductive strategies in a parasitic flatworm: riding a population genomic roller coaster
+poster D21SY09PS1017
+
+Author(s): Aisala, H, Hansen, H, Lumme, J
+
+Summary: 
+
+Breeding systems have major impacts on population genetic processes. At ecological time scale, asexuality is a superior reproductive strategy, because it provides the ability to colonize new environments quickly and allows populations to grow exponentially in favorable conditions. In spite of high fitness in short term, small effective population size and lack of effective recombination reduce the adaptive potential and eventually lead to accumulation of deleterious mutations. Thus, at evolutionary time scale, sexual reproduction becomes more advantageous. Our study focuses on the genus Gyrodactylus (Platyhelminthes, Monogenea), which consists of small host specific fish parasites. In this genus, combination of clonality and sexuality has proved to be an ideal strategy to be successful at both time scales. New genetic combinations are created by occasional sexual reproduction, and the fittest genotypes can then be amplified by clonal parthenogenesis and spread to new geographical areas, assuming a suitable vector like farmed salmonids. Over time, rare sexuality in a population consisting of few genotypes and increasing selection pressure by the host cause the gene pool to become even narrower, and the declining fitness leads inevitably towards extinction. However, the genus is extremely species-rich, containing perhaps thousands of specific lineages on different hosts. The rescue seems to happen through host switching by hybridization among distant lineages. These switches provide a way out of the otherwise inescapable evolutionary dead-end, and bring the riders back to the highest peak of the population genomic roller coaster.
+
+Crystal Vincent
+University of Toronto
+Canada
+Sex-specific genetic variance for resistance and tolerance to infection
+poster D21SY09PS0672
+
+Author(s): Vincent, CM, Sharp, NP
+
+Summary: 
+
+Understanding why individuals express a given level of immune competence is necessary for predicting the incidence, spread, and evolution of disease. It is often observed that males have weaker immune systems than females and thus get sick more often. Sex-biases in susceptibility, both before and during infection, can affect pathogen prevalence and host-parasite coevolution. One potential cause of sexual dimorphism in immunity could be differential effects of infection on fitness between the sexes, i.e. females may be selected to invest more in immunity because the fitness costs of infection are greater. When individuals differ in their ability to maintain fitness during infection they are said to express different levels of tolerance. Most eco-immunology studies assess resistance, which involves those responses that prevent, restrict, or clear infection by parasites, rather than tolerance mechanisms. Distinguishing between resistance and tolerance is important as they predict markedly different evolutionary and epidemiological outcomes. Tolerance has long been acknowledged as a mechanism of managing stressors in the plant literature, but few studies have investigated tolerance in animals. To date, no comparison of tolerance in male and female animals has been undertaken. Using males and females from several Drosophila melanogaster genotypes, we assessed resistance and tolerance to the common bacterial pathogen Pseudomonas aeruginosa. Across all lines, resistance and tolerance was significantly lower in females. There was a significant negative correlation between male and female tolerance. In addition, we observed a genetic trade-off between resistance and tolerance. Our results suggest that antagonistic pleiotropy can maintain genetic variation in immunity. Implications for the genetics of immune function and sex-specific immunocompetence will be discussed.
+
+Magda Pieczynska
+Laboratory of Genetics, Wageningen University
+Netherlands
+Tests of coevolution between virus and host in killer yeast strains
+poster D21SY09PS0602
+
+Author(s): Pieczynska, MD
+
+Summary: 
+
+Viruses are among the most abundant biological entities on earth and found in almost every organism. One of their strategies is to adapt to their host and develop a mutualistic endosymbiosis. In case of the “yeast-virus killer system’’, the cytoplasmic virus produces a compound that is toxic to yeast strains without the virus, while the yeast cell allows for viral survival and reproduction. Transfer of the virus is strictly vertical. The benefit of competitor killing for the host is thought to depend on several factors, including the phylogenetic relatedness between killer and sensitive strain and the structure of the environment. However, presence of viruses was described for a limited number of laboratory strains, and little is known about their frequency and ecological importance in nature. Among a world-wide collection of 184 yeast strains of known phylogenetic history, we identified 14 strains infected by killer viruses. We classified and assigned them into one of three types: K1, K2 or K28, where the most common appeared to be K1. We test for the signature of coevolution between these killer viruses and their yeast hosts in two ways. First, we test the killing ability of viral carriage as function of host phylogenetic distance, including self versus non-self to see if they are found least toxic towards their own hosts as a result of the co-evolution between virus and host. This is done by cross-infecting strains with the viruses they contain, combined with analyses of their toxicity. Second, we will compare the phylogenies of virus and host based on their genome sequence to learn whether the viruses tend to move freely between different hosts.
+
+Feifei Xu
+Uppsala University
+Department of cell and molecular biology
+Sweden
+The Spironucleus salmonicida Genome
+poster D21SY09PS1016
+
+Author(s): Xu, F, Jerlström-Hultqvist, J, Einarsson, E, Svärd, SG, Andersson, JO
+
+Summary: 
+
+Eukaryotic microbes are highly diverse and remain understudied. Among them, diplomonads is a group of binucleate heterotrophic flagellates. The most studied diplomonad is Giardia intestinalis, an intestinal parasite in humans and other animals causing diarrhea. Spironucleus salmonicida, the focus of this study, causes systemic infections in salmonid fish. We have developed a stable transfection system for S. salmonicida and identified energy-producing hydrogenosomes, rather than mitosomes like in Giardia. Here we present the analysis of the whole genome sequence.
+
+The genome of S. salmonicida is ~12.9 MB, similar to the size of the Giardia genome. There are 8,034 protein coding genes with ~2500 more than in Giardia. The two genomes share similar machineries for intron splicing, DNA replication, transcription, RNA processing, and most metabolic pathways. However, there are several clear differences. S. salmonicida shows signs of more regulations on the transcription level with promotor-like motifs identified for >1,000 highly expressed genes. It utilizes an alternative genetic code in which the sole stop codon also serves as the core motif in the polyadenylation signal. S. salmonicida like Giardia has a large family of cysteine-rich variant-surface proteins but lacks the RNA interference pathway which is involved in their regulation. Otherwise, S. salmonicida has an extended metabolism compared to Giardia. For example, there is an expanded repertoire of genes involved in oxidative stress response. The oxygen level within the fish fluctuates and efficient scavenging of reactive oxygen species is needed to avoid damage to the sensitive hydrogenosomal enzymes. Many of these genes have been acquired from anaerobic bacteria, probably as an adaptation to a pathogenic lifestyle.
+
+The S. salmonicida genome will not only be valuable for the research on diplomonads, but also for studies of the diversity of eukaryotic processes.
+
+Frank Jiggins
+University of Cambridge
+Dept Genetics
+United Kingdom
+The evolution and genetics of susceptibility to infectious disease
+talk D21SY09IT10:30R4
+
+Author(s): Jiggins, F, Martinez, J, Cao, C, Chrostek, E, Teixeira, L
+
+Summary: 
+
+It is common to find considerable genetic variation in susceptibility to infection in natural populations. Not only is this variation abundant, but it can have important implications for health, economic output and the coevolution between hosts and parasites. Within populations of Drosophila, we have found that selection by viruses tends in increase genetic variation in disease susceptibility, due to directional selection increasing the frequency of recently arisen major-effect alleles that increase resistance. Furthermore, bacterial symbionts can also protect many species of Drosophila against viral infection, and the spread of these symbionts also has the potential to generate rapid shifts in the susceptibility of flies to viruses. Overall, susceptibility to viral infection is controlled by a small number of major-effect genes and symbionts that are under strong selection and rapidly change in frequency.
+
+Daniela Brites
+Swiss Tropical and Public Health Institute
+Switzerland
+The evolution of CRISPR-Cas in Mycobacterium tuberculosis
+poster D21SY09PS0333
+
+Author(s): Brites, D, Coscolla, M, Gagneux, S
+
+Summary: 
+
+The genomic regions encoding CRISPR-Cas (clustered regularly interspaced short palindromic repeats – CRISPR associated proteins) are involved in generating adaptive immunity against invading genetic elements in many bacterial species. In Mycobacterium tuberculosis, the causative agent of human tuberculosis, the CRISPR-Cas region has a relatively high level of polymorphism in the number of repeats and spacer sequences. Yet, a relation between the CRISPR-Cas region in M. tuberculosis and immunity to foreign genetic elements has not been demonstrated. A search for an homologue region in other related mycobacteria revealed that the CRISPR-Cas region is only present in M. tuberculosis and in M. canettii. This suggests that the CRISPR-Cas region was acquired via horizontal gene transfer in the common ancestor of both species. In order to get some insight into the genetic variation of the CRISPR associated Cas proteins in M. tuberculosis, we analyzed deletions and SNPs in the Cas genes of 249 strains collected worldwide. The results indicate that Cas gene deletions are common in strains belonging to the East-Asian M. tuberculosis lineage, less common in other so-called modern lineages but completely absent from basal lineages. Contrastingly, substitution rates in Cas genes are similar among different phylogenetic lineages and mostly indicate strong purifying selection, except in Cas6 and Cas10. The CRISPR-Cas region in M. tuberculosis seems thus to be under selection to be preserved for unknown reasons. However, it is eroding in certain modern lineages indicating that its original function is either not preserved or is being compensated by other CRISP-Cas genes which were not uncovered in our analysis.
+
+Samuel Lewis
+The University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+The evolution of recent antiviral gene duplicates in Drosophila
+poster D21SY09PS0611
+
+Author(s): Lewis, SH, Webster, CL, Obbard, DJ
+
+Summary: 
+
+RNAi is a major invertebrate defensive pathway, in which small RNAs are derived from a target RNA and guide an Argonaute-family protein to cleave and subsequently degrade the target. This mechanism defends against both viruses and transposable elements. These contrasting and potentially conflicting selective pressures may have driven the rapid adaptive evolution documented in Argonaute-family genes, which places them among the top 3% of the fastest evolving D. melanogaster genes. It has been hypothesised that this rapid evolution is driven by an arms race between viral suppressors of RNAi (VSRs) and the RNAi mechanism. In Drosophila, Argonaute2 (Ago2) is the effector protein in siRNA-mediated antiviral and anti-TE defence. The majority of insects possess a single Ago2; however, duplication has occurred in several Dipteran taxa including Phoridae, Glossina and Drosophila. Ago2 has undergone numerous recent duplications in the obscura group of Drosophila, producing two paralogues in D. subobscura, three in D. obscura and five in D. pseudoobscura. We present population genetic data for the Ago2 paralogues in D. subobscura, D. obscura and D. pseudoobscura. We find that most paralogues have remarkably low genetic diversity, possibly resulting from recent selective sweeps. We also find strong evidence for codon usage bias in the earliest-diverging paralogue. Additionally, we present expression data in different tissues and in response to viral exposure. These results suggest that the Ago2 paralogues in the obscura group have each evolved under different selection pressures, possibly imposed by functional specialization in an evolutionary arms race.
+
+Chuan Cao
+University of Cambridge
+Department of Genetics
+United Kingdom
+The genetic basis of variation in antiviral defense in Drosophila melanogaster
+poster D21SY09PS1084
+
+Author(s): Cao, C, Jiggins, FM
+
+Summary: 
+
+The presence of evolutionary effects that pathogens and hosts have on one another provides an excellent model to study co-evolution. To understand the molecular basis of how insects evolve resistance to viruses in nature, we have investigated the genes that cause variation in the susceptibility of Drosophila melanogaster to viral infection. Two viruses that naturally infect D.melanogaster: sigma virus (DMelSV) and Drosophila C virus (DCV) have been used in this study. DMelSV infects up to 18% of flies in natural populations and is therefore naturally coevolving with flies. It is only transmitted vertically from parent to offspring and is a host-specific pathogen of D.melanogaster. In contrast, DCV infects many Drosophila species and can be transmitted horizontally. By using recombination mapping and GWAS, we identified genes and polymorphisms in the genes that associated with variation in the susceptibility of D.melanogaster to DMelSV and DCV separately. In order to experimentally verify the roles of these genes, we carried out RNAi experiments to knock down target genes and analysed the changes of susceptibility in flies. We also generated transgenic flies carrying specific polymorphisms of interest and analysed their effects on viral resistance in D.melanogaster.
+
+Lars Råberg
+Lund University
+Biology
+Sweden
+The potential for gene-for-gene and matching-allele coevolution in a protist host-parasite system
+poster D21SY09PS0878
+
+Author(s): Råberg, L, Alacid, E, Garces, E, Figueroa, R
+
+Summary: 
+
+The dynamics and consequences of host-parasite coevolution depend on the nature of host genotype-by-parasite genotype interactions (G×G) and whether there are costs of resistance and infectivity. Gene-for-gene interactions (GFG) without costs result in selective sweeps with generally low levels of genetic variation. In contrast, matching allele interactions (MA), and GFG with costs, easily give cyclic dynamics of allele frequencies and high levels of genetic variation. Here we investigate the relative potential for GFG and MA coevolution in a protist host-parasite system, the dinoflagellate Alexandrium minutum and its parasite Parvilucifera sinerae. We challenged 9 different isolates of A. minutum with 10 isolates of P. sinerae in a fully factorial design and measured infectivity and host and parasite fitness. There were strong G×Gs for all traits. About 2/3 of the G×G variance components were due to MA type interactions. There were no costs of resistance or infectivity. We conclude that here is high potential for cyclic dynamics as a result of MA interactions, but also some scope for selective sweeps as a result of GFG without costs.
+
+Daniella Bartholomeu
+Universidade Federal de Minas Gerais
+Departmento de Parasitologia
+Brazil
+Toll-like receptor 9 and host defense to the infection caused by the human parasite Trypanosoma cruzi
+poster D21SY09PS1402
+
+Author(s): Bartholomeu, D, Lemos, D, Ropert, C, Fujiwara, R, Gazzinelli, R, Lourdes, R
+
+Summary: 
+
+Toll-like receptor 9 (TLR9) was initially identified as the mammalian component of innate immune system responsible for the recognition of unmethylated CpG motifs of bacterial DNA. We and others have demonstrated the role of TLR9 in infections caused by the human parasite Trypanosoma cruzi. We have shown that this receptor is essential for parasite recognition and host resistance to experimental infections. We have identified CpG motifs in the genome of T. cruzi CL Brener, a hybrid strain. These sequences are not randomly distributed in the genome but instead are enriched clusters containing T. cruzi specific genes. These regions are highly polymorphic in the two haplotypes of the CL Brener strain, which led us to speculate that the abundance of these CpG motifs may vary in the genome of the distinct T.cruzi strains, thus contributing to a differential TLR9 activation. In this work, we studied the role of TLR9 in infections caused by distinct T. cruzi lineages. Experimental infections of wild type and TLR9-/- mice with Colombiana, Y and CL Brener strains revealed a lower importance of TLR9 in controlling parasitemia and mortality in infections with Colombiana, when compared with infections with CL Brener and Y strains. Immunostimulatory assays using live parasites revealed a lower ratio of the TNF-a production by dendritic cells from C57BL/6 and TLR9-/-mice for Colombiana compared with those values for the other strains. These results correlated with the quantification of the regions enriched in CpG motifs in the genome of these strains. Our results suggest that Colombiana infection promotes a lower activation of the TLR9 receptor, leading to insufficient production of proinflammatory cytokines necessary for parasite clearance. We speculate that the content of CpG motifs in the genome of different T. cruzi strains may be an important factor affecting virulence, pathogenesis and favoring parasite adaptation to the vertebrate host.
+
+Alexander Hayward
+Uppsala University
+Sweden
+Tracing the evolutionary history of koala retrovirus: frequent host-shifts in a virus lineage of disease and conservation relevance
+poster D21SY09PS1004
+
+Author(s): Hayward, A, Grabherr, MG, Jern, P
+
+Summary: 
+
+Retroviruses are a diverse family of viruses with a unique replication mechanism involving reverse transcription and integration into the host genome. Occasionally, a retrovirus may integrate into a host germ-line cell, leading to vertical transmission as an endogenous retrovirus (ERV). Consequently, vertebrate genomes contain numerous ERVs of varying ages (eg ~8% of the human genome), acquired during their ancient co-evolutionary relationship with retroviruses. Active exogenous retroviruses are causative agents of several serious diseases, and in some cases may undergo considerable taxonomic shifts to infect new host species. An example is koala retrovirus (KoRV), which is associated with the development of tumours and chlamydiosis in hosts. KoRV is believed to have entered the koala population within the last 100 years, with levels of infection reaching 100% in northern Queensland and only one population in Australia remaining uninfected. The origin of koala retrovirus is currently unclear, but it shares similarity with retroviral sequences isolated from gibbon apes, pigs and mice. In this study 90,000 high quality ERV sequences from 60 vertebrate genomes were analysed to investigate the evolutionary history of the KoRV lineage. Extraction of useful phylogenetic signal from retroviral sequences is complicated due to their small genome size and rapid evolution. Consequently a novel phylogenetic method for extracting informative evolutionary signal from retroviral sequences was implemented. The results reveal a history of extensive host shifts across vertebrate diversity, and provide clues regarding the potential origin and spread of KoRV. The findings also demonstrate the vast uncharacterised diversity of ERV sequences in vertebrate genomes, which present a valuable resource for investigating host-parasite coevolutionary patterns over time.
+
+James Buckley
+University of Glasgow
+Institute Biodiversity, Animal Health and Comparative Medicine
+United Kingdom
+Using RAD-seq and candidate gene sequencing to explore patterns of heterozygosity at disease resistance genes across naturally inbred and outcrossed plant populations
+talk D21SY09RT15:45R4
+
+Author(s): Buckley, JR, Mable, BK
+
+Summary: 
+
+Models of plant resistance (R) gene evolution suggest a significant role for balancing selection in maintaining high levels of genetic diversity. Selection can then act on this pool of resistance gene alleles to allow plant populations to recognise a diverse range of pathogen genotypes. However, the ecology and life history of a species can have strong effects on patterns of genetic diversity across the genome, which may counter the maintenance of genetic variation through selection. In particular, intraspecific variation in mating systems can produce naturally outcrossed and inbred populations, with reduced heterozygosity at neutral genetic loci in inbred populations. This reduction in heterozygosity is expected to occur throughout the genome, including at genes important for pathogen recognition and resistance, which may reduce the potential for rapid evolution of pathogen resistance in inbred populations.
+
+The perennial plant, Arabidopsis lyrata, displays significant variation in mating system around the North American Great Lakes resulting in naturally outcrossed and inbred populations. Using Restriction Associated DNA (RAD) sequencing, we have genotyped 4 individuals from each of six inbreeding and six outcrossing populations of A. lyrata at ~ 30000 RAD loci. Using these sequence data, we can test for reduced heterozygosity across the genomes of individuals from inbred populations. We can also use these sequence data to estimate genetic diversity at or near candidate disease resistance genes (using comparisons to the well-annotated Arabidopsis thaliana genome). These analyses will be combined with sequence data produced via PCR amplification of particular resistance genes thought to be involved in the recognition of different pathogens of the Brassicaceae. Together these data should significantly improve our understanding of the genomic consequences of shifts in mating system and its potential effects on the evolution of disease resistance.
+
+Elsa Léger
+MIVEGEC (UMR CNRS UM1 UM2 5290 IRD 224)
+France
+Variable patterns of host specialization in the generalist tick Ixodes ricinus
+poster D21SY09PS0128
+
+Author(s): Léger, E, Noël, V, McCoy, KD
+
+Summary: 
+
+The degree of host specialization in parasites can greatly modify the nature and outcome of interspecific interactions. When parasites are also vectors, their ability to adapt to new hosts and their response to changes in host community structure will have important consequences for both their population dynamics and evolution, but may also cascade down to the microparasites they transmit. Although vector-borne diseases frequently involve vectors that can exploit several host species (i.e., generalists), little is known about their potential to specialize on locally available hosts and even less on the impact of specialization for pathogen transmission. A first step to better apprehend the importance of this phenomenon for the evolution, ecology and epidemiology of vector-borne disease systems is to study patterns of host–associated genetic divergence across diverse vector populations. We used this approach to study the host-vector-pathogen system involving the European tick Ixodes ricinus, its various vertebrate hosts and the bacteria responsible for Lyme disease (Borrelia burgdorferi s.l.). Significant levels of genetic structure among ticks of different host individuals and host types were found, but only within certain host communities. We predicted that longer established and more stable host communities would show stronger patterns of host-associated divergence than more recently colonised or perturbed communities. We tested this prediction by combining field samples from a European-wide transect that includes both the historical range of the tick species and its newly colonized zones. Our results reveal a complex pattern of parasite adaptation across this European landscape.
+
+Vera Ros
+Wageningen University
+Plant Science Group
+Netherlands
+Walking with insects: molecular mechanisms behind parasitic manipulation of caterpillar behaviour
+poster D21SY09PS0736
+
+Author(s): Ros, VID, Van Houte, S, Van Oers, MM
+
+Summary: 
+
+Parasitic modification of host behaviour is a widely adopted strategy of parasites to enhance their own transmission. The examples of behavioural manipulation are rapidly accumulating, covering a broad spectrum of parasites and hosts. Nevertheless, surprisingly little is known on the underlying causative molecular mechanisms. A typical case of behavioural manipulation is found in insects infected with baculoviruses. Infected caterpillars show enhanced mobility and start climbing to the top of plants or the forest canopy (‘tree top disease’). As a consequence, the virus is spread over a larger area, thereby increasing the chance to infect a new caterpillar. The baculovirus-insect system provides an excellent platform to study parasitic manipulation of insect host behaviour. It allows the comparative analysis between wildtype viruses and single gene knock-out mutants. Recently, the egt gene from the baculovirus Lymantria dispar nucleopolyhedrovirus (LdMNPV) was identified to induce tree top disease in Lymantria dispar larvae. Here, we studied the effect of Autographa californica multiple nucleopolyhedrovirus (AcMNPV) on climbing behaviour in two different host insects, the cabbage looper Trichoplusia ni and the beet armyworm Spodoptera exigua. We show that the effect of this virus on caterpillar behaviour differs between these two host species. Additionally, we found no evidence for a general role of the egt gene in causing tree top disease. This implies that baculoviruses have evolved multiple strategies to manipulate similar behavioural phenotypes in their caterpillar hosts.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

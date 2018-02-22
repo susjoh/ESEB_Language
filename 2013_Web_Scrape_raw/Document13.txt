@@ -1,0 +1,690 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY13: Rapid evolution and population genetics
+ Abstracts list Schedule Description
+View only talks or posters
+Daniel Weissman
+IST Austria
+Austria
+A little sex goes a long way: clonal interference due to spatial structure can be alleviated by low rates of recombination
+poster D21SY13PS1037
+
+Author(s): Weissman, DB, Barton, NH
+
+Summary: 
+
+The spatial ranges over which populations occur are often much larger than the scales over which individuals migration and interact in a generation, and the resulting spatial structure can have large effects on adapting populations. In particular, the time for a beneficial allele to sweep through the population can be greatly increased if it must spread as a traveling wave over the whole range. It has recently been shown that the resulting increase in clonal interference limits the speed at which spatially-structured asexual populations can adapt, and that this limiting speed is much lower than that of well-mixed populations of the same size. We show that this is not the case for sexual populations: while the rate of adaptation is limited by interference, the limit on the adaptation of spatially-structured populations is not much lower than that on the adaptation of well-mixed ones. Even very low rates of recombination are sufficient to allow spatially-structured populations to adapt at speeds similar to well-mixed ones, suggesting that even organisms that are primarily asexual may be able to adapt fairly rapidly.
+
+Su-Chan Park
+The Catholic university of Korea
+Department of Physics
+South Korea
+A two-fold advantage of sex
+poster D21SY13PS0295
+
+Author(s): Park, S, Krug, J
+
+Summary: 
+
+The adaptation of large asexual populations is hampered by the competition between independently arising beneficial mutations in different individuals, which is known as clonal interference. In classic work, Fisher and Muller proposed that recombination provides an evolutionary advantage in large populations by alleviating this competition. Based on recent progress in quantifying the speed of adaptation in asexual populations undergoing clonal interference, we present a detailed analysis of the Fisher-Muller mechanism for a model genome consisting of two loci with an infinite number of beneficial alleles each and multiplicative (non-epistatic) fitness effects. We solve the deterministic, infinite population dynamics exactly and show that, for a particular, natural mutation scheme, the speed of adaptation in sexuals is twice as large as in asexuals. This result is argued to hold for any nonzero value of the rate of recombination. Guided by the infinite population result and by previous work on asexual adaptation, we postulate an expression for the speed of adaptation in finite sexual populations that agrees with numerical simulations over a wide range of population sizes and recombination rates. The ratio of the sexual to asexual adaptation speed is a function of population size that increases in the clonal interference regime and approaches 2 for extremely large populations. The simulations also show that recombination leads to a strong equalization of the number of fixed mutations in the two loci. The generalization of the model to an arbitrary number $L$ of loci is briefly discussed. For a particular communal recombination scheme, the ratio of the sexual to asexual adaptation speed is approximately equal to $L$ in large populations.
+
+Zuzana Musilova
+Faculty of Sciences University of Basel
+Zoological Institute
+Switzerland
+Adaptive evolution of the opsin genes in African crater lake cichlids?
+poster D21SY13PS1372
+
+Author(s): Musilova, Z, Albergati, L, Salzburger, W
+
+Summary: 
+
+Cichlid fishes from volcanic crater lakes represent small radiating lineages usually of few species. The Barombi Mbo Lake in Cameroon hosts a species flock of tilapiine cichlids, which underwent adaptive radiation similar to more famous Great Lakes cichlids. Several ecological adaptations were observed either in morphology of trophic apparatus (leading to feeding specializations) or extreme habitat preferences, such as deep-water niche. In general, cichlids are mainly visually oriented animals and their visual system shows in many cases the additional adaptations to the environment including the deep waters. Two ways of adaptation were found in cichlids from the Great Lakes, first in the DNA-sequence tuning and second in the gene expression levels differenciation. In the deep-water species convergently evolved mutations are known in opsin genes causing the shift of the chromophore sensitivity. The Barombi lake hosts a deep-water living species Konia dikume, however, nothing is known about the opsin evolution in these small crater lake systems so far. We sequenced a large region (up to 10 kbp) of each of the seven cone opsins (and putative regulatory regions) using the amplicon sequencing in the Ion Torrent next-generation sequencer. We further performed whole-transcriptome sequencing on the Ion Torrent next-generation sequencer to reconstruct robust phylogeny and we reconstruct evolution of the opsin genes by mapping on the tree. We further estimated the expression levels of all seven cone opsin genes, as well as the rod opsin. We found faster mutation rate in opsin genes in the genus Stomatepia (three species) and higher allelic variation within the genus Sarotherodon, however no DNA tuning has been found in Konia dikume.
+
+Sijmen Schoustra
+Wageningen University
+Genetics
+Netherlands
+Advantages of sex beyond recombination in a fungal model
+poster D21SY13PS0345
+
+Author(s): Schoustra, S, Debets, F, Giraud, T, Lopez-Villavicencio, M
+
+Summary: 
+
+Why sexual reproduction is so prevalent in nature remains a major question in evolutionary biology. Most of the proposed advantages of sex rely on the benefits obtained from recombination. However, it is still unclear whether the conditions under which these recombinatorial benefits would be sufficient to maintain sex in the short term are met in nature. Our study addresses a largely overlooked hypothesis, proposing that sex could be maintained in the short term by advantages due to functions associated with sex, but not related to recombination. These advantages would be so essential that sex could not be lost in the short term. Here, we used the fungus Aspergillus nidulans to experimentally test predictions of this hypothesis. Specifically, we were interested in (1) the short-term deleterious effects of recombination (2) possible non-recombinatorial advantages of sex particularly through the elimination of mutations, and (3) the outcrossing rate under choice conditions in a haploid fungus able to reproduce by both: outcrossing and haploid-selfing. Our results were consistent with the hypothesis: we found that 1) recombination can be strongly deleterious in the short term; 2) sexual reproduction between individuals derived from the same clonal lineage provided non-recombinatorial advantages likely through a selection arena mechanism.
+
+Anne Muola
+University of Turku
+Department of Biology
+Finland
+Artificial selection for host-plant use of a seed-predator: fitness consequences, inbreeding depression, and genetic variation
+poster D21SY13PS0644
+
+Author(s): Muola, A, Laukkanen, L, Leimu, R, Mutikainen, P
+
+Summary: 
+
+The use of alternative, suboptimal food-plant species affect herbivore’s fitness and life-history, and thus has both ecological and evolutionary consequences. Our study species, the seed predator Lygaeus equestris uses Vincetoxicum hirundinaria as its primary food plant. However, extensive spatio-temporal variation in seed production of V. hirundinaria occasionally enforces L. equestris to feed on alternative plant species. We conducted a long-term selection experiment to test if this seed predator is able to adapt to a suboptimal food-plant species in more than 20 generations. We measured fitness and adaptation in terms of increase in reproductive output. We replicated the populations within the selection lines to separate the effects of selection from random drift and conducted intra- and inter-population crosses to detect inbreeding and population differentiation. Furthermore, we analysed how population genetic structure changed during the selection experiment. We found that although the fitness of L. equestris that had fed on the alternative food plant was almost seven times lower than when feeding on V. hirundinaria, it increased significantly during the experiment indicating selection for higher fitness on the alternative food plant. Besides selection, random drift affected adaptation to the alternative food plant as indicated by differences in fitness among the replicate populations. Inter-population crosses within the selection lines resulted to higher fitness than intra-population crosses indicating inbreeding depression. To further underline the negative effects of random drift and inbreeding on adaptive potential of populations, we found that the level of genetic variation was lower in replicate populations feeding on the alternative food plant. Our study is novel in that it combines the analysis of population genetic structure to a more traditional selection experiment to examine host-plant specialization of herbivorous insects.
+
+Agnieszka Kijewska
+Institute of Oceanology Polish Academy of Sciences
+Genetics and Marine Biotechnology
+Poland
+Characteristic of Atlantic cod (Gadus morhua, L.) populations in the Baltic Sea according to its adaptations to local environmental changes
+poster D21SY13PS0795
+
+Author(s): Kijewska, A, Pocwierz-Kotus, A, Wenne, R
+
+Summary: 
+
+Atlantic cod (G. morhua, L.) presently is one of the most valuable commercial species in the Baltic Sea. Cod’s distribution in the Baltic Sea may depends on salinity and availability of spawning and feeding areas. Five samples of Baltic cod (n=150) were used for analyzing SNPs and genes expression. Data obtained for genes related to environmental conditions, e.g. salinity and temperature (alpha-enolase (Gm1156), heat-shock protein 90 (Hsp90), aromatase (Aro9), and neuropeptide Y (NPY)) show different distribution of alleles and suggest presence of minimum 2 populations of cod: eastern and western. The transitions area between those populations are correlated to decrease of salinity. The eastern stock is adapted to local environment, characterized by very low salinity (under 7 PSU). In fish from western Baltic Sea we observe higher genetic heterogeneity than in the eastern population, which has a very low admixture of alleles other than those correlated with low salinity. Western population is probably under strong influence of the North Sea cod’s stock. Further research should indicate if hypothesis assuming link between this differentiation and influence of local adaptations of cod is valid.
+
+Gérald Bermond
+Institut National de la Recherche Agronomique
+Santé des Plantes et Environnement
+France
+Clinal analysis of a temporary contact zone between two invading outbreaks to estimate dispersal of a major pest of maize
+poster D21SY13PS0375
+
+Author(s): Bermond, G, Blin, A, Vercken, E, Ravigné, V, Rieux, A, Mallez, S, Morel-Journel, T, Guillemaud, T
+
+Summary: 
+
+Dispersal is a key parameter involved in invasion, persistence and evolution of species. Despite the interest of obtaining dispersal estimates, measuring dispersal remains a real challenge due to its complexity and associated technical constraints. Some biological invasions may, however, be useful to estimate the dispersal. The western corn rootworm (WCR), Diabrotica virgifera virgifera, is one of the most destructive pests of corn and is invading Europe. The two main European invasive outbreaks of WCR are located in North-Western Italy and Central Europe and they originated from independent introductions from North America. Recently it was demonstrated that a secondary contact probably occurred between these two expanding outbreaks in 2008, in Northern Italy and led to the formation of an admixture zone. Here, we exploit this ongoing process to infer the dispersal of the WCR by analysing temporary frequency clines at 13 microsatellite markers. A measure of the clines slope and the linkage disequilibrium between microsatellites at the centre of the contact zone provided two estimates of WCR dispersal. Simulations with various non Gaussian dispersal kernels and population density heterogeneity in space showed that these estimations are robust to several deviations from the diffusion approximation. The order of magnitude of this estimation is then compared to others estimates of WCR dispersal and is discussed in the context of biological invasions. We conclude that secondary contacts between colonizing populations, which are common in invasive species, are very useful and could be used to infer dispersal parameters in many species.
+
+Francisco Garcia-Gonzalez
+Doñana Biological Station-CSIC
+Spain
+Comparing evolvabilities: common errors surrounding the calculation and use of coefficients of additive genetic variation
+poster D21SY13PS0184
+
+Author(s): Garcia-Gonzalez, F, Simmons, LW, Tomkins, JL, Kotiaho, JS, Evans, JP
+
+Summary: 
+
+Evolvability, the ability of populations to respond to natural or sexual selection, is contingent on the level of additive genetic variation underlying trait expression. Two valuable evolvability measures are the coefficient of additive genetic variation (CVA) and its square (IA), which standardize the additive genetic variance by the mean of the trait and therefore allow comparisons among traits and taxa. CVA has been used widely to compare patterns of genetic variation. However, the utility of CVAs relies critically on the correct calculation of this parameter. We reviewed a sample of quantitative genetic studies, focusing on full sib-half sib breeding designs, and found that 45% of studies use incorrect methods for calculating CVA and that practices that render these coefficients meaningless are frequent. This is likely to compromise studies that use such statistics for comparative purposes. Our results are suggestive of a broader problem because miscalculation of the additive genetic variance from a sire model is prevalent among the studies sampled, implying that other important quantitative genetic parameters might also often be estimated incorrectly. Here we outline some issues affecting the use of CVA and IA, including scale effects, data transformation, and the comparison of traits with different dimensions. We also compile general guidelines for calculating, reporting and interpreting these evolvability measures in future studies.
+
+Alexandra Vatsiou
+University Joseph Fourier
+Department of Biology
+France
+Comparison of Haplotype Methods to detect selection
+poster D21SY13PS0192
+
+Author(s): Vatsiou, A, MeLo De Lima, C, Gaggiotti, O
+
+Summary: 
+
+Motivation: The main topic of research in human genetics is the identification of genes and mutations that contribute to a genetic disease. One of the factors that can influence the genetic diversity in a population is natural selection. In this work, we will compare the existing long-range haplotype methods to detect selection. Our primary objective is to obtain a clear view about their power and validity under complex demographic scenarios. Methods & Results: Literature review: A systematic review that was conducted revealed five haplotype methods with available software to identify loci that have undergone selection. The five methods are the following: LRH (Sabeti, 2002; Nature 419:832-837), iHS (Voight, 2006; PLos Biol 4:72), xp-EHH (Sabeti, 2007; Nature 449:913-8), EHHST (Zhong, 2010; Hum Genet 18:1148-59) and xp-EHHST (Zhong, 2011; Stat & Its Interface 4:51–63). All of them used simulations to test their performance with the ms (Hudson, 2002; Bioinf 18:337-8) and SelSim programs (Spencer, 2004; Bioinf 20:3673-5). Sensitivity Analysis: Ms program can consider different demographic models, without selection and SelSim provides simulations under natural selection with a simple population structure. To determine the best method, we will generate simulated data using SimuPOP. SimuPOP is a forward-in-time simulation program that can construct models with selection under complex evolutionary scenarios. We will begin with an island model, a stepping stone model incorporating an environmental gradient and more complex scenarios including a hierarchically structured population. Conclusions: We will thoroughly investigate their behavior under complex scenarios. Our study sets the basis to identify the advantages and disadvantages of each method under each modeling assumption. Here, we restrict ourselves to the comparison of the methods but an extension to a model to detect selection to N populations could be developed at a later stage.
+
+Eleanor Dormontt
+Faculty of Sciences, University of Adelaide
+School of Earth and Environmental Sciences
+Australia
+Could rapid adaptation be contributing to the success of invasive Senecio madagascariensis in Australia? Combining outlier and spatial analysis methods to detect putative selection
+poster D21SY13PS0044
+
+Author(s): Dormontt, EE, Lowe, AJ
+
+Summary: 
+
+Identifying contemporary evolution is a major goal in invasion biology. A first step in this endeavour is to identify loci which may have been subject to recent selection and show associations with particular environmental conditions. Here we used 164 amplified fragment length polymorphism (AFLP) loci to carry out genome scans on a total of 316 individual Senecio madagascariensis plants collected from across the known invaded range in Australia. Half of these (n = 158) were collected from eight populations and the remainder collected as individual plants >2 km apart. The population and individual based samples were analysed separately using two complementary approaches for identifying putative loci under selection. Populations were analysed using outlier approaches in two programs MCHEZA and BAYESCAN; individuals were analysed using a spatial analysis method in SAM to look for associations between particular loci and environmental variables. Two loci were identified in both datasets as potentially under selection and were associated with monthly environmental variables describing light and water availability between May and August which corresponds with flowering time. Overall 6% of loci were identified as candidates for selection in one or more of the analysis methods, all three software programs only agreed on a single locus (0.6% of all loci) and this was associated with eight environmental parameters describing rainfall. Results are discussed with reference to selection and alternative explanations for the observed patterns. The two identified loci present promising targets for future investigations into contemporary selection in invasive S. madagascariensis in Australia.
+
+Paris Veltsos
+University of St Andrews
+School of Biology
+United Kingdom
+DNA sequence response to experimental evolution at different sexual selection conditions
+talk D21SY13RT16:57R3
+
+Author(s): Veltsos, P, Cezard, T, Gharbi, K, Snook, RR, Ritchie, MG
+
+Summary: 
+
+We have been maintaining Drosophila pseudoobscura populations in two regimes of high and low sexual selection for 150 generations. Several phenotypes have responded to selection during this limited time, for example courtship behaviour, morphology, fecundity and chemical communication.
+
+We conducted RAD sequencing of 4 biological replicates of each condition and obtained >7000 regions containing SNP variation. We characterise the genes and genomic regions associated with consistent differences in SNPs between the selection regimes. We also comment on the repeatability of the response, with comparisons within each biological replicate.
+
+Brook Moyers
+University of British Columbia
+Department of Botany
+Canada
+Divergence in gene expression is uncoupled from divergence in coding sequence during rapid evolution in Helianthus
+poster D21SY13PS1282
+
+Author(s): Moyers, BT, Rieseberg, LH
+
+Summary: 
+
+The transition from herbaceous annual to woody perennial has occurred numerous times during the evolution of flowering plants, but the genomic changes that accompany this ecological transition remain poorly understood. Here we present an analysis of genetic sequence and gene expression divergence between the annual Helianthus annuus and the recently diverged, woody perennial species H. winterii from California. This new species has likely diverged within the last several thousand years, and during this period has rapidly adapted to a novel, marginal habitat in the Sierra Nevada foothills. Helianthus winterii flowers later and for a longer period, and is taller at maturity than typical H. annuus. Using flow cytometry we confirmed that the new species has a genome size on par with typical H. annuus, and therefore major genomic duplication is an unlikely explanation for the ecological transition. We sequenced the transcriptomes of six individuals of each species and discovered 575 genes (3.5%) with significantly different expression between the species, as well as seven biological processes associated with divergent gene expression. Surprisingly, only five of the differentially expressed genes were also present among genes with the most coding sequence divergence (top 3.5% of FST distribution). These two mechanisms may represent alternate pathways towards the same adaptive optimum, or genes may be alternatively constrained over short time scales.
+
+Jani Anttila
+Faculty of Biological and Environmental Sciences of the University of Helsinki
+Department of Biosciences
+Finland
+Environmental variation and the evolution of virulence
+talk D21SY13RT18:33R3
+
+Author(s): Anttila, J, Ruokolainen, L, Kaitala, V, Laakso, J
+
+Summary: 
+
+Environmental opportunist pathogens are common in nature. Two well known examples are Vibrio cholera in humans and Flavobacteria in fish. Yet studies on epidemiology and evolution of pathogenicity are centred on obligate pathogens. Environmental opportunist pathogens do not require host-to-host contacts for transmission, and spend most of their time in the outside-host environment where their abundance depends on biotic and abiotic conditions. Such environmental bacteria can spontaneously gain and loose virulence factors that are likely to be associated with increased growth potential and energetic costs. Non-obligate pathogens have not tightly coevolved to evade host immune system, and pathogen transmission is likely to be strongly dose-dependent. This leads to a paradox: in the absence of hosts pathogenicity is selected against due to reduced competitive ability and this in turn prevents transmission to hosts. How can environmental opportunistic pathogens exist? We propose that environmental variation is a plausible mechanism explaining transition to more virulent forms.
+
+We present a model which combines a SIR system to environmental virulent and non-virulent bacterial strains. We assume the pathogenic strain is a fast growing whereas the competing strain is a better competitor. This system is associated with bi-stability between two regimes: virulent strain with infections and non-virulent strain with no infections. Starting from a lower density the virulent strain is unable to grow or cause infections in a stable environment. If both bacterial strains are subjected to environmental variation, the virulent strain can overcome between-strain competition and increase in density close to infective dose and cause sporadic outbreaks or persistent infections, and thus gain significant fitness increases. Infective cycles may in turn promote further evolution from environmental opportunism to obligate pathogenicity, especially in the case of persistent infections.
+
+Ilona Merikanto
+University of Helsinki
+Department of Biosciences
+Finland
+Evolution of environmental opportunist pathogens
+poster D21SY13PS0376
+
+Author(s): Merikanto, I, Laakso, J, Kaitala, V
+
+Summary: 
+
+Most theories of the evolution of virulence concentrate on obligatory host-pathogen relationships. Yet, many pathogens are environmental opportunists that can also replicate and interact in the outside-host environment. As the survival of these pathogens can be host-independent, also the transmission-virulence trade-off assumed in obligatory pathogens can be relaxed. This might promote evolution of virulence. In environmental opportunist pathogens, selection in the outside-host environment can influence the evolution of virulence and disease dynamics. There is evidence of a trade-off between capability to invade and live in the host, and the efficiency to use outside-host resources. Therefore environmental opportunist pathogens might be relatively weak outside-host competitors. How are new environmental opportunist pathogens then able to invade? We introduce a novel model that combines density-dependent growth and Lotka-Volterra competition between pathogen and non-pathogenic bacteria in the outside-host environment to SI host-pathogen dynamics. We studied evolution of pathogenicity as the ability for new environmental opportunist pathogens to invade. Parameterization was based on columnaris disease that is a worldwide nuisance of fresh water fishes in fish farms. New environmental opportunist pathogen is able to invade when host growth and outside-host growth of the pathogen are high enough to compensate lower outside-host competition ability. Also, increase in virulence promotes invasion. Selection could thus favor higher virulence in environmental opportunist diseases as compared to obligatory diseases. Strong outside-host competition on the other hand can drive new environmental opportunist pathogen to extinction. Therefore, situations where ecological constrains, such as competition, are relaxed promote environmental opportunism. Thus multiple outside-host ecological constrains, such as competition, can efficiently limit the emergence of new diseases.
+
+Arnaud Le Rouzic
+CNRS
+LEGS
+France
+Evolution of evolvability under fluctuating selection
+talk D21SY13RT18:57R3
+
+Author(s): Le Rouzic, A, Alvarez-Castro, JM, Hansen, TF
+
+Summary: 
+
+Empirical evidence suggests that fluctuating selection is a major evolutionary mechanism. The most straightforward consequence of rapid changes of the fitness function is the induced response of the mean phenotype in the population. Yet, repeated back-and-forth evolutionary trajectories are also suspected to affect the genetic architecture underlying the phenotypic characters subject to continuous adaptation. In order to better understand the long-term consequences of fluctuating selection, we modeled the response of complex, multilocus genetic architectures to various natural selection regimes -- stabilizing, directional, and fluctuating. This model accounts for gene-gene interactions (through multilinear epistasis), and thus allows to investigate the dynamics of evolutionary potential at two distinct levels: (i) the standing genetic variation, i.e. the capacity for the population to respond immediately to directional selection, and (ii) the level of canalization (measured as the average effect of new mutations),which reflects the capacity for the population to replenish genetic variation. Both analytical results and individual-based simulations show that fast fluctuations (white noise change in the phenotypic optimum every generation) are essentially similar to stabilizing selection, promoting a degree of genetic canalization and low evolvability. In contrast, when large fluctuations of the phenotypic optimum (beyond the phenotypic range of the population) occur every 10 to 100 generations, equilibrium mutational effects and genetic variance are higher and the population is more evolvable. However, there was no evidence that decanalization and increased evolvability were adaptive, and fluctuating selection remains intrinsically more constraining than genetic drift.
+
+Ivo Chelo
+Instituto Gulbenkian de Ciência
+Portugal
+Evolution of inbreeding and outbreeding depression revealed in 100 generations of laboratory adaptation in C. elegans
+poster D21SY13PS0508
+
+Author(s): Chelo, IM, Carvalho, S, Roque, M, Teotónio, H
+
+Summary: 
+
+To understand the genetics underlying the evolution of inbreeding depression we performed experimental evolution in Caenorhabditis elegans for 100 generations under two different mating systems, where different inbreeding rates were imposed. Ancestral and evolved populations were tested upon enforced inbreeding for survival and also for the expected neutral diversity at 337 single-nucleotide polymorphism (SNPs) after inbreeding. Dioecious lineages inbred by sib mating underwent extinction at higher rates than androdioecious lineages inbred by selfing. In parallel, measurements of egg-to-adult viability over time showed that this fitness trait showed similar initial inbreeding depression at both mating systems, but different starting outbreeding depression. There was also evidence of selection for the maintenance of population structure during androdioecious evolution In contrast, and despite the complex dynamics, dioecious populations generally showed selection for population homogeneity. Our findings suggest that high inbreeding rates influence adaptation by efficient purging of deleterious recessive alleles which in turn create the opportunity for balancing selection. On the other hand, low inbreeding rates influence adaptation by the maintenance of deleterious recessive alleles and, possibly, by the maintenance of the locally-adapted sets of loci known to be common among wild C. elegans isolates.
+
+Craig Sherman
+Faculty of Science and Technology
+School of Life and Environmental Sciences
+Australia
+Evolutionary biology of the invasive Northern Pacific seastar (Asterias amurensis) in Australia
+poster D21SY13PS1284
+
+Author(s): Sherman, CDH, Richardson, MF
+
+Summary: 
+
+Biological invasions present interesting evolutionary problems because they are often stochastic events often involving small populations that must survive and adapt to novel habitats. Thus, invasive species offer rich opportunities to investigate the effects of reduced diversity and population bottlenecks on the rate and predictability of evolution in the wild. One of the most successful invaders into Australian waters over the last decades is the predatory Northern Pacific Sea Star (Asterias amurensis). The source population is believed to be from Japan and was introduced into Australia via ballast water discharge, although it remains unclear if multiple introductions have occurred. Here we present the results of a genetic survey of the introduced Australian populations and compare it to populations in it native range in Japan. The potential for this species to increase its geographical range in Australian waters and its potential genetic limitations are discussed.
+
+Hildegard Uecker
+University of Vienna
+Faculty of Mathematics
+Austria
+Evolutionary rescue in structured populations
+talk D21SY13IT17:45R3
+
+Author(s): Uecker, H, Otto, SP, Hermisson, J
+
+Summary: 
+
+As a consequence of environmental deterioration, a population might become maladapted and risk extinction unless it succeeds in adapting to the new conditions. How likely is it that a population escapes extinction through adaptive evolution? Modeling a population in a degrading structured habitat, we analyze the impact of several ecological factors on its survival probability and determine the relative contribution of standing genetic variation and new mutations to evolutionary rescue. We find that in the interplay of various, partially antagonistic effects, the probability of evolutionary rescue can show non-trivial and unexpected dependence on ecological characteristics. The rate of gene flow affects the fate of the population in several ways, resulting in a complex and non-monotonic relationship between migration rate and rescue probability. Counterintuitively, a harsher change or an instantaneous degradation of the total habitat can sometimes lead to a higher survival probability than a less severe or a slowly progressing change.
+
+Miriam Linnenbrink
+Max Planck Institute for Evolutionary Biology
+Evolutionary Genetics
+Germany
+Experimental population genetics in mice living under semi-natural conditions
+poster D21SY13PS1041
+
+Author(s): Linnenbrink, M, Pfeifle, C, Tautz, D
+
+Summary: 
+
+We have established a facility to experimentally study allele-frequency changes in mouse populations living under semi-natural conditions. As a first test-case we have studied the Pldi locus. Pldi is a relatively young gene, which evolved de novo around 2.5 – 3.5 MY ago in the genus Mus and is expressed in postmeiotic cells of the testis. Population genetic analysis of this gene region in different subspecies of the house mouse (Mus musculus) raised evidence for positive selection at this locus in M. m. musculus. In order to study the function of this gene, a conditional knockout of the whole gene region has been designed on a C57BL/6 background. Offspring of those knockout mice are viable and fertile, however, a reduction of testis weight and sperm motility could be observed, as well as changes in gene expression of several other genes, which reveals Pldi being part of a regulatory network (Heinen et al. 2009). We have now used semi-natural enclosures with founder populations of 20 mice (10 knockout and 10 wildtype mice) in equal sex ratio each, where mice lived in rooms and could mate freely. Over one year, we monitored all three replicate enclosures regularly every 6-8 weeks and genotyped every mouse in the experiment. In general we aim to answer the question whether we can trace evolution in mouse populations living under semi-natural/semi-controlled conditions. In particular we address the questions whether there are allele frequency changes at the Pldi locus and whether we observe any fitness/reproductive consequences of knockout vs. wildtype mice? Using population genetic analysis tools we can implement all advantages of semi-natural experiments (i.e. known demography of those populations and complete sampling of genotypes) to elucidate the evolutionary dynamics and fitness relevance of the Pldi gene.
+
+Sophie Mallez
+Institut National de la Recherche Agronomique
+Santé des Plantes et Environnement
+France
+First insights into the genetic diversity of the pinewood nematode Bursaphelenchus xylophilus in its native area and around the world
+poster D21SY13PS0374
+
+Author(s): Mallez, S, Castagnone, C, Espada, M, Vieira, P, Eisenback, J, Mota, M, Guillemaud, T, Castagnone-Sereno, P
+
+Summary: 
+
+Biological invasions provide a great opportunity for research in evolutionary biology and specifically in short-term evolutionary process. For example, understanding the factors of success or failure of introductions and establishments in remote areas can improve our knowledge on both adaptation dynamics and colonisation processes in the context of invasions. Identifying the invasion routes and determining the origin of new outbreaks are of crucial importance and are a pre-requisite to address these questions. This may also permit to improve or establish regulatory measures and to potentially limit the damage. The pinewood nematode (PWN), Bursaphelenchus xylophilus is the causal agent of the pine wilt disease and is currently considered as one of the most important pests and pathogens in forest ecosystems. Native to North America, it has been introduced and it has spread in pine forests in Asia and Europe where it has now considerable economic and environmental impacts. In order to decipher the invasion routes and to improve our knowledge about this specific case of invasion using population genetic approaches, we have developed a set of PWN-specific microsatellite markers, usable in routine conditions at the individual level. Preliminary results on a set of samples from the native (North America) and invasive (Europe and Asia) areas indicate: (i) a fine spatial genetic structure at the scale of the pine tree and probably at larger scales in the native area and (ii) a very low level of polymorphism in PWN populations from invasive areas. The genotyping of samples from more representative areas in Europe, Asia and North America is currently underway in the laboratory in order to confirm/refine these conclusions. Assessing the genetic diversity of populations constitutes the cornerstone to determine the source of the European invasive PWN populations and whether they are the result of a single or several independent events of introduction.
+
+Anita Pocwierz-Kotus
+Institute of Oceanology of Polish Academy of Sciences
+Genetics and Marine Biotechnology Department
+Poland
+Genetic differentiation of Salmonidae populations in Southern Baltic Sea identified from a SNP genotyping
+poster D21SY13PS0748
+
+Author(s): Pocwierz-Kotus, A, Bernas, R, Drywa, A, Wenne, R
+
+Summary: 
+
+Sea trout Salmo trutta and salmon Salmo salar belonging to Salmonidae family, have a wide distribution, including the rivers flowing into the Baltic Sea. Sea trout migrate from natal rivers to the sea where they forage until reaching sexual maturity, subsequently returning to their native rivers to spawn. The accessibility of natural spawning grounds has become very limited and most populations have been supported by stocking, resulting in a disrupted biodiversity. Genotyping of two Polish populations of sea trout from Vistula and Pomeranian river Slupia has been performed using an Atlantic salmon derived SNP-array. The average Fst over 39 polymorphic loci was 0.13. Generally, Vistula population was more genetically homogeneous, while the population of Pomeranian river was more diverse. Sixty SNPs were selected for further genetic studies of the Southern Baltic populations. Nine sea trout populations (from Poland, Lithuania, Bornholm, Russia and Estonia) were genotyped with the iPLEX Gold technology (Sequenom). Results indicated that the degree of genetic differentiation among populations, measured for 23 loci was moderate (average Fst=0.09). The high differentiation was observed between Polish river Slupia and Russian river (Fst=0.16). Low diversity was detected between Lithuanian Neman river and Polish Vistula river populations. Genetic structure analysis indicates that individuals from 9 populations were clustered into four groups. Atlantic salmon populations have a hierarchical structure of population differentiation and Baltic salmon forms one effectively isolated evolutionary unit of Atlantic salmon. Five populations of salmon (from Polish river Slupia and hatcheries, from Sweden and from Lithuania) were genotyped using an Atlantic salmon derived SNP-array (Illumina). Preliminary results indicated a close relationship between Polish populations from hatcheries relative to wild one and the distinctness of Swedish population.
+
+Lirui Zhang
+Institute of Systematic Botany
+Switzerland
+Genetic diversity and differentiation of tetraploid Primula halleri based on a novel panel of 11 microsatellite loci
+poster D21SY13PS0975
+
+Author(s): Zhang, L, Conti, E, Nowak, M
+
+Summary: 
+
+Primula halleri is a tetraploid herbaceous perennial species distributed sparsely in three European mountain chains: the Swiss/Italian Alps, the Carpathians, and the Pirin Mountains (Bulgaria). As one of several polyploid species in Primula subgenus Aleuritia, P. halleri represents a model for the loss of the classic Primula distylous reproductive system in response to polyploidy in species endemic to high alpine and arctic environments. It was recently shown that P. halleri populations in the Swiss Alps likely exhibit some degree of mixed mating due to a reduction in herkogamy throughout the process of floral development. In order to establish the first estimates of genetic differentiation and diversity in P. halleri, we developed a panel of 11 novel microsatellite loci, which we used to genotype specimens sampled from seven populations representing the three main mountain ranges from which this species is known. These data provide the basis of a first assessment of the geographic distribution of genetic diversity in this species, and offer preliminary information regarding the historical processes that may have shaped the distribution of this high alpine endemic. Additionally, our results will provide the first evidence about the origination of the tetraploid nature of P. halleri.
+
+Yongmei Chen
+Life science of Sun Yat-sen university
+China
+Genetic diversity and population structure of Rhizophora apiculata, a mangrove tree in central Indo-West Pacific
+poster D21SY13PS1063
+
+Author(s): Chen, Y, Zhou, R, Shi, S
+
+Summary: 
+
+Population genetic analysis of mangroves can reveal their patterns of genetic diversity, which is important for understanding their evolutionary history and scientific conservation. In this study, we examined the nucleotide diversity and population differentiation in six populations of a mangrove tree, Rhizophora apiculata, from China and Thailand based on sequencing 78 nuclear genes through Illumina platform. For each population, more than 30 individuals were pooled for sequencing. The average ?w and ?p of the six populations ranged from 0.000263 to 0.000786, and from 0.000258 to 0.000924, respectively, showing low levels of DNA polymorphism within each population. Fst analysis showed strong population structure at the regional level,suggesting Malay Peninsula as a barrier to restrict gene flow between the Andaman Sea and South China Sea despite the existence of the Malacca Strait. However, Fst values vary from zero to one by locus, which could not be explained by simple gene flow model. Haplotype analysis showed two highly divergent haplotypes often reside within populations, which may be caused by recent admixture. Patterns of genetic diversity in this species might result from the repeated glacial events during Plio-Pleistocene, when the Andaman Sea was isolated with South China Sea at the lowered sea level. Reduced genetic diversity in populations from South China Sea can be attributed to lower effective population size for the enormously changed shorelines during this stage. We further used Sanger method to obtain sequences of three genes among 15 populations from wider geographic regions. STRUCTRUE analysis indicated that these populations formed five clusters, corresponding to five geographic regions , which suggests population structure of this species was mainly shaped by geographic isolation. Our study reveals the effect of glacial events on patterns of genetic diversity of an intertidal mangrove tree, which will be informative for its conservation.
+
+Britt Koskella
+University of Exeter
+Biosciences
+United Kingdom
+Host-parasite coevolution at ecological time scales: bacteria-phage dynamics within a long-lived host
+talk D21SY13RT15:12R8
+
+Author(s): Koskella, BL
+
+Summary: 
+
+Plants and animals host a diverse microbiota and it is increasingly clear that these dynamic microbial communities significantly affect host phenotype, including resistance to disease. Microbiota act as complex coevolving networks, with high levels of horizontal gene transfer, immigration of new species, selection by the host immune system, and multifaceted antagonistic interactions. A key challenge is to understand how microbial communities are influenced by interactions with their hosts and viral parasites (phages), and how these communities affect the fitness of their hosts. Given their sessile life histories, high risk of infection by microbes, and reliance on commensal microbial species, plant hosts represent an ideal system for testing both fundamental and applied questions in this emerging field. I first determined the relevant ecological structure of phage adaptation in natural microbial communities living within tree hosts and then measured the coevolutionary interaction between phages and bacterial communities within these tree hosts over time. I took an experimental time-shift approach and demonstrate that bacteria are most resistant to phages from the past and least resistant to those from the future. These results provide the first evidence that natural bacterial populations respond rapidly to local phage-mediated selection and that phages play a key role in shaping the microbiota of their eukaryotic hosts.
+
+Erik Eschbach
+Leibniz-Institute of Freshwater Ecology and Inland Fisheries
+Department of Biology and Ecology of Fishes
+Germany
+Human-assisted admixture and invasion – a case study with zander (Sander lucioperca)
+poster D21SY13PS0346
+
+Author(s): Eschbach, E, Nolte, A, Kohlmann, K, Kersten, P, Kail, J, Arlinghaus, R, Arlinghaus, R
+
+Summary: 
+
+Non-native species receive attention because they are perceived as a threat to native biodiversity. Besides ecological factors, evolutionary processes may determine the invasion potential of a species. Genetic admixture has the potential to induce rapid evolutionary change and can occur when secondary contact between differentiated populations is established. Here, we analyse population genetic signatures of admixture of zander (Sander lucioperca) and test the hypothesis that the invasion potential of non-native populations was enhanced by admixture. We use zander as a model system whose range expansion was facilitated by human transfer in the last century in Germany. The rivers Elbe and Danube harboured the most western populations representing source populations for non-native areas west of the River Elbe and north of the Danube. Stocking and the connection of drainages through canals greatly facilitated dispersal and genetic admixture. We collected more than 1.300 specimens from the ancestral ranges as well as the newly colonized area in Germany and genotyped these using microsatellites and mitochondrial sequences. We studied the genetic population structure for signatures of admixture. Human-mediated secondary contact led to increased genetic diversity of zander via hybridisation among populations. We found populations of newly colonised areas to be more admixed than those of ancestral areas who maintained a high proportion of their ancestral genotypes. Admixture patterns were asymmetric and occurred mainly from ancestral populations to the newly colonized ranges but less so in the opposite direction. We suppose that the adaptive potential of the invading populations was promoted by genetic admixture. By contrast, local adaptation in native areas may have provided a buffer against invasion by novel genotypes. These explanations would be in line with evidence that hybridization can drive evolutionary change under conditions when new niches can be exploited.
+
+Julie Landes
+Muséum National d'Histoire Naturelle
+Mankind, Nature, Societies
+France
+Incipient allochronic speciation in the pine processionary moth : molecular analysis of a divergent population
+poster D21SY13PS0214
+
+Author(s): Landes, J, Burban, C, Gautier, M, Santos, H, Branco, M, Leblois, R, Kerdelhué, C
+
+Summary: 
+
+A case of allochronic differentiation, where genetic isolation is due to a shift in the reproductive period, has been shown recently in the pine processionary moth (PPM; Thaumetopoea pityocampa) in Portugal. The PPM is a Mediterranean Lepidoptera which reproduces in summer and whose larvae develop during winter. A population with a "shifted" phenology, hereafter named the "summer population" (SP) referring to its period of larval development, has been discovered in a coastal maritime pine forest in sympatry with a population showing a "classic" phenology, hereafter the "winter population" (WP). The phenological shift is such that sexual reproduction seems to not overlap in the field between the SP and the WP. A previous study based on a limited number of markers proposed a local and recent origin of the SP from the sympatric WP. We aimed at defining the demo-genetic history of these two populations thanks to genotypic data from 19 microsatellites markers and mitochondrial DNA sequences (COI gene). Genetic and phylogeographic analyses confirmed the local origin of the SP and showed a strong differentiation of this population from those with a "classic" phenology. These results also identified both genetically SP individuals who came back to a WP life cycle and possible hybrid individuals, assuming the possibility of gene flow between the two divergent populations. We suggested several demographic scenarios describing the evolutionary history of the SP and the WP. These scenarios have been tested using a Bayesian inference method, namely Approximate Bayesian Computation (ABC). The models tested did not allow to perfectly describe the observed data and should still be improved. New, complementary genetic markers (SNPs) will be developed to attain this goal.
+
+Torsten Held
+Institute for Theoretical Physics, University of Cologne
+Germany
+Inferring conservation and adaptation of molecular quantitative traits
+poster D21SY13PS1422
+
+Author(s): Held, T, Nourmohammad, A, Schiffels, S, Laessig, M
+
+Summary: 
+
+Molecular phenotypes are important links between genomic information and organismic functions, fitness, and evolution. Quantitative traits, such as gene expression levels, depend on multiple genomic loci, and their evolution involves selection, genetic drift, mutation and recombination. In this talk, we discuss a new method to infer conservation and adaptive evolution of such traits. The method is based on the trait divergence between populations in a phylogeny. This statistics decouples from details of the defining genotypes. In particular, we consider evolution in a single-peak fitness seascape, which defines optimal trait values changing over evolutionary time. Our method infers both the strength and the time-dependence of the fitness seascape. We discuss the implications of our findings for the predictability of evolutionary processes.
+
+Margarita Correa
+Pontificia Universidad Católica de Chile
+Chile
+Inferring the invasion routes of an ancient invader, the mealybug pest species Pseudococcus viburni Signoret (Hemiptera: Pseudococcidae), by using microsatellite markers and DNA sequences
+poster D21SY13PS1268
+
+Author(s): Correa, MCG, Malausa, T, Crochard, D, Zaviezo, T, Lombaert, E
+
+Summary: 
+
+To infer population invasion history, programs based on approximate Bayesian computation (ABC) have proved useful to infer the most probable invasion scenarios in a range of biological systems.
+Pseudococcus viburni is a cosmopolite agricultural pest, probably of South American origin. Data suggests that P. viburni distribution expansion started around 1600 with first potatoes trades and quarantine reports starts around 1890. In terms of population genetics, P. viburni population structure is composed of many small populations displaying very little allelic richness, i.e. populations that have probably all undergone severe demographic bottlenecks even in the native area. This ancient invasion history and this particular population genetic structure make P. viburni an interesting and challenging case for the inference of population worldwide history, with multiple possible invasion pathways between all the continents. In order to characterize precisely the population genetic structure of the species at worldwide scale, and infer its invasion history, we collected 30 populations and genotyped them using 25 microsatellite markers. Summary statistics showed a remarkable population differentiation, with Fst ranging from 0 to 0.8. These values can be explained by P. viburni low mobility, its dispersal being mainly driven by human activities. To infer the invasion history the DIYABC program was used with microsatellite and sequence data. An ancient bottleneck of around 460 generations (~150 years) was inferred. This event fit with first species reports. Then several introduction scenarios were tested to infer the invasion routes of P. viburni to Europe and North America. In this work we discuss the origin and invasion routes for P. viburni by comparing the results obtained from different methodologies: traditional statistics, assignment tests and ABC methods based on parameters estimated fom the data generated with different types of genetic markers.
+
+Mathilde Mousset
+Institut des Sciences de l'Evolution de Montpellier
+Diversity
+France
+Influence of temporal variability of mating system on the adaptation process after an environmental change
+poster D21SY13PS1175
+
+Author(s): Mousset, MMM, Glémin, S, Mignot, A, Petit, C, Ronce, O, Ronfort, J
+
+Summary: 
+
+The young age of selfing lineages is often interpreted as evidence that selfing species lose the ability to adapt to changing environments. Besides influencing genetic structure or interacting with life history traits, mating system can constrain the adaptation process. In one hand, self-fertilization leads to an increase of genome-wide homozygosity, which exposes recessive beneficial mutations to selection. On the other hand, it also reduces the effective size, which in turns decreases the efficiency of selection with respect to drift, and ultimately reduces standing variation. Consequently, mating system should strongly influence adaptation. Recently, mixed mating strategies have been shown to occur at a substantial frequency, especially among animal-pollinated taxa. In species with mixed mating system, the selfing rate is extremely variable and potentially plastic both between years, environmental conditions, populations and families. Several ecological factors, such as plant density or pollination ecology may influence the relative importance of self-fertilization and outcrossing in hermaphrodite plants. Variation of these environmental factors may yield rapid variation in plant mating system, which consequences on the process of adaptation have been little explored. The effect of temporal variability of mating system is explored using simulations in order to better understand its consequences on the probability and speed of adaptation for a population facing environmental change. We model the fixation dynamics of a beneficial mutation, varying its dominance, its time of appearance, and the pattern of temporal variation in selfing rates. We focus on mainly outcrossing populations to test whether occasional events of selfing could maximize the rate of adaptation by favouring the expression of beneficial recessive mutations while not compromising the maintenance of standing variation.
+
+Guy Jacobs
+University of Southampton
+Department of Applied Mathematics
+United Kingdom
+Linkage-based method for identifying selected loci and characterising selection intensity
+poster D21SY13PS1285
+
+Author(s): Jacobs, GS, Sluckin, TJ, Kivisild, T
+
+Summary: 
+
+A critical element in our understanding of selection is the ability to detect and characterise it using genetic data. Recently, several linkage disequilibrium based methods have been developed and widely applied to identify selective sweeps in human populations. However, methods to determine the intensity of selection and the time that selection started and the time that it ceased, are generally still underexplored. This is because teasing apart the impact of these factors on the summary statistics affected by selection is often complex.
+
+We have developed a method for identifying fixed and high frequency selected loci, and characterising selection intensity, that attempts to control for the effects of evolution in the period since selection ceased. The approach follows others in focussing on the differing linkage patterns along the chromosome on either side of a positively selected locus as compared to those over the locus. During selection, the impact of recombination on these regions is known to be different, while after selection has ceased the linkage decay becomes similar. Although methods of assessing selection intensity exist based on diversity and haplotype frequency spectra, controlling for post-selection evolution adds subtlety to our understanding of the process. We have characterised the performance of this approach and tested it using numerical methods and coalescent simulations.
+
+Hinrich Schulenburg
+University of Kiel
+Zoological Institute
+Germany
+Lotka and Volterra kill the Red Queen
+poster D21SY13PS0171
+
+Author(s): Schulenburg, H, Gokhale, CS, Papkou, A, Traulsen, A
+
+Summary: 
+
+Host-parasite coevolution is generally believed to follow so-called Red Queen dynamics consisting of ongoing oscillations in the frequencies of interacting host and parasite alleles. This view is based on current empirical and theoretical work, which specifically focuses on the evolutionary dynamics of these interactions (i.e., the change in host and parasite allele frequencies). Here, we demonstrate that consideration of a central ecological component, population size fluctuations, dramatically alters these dynamics. In particular, reciprocal selection among antagonists causes inter-dependent demographic variations, as described by the Lotka-Volterra relationship. These population size fluctuations are thus an inherent characteristic of host-parasite coevolution. As they associate with repeated bottlenecks, they increase the likelihood of genetic drift. This in turn favours fast fixation of one of the interacting alleles, often including the allele that is originally rare. As a consequence, any ongoing Red Queen dynamics is rapidly terminated. Taken together, our results suggest that host-parasite coevolution is mainly driven by selective sweeps rather than continuous negative frequency-dependent selection. Long-term coevolution consistent with the Red Queen hypothesis is only possible if new alleles are repeatedly introduced de novo into the interacting host and parasite populations.
+
+George Shirreff
+ETH
+Integrative Biosciences
+Switzerland
+Mutation and migration: when and where does diversity arise in early SIV infection?
+poster D21SY13PS1163
+
+Author(s): Shirreff, G, Garcia, V, Vanderford, TH, Silvestri, G, Regoes, RR
+
+Summary: 
+
+Introduction The rapid evolution of HIV plays a role in disease progression, drug resistance evolution, and hinders vaccine development. The early stage of infection is of particular importance as the virus populates a tenacious reservoir of latently infected cells, preventing clearance of infection. There is evidence for isolation of HIV sequences between different tissue types, but where sequence diversity arises, how fast it spreads and to where, is poorly understood. This is largely because the first weeks of infection are almost unstudied due to the low detectability of virus, and uncertainty as to the timing of natural infections. Methods We explore this early stage in next generation (454) sequencing data from 15 Rhesus macaques experimentally infected with SIV, as a human model for HIV infection. Virus was sampled at multiple time points (7 to 168 days) and tissue compartments (lymph node, rectum, blood cells and plasma). We examine the change in diversity between compartments over time, and where particular mutations arise. By fitting simple and more complex models we estimate the rates of migration between body compartments. Results Diversity generally increases over time, but often falls later in infection, which corresponds to the rise of escape mutations. In agreement with previous analysis of this dataset, escape mutations tend to occur first in the lymph nodes. The migration rate from the gut tissue into the lymph nodes is higher overall than in the other direction. However the migration rates between body compartments are highly variable between animals, which may reflect either stochastic effects or host-based differences in the course of infection. Conclusion Rich data from next generation sequencing provides many opportunities to study spatial evolution in early immunodeficiency virus infection. These data present challenges such as a high error rate, but careful modeling and treatment of the assumptions compensates for such issues.
+
+Tiago Paixão
+IST Austria
+Austria
+Non directional epistasis increases selection limits through allelic reversals
+poster D21SY13PS0578
+
+Author(s): Paixão, T, Barton, N
+
+Summary: 
+
+Quantitave genetics commonly assumes that loci contribute independently to the phenotype. However, genetic interactions are pervasive in nature and the relevance of these interactions for the evolutionary process has been debated since the beginnings of the modern synthesis. We use a quantitative genetics framework with a pairwise model of globally non-directional epistasis to explore the relevance of these interactions under directional selection. We pay special attention to the dynamics of additive variance in the deterministic limit, and to the consequences of epistasis for the ultimate fate of individual alleles. We find that epistasis prolongs the response and increases selection limits only if it induces allelic reversals, i.e., if there is sign epistasis. Furthermore, we show how different allelic distributions in the source population and the details of their genetic architecture translate into different selection limits. Our results also suggest that architectures that evolved under stabilizing selection may display features that increase their potential for evolution when the trait becomes the target of directional selection. We then use a branching process formalism to show how the probability of fixation of a rare allele is affected by epistatic interactions with a series of deterministic sweeps. In particular, we show that the selection limit is also increased in this limit by an epistatic architecture, and that this effect is mediated by an increase in the number of alleles that ultimately display a positive probability of fixation.
+
+Richard Neher
+Max Planck Institute for Developmental Biology
+Evolutionary Dynamics and Biophysics
+Germany
+Observing evolution in action: HIV and its coevolution with the host immune system
+talk D21SY13IT15:45R3
+
+Author(s): Neher, RA
+
+Summary: 
+
+The immune system of a HIV infected individual is constantly fighting the virus. In absence of treatment, this battle is ultimately lost in the great majority of cases since the virus changes rapidly to evade the immune pressure. I will show how relevant evolutionary parameters such as typical selection coefficients and recombination rates can estimated from time series data of HIV. Standard population genetic methods are often inappropriate to analyze HIV data, since the viral population experiences strong positive selection at many sites. This implies that the relevant stochastic force in HIV evolution is not genetic drift but selection on linked sites or genetic draft and methods based on the neutral coalescent do not work. I will then discuss recent progress in developing a theory of rapidly adapting populations such as HIV. In models of rapid adaptation, genealogies are different from the standard Kingman coalescent but display frequent multi-merger event. Their statistic is described by the Bolthausen-Sznitman coalescent. These results allow us to calculate levels of neutral diversity, site frequency spectra, and the scale of linkage disequilibrium from parameters of the model.
+
+Glib Mazepa
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Occupation of a novel environmental niche via hybridization in Central Asian water frogs Pelophylax
+poster D21SY13PS1283
+
+Author(s): Mazepa, GO, Litvinchuk, SN, Plötner, J, Höglund, J
+
+Summary: 
+
+Many animal groups inhabiting Central Asia (CA) have complex biogeography, shaped by Plio-Pleistocenic climate and geological events. Relatively recent aridization makes this region interesting from evolutionary perspective as it represents an ideal arena to study evolution of aquatic species as water frogs Pelophylax. Until recently, this genus was considered to be represented by a single species in CA, however our phylogenetic analysis of two mitochondrial and one nuclear loci revealed presence of two divergent water frog taxa: P. terentievi and P. sp., each inhabiting a distinct river drainage. Sympartic occurrence of the heterospecific mtDNA haplotypes in the interflow of these two rivers and presence of heterozygots for the nDNA locus pointed on existence of a complex hybrid zone. Subsequent analyses of 8 codominant loci with STRUCTURE and TESS confirmed presence of 2 distinct genotypic clusters (Fst=0.48) as well as area of their admixture. Inference of admixture classes (NEWHYBRIDS) and the cline analysis (CFit7) pointed on tension type of the hybrid zone. Further, the TESS spatial interpolation map combined with the mtDNA haplotypes distribution data pointed on a zone of unidirectional mitochondrial introgression from P. terentievi to the P. sp. population. We applied environmental niche modelling (MaxEnt) to verify how different are parental populations (n=24 of each P. terentievi and P. sp.) and ones with mt introgression (n=5), having used 19 bioclimatic and 13 other layers. The obtained prediction models were highly reliable (mean AUC=0.997). Mean winter temperature had unique and high (accounted for 36% of the predicted range) impact on the model of populations with introgressed mitochondrial DNA. Hence, we speculate that hybridization of the two divergent water frog species and subsequent introgression of heterospecific mitochondrial DNA into the marginal populations of P. sp. promoted them to occupy novel ecological niche.
+
+Tsegazeabe Haileselasie
+Faculty of Sciences, KU Leuven
+Biology
+Belgium
+Population genetic structure of water flea (Daphnia pulex spp.) from gradients of lakes and ponds in Ilulissat region of Greenland
+poster D21SY13PS0092
+
+Author(s): Haileselasie, T, Meester, LDE, Meargay, J
+
+Summary: 
+
+Daphnia has quickly emerged into model organism in ecology and evolution research. As a result it has been subjected to extensive studies in eco-toxicology, ecological genomics and population genetics studies. However, most of the population genetics studies of Daphnia have concentrated in temperate population and a few from arctic Canada. Given to its sensitivity to climate change, the expansion of such study into the polar region is of paramount importance. What is more, the study of population structure and diversity of organisms from the polar region can provide a unique opportunity to make inferences about postglacial colonization in areas that have recently been de-glaciated due to climate change and contribute to our understanding of colonization dynamics and founder events. Here, we assessed the spatial population genetic structure of Daphnia pulex spp. complex from a gradient of lakes and ponds in Greenland, which are recently created due to melting of the Greenland Ice Sheet. 61 population were sampled from 21 lakes and 40 ponds that vary in area, size and depth and genotyped at 9 microsatellite loci. Based on 9 microsatellite loci, we scored 1-9 MLGs/population which vary in their distribution, clonal diversity and mean clonal richness in each habitat studied. Clonal diversity ranges 1.22 to 3.65 and 1.22 to 3.72 for Lakes and ponds respectively. 20-90% expected heterozygosity was observed for both lakes and ponds. Furthermore, these ponds/lakes harbor two/more of the polyploidy members of Daphnia pulex spp. (i.e. Daphnia pulicaria, and Daphnia middendorffiana). However, Daphnia pulicaria seems to dominate [i.e. having high frequency of occurrence] compared to Daphnia middendorffiana. In general, our finding support hypothesis that polyploidy is dominant in marginalized and higher latitude. But this needs further confirmation by increasing the number individuals genotyped in a population and genetic marker used.
+
+Zeljka Pezer Sakac
+MPI for Evolutionary Biology
+Germany
+Population genetics of copy number variable genes in natural mouse populations
+poster D21SY13PS1259
+
+Author(s): Pezer Sakac, Z, Harr, B, Teschke, M, Babiker, H, Tautz, D
+
+Summary: 
+
+Copy number variation (CNV) is a form of genomic structural changes that are considered a major source of intraspecific genetic variation. It is not unusual that CNVs encompass entire genes and their regulatory sequences. As differences in gene copy number can underlie fitness differences between individuals, studying the population dynamics of copy-number variable genes can provide valuable clues to selection and adaptation processes. Here, we analyze genic CNVs from next-generation sequencing data of 27 individuals belonging to four natural populations of the house mouse (Mus musculus). We find that the environmental response genes are overrepresented in genic CNVs in all four populations. CNVnator software was used to genotype all the loci for their respective copy number. This allowed us to examine their variance within and across populations. Apart from the strong population stratification in geographically distinct groups, we observe much higher level of diversity between mouse populations than was previously reported for human populations. Several genes were identified that show no CNV within some populations while being variable in others. These cases stand out from a generally polymorphic CNV background, implying that at least some of them might be subject to selective constraints.
+
+Murat Tugrul
+IST-Austria
+Austria
+Population genetics of transcription binding sites in regulatory sequences
+poster D21SY13PS0754
+
+Author(s): Tugrul, M, Paixao, T, Tkacik, G, Barton, N
+
+Summary: 
+
+Variation in protein coding regions cannot explain the extensive phenotypic diversity between and among populations. It is believed that variation in transcriptome levels which are regulated by non-coding DNA are responsible for natural variation. However, lack of a regulatory code prevents us from understanding the evolution of regulatory sequences. We would like to know what different patterns of regulation evolve in nature. For example, we would like to understand why we observe fuzzy promoters (i.e. many but not so strong protein bindings), or what turn-over rates are expected between functional regulatory sequences. We need to understand microscopic molecular mechanisms to entangle macroscopic evolutionary behaviors.
+
+In this study, we integrate a biophysical model of transcription into population genetics framework in order to understand the evolution of regulatory sequences. The biophysical model takes into account energy interactions among protein, RNA-polymerase and DNA. It approximates the gene expression level with a thermodynamic approach. We consider finite haploid populations evolving under mutation and selection. We analyze both stationary and dynamical properties of evolved regulatory sequences. We show what microscopic (e.g. protein binding size) and macroscopic (e.g. population size) parameters affect the results. We discuss applications of our model to existing biological data.
+
+Dina Fonseca
+Rutgers University
+Entomology
+United States
+Post-introduction evolutionary rescue
+poster D21SY13PS1358
+
+Author(s): Fonseca, DM
+
+Summary: 
+
+Invasive mosquitoes have caused inordinate human suffering because they are very abundant in their exotic ranges and can drive local or exotic disease evolution and epidemics. Invasive mosquitoes often exploit domestic environments, and the resulting extensive overlap with humans significantly enhances their effectiveness as vectors of human diseases. It is unclear, however, whether domestication was a pre-condition for invasiveness or instead a consequence of it. To understand factors that deter or promote invasiveness we studied Aedes japonicus japonicus, a mosquito native to East Asia that has become invasive in some parts of its new range in North America and Europe. We traced the source of all exotic populations to central Japan, where we found high genetic diversity but homogeneity across populations indicating ongoing gene flow. Spatiotemporal analyses of exotic populations revealed that (1) populations across the exotic range had very different genetic signatures; (2) genetic diversity declined precipitously outward from introduction points; (3) the spatial extent of local infestations correlated strongly with genetic diversity but at different scales in the US and in Europe; (4) all broadly expanding populations (=invasive) had genetic signatures resulting from admixture of separate introductions. We propose that human-assisted rapid movement of specimens across the exotic range “rescued” self-limiting introductions by mixing locally differentiated genotypes. We propose that invasiveness is not a required pre-existing trait in invasive mosquitoes, but instead can evolve in the exotic range leading inexorably to dangerous human disease vectors.
+
+Inês Fragata
+Faculdade de Ciências da Universidade de Lisboa
+Centro de Biologia Ambiental/ Departamento de Biologia Animal
+Portugal
+Quick adaptation to a new environment erases signature of history in natural populations
+talk D21SY13RT14:24R8
+
+Author(s): Fragata, I, Simões, P, Lopes-Cunha, M, Lima, M, Kellen, B, Bárbaro, M, Santos, J, Santos, M, Matos, M
+
+Summary: 
+
+In a world where human activity is changing the climate and habitats at a fast pace it is fundamental to understand how much and how quickly can species adapt. In the last few years we have witnessed the evolutionary response of various species to the effects of global warming. One such case is Drosophila subobscura, which presents clinal variation for body size and inversions, across three continents. Recent evidence shows that temporal changes are occurring in the clinal variation as a response to global warming, with northern populations becoming more similar to southern ones. Both local adaptation and gene flow may be involved, the latter possibly overcoming historical constraints. In this study we propose to measure the contributions of history and selection when populations initially differentiated in Nature are under a similar selective pressure, in order to test if the uniform selection erases prior genetic differences, even in the absence of gene flow. We used as scenario the adaptation to a new, common environment of three populations of Drosophila subobscura initially differentiated along the European latitudinal cline. Quick evolutionary response was observed in all foundations leading to full convergence. All foundations converged to the same adaptive peak, although at different rates and through different paths, suggesting an overall smooth fitness landscape. We concluded that although history had a strong effect during the initial generations, selection quickly overcame it, especially in fitness related traits. The fast loss of differentiation shows that, even in the absence of gene flow adaptation to a common environment can erase the variation observed in nature, a finding that raises concerns in Conservation terms.
+
+Gary Carvalho
+Bangor university
+School of Biological Sciences
+United Kingdom
+Rapid evolution in experimentally-harvested fish populations
+talk D21SY13RT11:18R8
+
+Author(s): Carvalho, GR, Van Wijk, S, Taylor, MI, Creer, S, Dreyer, C, Rodrigues, FM, Ramnarine, IW, Van Oosterhout, C
+
+Summary: 
+
+Rapid contemporary evolution has become more common place in response to human-induced pressures such as introductions and overexploitation. One such increasingly significant pressure arises from size-selective harvesting in commercial fisheries which can induce rapid changes in biological traits. While experimental and wild harvested populations often show clear shifts in body size and maturation associated with fishing, the relative contributions of genetic and environmental factors to these shifts remain uncertain and have been much debated. Observations of so-called fisheries-induced evolution (FIE), to date are based solely on phenotypic measures, such as size data, and no genetic data are available. Here, we quantify genetic versus environmental change in response to size-selective harvesting in guppies (Poecilia reticulata) across three generations of selection for small and large body-sized individuals. We document for the first time significant changes at individual genetic loci, some of which have previously been associated with body size. In contrast, variation at neutral microsatellite markers was unaffected by selection, providing direct genetic evidence for rapid evolution induced by size-selective harvesting. These findings demonstrate FIE in an experimental system, with major implications for the sustainability of harvested populations, as well as impacts on size-structured communities and ecosystem processes. Such findings prompt scientists and managers to reconsider the capacity of harvested stocks to adapt to, and recover from, harvesting and predation.
+
+Catalina Mariana Luca
+University of Lausanne
+Ecology and Evolution
+Switzerland
+Rapid evolution in response to chemical pollution? Testing for the required additive genetic variance in whitefish (Salmonidae)
+poster D21SY13PS1031
+
+Author(s): Luca, C, Clark, ES, Wedekind, C
+
+Summary: 
+
+One of the most common chemical pollutants is 17a-ethinylestradiol (EE2), a synthetic estrogen used in most contraceptive pills. Compared to other estrogens, EE2 is rather persistent in the environment and often found in concentrations that could be harmful to fish development. We set up an experiment (i) to describe the toxicity of EE2 during early development in the whitefish Coregonus palaea and (ii) to test whether there is additive genetic variance in the tolerance to the pollutant within a natural population. We sampled a natural population of whitefish and collected their gametes for in vitro fertilization. In order to separate paternal (i.e. additive genetic) from maternal environmental effects on embryo and larval development, we used a full-factorial breeding design, raised large numbers of embryos separately in individual containers, and exposed them to various EE2 concentrations (0ng/L, 0.5ng/L, 1ng/L, 10ng/L and 100ng/L). We are currently recording growth, survival, and gonad development. Variance components can very soon be calculated and will give us an idea about the potential of rapid evolution in a common fish in response to a common pollutant.
+
+Pascal Milesi
+Institut des sciences de l'évolution de Montpellier
+Génome
+France
+Rapid evolution of insecticide resistance genes in mosquito populations: a quantitative approach
+talk D21SY13RT16:33R3
+
+Author(s): Milesi, P, Labbe, P, Weill, M, Lenormand, T
+
+Summary: 
+
+How adaptation appears and is later refined by natural selection has been the object of intense theoretical work. However, the testing of these theories is limited by our ability to estimate the strength of natural selection in nature. Selection by insecticide treatments of the Ester resistance gene in populations of the mosquito Culex pipiens in Montpellier area (southern France) is a contemporary example of rapid evolution of an adaptation to environmental changes in natural populations. We observed in twenty years, the emergence and replacement of three resistance alleles at the Ester locus due to the selection pressure of insecticide uses. With continuous sampling for >40 years on a 50 km transect corresponding to a gradient of insecticides treatment, we were able to follow the dynamics of these different alleles in natural populations. Using a population genetics model taking into account environmental variables, we were able to estimate the intensity of the selection pressure, as well as many parameters (genetic and environmental) affecting the dynamics of these alleles. In addition, we were able to analyze the evolution of allele frequencies under various environmental conditions. For example the prohibition by the European instances of OP’s insecticides in 2007 was a full-scale test of the quality of our predictions. I will present this work, which links ecology and evolution, through the integration of environmental data into a genetic model, to analyze the dynamics of adaptive alleles in natural populations. We quantified the selection and environmental parameters conditioning resistance genes dynamic and showed that the relationship between environmental factors and allele dynamics in natural populations is not straightforward.
+
+Piet Spaak
+Eawag
+Aquatic Ecology
+Switzerland
+Rapid evolution of metal tolerance revealed by resurrecting dormant propagules
+talk D21SY13RT14:48R8
+
+Author(s): Spaak, P, Turko, P
+
+Summary: 
+
+We investigated the evolutionary response of an ecologically important freshwater crustacean, Daphnia, to a rapidly changing toxin environment. From the 1920s until the 1960s, the use of leaded gasoline caused the aquatic concentration of this toxin to increase at least 5-fold, presumably exerting rapid selective pressure on aquatic organisms to develop resistance. Similarly, we predicted that the banning of leaded gasoline, and the corresponding return to low lead levels, would result in the loss of resistance if this resistance carried a cost. These questions were addressed directly by using the resurrection ecology approach, whereby dormant propagules from a focal time period are hatched or germinated and compared to those from another time period. We hatched several Daphnia genotypes from each of two Swiss lakes, during times of higher (1960s / 1980s) and lower (2000s) lead stress, and compared their life histories under different laboratory levels of this stressor. The results were clear: modern Daphnia genotypes (hatched from a period of low lead pollution) had significantly reduced fitness, measured as the population growth rate (r), when exposed to lead, while those genotypes hatched from times of high lead pollution did not display this reduction. We conclude that Daphnia in these lakes were able to rapidly adapt to increasing lead concentrations, and just as rapidly lost this adaptation when the stressor was removed. These results are analyzed in context of the recent theoretical advances by Ellner et al. (2011), who developed a framework for the explicit comparison of ecological and evolutionary rates, and are used to demonstrate a previously unrecognized feature of their model. We also discuss avenues of further research into the genetic underpinnings of this adaptation, taking into account recent research on ABC transporters and technological advances in sequencing technology.
+
+Silva Uusi-Heikkilä
+University of Turku
+Department of Biology
+Finland
+Rapid phenotypic and genetic changes in experimentally exploited fish populations
+talk D21SY13RT14:00R8
+
+Author(s): Uusi-Heikkilä, S, Whiteley, AR, Kuparinen, A, Matsumura, S, Venturelli, PA, Wolter, C, Slate, J, Primmer, CR, Arlinghaus, R
+
+Summary: 
+
+Size-selective fishing has the potential to cause changes in life-history traits, which are often at least moderately heritable. Thus, size-selective fishing has the potential to cause genetic changes in exploited populations. We subjected populations of wild zebrafish (Danio rerio) to size-selective harvest over five generations by establishing three treatment groups: selection for large, random and small body size and focused on three questions that have not been thus far studied experimentally in fisheries context: 1) How do life-history traits, such as maturation, growth and reproductive investment, collectively respond to size-selective harvesting? 2) How the potential changes in life-history traits affect population growth rates? 3) Can size-selective harvesting induce rapid molecular-level responses in the experimentally exploited populations? Five generations of size-selective harvesting caused lower maximum length, earlier maturity and higher energy investment to reproduction among the small-size selected fish. Life-history changes induced differences in population growth rates such that small-size selected fish adapted to size-selective fishing environment and had higher population growth rate compared to other selection treatments. However, they had lower population growth rate in the absence of fishing. Thus, our results suggest that exploited populations might not only be unprofitable for fisheries but also impair the recovery potential of exploited stocks. Finally, we show that size-selective harvesting induced rapid and replicable genetic changes in the experimentally exploited fish populations. Our study contributes to the understanding of the rate of phenotypic and evolutionary changes in size-selective fisheries. Further, our results suggest that fisheries-induced evolution is not necessarily a long-term process but it can be rapid and may become a short-term concern in fisheries management.
+
+Aliou DIA
+Université Pierre et Marie Curie/CNRS
+Adaptation & Diversity in Marine Environment
+France
+Saptio-temporal genetic diversity of blooms of Alexandrium minutum
+poster D21SY13PS0841
+
+Author(s): DIA, A, Valero, M, Guillou, L, Destombe, C
+
+Summary: 
+
+Over the last decades, toxic blooms of the dinoflagellate Alexandrium minutum were recurrently observed along the Brittany coast (France). Bloom-forming phytoplanktonic species have been intensively studied regarding their ecology and the environmental conditions enhancing blooms formation. However, little is known about genetic diversity within these blooms. Phytoplankton is generally considered to have high dispersal ability and low genetic structure. The reproduction of dinoflagellates is not known in nature but in the lab both clonality and sexual reproduction are possible. It is generally assumed that bloom formation consists of only a few clones that multiply asexually, but recent population genetic studies demonstrated that it is probably not the case since high genetic diversity was found within natural populations (Richlen et al. 2012; Lebret et al. 2012). The aim of our study was to investigate spatio-temporal genetic diversity during blooms formation of Alexandrium minutum in two estuaries (Penzé and Rance). For this, we used 7 highly polymorphic microsatellites markers (developed by Nagai et al. 2006) from 283 monoclonal strains. Both sites were sampled at different dates during the bloom duration (days to weeks intervals during a month), in the two sites and two successive years. The results indicated that blooms of A. minutum showed a high genetic diversity suggesting that reproduction of this species is mainly sexual. Moreover, our results show that temporal variations within a bloom were higher than annual or spatial variations, this temporal genetic variation suggest that complex demographic processes are occurring within a bloom (i.e. population extinction, colonization either from sediments or outside the estuaries). We discuss how parasites might be responsible of these temporal dynamics. Keywords: Genetic diversity; genetic differentiation; microsatellites; HAB; Alexandrium minutum.
+
+Yoav Ram
+Faculty of Life Sciences of Tel-Aviv University
+Department of Molecular Biology and Ecology of Plants
+Israel
+Stress-induced mutation in the presence of recombination
+poster D21SY13PS0001
+
+Author(s): Ram, Y, Hadany, L
+
+Summary: 
+
+Mutation is a key feature of every biological system and the evolution of the mutation rate is the subject of many theoretical and experimental studies. A major factor complicating our understanding of the evolution of the mutation rate is recombination: it separates mutator alleles from the beneficial mutations they generate and accelerates the fixation of beneficial mutations, but it also purges deleterious mutations and generates beneficial allele combinations lost by mutation and drift. Here we present an evolutionary model in which stress induces increased mutation rates. We show that this induction can evolve in the presence of rare recombination, such as experienced by bacteria and yeast, and explore the effect of stress-induced mutation on the evolution of recombination due to a process known as Muller's ratchet.
+
+Nicolas Alcala
+University of Lausanne
+Ecology and Evolution
+Switzerland
+The signature of past population isolation on gene genealogies and DNA sequence data
+poster D21SY13PS0853
+
+Author(s): Alcala, N, Jensen, JD, Vuilleumier, S
+
+Summary: 
+
+Newly available genomic data are continuously challenging scientists and raising new questions, which require a deep understanding of the dynamics of DNA polymorphism in populations. The signature of past population expansion or bottleneck on gene genealogies and DNA sequence data have been well studied. However, other demographic events such as past isolation events, even though likely common, remain to be explored. There is considerable evidence of past population isolation - for example, during the quaternary period several European mammals and birds were isolated into glacial refugia, African and non-African Drosophila melanogaster populations were isolated several thousand years ago, and most pathogens and viruses are temporarily isolated within their hosts. Using coalescent theory, we investigate the temporal impact of past population isolation on gene genealogies, on the site frequency spectrum and on summary statistics of DNA sequence polymorphism (e.g. mismatch distributions, Tajima's D, Fay and Wu's H, Zeng et al.'s E). We find that past population isolation results in (i) changes in gene genealogies: coalescence trees display an excess of short and long branches, with the relative proportion being informative on the time at which isolation occurred and the number of populations which were isolated. (ii) changes in the site frequency spectrum that vary through time and depend on the sampling scheme. In a sample from a single population, a transient excess of low and high frequency variants is observed, while in a pooled sample from the total population, an excess of intermediate frequency variants and a deficit of high frequency variants is observed. We discuss how the distinctive features of gene genealogies and the site frequency spectrum can be disentangled from other demographic (e.g. bottlenecks) or selective events (e.g. directional, balancing or background selection) and provide recommendations for the analysis of DNA sequence data.
+
+Michel Thomann
+UMR 5175, CEFE
+France
+Using seedbanks to investigate contemporary evolution of plant reproductive traits facing global changes
+talk D21SY13RT11:42R8
+
+Author(s): Thomann, M, Imbert, E, Cheptou, P
+
+Summary: 
+
+Global changes raise numerous concerns about the fate of natural populations. Beyond ecological responses, global changes are also expected to impose new selective pressures on populations and hence represent an unprecedented opportunity to study evolutionary processes at contemporary scales. As a facet of global changes, pollinator decline has been reported at the global scale. Because plants usually depend on pollinators for their reproduction, plant reproductive traits (mating systems and floral traits) are expected to adapt to pollinator decline.
+
+Detecting contemporary evolution of natural populations is however a complicated task. For instance, advance in phenology has been reported for numerous plant species (from weeds to trees) in response to climate change, but it remains to be determined whether the mechanisms for such changes involve genetic evolution or reflect plasticity only.
+
+In our study we took advantage of the possibility to store viable seeds on a long period of time to analyze evolutionary changes from temporal samples. We benefit from seed conservation in optimal conditions by French Botanical Gardens to investigate rapid evolution of reproductive trait of the cornflower (Centaurea cyanus, Fam. Asteraceae), a self-incompatible crop weed. We study two generations of the same population (20 years apart) from a region where important reduction of both pollinator richness and density has been documented. Common garden experiments allow us to detect the effect of genetic evolution for major reproductive traits. Compared to the ancestral population, our results show that today’s, plants flower earlier but also produce bigger flowers with longer receptivity, and exhibit bigger floral display. We used neutral markers to sort out the possibility that such differentiation in reproductive traits be due to drift only. We propose that such changes be in part adaptation to pollinator decline, through increased pollinator attraction.
+
+Kayserili Asli
+Max Planck Institute for Molecular Cell Biology and Genetics
+Germany
+Variation in gene expression during embryogenesis in Drosophila strains and species
+poster D21SY13PS0799
+
+Author(s): Asli, K
+
+Summary: 
+
+In nature, we observe phenotypic variation within species as well as between species. The ratio of between-species to within-species variation can tell us about the type of evolutionary forces acting on the underlying genes. To discover how different genes involved in embryogenesis are evolving, we measured the variation of gene expression in early embryos of D. melanogaster inbred lines from North Carolina (DGRP). We focus on gene expression because we can directly analyse the effects of genetic variations in the regulatory elements. In this study, we analyse the amount of variation seen in inbred lines, and compare it to five of the sequenced Drosophila species. In addition, we estimate the importance of local adaptation by comparing D. melanogaster strains from North America with D. melanogaster strains from Africa. Our results show that there is substantial variation in gene expression during Drosophila embryogenesis, which is important for divergence between both populations and species.
+
+Eleanor O'Brien
+University of Bristol
+School of Biological Sciences
+United Kingdom
+What limits an evolutionary response to environmental change?
+talk D21SY13RT10:30R8
+
+Author(s): O'Brien, EK, Bridle, JR
+
+Summary: 
+
+Understanding why populations fail to adapt to environmental change is critical to explain the formation of species’ range limits, and to predict the conditions under which populations will be able to evolve in response to climate change and habitat loss. Two hypotheses have been proposed to explain why adaptation fails in response to environmental change: (1) A lack of additive genetic variance in key traits or trait combinations inhibits a response to selection, and (2) Local adaptation in peripheral populations is swamped by gene flow from larger populations adapted to conditions at the centre of the range. Several theoretical models provide insights into the circumstances under which adaptation is expected to occur, but empirical tests of these predictions in wild populations are rare. We examined spatial changes in the mean and additive genetic variance of ecologically important traits of the rainforest specialist Drosophila birchii along repeated altitudinal gradients, to evaluate evidence for these competing hypotheses about limits to adaptation. We found little evidence for adaptive divergence in stress traits (cold tolerance, heat tolerance, desiccation resistance) or morphological traits (thorax length, wing size) at any transect, despite abundant genetic variance in most traits and populations. At two transects, male reproductive success was higher in high altitude populations than low altitude populations. Our results suggest that gene flow along altitudinal gradients is likely to be an important factor limiting adaptive divergence. However, we are also investigating the possibility that trade-offs between stress tolerance and reproductive success may constrain evolution at the range margins of this species.
+
+Jitka Polechova
+IST Austria
+Austria
+When does genetic drift prevent expansion of a species' range?
+talk D21SY13RT10:54R8
+
+Author(s): Polechova, J, Barton, N
+
+Summary: 
+
+Genetic variance is crucial for adaptation-driven range expansion. Locally, genetic variance will be reduced by genetic drift. Assuming variance is free to evolve, when do low population numbers limit further expansion of a species’ range? We employed the understanding of i) the deterministic dynamics of the joint change in population density and evolution of a quantitative trait and ii) the effect of genetic drift on a cline, to find a threshold where a finite population ceases to adapt to an environment changing in space. Clines in allele frequencies become steeper due to genetic drift and therefore local genetic variance decreases. This decrease in variance can lead to a sudden collapse of species' range, as variance (standing load) becomes too small relative to the steepness of the environmental gradient (dispersal load). Hence, as drift constraints the genetic variance in finite populations, even a small increase in the gradient of the environmental optimum can lead to a sudden inability of a species to continuously adapt to gradually changing environments, and drive a sharp range margin or range fragmentation.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

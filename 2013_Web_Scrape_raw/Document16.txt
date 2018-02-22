@@ -1,0 +1,142 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY16: Evolutionary biology in China
+ Abstracts list Schedule Description
+View only talks or posters
+Rodney Mauricio
+University of Georgia (USA)
+Department of Genetics
+United States
+Forensic phylogeography of invasion: species exchanged between the U.S. and China
+talk D21SY16RT17:45R8
+
+Author(s): Mauricio, R
+
+Summary: 
+
+Biological invasions represent a pressing conservation problem. Population genetics can provide a powerful forensic tool for understanding the geographic distribution of invasive species, including the history of invasion and the likely sites of origin within the native range. With the rise of global commerce and biogeographic similarities, China and the southeastern United States have become a major conduit for exchange of species that have become invasive in their respective introduced habitats. These species provide an ideal laboratory for investigating evolutionary hypotheses on the evolution of invasiveness. We have been studying a number of plant and animal species to provide a robust phylogeographic baseline for the study of invasion: half the species are native to China and invasive in the U.S. and half are native to the southeast and invasive in China.
+
+Suhua Shi
+Sun Yat-sen University
+Biology
+China
+Fragility and robustness – the evolution of tropical intertidal communities as sea level rises and falls
+talk D21SY16RT15:45R8
+
+Author(s): Shi, S, He, Z, Li, X, Yang, M
+
+Summary: 
+
+Sea level changes may strongly impact intertidal communities. In the tropics, their dominant primary producers are the woody plants of mangroves, which are particularly susceptible to such changes. In this study, we surveyed the genetic diversity of 6 mangrove species in the Indo-western Pacific (IWP) region. In all species, the genetic diversity is organized into two regional clades that are separated by the Strait of Malacca. Under repeated freezes (F) and thaws (T) with past glaciations, or the TFT cycle, the two regions experienced phases of isolation and admixture as the Strait opens and closes. The genetic diversity is built up in isolation and shuffled in the admixture phase. Computer simulations of the TFT model show that the historical effective population size in each region is very small, between 200 and 1200. The results support the conjecture of fragile habitats in tropical intertidal zones under rapid sea level changes. Nevertheless, the geographical distributions of haplotypes suggest adaptive complexes being separately built up in the isolation phase, resulting in robust adaptation in the admixture phase and speciation. Hence, the TFT cycle is a double-edged sword that endowed both fragility and robustness on the intertidal communities of IWP. The confluence of several historical factors in the last 5000 years has tilted the balance toward robustness. However, this balance may quickly swing the other way under multiple influences of local human perturbations and global sea level rises.
+
+Tianqi Zhu
+Beijing Institte of Genomics, Cinese Academy of Science
+China
+Maximum likelihood implementation of an isolation-with-migration model with three species for testing speciation with gene flow
+talk D21SY16RT16:33R8
+
+Author(s): Zhu, T
+
+Summary: 
+
+We implement an isolation with migration model for three species, with migration occurring between two closely related species while an out-group species is used to provide further information concerning gene trees and model parameters. The model is implemented in the likelihood framework for analyzing multilocus genomic sequence alignments, with one sequence sampled from each of the three species. The prior distribution of gene tree topology and branch lengths at every locus is calculated using a Markov chain characterization of the genealogical process of coalescent and migration, which integrates over the histories of migration events analytically. The likelihood function is calculated by integrating over branch lengths in the gene trees (coalescent times) numerically. We analyze the model to study the gene tree-species tree mismatch probability and the time to the most recent common ancestor at a locus. The model is used to construct a likelihood ratio test (LRT) of speciation with gene flow. We conduct computer simulations to evaluate the LRT and found that the test is in general conservative, with the false positive rate well below the significance level. For the test to have substantial power, hundreds of loci are needed. Application of the test to a human–chimpanzee–gorilla genomic data set suggests gene flow around the time of speciation of the human and the chimpanzee. Key words: coalescent, maximum likelihood, speciation, gene flow, isolation, migration.
+
+Jerome Hui
+Chinese University of Hong Kong
+School of Life Sciences
+Hong Kong SAR China
+MicroRNA evolution by arms switching and bi-directional transcription
+talk D21SY16RT18:33R8
+
+Author(s): Hui, J
+
+Summary: 
+
+Proper regulation of gene expression and function is in part regulated by non-coding RNAs. One important class of noncoding RNAs, the microRNA, modulates transcript expression activity. To illustrate how microRNAs can contribute to the evolution of animals’ biological regulation, here, I will focus on discussing 1) arms switching and 2) bi-directional transcription of microRNAs located inside the Hox complexes (i.e. miR-10 and miR-iab-4/8). Hox genes are essential transcription factors that establish segmental identity on the head-tail axis of all animals. The miR-10 family is highly conserved in sequence and genomic position among the anterior Hox genes of all bilaterians. By investigating the phenomenon where many miRNAs make functional mature products from one or both arms of the hairpin precursor, it is observed that changes in the miR-10 expression and in the dominant precursor arm from which the mature miRNA sequence derives. Since the predicted messenger RNA targets and inferred function of sequences from opposite arms differ significantly, arm switching provides a fundamental mechanism to evolve the function of a miRNA locus and target gene network. On the other hand, current deep sequencing studies have identified more than 9000 animal microRNAs, but only few loci are known to produce miRNAs from both sense and antisense transcripts. In fly Drosophila melanogaster, the iab-4/iab-8 locus encodes bi-directionally transcribed microRNAs that regulate the function of flanking Hox transcription factors. By expression and functional analyses, it is shown that bi-directional transcription of the miR-iab-4/iab-8 is a conserved Hox regulatory mechanism between fly and the beetle Tribolium castaneum. However, there are key differences in the way Hox genes are being targeted. This allows the understanding of how multiple products from sense and antisense microRNAs target common sites.
+
+Tian Tang
+Sun Yat-Sen University
+School of Life Sciences
+China
+New microRNAs in Drosophila – Birth, death and immortality through cycles of evolution
+talk D21SY16RT18:09R8
+
+Author(s): Tang, T, Lyu, Y, Shen, Y, Li, H, Zhao, Y, Hungate, E, Shi, S, Wu, C
+
+Summary: 
+
+The evolutionary dynamics of the entire repertoire of microRNAs (miRNAs) has been debated. Disagreements were not resolved partly because new miRNA-like genes emerged constantly but few were evolutionarily or functionally significant. With an extensive search, we identify 12 new adaptive miRNAs that emerged de novo (and often in clusters) in Drosophila melanogaster in the last 4 million years (Myrs). Interestingly, even though they are adaptively evolving at birth, more than 95% of these new miRNAs disappear over time. They serve a useful function, but for only a transient evolutionary period. After 30 Myrs, all surviving miRNAs make the transition from the adaptive phase of rapid evolution to the conservative phase of slow evolution, apparently becoming integrated into the genome. During this transition, the expression shifts from being tissue-specific, predominantly in testes and imaginal discs, to a broader distribution in many other tissues. Unexpectedly, a measurable fraction (20-30%) of these conservatively evolving miRNAs experience "evolutionary reactivation" and begin rapidly evolving again. These reactivated miRNAs start another cycle of adaptive-neutral-conservative evolution that could also lead to death. In conclusion, new adaptive miRNAs go through cycles of evolution, resulting in very slow turnover. Since most new miRNAs evolve adaptively for a transient period of variable length and then disappear, the phenomenon may shed some light on the regulatory roles of miRNAs in general.
+
+Hongzhi Kong
+Institute of Botany, Chinese Academy of Sciences
+State Key Laboratory of Systematic and Evolutionary Botany
+China
+Parallel petal losses within the buttercup family (Ranunculaceae) and their underlying mechanisms
+talk D21SY16RT16:09R8
+
+Author(s): Kong, H
+
+Summary: 
+
+Absence of petals, or being apetalous, is usually one of the most important features that characterizes a group of flowering plants at high taxonomic ranks (i.e., family and above). The apetalous condition, however, appears to be the result of parallel or convergent evolution with unknown genetic causes. Here we show that within the buttercup family (Ranunculaceae), apetalous genera in at least seven different lineages were all derived from petalous ancestors, indicative of parallel petal losses. We also show that independent petal losses within this family were strongly associated with decreased or eliminated expression of a single floral organ identity gene, APETALA3-3 (AP3-3), apparently owing to species-specific molecular lesions. In an apetalous mutant of Nigella, insertion of a transposable element into the second intron has led to the silencing of the gene and transformation of petals into sepals. In several naturally occurring apetalous genera, such as Thalictrum, Beesia, and Enemion, the gene has either been lost altogether or disrupted by deletions in coding or regulatory regions. In Clematis, a large genus in which petalous species evolved secondarily from apetalous ones, the gene exhibits hallmarks of a pseudogene. These results suggest that, as a petal identity gene, AP3-3 has been silenced or down-regulated by different mechanisms in different evolutionary lineages. This also suggests that petal identity did not evolve many times independently across the Ranunculaceae but was lost in numerous instances. The genetic mechanisms underlying the independent petal losses, however, may be complex, with disruption of AP3-3 being either cause or effect.
+
+Yongfeng Zhou
+University of Oulu
+Biology
+Finland
+Recurrent gene flow versus incomplete lineage sorting: allele sharing between two hybridizing pines with overlapping distributions
+poster D21SY16PS1294
+
+Author(s): Zhou, Y, Duvaux, L, Liu, J, Savolainen, O
+
+Summary: 
+
+When closely related species occur with parapatric or sympatric distributions, allele sharing between them might due to retention of ancestral polymorphism because of incomplete lineage sorting and/or recurrent gene flow following secondary contact. One difficulty for studying speciation is to distinguish between the two. Here, genetic polymorphisms at multiple intronic sequences of two closely related pines (Pinus massoniana Lamb. and P. hwangshanensis Hisa) with overlapping distributions were employed to address this issue. First, we compared the patterns of genetic diversity, linkage disequilibrium (LD), differentiation and population structure in parapatric and allopatric populations of the two pines. Approximate Bayesian Computation (ABC) was then employed in defining demographic and speciation models. Parapatric populations harbored higher levels of intraspecific genetic diversity, lower levels of interspecific differentiation and more rapid decay of LD than allopatric populations. Population structure analyses revealed more introgression in parapatric populations than that in allopatric populations. Model selection based on ABC suggested that the two species came into secondary contact about 10000 generations ago and gradually spread to reach the current patterns of overlapping distributions. Taken together, allele sharing between these two closely related parapatric pines might due to secondary introgression rather than incomplete lineage sorting.
+
+Haipeng Li
+CAS-MPG Partner Institute for Computational Biology
+China
+Statistical test to reliably detect recent positive selection by utilizing tree shape and branch lengths
+talk D21SY16RT16:57R8
+
+Author(s): Li, H, Wiehe, T, Li, J
+
+Summary: 
+
+Many methods have been proposed in last two decades to search for traces of recent positive selection and the “maximum frequency of derived mutations” (MFDM) test, which is only based on the unbalanced tree topology, is theoretically insensitive to demography, including bottlenecks and expansions. In this study, we analyzed the statistical features of unbalanced tree in the neutral model and further proposed a new neutrality test that integrates the information of tree topology and the branch lengths of unbalanced tree. Simulations based on wide-range parameters demonstrated that the new test is robust to different demographic models and has a high statistical power to detect recent positive selection. Especially, this test does not need the information of outgroup, and thus will not be affected by the misinference of derived and ancestral variants of segregating sites due to multiple hits. This work provides a reliable method that can distinguish selection from demography when single-locus or genome-wide DNA polymorphism data is available.
+
+Yang Liu
+Sun Yat-sen University
+School of Life Sciences
+China
+The phylogeography of a wide-ranging bird in Asia, the common pheasant Phasianus colchicus
+poster D21SY16PS0454
+
+Author(s): Liu, Y, Liu, X, Zhang, Z
+
+Summary: 
+
+The common pheasant, Phasianus colchicus is distributed throughout temperate regions in East and Central Asia, and had been widely introduced into Europe and North America as a game bird. This species is well adapted to a wide range of environmental and climate conditions. Thirty-one subspecies have been identified based on substantial variation in male morphological ornaments. We investigated the phylogeography and genetic diversity patterns of common pheasant in Asia using mitochondrial and nuclear genes, and male morphological characters. Our analyses revealed five highly divergent evolutionary lineages and the affinity of subspecies to evolutionary lineages corresponds with four pre-defined morphological groups and a previously undescribed group. The distribution of these lineages reflects geographical breaks of mountains, plains and deserts, and the estimates for the divergence times between these lineages probably predate the last glacial maximum. We further found evidence of extensive genetic introgression between contiguous subspecies within lineages. Taken together, these results suggest that the phylogeographic patterns of common pheasant had been shaped by ancient colonization events and population expansions during postglacial periods. We are currently investigating genome-wide variation related to adaptation and radiation of common pheasant using a RAD-sequencing approach. Furthermore, our study system provides a favorable framework to study the speciation processes under biogeography, local adaptation and sex selection.
+
+Guojie Zhang
+University of Copenhagen
+Department of Biology
+Denmark
+The ‘omics’ of non-model animals
+talk D21SY16RT18:57R8
+
+Author(s): Zhang, G
+
+Summary: 
+
+The rapid development of genomic technology has made unprecedented tools available to evolutionary biologists working with non-model organisms. In recent years, my group at BGI-Shenzhen has developed a series of collaborative genomic projects in with European scientists, particularly with the University of Copenhagen. Several of these focus on complex societies of fungus-growing (attine) ants and (macrotermitine) termites. We have recently completed six ca. 100x genomes and overall transcriptomes covering the crown-group-lineages of the attine ants, and we have sequenced the unusually large genome (1.3 GB) of a fungus growing termite and its fungal symbiont. These reference genomes are now allowing functional gene-expression studies and the development of accurate recombination maps and comparative DNA-methylation studies. These will hopefully shed light on some of the major evolutionary transitions (specialization of fungal crop symbionts, increasing caste differentiation, the evolution of multiple queen mating) in the attine ants. I am also co-directing an avian phylogenomic program to resolve a number of long-standing questions. We have completed about 50 new bird genomes and conducted comprehensive analysis to reconstruct phylogenetic history and link genome-wide differences in evolutionary rates and gene family representation to key adaptations that underlie the different ecologies of the major bird lineages.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

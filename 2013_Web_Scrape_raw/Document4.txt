@@ -1,0 +1,532 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY04: Evolution of Symbiotic Interactions in Communities: Novel Approaches
+ Abstracts list Schedule Description
+View only talks or posters
+Alina Grigorescu
+University of Liege
+Wallon Center for Industrial Biology
+Belgium
+Serratia symbiotica from Aphis fabae: a step forward in understanding the genomic evolution of a lifestyle transition from free-living to aphid-dependent
+talk D23SY04RT14:48R7
+
+Author(s): Grigorescu, AS, Foray, V, Sabri, A, Haubruge, E, Lognay, G, Francis, F, Wathelet, J, Hance, T, Thonart, P
+
+Summary: 
+
+Bacterial intracellular symbiosis is widespread in insects and exhibits a large variety of phenotypes, ranging from parasitism to mutualism. Aphids developed mutualistic relationships with different levels of dependency, from obligate to facultative endosymbiosis, and with various effects (e.g., metabolic complementation, increased resistance to parasites and thermal stress). Serratia symbiotica was described as a secondary endosymbiont found in many aphid families and playing a role in heat tolerance and protection against parasitoids. We argue that this bacterium represents a good model for studying the evolution of the aphid-endosymbiont relationship parallel with a lifestyle transition of this microorganism, from free-living to aphid-dependent. S. symbiotica can be a primary-like endosymbiont in the aphid Cinara cedri and a facultative endosymbiont in Acyrtosiphon pisum and Aphis fabae. The S. symbiotica strain found in A. fabae can also exist in free-living style, cultivated on artificial rich medium. In the present study the genome of the previously isolated strain of S. symbiotica CWBI 2.3 was sequenced and compared to the genome sequences of the uncultivable strains from A. pisum (strain Tucson) and C. cedri. The genome of S. symbiotica CWBI 2.3 was sequenced using Illumina and PacBio sequencing, resulting in a genome size of ~3.5 Mb, which is larger than both previously sequenced genomes of S. symbiotica but smaller than the genome sizes of free living Serratia species. The genome of S. symbiotica CWBI 2.3 is phylogenetically close to that of the strain Tucson, but it also presents some features that are more related to free-living bacteria, such as the capacity of synthesizing most of the amino acids. The functional and synteny analyses performed so far suggest that the genome of S. symbiotica CWBI 2.3 represents a relevant step in understanding the evolution of a lifestyle transition towards dependency on another organism.
+
+Rakefet Sharon
+Migal- Galilee Research Institute
+Northern Research & Development
+Israel
+A cryptic co-evolution between an obligatory pathogen and its vector when each has a different distinct host plant
+poster D23SY04PS0313
+
+Author(s): Sharon, R, Naor, V, Raz, R, Harari, AR, Dafni-Yelin, M, Tomer, M, Sofer-Arad, C, Weintraub, P, Zahavi, T
+
+Summary: 
+
+Vector-Pathogen-Plant dynamics are complex due to both direct and indirect interactions between the organisms involved. Key factors for the pathogen dissemination are the survival of its vector and its ability to transmit the pathogen into the plant. A possible conflict may arise between the pathogen and the vector if the pathogen host preference does not coincide with that of its vector. This is the case of the obligatory pathogen- Stolbur type phytoplasma (SP) and its vector- the planthopper Hyalsthes obsoletus; In Europe both share the same preferred host plant whereas in Israel the preferred host of one reduces life history fitness of the other.
+This conflicting situation calls for a local ecological solution. We found that (1) in Israel SP is not present in the vector's preferred host- Vitex agnus-castus, although the vector feeding on this plant harbors SP. (2) Vines are the preferred and only host of SP in the area. (3) The vector can acquire SP from vines. (4) The vector cannot complete its life cycle on vines. (5) There is no vertical transmission of SP from the vector mother to her offspring. In Israel, unlike in Europe, the vector host plant is not commonly neighboring vineyards. Thus, reaching vines involves a cost to the vector of distance flying and leaving a suitable host for non-suitable plant. Apparently, the pathogen must apply a different strategy in order to disseminate between vines. Previous studies have shown that vector-borne pathogens can alter traits of their host plants and vectors in ways that influence their physiology and behavior. We suggest that the vector is "seduced" by the pathogen to change its behavior by real or assumed benefits. These benefits may be directly induced by the pathogen in the vector or indirect through a change caused by the pathogen to its host plant to attract the vector.
+
+Jessica Dittmer
+Université de Poitiers
+Ecologie & Biologie des Interactions, UMR CNRS 7267
+France
+Bacterial communities influenced by Wolbachia? Bacterial community structure and major players in the terrestrial isopod microbiome
+poster D23SY04PS0329
+
+Author(s): Dittmer, J, Lesobre, J, Johnson, M, Bouchon, D
+
+Summary: 
+
+Endosymbiotic communities, interactions between community members and their synergistic effects on host evolution have become important aspects in symbiosis research. Terrestrial isopods represent an excellent model system for multipartite symbioses due to their well-characterised association with Wolbachia. These endosymbiotic bacteria act as reproductive parasites in terrestrial isopods, inducing the feminisation of genetic males in Armadillidium vulgare. To date, three different feminising Wolbachia strains have been identified in this host and these strains vary in their distribution across host tissues. However, the microbiome of terrestrial isopods has never been analysed on a large scale and the role of Wolbachia within the bacterial community remains unknown. Here, we characterized the tissue-specific bacterial communities in A. vulgare, combining qPCR and 16S rRNA gene amplicon sequencing. To gain insight into intra-community dynamics, we analysed bacterial communities present in hosts from both laboratory and field populations, depending on (i) presence or absence of Wolbachia and (ii) infection with different Wolbachia strains. Wolbachia infection was an important factor influencing bacterial community structure. Furthermore, Wolbachia represented the predominant member of the bacterial community in infected individuals. These findings indicate that Wolbachia plays an important role within the terrestrial isopod microbiome. Apart from Wolbachia, we detected a second highly abundant bacterium: Candidatus Hepatoplasma crinochetorum, a facultative symbiont previously reported from the midgut caeca, was for the first time observed in all tested host tissues. Moreover, Ca. H. crinochetorum co-occurred with Wolbachia, although it was not observed in co-existence with all three Wolbachia strains. A better knowledge of the potential interactions of Wolbachia and Ca. H. crinochetorum will contribute to a better understanding of multipartite symbiotic interactions.
+
+Gregory Wyatt
+University of Oxford
+Zoology
+United Kingdom
+Bargaining power and a biological market analysis of the plant-mycorrhizal symbiosis
+poster D23SY04PS1248
+
+Author(s): Wyatt, GAK, Kiers, ET, Gardner, A, West, SA
+
+Summary: 
+
+Mutualistic cooperation can easily be stabilized when one partner is in relative control, interacts with a number of potential partners from the other species, and has some mechanism to enforce cooperation. In contrast, in the mycorrhizal mutualism, there is no apparent partner ‘in control’. Here, both partners may interact with multiple symbionts simultaneously. This complex series of interactions means that neither partner determines the terms of the interaction. Biological market theory models offer an approach for modeling and conceptualising such coevolutionary interactions between multiple partners. However, previous biological market models have made two assumptions that limit the extent to which they can be applied to mutualisms such as that between plants and fungi. First, they assumed that markets consist of an infinite number of partners. This prevents any partner having the bargaining power that comes from being one of a limited number of partners. Second, they assumed that cooperation is stable, rather than asking when it would be stable. Consequently, we have developed and analysed a market model without these assumptions and thus more readily applicable to the mycorrhizal mutualism. First, we found that whether or not individuals engage in mutualistic trade depends both qualitatively and quantitatively upon the number of partners of each species, as well as their degree of specialisation. Second, we found that, in a market model, mutualistic trade implies that at least one species relies completely on the other for at least one resource. Finally, we found that incorporating bargaining power may mean that many of the potential gains from trade are not exploited.
+
+Antje Burse
+Max Planck Institute for Chemical Ecology
+Bioorganic Chemistry
+Germany
+Chrysomelina leaf beetles profit from widely exploiting their host plants: ABC transporters are involved in the sequestration of poisonous phytochemicals
+poster D23SY04PS0952
+
+Author(s): Burse, A, Strauss, A, Peters, S, Boland, W
+
+Summary: 
+
+The ubiquitous consumption of plants by insect herbivores requires in many cases detoxification of noxious phytochemicals. One of the most ingenious detoxification strategies widespread in insects is sequestration which involves uptake, transfer and concentration into specialized tissues. Frequently, sequestered compounds are not only stored securely by the insects, but further; insects evolved the ability to use an overwhelming diversity of exogenous compounds for their own benefit within the competitive interactions in natural ecosystems, like for repelling insects’ enemies. Here, we report the first example of a transport protein crucial for the translocation of phytochemicals in insects. The transporter, referred to here as CpMRP, belongs to the ATP binding cassette (ABC) transporter family and functions in the defensive exocrine glands of juvenile poplar leaf beetle, Chrysomela populi, for shuttling plant derived metabolites into deterrent secretions. Silencing of CpMRP in vivo by using RNAi creates a defenseless phenotype which indicates its key function also for the secretion process. Our analyses of the transport activity suggest that involving a broad-spectrum carrier in the sequestration of phytochemicals may be advantageous for insects to affiliate alternative host plants. Indeed, we identified transporter sequences highly similar to CpMRP in the larval glands of a related Chrysomelina leaf beetle species which forms allopatric populations and shifts hosts between chemically different plant families. This demonstrates the importance of the substrate flexibility provided by ABC transporters to avoid feeding specialization and host-derived chemical defense leading to an evolutionary dead end. Moreover, ancestral species of C. populi synthesizing defensive compounds endogenously already possess in their glands CpMRP-similar proteins which shed new light on the evolution of sequestration in the taxon Chrysomelina.
+
+Eva Novakova
+University of South Bohemia
+Faculty of Science
+Czech Republic
+Comparative analysis of symbiotic communities in Hippoboscidae
+poster D23SY04PS1267
+
+Author(s): Novakova, E, Husnik, F, Hypša, V
+
+Summary: 
+
+Symbioses between bacteria and insects can range from simple bilateral relationships, with a single obligate mutualist, to multilateral models with complex bacterial communities. In hematophagous hosts, typical examples of such associations are provided by the symbiosis of human body louse Pediculus humanus with its primary symbiont Rieisa pediculicola, and tsetse fly Glossina morsitans with bacterial community containing a primary symbiont Wigglesworthia glossinidia, a facultative associate Sodalis glossinidius and Wolbachia. To allow for broader comparison of the symbiotic communities and their effect on the biology of different hosts, we analyzed symbiotic bacteria in hosts closely related to Glossinidae, the louse flies of the family Hippoboscidae. These organisms share many unique biological characteristics with Glossinidae, e.g. strict hematophagy, adenotrophic vivipary and nourishment through milk glands, and a specialized midgut section (bacteriome). Using Illumina sequencing, we characterized genomes of the symbionts associated with two biologically different species, namely Melophagus ovinus and Lipoptena fortisetosa. We demonstrated that the complexity of the associations differs among these species. In analogy to tsetse symbiosis, Melophagus ovinus carries complex symbiotic community involving obligate mutualist from the genus Arsenophonus (Gammaproteobacteria), a facultative symbiotic bacterium originated within Sodalis lineage (Gammaproteobacteria), a widespread bacterial associate of the genus Wolbachia, and two additional microorganisms Bartonella melophagi (Alphaproteobacteria) and Trypanosoma melophagium (Excavata). In contrary, Lipoptena represents a model of bilateral symbiosis harboring Arsenophonus bacteria as a sole symbiont. We discuss possible consequences of the symbiotic community structure on the metabolic functions within the host.
+
+Kirsten Ellegaard
+Faculty of Biology of Uppsala University
+Department of Cell and Molecular Biology
+Sweden
+Comparative genomics of Wolbachia and the bacterial species concept
+talk D23SY04RT15:45R7
+
+Author(s): Ellegaard, KM, Klasson, L, Näslund, K, Bourtzis, K, Andersson, SG
+
+Summary: 
+
+Bacteria display a wide diversity of specialized interactions with insects. In the intracellular niche, bacteria evolve under selection for host-interaction processes, at the same time as being members of what may be a complex community of other endosymbionts.
+
+Among the obligate endosymbionts, Wolbachia have an unparalleled host range infecting at least 20% of all insect species as well as other invertebrates. The Wolbachia are divided into supergroups, where supergroup A and B strains are the most common in insects. Interestingly, multiple infections with strains of both supergroups are common, but how they interact with each other and the host is largely unknown.
+
+Evolutionary studies of endosymbiont communities are challenging, due to the fastidious nature of these bacteria. We have developed a novel method, based on multiple-displacement amplification (MDA), which has allowed us to sequence and assemble two new Wolbachia strains co-infecting the fruit fly Drosophila simulans, and representing supergroup A and B respectively.
+
+A comparative genomics study including additional strains revealed 24 and 33 supergroup-specific genes, putatively involved in host-adaptation processes. We are now investigating the genome expression of Wolbachia in D.simulans at the proteome level, in order to evaluate the role of the supergroup-specific genes.
+
+Recombination frequencies were high for strains of the same supergroup, while the inferred recombination fragments for strains of different supergroups were of short sizes. Surprisingly, the genomes of the co-infecting Wolbachia strains were not more similar to each other and did not share more genes than other A- and B-group strains that infect different hosts. This suggests that the supergroups are irreversibly separated and that barriers other than host-specialization can maintain distinct clades in recombining endosymbiont populations.
+
+Daniel Tamarit
+Uppsala University
+Department of Cell and Molecular Biology
+Sweden
+Comparative genomics of insect endosymbionts extracted from single hosts
+poster D23SY04PS0597
+
+Author(s): Tamarit, D, Klasson, L, Andersson, SGE
+
+Summary: 
+
+Insect endosymbionts represent the paradigm of bacterial adaptation to a host-dependent life and their study contributes to our understanding on microbial ecology and genome evolution. Their informative nature is nonetheless counterpoised to their inaccessibility. Here we demonstrate that single-host endosymbiotic communities can be studied from next-generation sequencing data after purification and whole-genome amplification of endosymbionts. We focus on the comparative genomic study of two samples belonging to pure Hamiltonella defensa sequences extracted from two individual aphids from the tribe Macrosiphini. The assembly of their genomes show that they are 1.8 and 2.0 Mb-long, respectively, and their gene content is shown to be similar to that of other H. defensa genomes. We used this new data to fully resolve the phylogenetic relationships between the known H. defensa and related enterobacteria, and to reconstruct the history of gene gains and losses in their evolutionary lineage. Finally, we performed an in-depth analysis of the genome content and evolution of the APSE bacteriophage, inserted in the H. defensa genomes, which has a remarkable ecological importance in protecting the aphid host against parasitoid wasp infections.
+
+Saria Otani
+University of Copenhagen
+Biology, Ecology and Evolution
+Denmark
+Culture-independent characterisation of the core gut microbiome of fungus-growing termites
+poster D23SY04PS0893
+
+Author(s): Otani, S, Mikaelyan, A, Nobre, T, Hansen, LH, Sørensen, SJ, Aanen, DK, Boomsma, JJ, Brune, A, Poulsen, M
+
+Summary: 
+
+Fungus-growing termites (subfamily Macrotermitinae, family Termitidae) live in an obligate mutualistic symbiosis with the fungus Termitomyces. All other termites rely on gut microbes for the breakdown of plant material and other forage, and it has been generally assumed that the association with Termitomyces has reduced the need for fermentative gut microbes after the Macrotermitinae became fungus-farmers. Only few studies have explored this in any detail and the identities, levels of interaction-specificity with the termite host, and consistency in bacterial communities between host species have remained largely unknown. Here, we employ bacterial 16S rRNA 454 high-throughput pyrosequencing to identify a potential core microbiome in the fungus-growing termites - i.e., a distinct set of bacteria present across lineages in the termite phylogeny. Comparative analysis of 9 fungus-growing termite species from 5 genera suggests that a core gut microbiome indeed exists, as all bacterial taxa of high abundance were present in all termite species examined. However, quantitative differences in microbiome composition between termite species and genera were also noticed, possibly associated with differences in substrate use and Termitomyces lineage reared. Our results are consistent with major changes in gut microbiomes having occurred when fungus farming evolved 30 MYA, followed by relatively modest elaborations in response to ecological conditions. This might help explain why neither the termites nor Termitomyces ever abandoned the symbiosis or teamed-up with another termite of fungal partner lineage.
+
+Sarah Polin
+Agrocampus Ouest / INRA
+IGEPP
+France
+Dynamics of protective symbiosis
+poster D23SY04PS0565
+
+Author(s): Polin, S, Leclair, M, Simon, J, Outreman, Y
+
+Summary: 
+
+Symbiosis, in which different species engage in prolonged and intimate associations, is gaining recognition as a ubiquitous feature of animal life. In many species, associations with symbiotic microorganisms are pervasive. These microbial associates are often heritable, transmitted with high fidelity from parent to offspring. Because host species and their symbionts share fates, inherited symbionts may exert beneficial effects on the hosts like conferring protection against adverse conditions. Among insects, aphids represent the best-studied case of protective symbioses. These sap-feeding insects may harbour one or several heritable bacterial symbionts, some of them providing protection against various natural enemies. To understand the dynamics of these protective symbioses in host populations, two barriers have to be investigated: the ability of microbial symbionts to infect a new host individual and the maintenance of symbionts infection over host generations. Aphids' biotic environment includes both the plants they feed on and the natural enemies they encounter (predators and parasitoids). Aphid individuals harbouring or not protective symbionts may co-occur on common plants, and horizontal transfers (transmission between host individuals) could potentially occur through direct contacts between aphids and/or the shared plant. Once present in a host population, the maintenance of protective symbionts depends on costs and benefits associated with such a symbiosis. In nature, selection pressures exerted by natural enemies may strongly fluctuate. By affecting host’s ecology through protective phenotype, the evolutionary relationship between a host and its protective symbionts would therefore be temporally and spatially dynamic. Horizontal transmission of protective symbionts and their maintenance in host populations, studied by various empirical approaches, will be presented to contribute to our understanding of symbionts’ dynamics in natural host populations.
+
+Sämi Schär
+University of Copenhagen, Faculty of Science
+Department of Biology
+Denmark
+Ecological consequences of different kinds and degrees of ant-butterfly symbioses
+talk D24SY04RT11:42R7
+
+Author(s): Schär, S, Pierce, NE, Vila, R, Nash, DR
+
+Summary: 
+
+Lycaenid butterflies show a wide continuum of symbiotic associations with ants, ranging from no to obligate interactions. Mutualistic caterpillars generally feed their ant symbionts with honeydew from their dorsal nectary organ, and in return receive protection from predators and parasitoids. At the other end of the virulence spectrum are species that exploit ants as inquiline social parasites or brood predators, often drastically reducing the fitness of the host ant colony. Here I will report on a project exploring the population level genetic consequences of this variety of lifestyles among lycaenids, using worldwide sample collections and a range of species. The focus is on how kind and degree of interactions with ants affect dispersal (transmission) and population size of the butterflies. Evolutionary theory suggests that virulent parasitic organisms have higher rates of transmission than mutualistic ones (with negative virulence). At the same time, virulence of the butterflies is expected to be negatively correlated with population size, allowing sustainable recovery of the host ant populations. Finally, the challenge of expanding classical population genetic studies beyond the level of congeneric populations will be addressed.
+
+Laura Florez
+Max Planck Institute for Chemical Ecology
+Insect Symbiosis Group 
+Germany
+Evolving as allies? Ecology and Evolution of the symbiosis between Burkholderia bacteria and tenebrionid beetles (Lagria spp.)
+poster D23SY04PS0382
+
+Author(s): Florez, LV, Kaltenpoth, M
+
+Summary: 
+
+As suggested by the recently coined term “holobiont”, the evolutionary history of an organism is determined by the selective pressures acting on a host and its symbionts as a whole, making it vital to consider both parts when addressing specific ecological and evolutionary questions. Among insects, the most diverse of animal groups, a considerable number of species live in close association with endosymbiotic bacteria. The association between beetles of the genus Lagria and bacteria identified as Burkholderia gladioli exhibits unique characteristics in the location and development of the symbiont-bearing organs in the host. Although found in the microbiota of other insects, this is the first reported case in which Burkholderia, a genus with extraordinary metabolic and ecologic versatility, are harbored in specialized structures not associated to the insect gut. In female beetles of three Lagria species, we have identified closely related Burkholderia symbionts. Molecular analyses on one of these species (Lagria hirta) confirmed the presence of the bacteria in the larva and on the egg surface. Future results from egg-surface sterilization experiments, which allow the generation of aposymbiotic beetles, will reveal valuable information on host fitness effects related to symbiont presence. To obtain further insights on putative functions of the endosymbionts, we established in vitro cultures of the beetle-associated B. gladioli and subjected them to phenotype microarrays and genome sequencing. The results suggest potential participation in nitrogen recycling, aromatic compound metabolism and other detoxification functions. Ongoing comparative analysis of these data with closely related free-living and pathogenic Burkholderia will reveal genome modifications that could result from the endosymbiotic lifestyle, as well as features that might be relevant for the evolution and maintenance of this association.
+
+Lee Henry
+University of Oxford
+Zoology Department
+United Kingdom
+Facultative symbionts as a eukaryotic horizontal gene pool
+talk D23SY04RT16:33R7
+
+Author(s): Henry, LM
+
+Summary: 
+
+Facultative or ‘secondary’ bacterial symbionts are very common in eukaryotes, particularly insects. While not essential, they often provide beneficial functions that can profoundly affect host biology. It has been hypothesised that secondary symbionts may form a “horizontal gene pool” shuttling adaptive genes amongst lineages in an analogous manner to plasmids and other mobile genetic elements in bacteria. However, the viability of this hypothesis rests upon a key unknown. We do not know if the distributions of symbionts across host populations reflect random acquisitions followed by maternal inheritance, or if the associations have occurred repeatedly in a manner that is consistent with a dynamic horizontal gene pool from which adaptations can be readily gained and lost in response to environmental changes. Here we test the importance of horizontal transfer using the phylogenetic and ecological distributions of secondary symbionts carried by 1104 pea aphids collected from 14 countries and 11 plant-associated populations. This reveals that not only is horizontal transfer common, it is associated with aphid lineages colonizing new ecological niches, such as switching to novel host plants or moving into new climatic regions. Moreover, aphids that share the same ecologies in different regions worldwide have independently acquired related symbiont genotypes, suggesting a central role of the symbionts in their host’s niches. In sum, our data reveals symbiont populations are dynamic with their distributions shaped by horizontal transmission and differential retention amongst aphid lineages, both of which are strongly influenced by ecological factors. We conclude that the secondary symbiont community forms a horizontal gene pool that is central to the adaptation and distribution of their insect hosts
+
+Camille Madec
+Uppsala University
+Ecology and Genetics
+Sweden
+Floral display differentially affects siring success and seed production in the insect-pollinated herb Primula farinosa
+poster D23SY04PS0628
+
+Author(s): Madec, C, Ehrlén, J, Ågren, J
+
+Summary: 
+
+A prominent floral display may be favoured by selection because it increases attractiveness to pollinators, but may be associated with a cost in terms of an increased risk of damage from seed predators and grazers. While the benefits of a large display may be expressed through both male and female function, the negative effects of herbivore attack may often appear only after pollen dispersal, and thus predominantly influence female reproductive success. The short-lived, hermaphroditic herb Primula farinosa is dimorphic for scape length and occurs as a long-scaped and a short-scaped morph. The long-scaped morph displays its flowers well above the ground, whereas the short-scaped morph displays its flowers close to the ground. We conducted a field experiment with genotyped plants at two sites in SE Sweden to examine whether male reproductive success of the long-scaped morph is greater than that of the short-scaped morph, and whether this may compensate for a higher risk of reduced seed production caused by interactions with seed predators and grazers. Female reproductive success was assessed by quantifying seed production and male siring success by genotyping offspring. At the first site, where grazing pressure and seed predation were high, the long-scaped morph sired significantly more offspring but produced fewer seeds than did the short-scaped morph. At the second site, the two morphs did not differ significantly in siring success or seed production. The results demonstrate that interactions with mutualists and antagonists can differentially affect selection on floral display through male and female function and produce a relationship between floral display and plant functional gender. Positive effects of a large floral display on male reproductive success may at least partly compensate for an increased risk of herbivore-mediated reduction in seed production.
+
+Sylvie Estrela
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Friends or foes: ecological relationship dictates spatial structuring in polymicrobial communities
+poster D23SY04PS1093
+
+Author(s): Estrela, S, Brown, SP
+
+Summary: 
+
+Polymicrobial communities usually form surface-attached and spatially structured consortia such as biofilms. These communities display a broad range of metabolic interactions, thereby setting the stage for the emergence of diverse ecological outcomes, spanning competition, exploitation, or mutualism. Our understanding, however, of how the mechanistic nature of interspecific interaction shapes spatial structure within these communities is still limited. Using an individual-based model of a two-species community growing on a surface and where resources are traded for detoxification, we explore the relationship between mechanism of interspecific interaction and emergence of spatial structure within the community. We show that both abiotic and biotic factors can affect the spatial organization of species within these polymicrobial communities, and in a manner that reflects the balance between the costs (interspecific competition) and benefits (need for help) of association. Understanding the mechanisms that shape the emergence of spatial structuring within multi-species communities may provide new insights into how to maintain beneficial polymicrobial communities (e.g. microbiota) and combat polymicrobial infections.
+
+Magdalena Witek
+Polish Academy of Science
+Museum and Institute of Zoology
+Poland
+Hotspots of social parasites of Myrmica ants
+poster D23SY04PS0104
+
+Author(s): Witek, M
+
+Summary: 
+
+Colonies of social insects, such as ant nests, represent a well protective environment, which is also a good sources of food. Many organisms have evolved to live within ant societies showing different degrees of interaction, ranging from mutualism to parasitism. Social parasites exploit the colony resources over a long period of time. Myrmica ants are hosts for larvae of lycaenid butterflies belonging to the genus Maculinea as well as for larvae of the syrphid fly Microdon myrmicae. Parasitic larvae spend most of their life cycle inside host nests and, depending on the feeding strategy, they prey on the ant brood or they are fed directly by ant workers. Although it is suppose that social parasites are much rare in comparison to their hosts there are places where a few species of social parasites co-occur exploiting the same pool of resources. The aims of this research were to assess factors influencing the infestation of Myrmica nests, as well as to study the host specificity pattern and parasite distribution in the social parasite community. The study was carried out at two sites inhabited by different social parasite communities, each comprising varying proportions of Maculinea teleius, M. nausithous, M. alcon and Microdon myrmicae. Data were collected twice, at the beginning and in the end of parasite larval development. The most important factor influencing the number of parasitic larvae was the size of ant nests. The biggest Myrmica colonies adopted more larvae and they also provided better conditions, which allow survival of the highest number of parasitic caterpillars. At both communities, competition among social parasites posed strong enough selection on M. teleius population to use Myrmica host species not exploited by other social parasites. Thus, in some cases not only the availability of host species but also the presence of other competitors might shape the coevolution between particular species of social parasites and their ant hosts.
+
+Panagiotis Sapountzis
+Section for Ecology and Evolution
+Department of Biology
+Denmark
+Identifying symbiotic gut-bacteria of fungus growing ants and mapping them on the phylogenetic tree
+poster D23SY04PS0487
+
+Author(s): Sapountzis, P, Boomsma, JJ, Schiøtt, M
+
+Summary: 
+
+Attine ants are good models for investigating complex biological interactions because every ant family is part of a symbiotic network with at least seven obligate participants: the fungus garden which is their primary food, Escovopsis fungus garden pathogens, cuticular Actinobacteria that produce antibiotics and their black yeast competitors, and two clades of nitrogen-fixing bacteria in gardens. However, there may be many more participants in the gut microbiome, but this community has essentially remained unexplored in spite of further mutualists being likely to occur there due to the highly specialized diets of the ants. We used 16S 454 pyrosequencing to identify gut bacteria in eight Panamanian genera of fungus-growing ants from both field and lab colonies. We complemented these data with FISH microscopy providing insight in the bacterial localization and possible roles of some of these bacteria in the ant-fungus mutualism. Mapping some of the prevalent OTUs on the attine phylogenetic tree showed a number of distinct patterns that appear consistent with major transitions in social and symbiont evolution.
+
+Daniel Engelmoer
+Faculty of Earth and Life Sciences of the Vrije Universiteit Amsterdam
+Department of Ecological Sciences
+Netherlands
+Intense competition between arbuscular mycorrhizal mutualists in an in vitro root microbiome negatively affects total fungal abundance
+poster D23SY04PS1238
+
+Author(s): Engelmoer, DJP, Behm, JE, Kiers, TE
+
+Summary: 
+
+The root microbiome is composed of an incredibly diverse microbial community that provides services to the plant, including nutrient provision, increased stress resistance and pathogen exclusion. A major question in rhizosphere research is how species in root microbiome communities interact with each other, and their host. In the nutrient mutualism between host plants and arbuscular mycorhizal fungi (AMF), hosts exchange carbohydrates for mineral nutrients from the fungal partner. While there is high variation in the benefits AMF species provide to their host plants, we still know very little about how this variation drives fungal community composition and competition within the root microbiome. Here we use an artificial root system (in vitro root organ cultures) to investigate competitive interactions between a previously characterized ‘high’ and ‘low’ quality AMF species, under standard and high phosphorus availability. We show that negative competitive interactions between AMF species reduces overall fungal abundance by nearly 5-fold in the host root, and that negative interactions are less strong in the extraradical mycelial network. We find that the high-quality species, Rhizophagus irregularis, consistently outcompete the lower quality species, Glomus aggregatum, both inside and outside the host root. However G. aggregatum is not completely eradicated and still is able to reduce the abundance of R. irregularis. Phosphorus availability did not change the outcome of these interactions. We suggest that in vitro root systems offer a novel platform to study ecological dynamics in the root microbiome under precisely controlled conditions.
+
+Ana Duarte
+University of Cambridge
+Department of Zoology
+United Kingdom
+Interactions between species shape parental investment in the burying beetle
+talk D24SY04RT11:18R7
+
+Author(s): Duarte, ALF, Welch, M, Kilner, RM
+
+Summary: 
+
+Parental care studies typically focus on intraspecific interactions occurring during reproductive events, such as between mates or between parents and offspring. Interactions between species are often neglected, yet feedbacks between species may shape parental investment. This is particularly important when parents breed on temporary resources for which there is high competition. The burying beetle Nicrophorus vespilloides breeds on small vertebrate carcasses which they bury and cover in antimicrobial exudates. Investment in antimicrobial exudates increases in response to carcass microbial load. Females investing more in antimicrobial exudates seem to protect their current brood at the cost of future reproduction. Beetles also carry phoretic mites that breed alongside them on a carcass. We investigate interactions between beetles, mites and microbes, and how these affect reproductive strategies in the burying beetle. Using breeding experiments we test whether mites have beneficial or detrimental effects on beetles breeding in carcasses presenting different levels of microbial challenge. To gauge the microbial challenges faced by wild beetles, we use metagenomics to assess the microbiome of prepared and unprepared carcasses. We found that females breeding with mites have lower levels of antimicrobial activity, potentially safeguarding future reproduction. However, male lifespan is reduced when breeding with mites, suggesting that interacting with mites is costly for males. Beetles radically change the microbiome of carcasses: prepared carcasses, relative to unprepared, show a shift towards overrepresentation of Gram negative bacteria. In conclusion, characterizing relationships between species in this system unravels ecological pressures shaping parental investment and trade-offs between future and current reproduction. Using a metagenomics approach we are able to identify key players in the bacterial communities which challenge carrion beetles.
+
+Rebecca Schulte
+University Osnabrueck
+Behavioural Biology
+Germany
+Intra-host parasite interactions and how they depend on the presence of a host
+poster D23SY04PS0429
+
+Author(s): Schulte, RD, Joy, B, Michaela, K
+
+Summary: 
+
+Hosts and parasites are expected to influence each others evolution due to antagonistic interactions, potentially leading to host-parasite coevolution. However, many studies focus on the interactions between hosts and parasites ignoring that that within one host, different parasite genotypes may interact and may thus feed-back on the coevolution between host and parasite. The interaction between parasite genotypes may range from competition between genotypes for limited host resources to cooperation for more efficient host exploitation. Using Caenorhabditis elegans as host and the bacterial microparasite Bacillus thuringiensis we found indications for diverse interaction strategies between the bacteria. While they produce the toxin as a public good, they also show resource competition and spiteful behaviour by the production of bacteriocins. However, it remains unclear how stable these strategies are over the course of time, i.e. when hosts have to be repeatedly infected and when hosts may also adapt to these parasite strategies. For this reason, we performed a laboratory-based selection experiment in which a mixture of B. thuringiensis genotypes either coevolved with each other and the host or they just coevolved with each other without a host being present. After 48 generations parasites that coevolved with hosts were found to have a higher pathogenicity, and to be genetically more diverse, indicating that diversity is advantageous when coevolving with a host. Parasites that evolved without hosts were more likely to inhibit the growth of other B. thuringiensis clones while at the same time being more resistant towards inhibition by other clones, indicating a stronger antagonistic interaction between bacteria when they are not coevolving with hosts but just interacting with each other. Taken together these data provide novel insights into the interactions between parasite genotypes, how they evolve and how they depend on the presence of a coevolving host.
+
+Odrade Nougué
+CEFE-CNRS
+Evolutionary Ecology
+France
+Is your niche really yours? Symbiotic microbes determine adaptation to the abiotic environment
+poster D23SY04PS0318
+
+Author(s): Nougué, O, Gallet, R, Chevin, L, Lenormand, T
+
+Summary: 
+
+The fundamental niche delineates the environmental conditions where a given species/genotype can thrive in absence of biotic interactions (competitor, predators). One central tenet of evolutionary ecology is that the abiotic niche of a genotype results from its adaptation to these conditions. However, symbiosis raises the alternative possibility that a host’s abiotic niche is instead determined by its interactor’s adaptation to the environment. We investigate this question with gut microbiota as the symbiotic interactor. Specifically, our experiments on Artemia franciscana, (a small branchiopod from hypersaline environments), reveal that reduced survival at low salinity is caused by poor growth of gut microbiota. This effect is only seen when A. franciscana are fed with algae: axenic A. franciscana fed on yeast do not exhibit a drop in survival at low salinity. We provide further evidence that the gut flora is involved in the digestion of algae (the main food source of Artemia), and that its population dynamics are strongly affected by salinity. These findings shed a new light on the ‘low salinity paradox’ in this genus: because Artemia have a non-salty hemolymph (they are derived from freshwater branchiopods), they would be expected to perform well at low salinity. We propose that their performance at low salinity is in fact not determined by salt-related physiology, but by microbiota-mediated digestion of algae.
+
+Krzysztof Kozak
+University of Cambridge
+Department of Zoology
+United Kingdom
+Macroevolution of Heliconiini butterflies is strongly correlated with diversification of Passifloraceae host plants
+poster D23SY04PS1214
+
+Author(s): Kozak, KM
+
+Summary: 
+
+The famously variable wing patterns of neotropical Heliconius butterflies (Nymphalidae: Heliconiini) advertise toxicity acquired by obligatory feeding on cyanide-rich Passifloraceae vines. Heliconius and the other nine genera of Heliconiini constitute the main group of Passiloraceae herbivores. Although studies of individual associations abound, a systematic analysis of this coevolutionary relationship has never been attempted. I present a comprehensive Bayesian phylogeny of New and Old World Passifloraceae based on publicly available data from 13 plastidial, mitochondrial and nuclear markers, comprising 15.5 kbp of sequence. The tree is compared to a previously estimated multilocus phylogeny of Heliconiini and both are dated using relaxed molecular clocks. The final dataset captures 65% of all the known Heliconiini- Passifloraceae relations. A distance analysis (ParaFit) demonstrates a strong signal of coevolution and shows that 45% of all the associations are due to evolutionarily conserved feeding preference and not recent host switches. Cost model simulations in Jane 4 also support the hypothesis of coevolution, suggesting frequent butterfly speciation events with and without subsequent host switches. Contrary to traditional views, I show that the number of host plants used by a heliconian depends strongly on the range of the species, but not on its systematic position. However, the extent of evolutionary conservatism in host plant choice varies between the major butterfly clades: Heliconius stand out from other genera as highly co-evolved. My study provides strong evidence for the diversification of Passifloraceae as a significant factor in the macroevolution of Heliconius, an emerging model group for evolutionary genomics. It also provides testable hypotheses for the ongoing studies of butterfly molecular adaptation to the host plants at the genome level.
+
+Momir Futo
+University of Münster, Institute for Evolution and Biodiversity
+Institute for Evolution and Biodiversity
+Germany
+Metagenomic analysis of gut bacteria from the red flour beetle Tribolium castaneum
+poster D23SY04PS0758
+
+Author(s): Futo, M, Mitschke, A, Rosenstiel, P, Schulenburg, H, Joop, G, Kurtz, J
+
+Summary: 
+
+The relevance of symbiotic microbial communities in the gut is increasingly being studied in a large number of animal species, from sponges to primates. Although the red flour beetle Tribolium castaneum represents a well-established experimental model organism for studying ecological, evolutionary and developmental topics, to the best of our knowledge, there are no studies on the composition of the gut microbiota of this insect. We examined the bacterial composition of the digestive tract of T. castaneum. For this, two approaches were combined: a culture-independent metagenomic analysis based on 16S rRNA sequences and a classical bacterial cultivation method. The comparison of bacterial 16S rRNA sequences between guts of larval and adult beetles revealed a generally lower diversity of bacterial genera, compared to other insect species. Moreover, the diversity of bacterial genera was higher in guts of adults than in larvae. As expected, cultivation of gut contents on different growth media confirmed only a minor part of the genera found in the metagenomic analysis. The information on bacterial communities in the gut of T. castaneum will be useful for future studies testing interactions between T. castaneum and its microbiota, potential symbionts and pathogens.
+
+Caldwell Hahn
+Rutgers University
+United States
+Microbiota of avian brood parasites shaped by foster parent species: a role in enhanced immunity of Cowbirds?
+poster D23SY04PS1424
+
+Author(s): Hahn, C, Oyler-McCance, S, Pepe-Ranney, C, Hall, E
+
+Summary: 
+
+Avian brood parasites that exploit many species (extreme host-generalists) have more effective immune responses than related, non-parasitic species. This innovative trait, enhanced immunity, has supported invasion of new habitats and exploitation of new host species with the result that the North American brown-headed cowbird has accomplished a continental-scale range expansion well beyond its ancestral range in the central American prairies. Given the symbiotic role of the gut microbiome in vertebrate immunity, we used next generation sequencing to examine gut and cloacal microbe communities of the cowbird and assess whether microbial inoculations from foster parent species may contribute to greater diversity of cowbird microbiomes. We found that indeed cowbird cloacal beta diversity (among individuals) is higher than beta diversity of a closely-related, non-parasitic blackbird species and that the single most significant predictor of cloacal diversity is gut diversity of the same individual. Our results are consistent with the idea that biological interactions between cowbirds and their facultative parent species contributed to higher diversity in cowbird microbiota at the cowbird community level, and this in turn has contributed to the evolution of cowbirds’ more robust immunity
+
+Alexandra Mushegian
+University of Basel
+Evolutionary Biology
+Switzerland
+Microbiota, vertically transmitted infections, and diapause in Daphnia
+poster D23SY04PS1326
+
+Author(s): Mushegian, AA, Ebert, D
+
+Summary: 
+
+The roles of communities of host-associated microorganisms (microbiota) in the function, ecology and evolution of their hosts are increasingly being demonstrated across different model systems. We have recently shown that in the water flea Daphnia, a well-studied model for many questions in evolutionary ecology, absence of microbiota significantly decreases survival, growth and fecundity compared to animals with normal microbiota. In this project, we examine the influence of the microbiota on the severity of an infection caused by a microsporidian that is vertically transmitted into diapausing eggs of Daphnia by raising infected and uninfected Daphnia with and without microbiota. Since previous observations suggested that daphnids emerging from diapausing eggs obtain their microbiota horizontally from the environment, we also specifically investigated the ability of several environmental bacteria to restore the normal functioning of infected and uninfected animals. This project addresses both the interaction of parasites and mutualists during the course of the organism's lifetime, and the particular challenges of recruiting and maintaining a functional microbiome faced by diapausing organisms.
+
+Ellie Harrison
+University of York
+Department of Biology
+United Kingdom
+No host is an island: the impact of multiple symbionts on pairwise interactions
+talk D23SY04RT15:12R7
+
+Author(s): Harrison, E, Truman, J
+
+Summary: 
+
+Host – symbiont interactions, though often studied as a pairwise process, rarely occur in isolation. In most cases individual host populations often interact, and potentially coevolve, with multiple symbiont populations concurrently. These pairwise coevolutionary interactions will be affected by the biotic environment in which they take place and vice versa, however the complexity of natural populations make these effects hard to unravel in the wild. Experimental evolution provides an excellent framework in which to examine the impact of these rival symbiotic interactions, as (co)evolutionary dynamics can be observed through time in communities of known biotic structure. Using this approach we examine the conflict between two otherwise independent symbionts of the same host; a parasitic lytic phage and a facultatively mutualistic plasmid, both native to the bacteria Pseudomonas fluorescens. We find that the presence of a second symbiont has major effects on the ecology and evolution of these interactions in both directions. Firstly we show that the presence of coevolving phages accelerates the loss of plasmids under conditions in which they are parasitic, but not mutualistic. Secondly we demonstrate that plasmid carriage alters the trajectory of bacteria-phage coevolution, favouring generalist phage-resistance strategies among hosts also carrying the plasmid. This study therefore shows the impact community complexity has on pairwise host – symbiont interactions, and in turn how these interactions can shape the community in which they are embedded.
+
+Celine Leroy
+IRD-UMR AMAP
+UMR AMAP
+France
+Plant performance disparities in tripartite mutualistic associations
+talk D23SY04RT16:09R7
+
+Author(s): Leroy, C, Lauth, J, Malé, PG, Ruiz-González, MX, Séjalon-Delmas, N, Dejean, A, Orivel, J
+
+Summary: 
+
+Ant-plants are interesting model systems of protective mutualisms in which the associated ants are assimilated as agents of constitutive indirect defense. The plants provide ants with nesting space and food in exchange for indirect benefits such as protection. The outcomes of the relationship might, however, vary according to the behavior of the interacting ant partners, thus differently influencing plant fitness. Here, we explore this framework by studying a two-to-one ant-plant mutualism between two closely-related ant species, Allomerus decemarticulatus and A. octoarticulatus, competing for the same host-plant species, Hirtella physophora. In these systems, both ant species specifically cultivate a third partner, an Ascomycota fungus. The fungus plays a structural role that the ants use it in constructing gallery-shaped traps to ambush prey and by penetrating into the plant tissue, the hyphae also enhance plant nutrition in both systems. We also examine how the behavioral ecology of these two ant species affects host-plant fitness. First, we show that differences in the efficacy of the predation strategy (ambushing and patrolling leaves) induce a variation in the intensity of the biotic defense, affecting plant growth and fruit production. Moreover, these two ant species impose reproductive costs on their host-plant by partially destroying floral buds. This castration behavior favors the production of more leaves for the host-plant (nesting space for the ants) thanks to the reallocation of plant energy from reproduction to growth. However, plants totally castrated experimentally produced notably smaller domatia and extrafloral nectaries. Such a decrease in the investment in myrmecophytic traits demonstrates the existence of inducible sanctions against too virulent castrating ants. Altogether, these results show how multiple, co-occurring symbiont species (and their traits) influence host-plant performance by modulating their context-dependent outcomes.
+
+Sylvain Charlat
+CNRS - University of Lyon 1
+Biometry and Evolutionary Biology Lab
+France
+Quantifying the Wolbachia turnover
+talk D23SY04RT18:57R7
+
+Author(s): Charlat, S, Simoes, P, Cariou, M, Bailly-Bechet, M, Mialdea, G, Sagot, M
+
+Summary: 
+
+Wolbachia bacteria infect millions of arthropod species, with diverse and extreme consequences, ranging from sex-ratio distortion, mating incompatibilities, to protection against viruses, including vector-born human pathogens. In contrast to other maternally inherited intracellular bacteria such as Buchnera in Aphids, Wolbachia is not engaged in long-term, evolutionary stable associations with its arthropod hosts, as evidenced by the variability of Wolbachia infections between closely related host lineages. Its current distribution is thus best seen as resulting from a dynamic interplay between infection acquisition, through horizontal transfer, and infection loss, possibly fuelled by Wolbachia-host evolutionary conflicts. Here we globally quantify this process by tracking recent acquisition / loss events among 3,600 arthropod lineages spanning 1,100 species from Tahiti and surrounding islands, that is, an estimated 70% of the local biodiversity. Reduced gene flow among islands deepens coalescence time, thus providing a mean to reveal recent changes in Wolbachia infection status. Using DNA barcoding approaches to characterise the host cytoplasmic lineages and their Wolbachia infections, we show that infected specimens within species (that is, differing by no more than 3% substitutions per site at the mitochondrial locus CO1) have an average 88% chance to share the same infection by descent. This probability sharply drops and reaches 22% when host mtDNA divergence ranges from 3 to 10%, that is, after approximately 3 to 10 million years of divergence. Fitting an epidemiological model to this data, we estimate that uninfected lineages acquire Wolbachia every 2 to 7 million years in average, while infections are lost every 1 to 3 million years.
+
+Sandra Andersen
+University of Oxford
+Zoology
+United Kingdom
+Specificity and stability of the Acromyrmex-Pseudonocardia symbiosis in changing environments
+talk D23SY04RT16:57R7
+
+Author(s): Andersen, SB, Hansen, LH, Sapountzis, P, Sørensen, SJ, Boomsma, JJ
+
+Summary: 
+
+Fungus-growing ants live in a complex symbiosis involving both fungal and bacterial partners. Among these are Actinobacteria of the genus Pseudonocardia that are maintained on the ant cuticle to produce antibiotics, primarily against a parasitic fungus of the garden symbiont. The symbiosis has been assumed to be a hallmark of evolutionary stability, but this notion has been challenged by culturing and sequencing data. We used 454 pyrosequencing of 16S rRNA to estimate the diversity of the cuticular bacterial community of the leaf-cutting ant Acromyrmex echinatior from Panama. We used field and lab samples of the same colonies, the latter after colonies had been kept under laboratory conditions for up to 10 years. We show that the bacterial communities are highly colony-specific and stable over time. The majority of colonies (25/26) had a single dominant Pseudonocardia strain and only two strains were found in the Gamboa population across 17 years, confirming an earlier study. The microbial community on newly hatched ants consisted almost exclusively of Pseudonocardia while other Actinobacteria were identified in lower abundances on older ants. These findings are consistent with recent theory predicting that mixtures of antibiotic-producing bacteria can remain mutualistic when dominated by a single vertically transmitted strain.
+
+Joanito Liberti
+University of Copenhagen
+Department of Biology
+Denmark
+Specificity and transmission of bacterial endosymbionts in Megalomyrmex social parasites and their fungus-growing ant hosts
+poster D23SY04PS1389
+
+Author(s): Liberti, J, Sapountzis, P, Hansen, LH, Sørensen, SJ, Adams, RMM, Boomsma, JJ
+
+Summary: 
+
+Communities or single lineages of bacterial symbionts are increasingly recognized as major fitness determinants of insects, and they are particularly likely to be mutualists when host diets are specialized and partially deficient. Some insect hosts have independently domesticated related microbes to meet similar challenges, but whether hosts with different life histories can maintain the same symbionts merely by sharing the same food niche has not been explicitly investigated. The nest-sharing symbiosis between Megalomyrmex social parasites (Formicidae: Solenopsidini) and their fungus-growing ant hosts (Formicidae: Attini) provides a unique opportunity to address this question, as both lineages rely on the same narrow fungal diet, but are only distantly related. We used a combination of 454 pyrosequencing and diagnostic PCR screening to map the diversity of bacteria associated with Megalomyrmex ants across their phylogenetic tree, which also contains clades of free-living generalist predators. We show that a specific group of Entomoplasmatales is associated with socially parasitic ‘thief-ant’, ‘agropredator’ and ‘guest-ant’ lineages of Megalomyrmex and appears to be derived from and always shared with the attine host ants. Moreover, the microbiotas of guest-ants appear to be completely dominated by a specific Bartonellaceae lineage, which can but does not need to be accompanied by the Entomoplasmatales bacteria. Bartonellaceae are native to the guest-ants and are secondarily transmitted to some (ca 40%) but not all host colonies. Our results suggest that host and socially parasitic ants contribute their own vertically transmitted bacteria to their permanent symbiosis and that these bacteria can be asymmetrically transmitted to the partner species via the fungus-garden that they share. The function of these endosymbionts remains unknown.
+
+Steven Parratt
+University of Liverpool
+Institute of Integrative Biology
+United Kingdom
+Symbiont Mediated Extinction: examining the spread and effects of a male-killer
+talk D23SY04RT17:45R7
+
+Author(s): Parratt, SR, King, KC, Hurst, GDD
+
+Summary: 
+
+The ubiquity of reproductive manipulating symbionts in arthropods makes them a key component in the ecology and evolution of natural populations. Yet questions surround the dynamics of symbiont spread within and between host populations, and the extent to which their phenotype influences host populations in ecological time remains enigmatic. Ultimately these two issues are linked, since the severity of the symbiont’s effect on its host population will be determined by its prevalence, which is a product of its transmission dynamics. These organisms, which manipulate the reproductive biology of their host to aid their own transmission, have a dramatic impact on key fitness traits of their host such as sex-ratio, reproductive behaviors and fecundity. They are therefore an important selection pressure on the host population and, by terminally reducing the effective population size through a combination of these effects, they have the potential to drive their host to extinction.
+
+Here we experimentally investigate the spread, maintenance and loss of a heritable male-killing symbiont under differing transmission regimes. We demonstrate that ecological conditions favouring the spread of the male-killing symbiont, Arsenophonus nasoniae, reduced the effective host population size through male-death, causing severe bottlenecks and eventually driving experimental wasp populations extinct. If reproductive symbionts can sweep to near fixation in local populations, such microbes can have catastrophic effects on the survival of their hosts in the field. This study highlights the potential importance of other symbionts or sex-ratio distorters in the persistence of natural populations.
+
+Christoph Vorburger
+ETH Zurich & Eawag
+Institute of Integrative Biology
+Switzerland
+Symbiont-mediated coevolution between aphid hosts and parasitoids
+talk D23SY04IT14:00R7
+
+Author(s): Vorburger, C
+
+Summary: 
+
+The present understanding of host-parasite coevolution is based on models that assume a direct genetic interaction between host and parasite. This assumption has been challenged by an increasing number of observations showing that hosts may rely on 'helpers' in the form of microbial endosymbionts for defence against parasites. Among the best-studied cases are aphids, in which much of the variation in resistance to parasitoids is due to facultative endosymbiotic bacteria. Using this example I illustrate how defensive endosymbionts can alter the reciprocal selection between hosts and parasitoids and thus mediate their coevolution. Heritable symbionts increase the variation available to selection, they make the host-parasite interaction more specific as a consequence of strong genotype-by-genotype interactions between the parasitoids and the aphids' symbionts, and they induce trade-offs, because protection by symbionts does not come for free to the host. Infected aphids suffer from a reduced lifespan and lifetime reproduction in the absence of parasitoids, and the magnitude of this costs is determined by genotype-by-genotype interactions between hosts and their symbionts. I show that this complex three-way interaction can lead to interesting genetic dynamics in simulations that assume some potential for lateral transfer of defensive symbionts, and I show empirically that this potential is indeed realised in aphid-parasitoid systems. Endosymbionts thus play a decisive role for the evolution of their hosts as well as for the evolution of their hosts' natural enemies.
+
+Jeffrey Joy
+Faculty of Medicine University of British Columbia
+Department of Medicine
+Canada
+Symbioses catalyses niche expansion and diversification
+talk D23SY04RT18:09R7
+
+Author(s): Joy, JB
+
+Summary: 
+
+Interactions between species are important catalysts of the evolutionary processes that generate the remarkable diversity of life. Symbioses, conspicuous and inherently interesting forms of species interaction, are pervasive throughout the tree of life. However, nearly all studies of the impact of species interactions on diversification have concentrated on competition and predation leaving unclear the importance of symbiotic interaction. Here, I show that, as predicted by evolutionary theories of symbiosis and diversification, multiple origins of a key innovation, symbiosis between gall-inducing insects and fungi, catalysed both expansion in resource use (niche expansion) and diversification. Symbiotic lineages have undergone a more than sevenfold expansion in the range of host-plant taxa they use relative to lineages without such fungal symbionts, as defined by the genetic distance between host plants. Furthermore, symbiotic gall-inducing insects are more than 17 times as diverse as their non-symbiotic relatives. These results demonstrate that the evolution of symbiotic interaction leads to niche expansion, which in turn catalyses diversification.
+
+Bram Vanthournout
+Aarhus University
+Department of Bioscience
+Denmark
+The bacterial community of social spiders
+poster D23SY04PS1299
+
+Author(s): Vanthournout, B, Bilde, T, Bechsgaard, J
+
+Summary: 
+
+The spider genus Stegodyphus is characterized by three independent origins of sociality where spiders form colonies by constructing a communal web. Mating occurs within the colony resulting in high levels of inbreeding and consequently in low genetic variation between colony members, moreover, colonies exhibit a highly female biased sex ratio. The persistence of these characteristics is challenging to explain from an evolutionary point of view, not in the least as the extent to which these traits are influenced by external factors remains unknown. Especially the bacterial community can potentially have profound effects on the evolutionary dynamics of sociality. Pathogenic bacteria can infect and spread rapidly in a colony due to aggregated group living and low genetic variation, explaining the observed, strong metapopulation dynamics in social species. The female biased sex ratio could in part be explained by the effects on reproduction by maternally inherited endosymbiont bacteria such as Wolbachia, Rickettisa,... As a first approach to elucidate this interaction we characterized the bacterial community using next generation sequencing techniques in social and solitary sister species. This provides us with a detailed overview of the bacterial diversity related to different levels of sociality and allows to identify key bacterial species that play a role in the evolution of sociality in spiders.
+
+Florian Menzel
+University of Mainz, Institute of Zoology
+Department of Evolutionary Biology
+Germany
+The evolution of cuticular hydrocarbon profiles in ant-ant associations
+poster D23SY04PS1176
+
+Author(s): Menzel, F, Schmitt, T
+
+Summary: 
+
+The insect cuticle is covered with hydrocarbons, which form complex profiles of up to 100 different substances. These hydrocarbons protect against desiccation, but also serve as recognition cues. Especially in social insects, cuticular hydrocarbon profiles carry information on species and colony membership, sex, and caste. They vary greatly between insect species, but the evolutionary cause for this diversity is largely unknown.
+In social insects, nestmates are recognized by their cuticular profile, and individuals with deviant profiles are attacked. Thus, ant species that are commensals, parasites or mutualists of other ant species need to adapt their chemical profiles to be tolerated. We investigated the influence of interspecific associations on chemical profiles in the ant genera Camponotus and Crematogaster. Associations between species of these two genera occur world-wide and vary in intimacy and interspecific aggression. Aggression between species varied with association type, and corresponded to different traits of the hydrocarbon profiles. In associations in which two species share a nest (parabioses), both species showed little interspecific aggression, and possessed long-chained hydrocarbons, coupled with a shift to methylbranched alkenes and alkadienes. In a Crematogaster-Odontomachus parabiosis, interspecific aggression was higher and the involved Crematogaster species exhibited shorter hydrocarbons. Camponotus species in trail-sharing associations possessed unusually simple profiles, or ones with high chain lengths or high amounts of n-alkanes. We also found evidence for physiological and climatic constraints on hydrocarbon profiles. Notably, chemical diversity in parabiotic species was extremely high, suggesting a rapid evolution of profiles, and possibly triggering speciation. Overall, associated ant species exhibit cuticular hydrocarbon profiles that are shaped by the need to be tolerated, but they employ different chemical tolerance strategies.
+
+Michael Thomas-Poulsen
+University of Copenhagen
+Department of Biology
+Denmark
+The gut microbiome of fungus-growing termites expresses two orders of magniture more decomposition genes than the termites of their fungus-garden symbiont
+talk D23SY04RT18:33R7
+
+Author(s): Thomas-Poulsen, M
+
+Summary: 
+
+Fungus-growing termites (Macrotermitinae, Blattodea) live in mutualistic symbiosis with a Termitomyces fungus (Tricholomataceae, Basidiomycotina), which aids in the degradation of plant material and is reared on a special substrate (the fungus comb) maintained by the termites through the incorporation of plant material after passage through the termite guts. The association with crop fungi has made this termite sub-family one of the major decomposers in the Old World tropics. It has been suggested that also termite gut microbes may contribute carbohydrate-active enzymes (CAZymes) that aid in the breakdown of plant substrate, but verification of this contention has only recently become technically feasible. We have sequenced a Macrotermes natalensis genome (1.3 GB), the associated Termitomyces fungal genome, and a set of caste-specific gut microbiomes of termites to characterize bacterial CAZymes contributions of microbiomes relative to the potential of termites and fungus. We identified 86 termite and 211 Termitomyces CAZyme genes, but found surprisingly high numbers of bacterial CAZyme genes in the worker and soldier gut microbiomes (13903 and 11902, respectively). The CAZymes of bacteria and Termitomyces appear to be complementary, suggesting division of labour between the fungal and bacterial symbionts, with gut bacteria decomposing mostly short chain sugars after Termitomyces has broken down the recalcitrant larger carbohydrates. The gut microbiome of the queen was markedly different and almost completely devoid of plant decomposition enzymes, suggesting a high-nutrient diet consisting of only Termitomyces fungus material. These results shed completely new light on the fungus-growing termite symbiosis, reducing the role of termites to being merely the managers of multicomponent microbial/fungal bioreactor systems in their gardens and guts.
+
+Philipp Dirksen
+Zoological Institute, University of Kiel
+Department of Evolutionary Ecology and Genetics
+Germany
+The influence of naturally associated microbes on Caenorhabditis elegans life history
+poster D23SY04PS0550
+
+Author(s): Dirksen, P, Rosenstiel, P, Schulenburg, H
+
+Summary: 
+
+More or less all organisms, ranging from sponges to humans, associate with an often extremely diverse microflora. Microbial associations are known to be of immense importance for a host's development, immunity, and life history - all biological fields where the bacteriovorus nematode Caenorhabditis elegans has been studied with great success. On the other hand, laboratory cultures of the worm are axenic or monoxenic by default and we lack basic knowledge about its natural ecology; we even do not know what the nematode feeds on in nature. As a result, complex microbial interactions have mostly been created artificially by studying human pathogens or simply ignored. To rectify this discrepancy, we here used 16S rDNA deep sequencing of natural samples in combination with 16S rDNA Sanger sequencing of culturable bacteria to demonstrate a rich and diverse microflora associated with C. elegans. The prominent identified orders included Bacteroidetes (Flavobacteriales, Sphingobacteriales), Proteobacteria (Rhizobiales, Pseudomonadales, Enterobacteriales) and Firmicutes (Lactobacillales). We furthermore characterized the exact relationship between individual bacterial strains and the nematode host, using fitness assays, behavioral tests, differential interference contrast microscopy, and fluorescence in situ hybridization. Our analysis revealed high nematode fitness on Gammaproteobacteria, whereas Bacteroidetes and Proteobacteria were over time generally more attractive than Actinobacteria and Firmicutes. Our project combines the power of C. elegans as a model organism with its natural ecology to establish a tractable genetic model system for the in-depth analysis of naturally occurring host-microbiota interactions.
+
+Jacobus Boomsma
+University of Copenhagen
+Biology
+Denmark
+Using molecular and ‘omics’ approaches to understand the evolutionary complexities of ant fungus-farming
+talk D24SY04IT10:30R7
+
+Author(s): Boomsma, JK
+
+Summary: 
+
+The attine fungus-growing ants have become true model systems for the study of symbiotic adaptations now that high-quality reference genomes are increasingly available. This has given remarkable opportunities for pursuing molecular approaches to make connections between phenotypic traits and the expression of specific genes. High throughput sequencing techniques are now also allowing exploration of the diversity of additional symbiont communities, although the reconstruction of their function is challenging when they cannot be cultured. I will give an overview of recent developments and identify likely directions of future work.
+
+Julien Martinez
+University of Cambridge
+Department of Genetics
+United Kingdom
+Variation in Wolbachia-mediated antiviral protection and effects on viral titers across the Wolbachia phylogeny
+poster D23SY04PS0238
+
+Author(s): Martinez, J, Bauer, S, Jiggins, F
+
+Summary: 
+
+In the last decade, endosymbionts has been shown to play an important role in mediating interspecific interactions. One example is the bacterium Wolbachia, a widespread symbiont in arthropods. Wolbachia infection has been correlated with antiviral protection in different host species, however this conferred phenotype has been proved to be highly dependent on the Wolbachia strain as well as to lead to different outcomes regarding viral titers and possibly transmission of viruses. Indeed, in some cases, protection is associated with resistance, that is a decrease in viral accumulation, whereas in others, viral titer is not affected despite increased survival of the host, suggesting that mechanisms of tolerance are involved. Here we investigated the protective phenotype and associated viral titers in a large range of Wolbachia strains originating from several Drosophila species. One the one hand, this study allows us to assess to what extent protection has contributed to the evolution of both Wolbachia and its host. On the other hand, patterns of resistance/tolerance across the Wolbachia phylogeny should give us some insight about how Wolbachia may affect the evolution and spread of viruses in host populations. Finally, our results will be discussed in the light of available and coming wolbachia genomic data to better understand what genes may be involved in the protection.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

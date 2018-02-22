@@ -1,0 +1,560 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY20: Mechanisms of trade-offs
+ Abstracts list Schedule Description
+View only talks or posters
+Özden Baltekin
+Uppsala University
+Cell and Molecular Biology
+Sweden
+A single molecule assay to study the fitness effects of leaky gene expression in individual cells
+poster D23SY20PS1451
+
+Author(s): Baltekin, Ö, Leroy, P, Elf, J
+
+Summary: 
+
+Most of the adaptive substitutions that are revealed in evolution experiments are in regulatory sequences. In many cases, the expression levels are under directional selection. The lac operon in Escherichia coli is a good model system to investigate the fitness effects of the different regulation precisions (tight or leaky regulation) under different conditions. LacI, the repressor of the lac operon, can bind to three different operators with different binding strengths (O1>O2>O3). Yet, LacI can bind even stronger to the artificial operator sequence, Osym. Thus, the evolutionary optimal case may not necessarily be the tightest regulation of the lac operon. Our hypothesis is that the individuals with lac operon leakage will have a fitness disadvantage due to the cost of the unnecessary expression of lac operon when there is no lactose to utilize, but if lactose suddenly becomes available those individuals will benefit from previous leakage and have a higher fitness than the individuals with no leakage. Bulk growth assays can only assess fitness differences that are due to differences in genotype. Unless one looks at the single cell level it is not possible to reveal the contribution of stochastic aspects of the phenotype to observed fitness differences between isogenic populations. We do this by correlating leakage events in the lac operon of an individual E. coli in lactose free medium, with its fitness before and after the switch to lactose medium. The leakage events are quantified using single molecule fluorescence microscopy where we can count the number of lactose permease molecules per cell (Choi 2008). The leakage in expression is monitored in cells growing in a microfluidic turbidostat (Ullman 2013). Here, we can follow growth of thousands of individual cells with high time resolution and switch between different growth media. This enables us to relate minute differences in fitness to the underlying stochastic differences in gene expression.
+
+François Criscuolo
+CNRS
+IPHC DEPE
+France
+Ageing as a trade-off mechanism: what telomeres actually tell us?
+poster D23SY20PS0130
+
+Author(s): Criscuolo, F, Reichert, S, Stier, A, Zahn, S, Massemin, S
+
+Summary: 
+
+Telomeres are chromosome ends that protect the cell’s genomic integrity. Telomeres are lost at a variable rate as a result of the imbalance between pro- (oxidative stress) and anti-erosion processes (telomerase), and once critically shortened, telomeres can trigger cell death (apoptosis). Consequently telomere function has been one of the main cell mechanisms studied in ageing biology. Recently, it has been proposed that telomeres might be critical for our understanding of life-history trade-offs in general. Telomere length is heritable and at the organism level telomere length has been shown to correlate with individual longevity, first in humans but also in wild animals, appearing as a strong proxy of individual survival. Furthermore, telomere length was recently proposed to reflect individual phenotypic quality in terms of high rates of reproduction. All these studies suggest that telomere dynamics may be one of the key genetic determinants explaining the individual variability in ageing and fitness. However, the nature of the determinants leading to changes in telomere length early in life, during development, and of the mechanisms that link telomere length to fitness remain unknown. In this talk, I will present some of the data collected by our group which is studying how telomere length may be implicated in life-history trade-offs. For this I will show how an experimental manipulation of the cost of reproduction in zebra finch may affect telomere loss of breeders, but also how this brood size manipulation has affected telomere length in chicks. In a second step, I will show how telomere lengths are varying in early life in two wild species, great and coal tits, and how these variations may be link to local adaptation to favour chick growth and survival. Finally, as a short perspective, results of a pilot study on telomerase activity will propose a hypothetical pathway by which telomere biology may influence individual fitness.
+
+Andrea Di Nisio
+University of Padova
+Department of Biology
+Italy
+Big houses, big cars, superguppies and the costs of producing sperm
+poster D23SY20PS1228
+
+Author(s): Di Nisio, A, Pilastro, AA
+
+Summary: 
+
+Trade-offs between fitness related traits are expected to generate negative genetic covariances, unless genetic variance for resource acquisition exceeds that for resource allocation. For what concerns post-copulatory sexual selection, producing competitive ejaculates is costly, however, and it can be attained at the expenses of traits involved in mate acquisition and/or survival, because resources are limited. Alternatively, under a good-sperm scenario, males that are better equipped for winning sperm competition should also show higher survival and, more generally, perform better than poor sperm competitors. In the guppy (Poecilia reticulata) the number of sperm inseminated is the most important determinant of male fertilization success, therefore to evaluate the evolutionary consequences of male investment in sperm production we performed a bidirectional artificial selection experiment for sperm production in guppies. Contrary to expectation, males selected for high sperm production not only transferred more sperm per copulation, but also grew faster, attained a larger body size, were more colourful, sexually more active and more attractive to females. Sperm velocity and morphology was not affected, but sperm viability increased with sperm number. All the other measured male and female fitness-related traits were unaffected by sperm production. These results suggest that, at least in lab conditions, some guppy genotypes perform better in most life-history traits, acquiring more resources than others.
+
+Stephen Stearns
+Yale University
+Department of Ecology and Evolutionary Biology
+United States
+Comparing phenotypic, quantitative genetic, and genomic approaches to measuring tradeoffs in a contemporary human population
+talk D23SY20IT10:30R4
+
+Author(s): Stearns, SC
+
+Summary: 
+
+In women born before 1940 in Framingham, Massachusetts, there was a significant negative correlation between number of children ever born and lifespan. Each additional child was associated with a reduction of about one year of life. Analysis of the 1500+ pedigrees containing 15,000+ people with an animal model that partially controlled for cultural and environmental effects yielded a large, significant, negative genetic correlation between children ever born and lifespan. A genome wide association study that looked for genes that alter the slope of the relationship between those two traits discovered several genes, some of which have previously been identified as involved in cancer. One, EOMES, has the sort of function one would expect of a gene that influences a tradeoff: its product affects many different processes. Statistical models with and without education as a covariate yielded results consistent with the idea that education is a cultural mimic of antagonistic pleiotropy: increases in level of education are associated with fewer children and longer life.
+
+Siim Kahar
+University of Turku
+Department of Biology
+Finland
+Comparison of oxidative stress related enzyme activities in two Atlantic salmon (Salmo salar L) populations: Insight to the trade-offs between physiology and survival during early life stages
+poster D23SY20PS0256
+
+Author(s): Kahar, S, Vuori, KA, Vähä, J, Vasemägi, A
+
+Summary: 
+
+Stressful conditions experienced by individuals during their early development might have long-term consequences on various fitness-related traits and ultimately their survival. Moreover, oxidative stress (OS) has been identified as a significant physiological constraint affecting trade-offs between reproduction, growth and survival. Several studies have also suggested the level of OS to be heritable, yet very little is known about the relationships between OS, fitness and survival of natural populations in wild habitats. Here, we measured the activity of three OS related enzymes: glutathione reductase (GR), glutathione-S-transferase (GST) and superoxide dismutase (SOD) during early life stages in two Atlantic salmon populations (in total 52 half-sib families) and evaluated the importance of OS related enzyme activities to survival and growth of juvenile fish in multiple natural environments. We identified significant differences in measured enzyme activities, growth rates and survival both within and between populations. In addition, we found that significant heritability exists for GR in Narva (h2=0,26; 95%CI 0,09-0,55) and GST activities in Kunda (h2=0,28; 95%CI 0,13-0,61) and in Narva (h2=0,75; 95%CI 0,51-0,91) but not for SOD. We conclude that the inter-population differences in OS during early life stages may explain significant proportion of variation in fitness and survival in wild.
+
+Samuel Faria
+University of Sao Paulo
+Biology
+Brazil
+Crab osmoregulation and habitat diversification: does salinity drive physiological evolution?
+poster D23SY20PS0826
+
+Author(s): Faria, S, Thurman, C, McNamara, J
+
+Summary: 
+
+The colonization of fresh water and dry land reflects physiological transformations that govern water and ion movements between the body fluids and surrounding medium, axiomatically linking osmoregulatory physiology and habitat diversification. Since monophyletic groups store biological information retrievable by adding a phylogenetic component to comparative studies, we examine the evolutionary history of osmoregulation in fiddler crabs (Brachyura, Uca). For each osmoregulatory trait examined, we evaluate: (i) phylogenetic pattern, expressed by the relationship between trait variation and phylogeny, employing an autocorrelation analysis using Moran's I coefficient; (ii) the best evolutionary fitting-model, testing Brownian motion (pure random evolution) and Ornstein-Uhlenbeck (random evolution under stabilizing selection) processes; (iii) the ancestral states, to suggest the transformational series, by squared-change parsimony analyses; and (iv) we test the hypothesis of osmoregulatory evolution associated with salinity using phylogenetic regressions. The traits disclosed suggest a directional or piecewise pattern of change over time, revealing strong phylogenetic structuring: for the first pattern, the significant and positive phylogenetic signal among closely related species, particularly at the species level, falls off with phylogenetic distance; for the second pattern, there is a linear change between significant positive and negative phylogenetic signal with phylogenetic distance, showing strong physiological plasticity. The evolution of most osmoregulatory traits follows the Ornstein-Uhlenbeck model: there is significant, strong stabilizing selection that constrains the osmoregulatory history, forcing each trait toward a central value of variation. At more inclusive levels, osmoregulatory ability and salinity are associated, demonstrating a role for both salinity and shared inheritance in driving the evolution of osmoregulatory physiology in fiddler crabs.
+
+Bram Knegt
+Faculty of Science at the University of Amsterdam
+Institute for Biodiversity and Ecosystem Dynamics
+Netherlands
+Discovering life-history trade-offs with suppression of tomato defence in the invasive spider mite Tetranychus evansi
+poster D23SY20PS0720
+
+Author(s): Knegt, B, Egas, M, Sabelis, MW
+
+Summary: 
+
+The herbivorous spider mite Tetranychus evansi is an invasive species specialized to feed on Solanaceous plants, including tomato. In its native range (South America) it is not considered as a pest, but in Africa and Southern Europe major crop losses have been recorded due to T. evansi outbreaks. Apart from predator release, two important factors appear to facilitate the spread of this species: (1) its ability to suppress tomato plant defense to below control levels, and (2) its very high population growth rate. Related species, such as the generalist two-spotted spider mite T. urticae, also have a high population growth rate, but cannot suppress tomato defence to the same extent as T. evansi.
+
+Plants protect themselves in various ways against herbivores by producing toxins or attracting natural enemies. Therefore, suppressing these defences can benefit herbivores, and it has been shown that some herbivores indeed do so. However, T. evansi downregulates the defence of its host plant to levels that fall even below house-keeping levels of healthy unattacked plants. Downregulating host plant defence to below house-keeping levels is beneficial for herbivores, but – perhaps surprisingly - not observed before in nature. Given that herbivores do suppress plant defence but only to a limited extent, we hypothesize that suppression of host plant defense trades off with life history traits such as oviposition rate or making dense web to defend a suppressed-defence part of the host plant against competitors.
+
+We are currently establishing T. evansi lines that differ in their ability to suppress tomato defense through crossing mites from different geographical locations and subsequent inbreeding, and through experimental evolution. Measurements of life-history characteristics can provide insight into genetic trade-offs for tomato defense suppression. In addition, competition experiments allow us to assess the relative fitness of different T. evansi strategies.
+
+Sandra Hangartner
+University of Melbourne
+Genetics
+Australia
+Does increased stress resistance reduce the ability to deal with biotic challenges? A test through selection experiments on Drosophila melanogaster
+poster D23SY20PS1075
+
+Author(s): Hangartner, SB, Hoffmann, AA
+
+Summary: 
+
+Humans impact ecosystems in a multitude of ways, increasingly exposing contemporary organisms to abiotic and biotic stressors. Environmental stress has strong negative impacts on biological diversity, as species can go locally extinct, if they are unable to migrate to a more benign habitat or to overcome the stressor via plastic or evolutionary adaptation. Several factors are thought to constrain adaptive evolution, such as gene flow, lack of genetic variation and genetic or functional trade-offs. Despite trade-offs being postulated as playing a central role in evolutionary theory, interactions between abiotic and biotic stress resistances have rarely been investigated in stress adaptation. This project aims to test for trade-offs between abiotic and biotic stress resistances in the well-established Drosophila melanogaster study system. Selection experiments on stress resistance provides an opportunity to study evolutionary constraints resulting from genetic trade-offs between traits. Lines that have been selected for different abiotic stressors (heat, cold and desiccation) will be tested for costs and benefits, whereas performance will be tested in outdoor cages under different biotic stressors (competition, predation, parasites) and under different climatic conditions (hot, moderate and cold days). These experiments provide a test of whether trade-offs between abiotic and biotic stress resistances are potential constraints to stress adaptation, which is crucial to better understand the evolutionary potential of contemporary populations.
+
+Alexandre Jousset
+Georg August University Göttingen
+Institute for Zoology
+Germany
+Evolution of food preferences drives pleiotropic fitness trade-offs in bacteria
+talk D23SY20RT11:18R4
+
+Author(s): Jousset, A, Fernkorn, F, Lapouge, K, Stefan, S
+
+Summary: 
+
+Bacteria face trade-offs between life history strategies, among which the choice of a generalist or specialist resource use strategy has important effects on fitness. Bacteria bypass this problem by prioritizing nutrient utilisation. They highly specialise on preferred nutrients when available, and invest in a generalist way of life when only second-choice nutrients are left. Here we show that bacteria rapidly evolve new food preferences as an adaptation to a new substrate. We follow the expression of the small regulatory RNA crcZ in Pseudomonas fluorescens which is expressed in absence of preferred resources. It activates the translation of genes involved in alternative resource use. We show that the substrates inhibiting crcZ levels rapidly change when bacteria are confronted with second-choice subtrates, indicating that bacteria evolve new preferences. We further show that these altered food preferences affect the use of complex substrates by bacteria as well as their coexistence with competitors. Evolution of food preferences by bacteria appear therefore as efficient strategy to adapt to new conditions by readjusting the regulation of genes linked to substrate uptake and catabolism.
+
+Foteini Spagopoulou
+Evolutionary Biology Center, Uppsala University
+Department of Animal Ecology
+Sweden
+Evolution of male reproductive ageing under differential risk of death: the role of condition-dependent mortality
+poster D23SY20PS1120
+
+Author(s): Spagopoulou, F, Chen, H, Maklakov, A
+
+Summary: 
+
+Ageing is observed in most organisms and is an important aspect of their life histories. However, how ageing evolves is not fully understood. The classic evolutionary theory of ageing posits that high extrinsic mortality leads to evolution of rapid ageing and therefore shorter intrinsic lifespan. On the other hand, according to a novel theory, when mortality is condition-dependent and surviving cohort is not a random sample of the starting population, which is likely to be the case in nature, the classic prediction does not hold and increased mortality can result in postponed onset of ageing. To increase our understanding of how different types of extrinsic mortality may influence the evolutionary trajectories of ageing, we have previously conducted an experimental evolution study, using the nematode Caenorhabditis remanei as a model system. This study allowed us to disentangle the effects of mortality rate (High and Low) and mortality source (Condition-dependent and Random) on the evolution of intrinsic lifespan. We observed reduced longevity under high random mortality, in accordance with the classic prediction. However, when mortality was condition-dependent, high mortality resulted in the evolution of increased lifespan supporting the novel theory and highlighting the importance of mortality source. Surprisingly though we found that there was no trade-off between longer lifespan and reproduction in females. In the present study we examined the possible existence of such trade-off in males. We found that males evolving under condition-dependent mortality had lower reproductive performance, suggesting a trade-off between stress resistance and reproduction. However, these males enjoyed a lower rate of reproductive ageing than males evolving under random mortality. Our study suggests that condition-environment interactions play a key role in evolution of male reproductive ageing.
+
+Howard Rundle
+University of Ottawa
+Department of Biology
+Canada
+Experimental insight into condition-dependent trait expression: near-orthogonal effects of environmental vs. genetic manipulations in Drosophila melanogaster
+talk D23SY20RT16:09R4
+
+Author(s): Rundle, H, Mallet, M, Arbuthnott, D, Pawlowsky-Glahn, V, Egozcue, JJOSE, Bonduriansky, R
+
+Summary: 
+
+Differences in condition among individuals arise from both genetic and environmental variance in their acquisition and/or assimilation of resources. Such variation in condition can weaken or otherwise obscure the physiological trade-offs among competing life history traits that are thought to necessarily arise from the allocation of finite resources. The nature and extent of among-individual variation in condition will therefore determine whether life history traits co-vary positively or negatively and is therefore central to our understanding of life history trade-offs. Our understanding of condition-dependent trait expression derives almost exclusively from environmental manipulations, yet it is the underlying genetic basis of condition, and the pleiotropy this generates among life history traits, that may have fundamental evolutionary consequences. A comprehensive understanding of life history traits, their trade-offs, and their evolution, will therefore require a detailed knowledge of the impacts on trait expression of both environmental and genetic variation in condition. Here we use a two-way factorial design to provide some of the first experimental data comparing the effects of diet and mutation-accumulation (i.e. environmental and genetic) manipulations of condition on a suite of sexual displays (epicuticular pheromones) and morphological traits in Drosophila melanogaster. Our results reveal that condition is multi-dimensional, with the effect of the environmental manipulation being almost orthogonal to that of the genetic manipulation for both sets of traits in both sexes. Only body size showed concordant effects of diet and mutation accumulation. This suggests that environmental manipulations alone may provide misleading insight into condition-dependence and its effects on the expression, evolution, and trade-offs among competing traits.
+
+Michael Griesser
+University of Zurich
+Anthropological Institute
+Switzerland
+Experimental manipulation of reproductive costs during the pre-breeding period reveals condition depending trade-offs in a long-lived, social bird species
+poster D23SY20PS0925
+
+Author(s): Griesser, M, Wagner, G
+
+Summary: 
+
+Life-history theory predicts that lifespan is a key predictor of parental investment decisions. A key tool used to investigate parental investment trade-off in birds are clutch-size manipulations, revealing that an increased parental effort reduces survival of male but not female breeders. However, it remains often unclear if intra-generational costs are traded in against inter-generational costs (i.e. if parents pass on costs of increased reproductive investment to their offspring or pay the cost themselves). Here we investigate this core trade-off of life-history theory by experimentally lowering the condition of female breeders before the onset of the breeding season in Siberian jays (Perisoreus infaustus), a long-lived bird species where some of the offspring remain with their parents for up to three years. We injected female breeder with brucella abortus (BA) solution, which lowers the condition of birds for 2-3 weeks, or saline solution in two years with contrasting climatic conditions during the breeding season. BA injections had no effect on any breeding parameter in a favourable year with high breeding success. In an unfavourable year, however, BA injected females laid fewer and smaller eggs, and consequently, only fledged in average 0.30±0.30 offspring, compared to 2.5±0.36 offspring in saline injected females. We found no difference in offspring quality, and subsequent survival of retained offspring and females across the treatments and years. Thus, females in long-lived bird species can reduce the number of offspring under unfavourable conditions, but still produce high quality offspring. These results demonstrate the value of evolving variability in life-history traits in unpredictable environments.
+
+Gerrit Joop
+University of Giessen
+Institute for Phytopathology and Applied Zoology
+Germany
+External vs. internal immune defence in the Red Flour Beetle (Tribolium castaneum)?
+poster D23SY20PS1098
+
+Author(s): Joop, G, Roth, O, Schmid-Hempel, P, Kurtz, J
+
+Summary: 
+
+The red flour beetle, Tribolium castaneum, secretes quinones that control the microbial flora in the surrounding environment. These secretions act as an external immune defense that provides protection against pathogens. At high concentrations, however, these secretions are harmful to the host itself, and selection may thus have optimized the level of expression under natural conditions. Here we show that the expression of external immunity responded to selection during experimental evolution within a few generations. At the same time, one component of internal immune defense (phenoloxidase activity) was compromised in beetles selected for either high or low external defenses. Protection against a natural pathogen was lacking in flour obtained from beetle lines selected for low amounts of secretions. Altogether, this suggests that external and internal immune defenses work together efficiently under natural conditions, while every manipulation on the side of external immune defense comes with costs to the internal immune defense.
+
+Natalie Cooper
+Trinity College Dublin
+School of Natural Sciences
+Ireland
+Extrinsic mortality and life span in birds and mammals
+poster D23SY20PS0302
+
+Author(s): Cooper, N
+
+Summary: 
+
+Life history theory predicts that species experiencing high extrinsic mortality will, on average, evolve shorter life spans than species that experience low extrinsic mortality. Perhaps the most striking evidence for a link between extrinsic mortality and life span comes from comparing bats with non-volant mammals. On average, bats live 3.5 times longer than similarly sized placental mammals, presumably because they can fly and thus more easily escape predation. However, it is hard to test this as bats are the only volant mammals. In addition, flight is not the only way of reducing the risk of extrinsic mortality; other ecological factors may also be important such as activity patterns, foraging environment, and group size. A solution to this is to investigate correlates of longevity across all endotherms. Here we aim to determine which ecological variables related to rates of extrinsic mortality (specifically flight capability, activity pattern, foraging environment and fossoriality), are most important for predicting longevity in endotherms. We split species into volant (most birds and bats), and non-volant subgroups, because we expect sources of extrinsic mortality, and thus correlates of longevity, to differ in these two groups. We test our predictions on a large dataset (N = 1350 species) and use state-of-the-art phylogenetic comparative analyses (including a recently published bird phylogeny). Our results confirm that volant species live longer than non-volant species after controlling for body mass, but also show that the effects of body mass on longevity in these groups differ substantially. We also find that for volant species, life span is determined by when a species is active, whereas for non-volant species, life span is determined by where a species is active. This is the first time such an analysis has been conducted across such a broad range and number of species, and suggests that with respect to life span, bats should be considered birds.
+
+Josefa Gonzalez
+Institute of Evolutionary Biology (CSIC-Universitat Pompeu Fabra)
+Spain
+Fitness effects of a transposable element insertion depend on environmental conditions in Drosophila melanogaster
+poster D23SY20PS1131
+
+Author(s): Gonzalez, J, Guio, L
+
+Summary: 
+
+Understanding how adaptation works is one of the major questions in Evolutionary Biology. Towards answering this question, we identified recent Transposable Element (TE)-induced adaptations in Drosophila melanogaster and we are currently connecting them to their molecular mechanisms and fitness effects. Specifically, the TE insertion named Bari-Jheh, is present at high frequency, but not fixed, in all the populations analyzed and shows signatures of a selective sweep. Bari-Jheh is inserted in the intergenic region between Jheh2 and Jheh3 genes encoding for Juvenile Hormone Epoxy Hydrolase. Previous results show that Bari-Jheh is associated with a down-regulation of the expression of its nearby Jheh2 and Jheh3 genes. Furthermore, Bari-Jheh is also associated with reduced viability and extended developmental time that probably represent the cost of selection of this insertion. In order to identify the adaptive effect of this insertion, we analyzed the sequence of Bari-Jheh and we found that it contains two Antioxidant Response Elements. This suggests that the presence of the insertion could lead to an increased level of expression of Jheh genes under Oxidative Stress (OS) conditions and to increase resistance to this stress. We indeed found that under OS conditions the TE is associated with an increased expression of its nearby genes Jheh1 and Jheh2 (t-test p< 0.05) and that flies with the insertion show a higher survival rate compared to flies without the insertion (Kaplan-Meier logrank test: p<< 0.001). Our results show that the fitness effects of TE insertions could depend on the environmental conditions. This would explain why adaptive TEs such as Bari-Jheh are present at high frequencies but not fixed in any population. Moreover, this study shows that we need to explore several phenotypes in order to fully characterize the effects of an adaptive mutation.
+
+Adam Hayward
+University of Sheffield
+Department of Animal and Plan Sciences
+United Kingdom
+Genetic trade-offs and the evolution of human life-histories
+talk D23SY20RT18:57R4
+
+Author(s): Hayward, AD, Lummaa, V
+
+Summary: 
+
+Understanding life-history trade-offs is fundamental to explaining the diversity of life-history strategies in nature, and determining the genetic basis of trade-offs can identify how evolutionary constraint maintains life-history variation. Humans have evolved an unusual life-history compared to other primates, characterized by the menopause and long female post-reproductive lifespan (PRL). These have been hypothesized to evolve to enable (i) reduced reproduction when the costs of reproducing exceed the benefits, and (ii) enhanced grandchild survival. Previous tests of these hypotheses have examined phenotypic correlations between female reproductive rate and (i) PRL and (ii) offspring survival. However, environmental effects can mask genetic associations, and the direction and magnitude of these genetic correlations must be examined to determine the evolutionary potential of such traits. Using genealogical data from preindustrial Finnish church records for eight populations, we applied a multivariate quantitative genetic framework to examine the genetic basis of female reproductive rate, measured by inter-birth interval (IBI). We examined how additive genetic effects on IBI changed with age, and how age-specific genetic effects varied across environmental conditions. We determined the genetic trade-offs between IBI and both PRL and offspring survival, and how these trade-offs varied across ages and environments. Pilot analyses on four populations show a genetic basis to all traits, and suggest that genetic trade-offs between IBI and the other traits increased with age in poor environmental conditions, but were weak and age-independent in good conditions. IBI and PRL were positively related to lifetime fitness, suggesting that genetic trade-offs act as an evolutionary constraint. Our results will reveal new insight into human life-history evolution and generally highlight the fact that genetic correlations between traits may be age- and environment-dependent.
+
+Colin McClure
+Faculty of Science, University of Bath
+Department of Biology & Biochemistry
+United Kingdom
+Hsp83 and TotC are Required for Pathogen-Induced Hormesis in the Fruit Fly
+talk D23SY20RT14:00R4
+
+Author(s): McClure, CD, Zhong, W, Priest, NK
+
+Summary: 
+
+Hormesis contradicts the fundamental evolutionary concept that organisms can’t have it all. Many studies have found that treatments, such as limited stress and diet restriction, can enhance Darwinian fitness without obvious costs. This is a problem for our understanding of trade-offs as it suggests both that organismal fitness is sub-optimal, and that organisms can avoid trade-offs between life history traits. However, few studies have considered the possibility that hormesis is driven by a trade-off between Darwinian fitness and pathogen resistance. Here we show that topical treatment with an inactive fungus increases the survival and fecundity of various strains of the fruit fly. Using mutant strains and the Gal4::UAS knockdown system, we show that the heat shock protein Hsp83, and the generalist stress gene TotC, are required for this response. Preliminary evidence suggests that this hormetic response depends both on the temperature and diet of the host. These results are important as they identify the genetic basis of a novel hormetic response and provide a potential explanation for phenomena which appear to defy the constraints apparent in life history trade-offs: that hormetic responses are only beneficial under a narrow range of ecological conditions. Thus, our results are consistent with the hypothesis that hormesis also involves trade-offs.
+
+Dalial Freitak
+University of Helsinki
+Department of Biosciences
+Finland
+Inbreeding dependent trade-offs in the ant Formica exsecta
+poster D23SY20PS0473
+
+Author(s): Freitak, D, Bos, N, Stucki, D, Sundström, L
+
+Summary: 
+
+Trade-offs between different defence mechanisms and life-history traits are known to exist. Especially interesting are the ones involving immune defences, as surviving infections is paramount for any organism. The capability to respond to stressors depends on the phenotypic plasticity of an organism. It is assumed that inbreeding decreases the adaptability of organisms to environmental stresses (e.g. dealing with pathogens, oxidative stress). Recent evidence from many insects highlights the importance of Reactive Oxygen Species (ROS) in insect immunity by regulating potential pathogens and keeping commensal gut flora under control. Although the release of these free radicals is an extremely effective defence against intruders, it is also harmful to the organism itself, as it causes oxidative stress. This is a situation where cellular production of ROS overwhelms its antioxidant capacity, leading to damage of various macromolecules (e.g. lipids, proteins, DNA). Dealing with this self-inflicted injury is essential, but requires extra resources for anti-oxidant production. In a multi-infection scenario, the capability of an organism to deal with multiple stressors may give a crucial advantage in comparison to less adaptive phenotypes. Here, we study how ants with different inbreeding levels cope with bacterial and fungal parasites, being previously exposed to oxidative stress via feeding with ROS. Dietary intake of extra ROS may lead to better survival against gut penetrating entomopathogenic bacteria, but may at the same time leave fewer resources to fight against fungal pathogens. We use oral infection with the pathogenic bacterium Serratia marcescens, and the exposure to the generalist fungal pathogen Metarhizium brunneum to study the trade-offs between ROS responses and the immune response in workers of F. exsecta. Comparing inbred colonies and outbred colonies reveals differences in the expression of various antioxidant and immunity related responses.
+
+Shinichi Nakagawa
+University of Otago
+Department of Zoology
+New Zealand
+Individual heterogeneity and a trade-off between two competing life-history traits within species
+poster D23SY20PS0234
+
+Author(s): Nakagawa, S, Senior, AM, Lim, NJ
+
+Summary: 
+
+A trade-off between two (or more) competing traits is widely observed at the inter-specific level. Therefore, it is often assumed that the same trade-off will be readily observable at the intra-specific level. However, this is often not the case because differences in individual quality or individual heterogeneity within a species can override a negative correlation between two competing traits (i.e. a trade-off). That is, individual heterogeneity can create a positive relationship between two competing traits within a species, a completely opposite pattern expected from life history theory. Although a classical theoretical model predicted this positive relationship at the intra-specific level, the generality of the effect due to individual heterogeneity is not systematically investigated before. Here, we use meta-analytic techniques to investigate two within-species relationships between maternal quality (size) and offspring size, and between maternal quality and offspring number. We show the pervasiveness of individual heterogeneity effects on the relationship between the two competing traits (i.e. offspring size and number) across taxa. In the light of such results, we discuss difficulties in studying trade-offs within a species, and argue the importance of comparative approach to study the mechanisms of trade-offs.
+
+Alessandra Basso
+University of Bern
+Institute of Ecology and Evolution
+Switzerland
+Interaction of parasite- and predator-induced maternal effects in the Great tit (Parus major)
+poster D23SY20PS0869
+
+Author(s): Basso, A, Coslowsky, M, Richner, H
+
+Summary: 
+
+Organisms often face a risk of predation and simultaneously the presence of parasites, which may induce costly defences and thereby strongly influence animal behaviour and physiology. Moreover, if these two types of defences require resources from a common pool, then important trade-offs may arise. Both predation risk and parasites can independently trigger maternal effects to prepare offspring to better cope with their presence in the environment. However, it remains unknown whether the simultaneous presence of both parasites and risk of predation in the maternal environment would induce maternal effects that may affect nestling phenotype, growth rate and condition, and whether the effects induced by the two types of defences are interdependent. We thereby investigated the effects of exposure, pre-laying, during laying and post-hatching, to both presence of parasites and increased predation risk in the great tit and the potential trade-off between them. In increased predation risk environments, the maternal response enhanced wing growth and immune response of male nestlings. Nestling mass, tarsus and survival were influenced by parasites, but their negative effects were attenuated by the maternal response. The effects of the predator treatment on mass seemed to be concealed by a stronger effect of parasites, but were visible on tarsus growth. The findings suggest that maternal effects induced by an increased perceived risk of predation and by parasites influence offspring phenotype and survival, that the two stressors interact with each other, and that their simultaneous presence can alter the optimal allocation of resources mediated by maternal effects. The presence of parasites seems to have a stronger effect on growth and development compared to that of predators, suggesting a prioritization of the different risks in a particular environment.
+
+Rudolf Schilder
+Pennsylvania State University
+Department of Biology
+United States
+Transcriptomics of a life history trade-off in the wing polymorphic cricket (Gryllus firmus)
+talk D23SY20RT16:33R4
+
+Author(s): Schilder, RJ, Vellichirammal, NN, Wehrkamp, C, Riethoven, JM, Zera, AJ, Brisson, JA
+
+Summary: 
+
+The sand cricket Gryllus firmus is a model species in the study of the trade-off between (flight) dispersal and fecundity associated with wing-polymorphism in insects. G. firmus females exist as either a flight capable, long-winged (LW(f)) morph that delays egg production or as a flight-incapable, short-winged (SW) morph with substantially elevated egg production. In addition, some adult LW(f) individuals partially degenerate their flight musculature, thus giving rise to a third morph (LW(h)), that exhibits the substantially increased egg production seen in the SW morph. Here we present findings of a transcriptomics study that examined molecular mechanisms underlying plasticity in flight muscle and fat body function among the G. firmus morphs. Expression of genes encoding proteasome components was significantly enhanced in LW(h) flight muscle, however we observed a striking, nearly complete absence of differences in flight muscle sarcomere gene expression between LW(f) and LW(h) morphs. This indicates that flight muscle histolysis in the LW(h) morph is a highly controlled and selective process, and that maintenance of non-histolyzed fibers in LW(h) flight muscle is controlled through gene expression patterns similar to that in the LW(f) morph. In addition, LW(h) morph flight muscle displayed a significant reduction in expression of genes encoding aspects of mitochondrial structure and metabolism, supportive of earlier enzymological and metabolic rate work in this species. Genes involved in triglyceride biosynthesis were significantly upregulated in LW(f) fat body tissue, while SW fat body exhibited substantially elevated expression of an insulin-like peptide known to regulated egg production in locusts, as well as a number of lectin-related proteins that function in immunity. We will discuss our findings with respect to the physiological and molecular mechanisms underlying the flight-fecundity trade-off in G. firmus and other insect species.
+
+Joel Pick
+University of Zürich
+Institute of Evolutionary Biology and Environmental Science
+Switzerland
+What makes a good mother? How trade-offs maintain different maternal investment strategies within populations
+poster D23SY20PS0663
+
+Author(s): Pick, JL, Tschirren, B
+
+Summary: 
+
+The prenatal environment has important and long-lasting consequences on offspring morphology, physiology, behavior, and ultimately fitness. In birds, many of these prenatal maternal effects are mediated though differential allocation of resources into the eggs. Interestingly, there is large variation in the level of investment among mothers, and little is know why some mother invest little while others invest a lot, and how different maternal investment strategies are maintained within populations. Egg size is highly heritable trait, with known fitness benefits for the next generation. However, in both wild and captive populations, huge variation in egg size is found, with few studies finding evidence for directional selection for larger eggs. By creating replicated selection lines for high and low maternal egg investment in Japanese quail, we show how indirect responses in morphology, physiology and behavior, and sexually antagonistic consequences of selection for high maternal investment constrain the evolution of egg size. Thereby, our study contributes to a better understanding of the mechanisms that maintain variation in maternal investment strategies within populations.
+
+Bojan Kenig
+Institute for biological research "Sinisa Stankovic"
+Department for genetics of populations
+Serbia
+Life history response does not reveal fitness cost in lead selected Drosophila subobscura population
+poster D23SY20PS0569
+
+Author(s): Kenig, B, Kalajdzic, P, Stamenkovic-Radak, M, Andelkovic, M
+
+Summary: 
+
+Human activities cause severe heavy metal pollution of ecosystems, with lead being one of the most widespread. Heavy metals can have strong effects on survival and developmental time and therefore exert strong selection pressures on exposed populations resulting in increased metal resistance. In populations of different organisms, resistance to heavy metals is generally associated with fitness cost. Evolution of resistance to heavy metals and fitness cost are most efficiently revealed by using laboratory selection protocols. We used laboratory population of Drosophila subobscura selected on elevated concentration of lead for over 30 generations to test if the resistance to lead would show fitness cost. Two laboratory groups, derived from the same Drosophila subobscura natural population, were established. One group of flies was reared on a standard medium (control group) and the other on medium with lead concentration of 100 µg/ml (high concentration of lead - HLC group). Apart from these groups (control and HLC ), reciprocal crosses between control lines and HLC experimental group were made in order to investigate maternal effect. The life history traits (viability of all major preadult stages, adult viability and developmental time) of both control and HLC groups and their hybrids were assayed on a standard and a medium with lead. Generally, lead treatment caused lower viability of adults and prolonged the egg-to-adult developmental time. Viability of larvae and adults was lower in hybrids, which also had longer developmental time compared to both experimental groups regardless of the treatment. Our results show that lead concentration of 100 µg/ml did not cause elevated resistance or fitness cost in HLC group. However, the observed significant fitness differences between the hybrids, as well as between the hybrids and the control and HLC groups, suggest the effect of maternal inheritance in resistance mechanism.
+
+Michael Garratt
+University of New South Wales
+School of Biological, Earth and Environmental Sciences
+Australia
+Life-history constraints are exposed when genetically-modified mice compete with con-specifics
+talk D23SY20RT15:12R4
+
+Author(s): Garratt, M, Pichaud, N, Brooks, RC
+
+Summary: 
+
+An organism’s investment in life history traits such as growth, reproduction and lifespan will be constrained by a variety of physiological factors. With regards to constraints on lifespan, genetic modification of gene expression has been successfully used to uncover some of the molecular pathways that influence how long an organism lives. These techniques have the potential to reveal constraints on other life history traits as I will demonstrate in this talk. We used a genetically-modified strain of mouse to test how various components of life history are constrained by oxidative stress, a physiological condition also implicated in ageing. Mice that did not express a key antioxidant enzyme used to protect against oxidative stress, copper-zinc superoxide dismutase (Sod1), showed altered investment in behavioural, morphological and molecular aspects of reproduction and sexual signalling. These effects were also found to be more prominent when animals were maintained in a competitive environment. We then used phenotypic manipulations to increase investment in various reproductive traits in both genetically-modified and wild-type animals. This allowed us to determine how oxidative stress, the outcome of this gene knockout, influences an organism’s ability to increase metabolic rate, adjust mitochondrial function and limit further oxidative damage when investing in demanding periods of reproductive effort. Our results reveal that oxidative stress is one aspect of physiology that can directly reduce investment in reproduction. The examination of genetically modified animals in more ecologically-relevant conditions offers exciting opportunities to uncover the mechanistic constraints on life history evolution.
+
+Venera Tyukmaeva
+University of St.Andrews
+School of Biology
+United Kingdom
+Life-history traits important in overwintering: phenotypic correlation and genetic background
+poster D23SY20PS0709
+
+Author(s): Tyukmaeva, V
+
+Summary: 
+
+Adaptation to both annual and long-term changes in environmental conditions is of crucial importance for species living at high latitudes. This involves not only tolerance to cold temperatures, but also an ability to timely predict the forthcoming cold season. Short growing period of temperate zones presents the strongest selection pressure and lead to trade-offs in different life-history traits which are proposed to be regulated by two forecasting mechanisms, circadian rhythms and photoperiodic clock. In several northern species these systems have been found to rely on changes in photoperiod which is the most reliable seasonal cue at high latitudes. We studied four photoperiodically regulated life-history traits, reproductive diapause, cold tolerance, egg-to-eclosion developmental time and juvenile body weight, in a northern fly Drosophila montana. Body weight and developmental time were found to be in trade-off regulated by length of photoperiod, and the flies in diapause were more cold tolerant. Induction of photoperiodic diapause is known to be regulated by a photoperiodic clock, while seasonal changes in other traits are governed by circadian rhythms. Life-history traits regulated by these two time measurement systems are likely to respond in different ways to long-term changes in selection regimes, which may break down correlations and create new trade-offs between these traits. To investigate genetic correlation in these traits we performed quantitative trait loci (QTL) analysis. This study revealed both unique QTL (e.g. a large-effect QTL for diapause on the X chromosome), and several combined QTL for these traits (e.g. significant QTL for developmental time and juvenile body, linked with rhodopsin6 gene; combined QTL on the fourth and fifth chromosomes for at least three of the studied traits). The co-occurrence of these QTL suggests that the studied traits are governed partly by the same genes with pleiotropic effects or by multiple tightly linked loci
+
+Delphine Sicard
+University Paris Sud
+France
+Linking protein structure and trade-off between life-history traits
+talk D23SY20RT16:57R4
+
+Author(s): Sicard, D, Albertin, W, Spor, A, Kvitek, D, Wang, S, Nidelet, T, Martin, J, Marullo, P, Bely, M, Bourgais, A, Langella, O, Balliau, T, Valot, B, Da Silva, T, Dillmann, C, Gavin, S, De Vienne, D
+
+Summary: 
+
+Metabolic pathways implicated in external resource consumption are expected to have an essential role in the evolution of life-history traits. Two extreme life-history trait strategies related to different resource exploitation strategies have been described in the yeast, Saccharomyces cerevisiae : The "grasshoppers" have a high specific glucose consumption rate in fermentation, a large cell size but a low reproduction rate and carrying capacity, while the "ants" have a low specific glucose consumption rate, a small cell size and a high reproduction rate and carrying capacity (Spor et al. 2008, 2009). We have explored the genetic and metabolic bases of « ant » and « grasshopper » life-history strategies. Using mutant analysis, we have shown that variation of expression of glycolytic encoding genes allow moving on the continum between these two extreme life-history strategies (Wang et al. 2011). Using proteomics appoaches we have revealed that not only glycolytic gene expression is involved in the control of yeast life-history strategies but also post-traductionnel modification of specific glycolytic enzymes (Albertin et al. 2013). Finally using experimental evolution, we have found that the evolution towards « ant » or « grashopper » strategies can be explained partly by mutations in a highly pleiotropic gene involved in a hub of more than 200 protein interaction network. This gene is recurrently mutated in the laboratory evolution. The location of the mutations in the gene, and thus in the protein, changes the effect of the mutation on several traits. Altogether, our data highlight the role of both variation in gene expression and also protein structure in the trade-off between life-history traits.
+
+Martyna Zwoinska
+Evolutionary Biology Centre, Uppsala University
+Department of Animal Ecology
+Sweden
+Live smart, die young – sex differences in cognitive ageing in the dioecious nematode, Caenorhabditis remanei
+poster D23SY20PS0489
+
+Author(s): Zwoinska, MK, Maklakov, AA
+
+Summary: 
+
+Learning and memory are costly and are known to trade-off with reproduction and longevity in invertebrates. The most striking example is a symmetrical evolutionary trade-off between learning ability and longevity in Drosophila melanogaster. It has been found that populations selected for improved learning suffered a considerable reduction in longevity, while populations selected for increased longevity suffered a reduction in learning ability. Since males and females often resolve their survival-reproduction trade-offs differently, it is likely that the trade-off between learning ability and longevity will also be resolved differently between the sexes. Applying the logic of symmetrical evolutionary trade-off, increased investment in learning ability early in life should result in decreased longevity in a given sex. On the other hand, the longer-lived sex would experience stronger selection late in life, such that it should maintain its level of performance for longer than the shorter-lived sex. Here, we used a positive associative learning paradigm in a dioecious nematode worm Caenorhabditis remanei, which exhibits strong sexual dimorphism in lifespan, to test whether sexes differ in age-related learning performance. Specifically, we tested whether the shorter-lived sex (females in C. remanei) will exhibit increased learning ability early in life and whether the longer-lived sex will maintain its level of performance for the longer period of time. Indeed, we found that young females outperformed young males in making a novel association between an odour (butanone) and food (bacteria). Moreover, while learning ability declined rapidly with age in females, males maintained higher learning ability until middle age. These results not only demonstrate sexual dimorphism in age-related learning ability but also suggest that it is in line with sexual dimorphism in life-history.
+
+Joanna Sendecka
+Uppsala University
+Animal Ecology
+Sweden
+Longevity and reproductive performance strategies
+poster D23SY20PS1380
+
+Author(s): Sendecka, J, Gustafsson, L, Griesser, M, Drobniak, S
+
+Summary: 
+
+Reproductive performance differs between individuals depending on their condition status and individual quality. It is also shaped by external factors and, moreover may change with progressing age. Both within-individual changes and lifetime reproductive strategies differ between species and one factor shaping it is longevity. Short- and long-lived species are subjected to different constraints influencing not only their reproductive strategies but even possibilities for these strategies. I have analyzed possible mechanisms behind age-related changes in reproductive performance and lifetime reproductive success (LRS) in two passerine species. The short-lived Collared flycatcher (Ficedula albicollis) shows strong selection against poor breeders at early ages and quality/longevity-dependent LRS. LRS in the long-lived Siberian jay (Perisoreus infaustus), is dependent on social status and at least some individuals seem to be able to compensate for initial lower quality by delaying reproduction. Thus, the available strategies of shaping reproductive performance appear to differ between species dependent on their longevity.
+
+Patricia Lopes
+University of California, Berkeley
+Integrative Biology
+United States
+Masking sickness in public results in costs for the magnitude of the immune response
+poster D23SY20PS0115
+
+Author(s): Lopes, PC, Springthorpe, D, Bentley, GE
+
+Summary: 
+
+Animals suffering from an infection undergo behavioural and physiological alterations that potentiate the immune system in fighting the pathogen. “Sickness behaviour” is the name given to the behavioural component of this response and consists of a generalized reduction in physical activity. Adopting this state of low activity is thought to free resources for mounting an immune response. However, an increasing number of reports indicate that these sickness behaviours are plastic and can be overcome in the face of conflicting adaptive opportunities, such as mating or parental duties. Here, we tested whether this plasticity imposes costs on the magnitude of the immune response. Using captive colonies of zebra finches (Taeniopygia guttata), we developed a miniaturized device that could be attached to the birds and quantify activity remotely. We housed birds either in isolation or in their colony and induced sickness behaviours by means of a lipopolysaccharide (LPS) injection. We found that birds housed in a group and injected with LPS exhibit reduced symptoms of sickness behaviours as compared to their isolated counterparts. This reduction of sickness behaviours was associated with reduced immune response. The findings here indicate that these animals face potential costs when reducing expression of sickness behaviours. The importance of the affected components of immunity for fighting a particular infection will determine the extent of these costs.
+
+Eryn McFarlane
+Evolutionary Biology Center, Uppsala University
+Ecology and Genetics
+Sweden
+Metabolic rate as a proximate mechanism underlying life history strategies in flycatchers
+poster D23SY20PS1197
+
+Author(s): McFarlane, E, Husby, A, Qvarnström, A
+
+Summary: 
+
+Competitive exclusion can occur when closely related species inhabit the same geographic area, unless there is some type of niche differentiation. Collared and pied flycatchers are closely related sympatric passerine species that compete for nesting sites and other resources. These species appear to have solved the life history trade off between competitive interference and robustness to poor environments differently. Collared flycatchers experience an advantage in competition over breeding sites while pied flycatchers are more robust to poor conditions. These different life history strategies may promote regional coexistence, but proximate mechanisms underlying these strategies are unknown. We will test if the differences between pied and collared life history strategies are associated with differences in metabolic rate. Higher metabolic rate has previously been associated with higher competitive ability, faster growth rate and more resource use, traits that differ between collared flycatchers and pied flycatchers. Resting metabolic rate (RMR) of collared, pied and hybrid flycatchers, both chicks and adults, will be measured using respirometry and combined with brood size manipulation experiments during the breeding season on the Swedish island of Öland in 2013. We will test if metabolic rate is significantly different between species, specifically whether collared flycatchers have higher metabolic rates than pied flycatchers. And how metabolic rate is related to growth under different environmental conditions (experimentally manipulated through brood size changes). We will also determine if metabolic rate is associated with growth rate and territory quality within and between species. Understanding the metabolic rate of closely related, hybridizing species could give insight into proximate mechanisms that facilitate life history strategies and regional coexistence.
+
+Staffan Jacob
+Laboratoire Evolution & Diversité Biologique
+Université Paul Sabatier
+France
+Microbiome mediates oxidative costs of reproduction
+talk D23SY20RT11:42R4
+
+Author(s): Jacob, S, Parthuisot, N, Callat-Michel, A, Helfenstein, F, Heeb, P
+
+Summary: 
+
+Parasites exert important selective pressures on host life-history traits. By affecting allocation trade-offs between reproduction and self-maintenance, they have major consequences for host reproductive success and survival. Microbiome is a major part of earth biomass, including pathogenic and commensal microorganisms. To date experimental studies that examine how the microbiome shapes host life-history traits are still lacking. Here we modified nest microbial communities of wild breeding great tits (Parus major) to test whether the microbiome mediates the oxidative cost of reproduction. We found that microbiome affected the relationship between fledgling number and adult oxidative damage. Adults raising a large number of nestlings show higher oxidative damage in control and high bacterial density treatments, whereas this trade-off was absent when decreasing bacterial densities. This study provides the first experimental evidence for a role of environmental microbiome in mediating the oxidative costs of reproduction. Our results show that the microbiome may constitutes a fundamental factor shaping animal life-history traits that need to be considered in future studies.
+
+Joost Van den Heuvel
+Leiden University
+Institute Biology Leiden
+Netherlands
+Modeling the relationship between age specific fecundity and lifespan in a cohort of fruit flies
+poster D23SY20RT14:48R4
+
+Author(s): Van den Heuvel, J, Brakefield, PM, Kirkwood, TBL, Zwaan, BJ, Shanley, DP
+
+Summary: 
+
+Populations of laboratory animals that are selected for increased lifespan often show correlated negative responses in early fecundity. However in some cases late fecundity, or total lifetime fecundity, is higher in the populations selected for increase lifespan. By some, this has been interpreted as a falsification of the disposable soma theory. According to the Y–model, in which the effects of variation in allocation and acquisition on life histories are studied, an alternative is suggested. A negative relationship between lifespan and reproduction can be viewed as variation in allocation, whereas a positive relationship is the result of variation in acquisition. We have analyzed age specific fecundity and lifespan in a cohort of Drosophila melanogaster flies which were individually housed. Early fecundity related negatively with lifespan, while late fecundity related positively with lifespan in the same cohort. We show that a model which incorporates the ideas of the Y-model, disposable soma theory and a decrease in physiological performance when age increases, can explain how the relationship between fecundity and lifespan changes with age. Furthermore, we modeled different environments in which there is variation in extrinsic mortality rates. In high mortality environments there was selection for high early fecundity, low late fecundity and low lifespans, whereas the opposite was true for low mortality environments. Our laboratory population of D. melanogaster was founded from a combination of flies from different areas in Europe and therefore is heterogeneous in genotype. We conclude that the differences in life history strategies found in one cohort of laboratory flies are the result of a mosaic of selection on the relationship between fecundity and lifespan over age.
+
+Lukas Kratochvil
+Faculty of Science, Charles University
+Department of Ecology
+Czech Republic
+Neither female reproductive costs nor male gonadal androgens drive development of sexual size dimorphism in lizards
+poster D23SY20PS1449
+
+Author(s): Kratochvil, L, Starostova, Z, Golinski, AL, Kubicka, L
+
+Summary: 
+
+What developmental mechanism allows substantial evolutionary plasticity in sexual size dimorphism (SSD) among squamate reptiles (lizards and snakes)? Currently, the most pervasive candidates are the opposite effects of testicular testosterone on growth in male-larger versus female-larger species and the differences between sexes in energy allocation to growth versus reproduction. We tested these alternatives by manipulating testosterone levels and reproductive status in the male-larger lizard Paroedura picta. Males reached comparable final body length regardless of circulating testosterone levels. We conclude that previously reported effects of gonadal androgens on growth in male lizards may have been a consequence of altered behaviour in manipulated individuals. Non-reproducing females in social isolation reached the same final body size as did females that frequently reproduced, indicating that division of energy into growth versus reproduction is not the mechanism generating SSD. Notably, ovariectomized females and females with exogenous testosterone grew to larger body size than did intact females. These findings demonstrate that ovariectomy causes adverse side effects and is not a suitable technique for removing female reproductive costs. We argue that our results and the published evidence are in accordance with endogenous control of SSD in squamates by female gonads independently of direct energy allocation to reproduction.
+
+Lars Witting
+Greenland Institute of Natural Resources
+Greenland
+On the evolution of life history trade-offs and phenotypic correlations
+poster D23SY20PS0544
+
+Author(s): Witting, L
+
+Summary: 
+
+Traditional life history theory is based on a historical natural selection that is defined from the trade-offs and constraints that have evolved - most likely - from past selection. Examples include i) a fecundity/survival trade-off that selects for Lack’s clutch size, ii) a positive correlation between reproduction and body mass that selects for non-negligible body masses, and ii) a ploidy level and mating pattern that define selection on the sex ratio. This approach allows for contingent explanations where some part of the phenotype is explained from other parts of the phenotype. To obtain non-contingent explanations where we predict the joint evolution of life history traits and their trade-offs and correlations we need a deterministic natural selection that is defined exclusively from those constraint and trade-off components that cannot evolve over time. I show how this is possible for Lack’s clutch size, large body masses, and non-trivial sex ratios if we focus on the selection pressure that unfolds from population growth and the associated intra-specific and density dependent competitive interactions.
+
+Merav Wacht Katz
+Ben-Gurion University of the Negev
+Department of Life Sciences
+Israel
+Optimal foraging of Little Egrets and their prey in a foraging game in a patchy environment
+poster D23SY20PS0348
+
+Author(s): Wacht Katz, M, Abramsky, Z, Kotler, BP, Alteshtein, O, Rosenzweig, ML
+
+Summary: 
+
+To avoid extinction, native species will rely increasingly on their ability to adapt to human-dominated habitats. Will the behaviors that evolved in natural circumstances help species make the transition? Or will they be maladaptive? A laboratory theater containing three fish pools with little egrets, Egretta garzetta (the predator), and common goldfish, Carassius auratus (its prey) help to pose this question usefully. The two species were playing a behavioral game in which their best tactics depended on how the other species was behaving. We tested the hypotheses that the egrets maximize their total capture success by responding to the fish’s anti-predatory behavior and that the behaviors of both players respond adaptively to the density distribution of fish among the pools. Within each pool, fish could move between a safe, covered microhabitat and a risky, open microhabitat. Only the risky habitat had food, so fish were trading off food and safety by allocating the time spent in the two habitats. Egrets spent more total time in pools with more fish and returned to them sooner. Egrets maximized the number of fish they captured by following the matching rule of the ideal free distribution. Fish fine-tuned their behavior by reducing their use of the risky habitat as the egrets increased the frequency of their visits. It seems that egrets and fish adjust adaptively their behaviors by responding and counter-responding behaviorally to each other and to the experimental conditions in a way that tends to maximize capture success for the egret and tends to minimize the probability of being eaten for the fish. Apparently, the tactical rules that these species evolved in natural habitats prepared them also to deal effectively with this anthropogenic one.
+
+José Álvarez-Castro
+University of Santiago de Compostela
+Department of Genetics
+Spain
+Phenotypic and genetic correlations for several potentially interacting traits in Mediterranean mussel (Mytillus galloprovincialis)
+poster D23SY20PS1388
+
+Author(s): Álvarez-Castro, JM, Pino-Querido, A, Vera, M, Pardo, BG, Blanco, J, Fuentes, J, Martinez, P
+
+Summary: 
+
+The genetic architecture of several traits whose response to selection could be correlated was carried out by studying their genetic and phenotypic correlations in several cultured families of Mediterranean mussel (Mytilus galloprovinciallis).Growth traits (weight and length at two years of age), hepatopancreas accumulation of Diarrhoeic Shellfish Poisoning (DSP) toxins from plankton) and mantle colour were studied. All these traits are important from the point of view of the commercial production of this species. Although the toxins evaluated in this study are known not to kill individuals, it is possible that, to some extent, their development could be affected by toxin accumulation. To inspect this, we evaluated mussel growth and hepatopancreas toxin concentration in 2500 offspring from a set of 280 potential families obtained by crossing 10 females x 28 males in controlled conditions. After hatching and metamorphosis in lab conditions, mussels were wrapped on ropes hanging from production rafts and exposed to a natural bloom of toxic algae. Phenotypes were measured at individual level including length, weight, colour, and toxin amount and concentration. Using a microsatellite parentage tool, close to 90% individuals were assigned to a specific couple. Some individuals from wild settlement were also detected. With this information phenotype and genotype correlations were obtained for the evaluated traits. For the group of individuals we have analyzed, response to directional selection would be expected for growth, since we have estimated its narrow-sense heritability to be significantly different from zero. Regarding toxin accumulation, we obtained low estimates of narrow-sense heritability. We discuss the implications of the results in terms of a putative trade-off between both traits.
+
+Lukas Schärer
+University of Basel
+Zoological Institute
+Switzerland
+Phenotypic engineering of testicular and ovarian function reveals a sex allocation trade-off in a simultaneously hermaphroditic flatworm
+talk D23SY20RT15:45R4
+
+Author(s): Schärer, L, Sekii, K, Arbore, R, Berezikov, E, Ladurner, P
+
+Summary: 
+
+A resource allocation trade-off between investment towards the male and the female function is a fundamental assumption of sex allocation theory for simultaneous hermaphrodites, but there is currently limited empirical support for it, especially among animals. Here we experimentally manipulated testicular and ovarian function in the free-living flatworm, Macrostomum lignano, and subsequently tested for the occurrence of the sex allocation trade-off. Specifically, we used RNA interference—by soaking worms in a solution of double-stranded RNA—to knock down the expression of specific candidate genes, which we identified in two ways. First, we screened 11 gonad-specific candidate genes obtained from a published microarray study in the distantly related planarian flatworm, Schmidtea mediterranea. Seven of these candidate genes had testis-specific expression in M. lignano, and the knockdown of five of these had evident effects on testicular function. The most prevalent effect was a disruption of sperm production, which for one candidate gene was accompanied by an increase in ovary size. Second, using an RNA-Seq screen in M. lignano we identified a candidate gene with ovary-specific expression, knockdown of which prevented the formation of yolk in developing oocytes and also resulted in larger testes (and a trend for a higher sperm production rate). Both of our approaches thus yielded candidate genes whose knockdown uncovered sex allocation trade-offs (notably via manipulation of both the male and the female function). This, to our knowledge, is the first study to use phenotypic engineering of testicular and ovarian function to empirically test the trade-off assumption of sex allocation theory. Furthermore, our results suggest that disrupting the function of one gonad does not necessarily lead to a trade-off, possibly because some types of disruption do not liberate resources that become available to the opposite function.
+
+Frida Ben-Ami
+Tel Aviv University
+Zoology
+Israel
+Reconciling overall virulence with virulence evolution under conditions of frequent multiple infections: insights from the Daphnia-Pasteuria host-parasite system
+poster D23SY20PS1183
+
+Author(s): Ben-Ami, F
+
+Summary: 
+
+Free-living organisms are regularly found to be infected by an assemblage of genetically distinct parasite strains. Despite the ubiquity of multiple infections in a variety of organisms including humans, our current understanding of the processes driving virulence evolution is limited. This is because empirical studies using animals involve single generation experiments which measure the expression of virulence in multiply-infected hosts (overall virulence), whereas theoretical approaches model the evolution of virulence by studying how within-host competition affects between-host transmission (virulence evolution). More importantly, few empirical studies assessed the relative strengths of ecological and epidemiological feedbacks, and the associated trade-offs among fitness components of coinfecting parasite strains. Here I present recent results from two studies of multiple infections and the evolution of virulence using the Daphnia-Pasteuria host-parasite system. This system is ideal for studying virulence evolution at the organismal level, because host clonal reproduction can be controlled in the laboratory, and the relative contribution of parasite clones (single genotype) during multiple infections can be reliably quantified. I will show that parasite within-host competitiveness does not always correlate with host castration ability. I will also show that overall virulence does not correlate positively with parasite infectivity and transmission. More importantly, the exact relationship among these parameters crucially depends on host age. Finally, I will show that under conditions of frequent multiple infections, the virulence-transmission trade-off may become one of several trade-offs faced by coinfecting parasite strains. Taken together, these results stress the need to conduct long-term studies of virulence evolution using multiply-infected hosts.
+
+Jennifer Sanderson
+University of Exeter (Cornwall Campus)
+Centre for Ecology and Conservation
+United Kingdom
+Testosterone mediation of a trade-off between offspring care and reproduction in the cooperatively-breeding banded mongoose (Mungos mungo).
+talk D23SY20RT18:33R4
+
+Author(s): Sanderson, JL, Young, AJ, Hodge, SJ, Walker, SL, Cant, MA
+
+Summary: 
+
+Investment in offspring care commonly leads to a reduction in survival and fecundity, generating a trade-off between care of current young and future reproduction. Theory suggests that variation in this trade-off may explain the conspicuous individual differences in helping effort observed in cooperative breeders. In non-social species, testosterone is often found to mediate the trade-off between offspring care and reproduction. However, little is known about the mechanism mediating the trade-off between helping and future reproduction in cooperatively-breeding vertebrates. Here, we investigate testosterone as a candidate mechanism mediating trade-offs between cooperative offspring care and reproduction in the banded mongoose (Mungos mungo). Periods of high investment in offspring care are preceded by low faecal testosterone metabolite (fT) concentrations, suggesting that testosterone may inhibit offspring care in this species. During group oestrous, high ranking individuals with access to mates show elevated fT concentrations and a concurrent decrease in offspring care investment. However, outside of group oestrous, when there are no available mating opportunities, we find no correlations between individual rank and fT concentrations or investment in offspring care. These results provide evidence for testosterone mediation of the trade-off between offspring care and current reproduction in the banded mongoose, similar to that seen in non-social species. However, the mechanism mediating the trade-off between offspring care and future reproduction remains unknown. Together, these results highlight understanding the role of physiological mechanisms in mediating behavioural trade-offs as a key area of study to explain within-group variation in cooperative investment.
+
+Sara Carvalho
+Instituto Gulbenkian de Ciência
+Portugal
+Tests of life-history theory under self- and cross-fertilization in Caenorhabditis elegans
+talk D23SY20RT17:45R4
+
+Author(s): Carvalho, S, Teotónio, H
+
+Summary: 
+
+In organisms that are able to reproduce by self-fertilization (selfing) and by cross-fertilization (outcrossing), a fitness trade-off between both reproduction modes is necessary for them to be maintained during evolution. To assess if the maintenance of selfing and outcrossing at intermediate frequencies is in part due to the evolution of resource allocation towards the male or the female functions in hermaphrodites, we performed experimental evolution in Caenorhabditis elegans, an androdioecious nematode in which hermaphrodites are self-fertile but can also be cross-fertilized by males. For this, we characterized the reproductive schedules and the longevity of hermaphrodites under selfing or outcrossing with males that did not have the opportunity to evolve with them. Hermaphrodite life-history was compared to that of females, which evolved under similar environmental conditions but with obligate outcrossing. After 100 generations of evolution, the reproductive investment of hermaphrodites when selfed was shifted towards earlier ages, as expected with selection for early reproduction, together with an increase in mean longevity. When hermaphrodites were outcrossed no such changes in reproductive investment or longevity were observed. Like selfed hermaphrodites however, females from the obligate outcrossing populations showed increased earlier reproductive investment and increased longevity. These findings suggest that the fitness trade-off between selfing and outcrossing in experimental C. elegans populations is due to the evolution of resource allocation towards male functions in hermaphrodites.
+
+Bas Zwaan
+Wageningen University
+Laboratory of Genetics
+Netherlands
+The reproduction-survival trade-off at the transcriptional level
+talk D23SY20RT18:09R4
+
+Author(s): Zwaan, B, Doroszuk, A, Jonker, M, Breit, T
+
+Summary: 
+
+To reproduce, organisms typically compromise their own immediate and future survival. Trade-offs are pervasive and form an important component of many biological theories. Despite the considerable attention dedicated to trade-offs over last years and sufficient genomic tools, it remains unclear how the patterns in gene expression translate to life-history trade-offs observed at the phenotypic level, and to what extent the knowledge at the molecular and theoretical levels can be integrated. Here, we report that the genes functionally linked to reproduction and survival in Drosophila melanogaster show negatively correlated expression patterns, mirroring the reproduction-survival trade-offs observed at the phenotypic level. We further show that the expression trade-off mediates responses to food and age in accordance with life history theory. This includes a parallel shift of the trade-off in females on different diets complying with the acquisition-allocation theory, and a trade-off release in males on high food levels following the notion of lower reproductive investments in males. Taken together, our findings (i) indicate that life history trade-offs can be interpreted as conflicts over gene expression, (ii) extend the interpretations of basic concepts in biology to the transcriptional level, and, (iii), suggest mechanisms of how these trade-offs are regulated. Up to date, trade-offs have either mostly been approached from a purely phenotypic perspective without much attention to the underlying mechanisms, or conclusions have been drawn about trade-offs from molecular studies without considering the functional phenotype. Our study clearly bridges these views and provides a novel molecular perspective for interpretation and testing of classical biological theories.
+
+Catherine Reavey
+Queen's University Belfast
+School of Biological Sciences
+United Kingdom
+Trade-offs between personal immunity and reproduction in the burying beetle (N. vespilloides)
+talk D23SY20RT14:24R4
+
+Author(s): Reavey, CE, Cotter, SC
+
+Summary: 
+
+Immunity and reproduction are both costly, but how do organisms balance these costs when called upon to carry out both at the same time? We tested this with the burying beetle, Nicrophorus vespilloides. This species exhibits costly bi-parental care and its immune system can be readily quantified. The trade-off between self-maintenance and reproductive investment is likely to be most visible in those species that invest extensively in parental care, making N. vespilloides a valuable study species. Immune function was measured during the breeding bout in both immune-challenged and control individuals. Breeding success in the current bout and across each individual’s lifetime was then measured to assess the potential costs associated both with maintaining the immune system in a state of readiness and deploying an immune response. Deciphering the mechanistic basis of trade-offs is important. Hormones are increasingly being invoked as a potential mechanism by which life-history trade-offs are controlled. I will discuss the potential of Juvenile Hormone as the candidate for this role in N. vespilloides.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

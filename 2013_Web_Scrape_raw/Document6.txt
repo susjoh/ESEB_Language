@@ -1,0 +1,123 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY06: Evolutionary consequences of an early germ-soma segregation
+ Abstracts list Schedule Description
+View only talks or posters
+Duur Aanen
+Wageningen University
+Plant Sciences Group
+Netherlands
+Allorecognition stabilizes multicellularity
+talk D22SY06RT11:42R5
+
+Author(s): Aanen, DK, Czaran, T, Hoekstra, RF
+
+Summary: 
+
+The cells of a multicellular individual face the social dilemma of potentially increasing their personal fitness by increased reproduction at the cost of fitness of the multicellular individual. Organisms capable of somatic fusion are most sensitive to this somatic parasitism, since parasitic mutant cells can infect other individuals. Allorecognition, found in many multicellular organisms, limits the spread of somatic parasites. However, previous models have not satisfactorily demonstrated that this long-term benefit is sufficient to offset immediate disadvantages of reduced fusion experienced by new, initially rare, allorecognition types. Using a cellular automaton approach, we model the joint evolution of allorecognition and somatic parasitism in a multicellular organism resembling an asexual ascomycete fungus. Individuals can fuse with neighboring individuals, but only if they have the same allotype. Fusion with a parasite decreases the total reproductive output of the individual, but the parasite compensates for this individual fitness reduction by a disproportional share of the offspring. Our study shows that the mere threat of parasitism can select for high allorecognition diversity, which on its turn provides efficient protection against invasion of somatic parasites. Moderate population viscosity combined with weak global dispersal provided the best conditions for the joint evolution of allorecognition and stable multicellularity.
+
+Eric Bastiaans
+Wageningen University
+Netherlands
+Can cheating stabilize allorecognition? Experimental evidence in fungi
+poster D23SY06PS1266
+
+Author(s): Bastiaans, E, Debets, AJM, Aanen, DK
+
+Summary: 
+
+Multicellularity is a highly cooperative state prone to invasion by cheating genotypes that use the resources provided by the multicellular organism without contributing their fair share to non-reproductive functions of the organism (e.g. cancers). Kin selection, often realised through regular single-celled bottlenecks (and in some organisms by an early germline separation), is a solution to protect against cheating. In fungi, the lack of an early germline separation and the potential to fuse with other individuals make cheating a realistic threat. However a genetic allorecognition mechanism that limits fusion to almost only clonally related individuals, seems to effectively protect fungi against cheating genotypes. We have shown earlier that in the absence of cheating genotypes, the fitness advantage of fusion selects against allotype diversity in the fungus Neurospora crassa. Individuals with more common allotypes have a higher fitness because they fuse more frequently and gain a larger average size. Studies that model evolution of allorecognition in fungi show that cheating can cause a stable polymorphism for genetic allorecognition loci. Using cheating genotypes generated during an experimental evolution experiment, we empirically test the hypothesis that genetic allorecognition in fungi can be stabilized by the presence of cheating.
+
+Kurt Heininger
+University Düsseldorf
+Neurology
+Germany
+Change of paradigm: aging is selected for, adaptive and programmed
+talk D23SY06RT11:18R5
+
+Author(s): Heininger, K
+
+Summary: 
+
+It is shown that the so-called “evolutionary theories of aging” are based on circular reasoning and that their basic assumptions are flawed. A non-group-selective, evolutionary mechanism is elaborated that explains the co-selection and programming of reproduction and aging/death [Heininger K (2012) The germ-soma conflict theory of aging and death: Obituary to the “evolutionary theories of aging”. WebmedCentral AGING 3: WMC003275] Death of the soma is identified as the ultimate cost of reproduction. Importantly, germline cells control the longevity of the soma from ‘within’ by a variety of signals, e.g. sexual hormones. These signals limit the reproductive potential of the parent organism and drive a variety of aging pacemakers, particularly the senescene of the immune system. The transgenerational conflict between germline cells and soma over utilization of limited resources is the evolutionary rationale of postreproductive aging/death, semelparous organisms being a particularly drastic witness of the link between reproduction and death. Although the cost of reproduction, e.g. in terms of impaired immunocompetence and survival, still shapes the life history trade-offs of iteroparous organisms, the temporal uncoupling of reproduction and death concealed their evolutionary co-selection. In contrast to unitary organisms, modular organisms (e.g. plants, benthic aquatic invertebrates) that have no segregated germline and in which the adult body itself is a reproductive unit, may evade senescence. However, they are subject to territorial, density-dependent mortality patterns, due to e.g. self-thinning or chemical warfare, and density-limited seed recruitment driven by interindividual competition for resources. The germ-soma conflict shaped the different bauplans of unitary and modular organisms, is the motor driving animal coevolutionary Red Queen dynamics and fuelled the Cambrian explosion of animals.
+
+Eric Bastiaans
+Wageningen University
+Netherlands
+Genotypes that cheat on multicellularity can evolve quickly in fungi
+talk D22SY06RT11:18R5
+
+Author(s): Bastiaans, E, Debets, AJM, Aanen, DK
+
+Summary: 
+
+Multicellularity is a highly cooperative state prone to invasion by cheating genotypes that use the resources provided by the multicellular organism without contributing their fair share to non-reproductive functions of the organism (e.g. cancers). Kin selection, often realised through regular single -celled bottlenecks (and in some organisms by an early germline separation), is a solution to prevent selection for cheating. In fungi, the lack of an early germline separation and the potential to fuse with other individuals make cheating a realistic threat. However a genetic allorecognition mechanism that limits fusion to almost only clonally related individuals, seems to effectively protect fungi against cheating genotypes. In order to test the hypothesis that cheating is a realistic threat to multicellular growth in fungi, we used an experimental evolution approach with Neurospora crassa, that maximised the potential for cheating genotypes by selecting under low relatedness and completely local competition (i.e. under a high inoculation density of spores, in the absence of genetic allorecognition). Within less than 300 generations all eight replicate lines contained genotypes that matched our criteria for cheating: they had increased relative fitness (measured as proportion of spores produced) when in competition with a cooperative ancestral type, but spore production in monoculture was significantly decreased. So there is a clear trade-off between competitive fitness and production of asexual spores when grown alone. Contrary to predictions about the evolution of social behaviour that cheating genotypes will completely eradicate the social behaviour (the tragedy of the commons), we found a stable polymorphism in all evolved lines: a relatively cooperative type producing many spores when grown in monoculture, and the cheating type described above. We are currently studying the conditions leading to this apparently balanced polymorphism in our evolving lines.
+
+Joao Alpedrinha
+University of Oxford
+Zoology
+Portugal
+Haplodiploidy and the evolution of eusociality: worker revolution
+poster D23SY06PS1279
+
+Author(s): Alpedrinha, J, Gardner, A, West, S
+
+Summary: 
+
+Hamilton suggested that haplodiploidy predisposes species to the evolution of eusociality. This is because haplodiploidy increases the genetic similarity of sisters above that of mother and daughter, which could potentially favour an individual to give up her own future reproductive success in order to devote her life to sib-rearing. Trivers and Hare noted that, in order for this to work, helpers need to direct their altruism preferentially towards sisters rather than brothers. Building upon this idea, they proposed two biological scenarios whereby haplodiploidy could promote eusociality: (a) workers biasing the sex allocation of the queen’s brood towards females; and (b) workers replacing the queen’s sons with their own sons. However, biased sex allocation and worker reproduction can have multiple consequences for both the genetic structure of colonies and the reproductive values of males and females. Here we determine the net effect of all these consequences, for the two scenarios whereby the workers seize control of reproduction. We find that: (1) worker control of sex allocation may promote helping, but this effect is likely to be weak and short-lived; and (2) worker reproduction tends to inhibit rather than promote helping.
+
+Andrew Bourke
+University of East Anglia
+School of Biological Sciences
+United Kingdom
+Major transitions, the evolution of multicellularity and the size-complexity hypothesis
+talk D22SY06IT10:30R5
+
+Author(s): Bourke, A
+
+Summary: 
+
+The evolution of multicellularity is a prime example of a major transition leading to the evolution of individuality at a new hierarchical level [1-3]. As such, it exhibits many parallels with other major transitions, including the origin of eusociality in insects [4, 5]. Inclusive fitness theory represents a powerful tool for analysing the major transitions [4-6]. I discuss the evolution of multicellularity, including the evolution of a germline, in light of inclusive fitness theory. For example, the fact that most origins of multicellularity occurred via daughter cells remaining stuck to parent cells (subsocial route), and the likelihood that the first multicellular organisms had low cell numbers, suggest that cells within early multicellular organisms were clonal and exhibited few somatic mutations. This in turn suggests a near-identity of inclusive-fitness interests, implying that a germline would have evolved in such organisms not to prevent disruption from selfish cell lineages but to increase efficiency through a reproductive division of labour [4, 5]. The size-complexity hypothesis proposes that, as multicellular organisms grew larger, the increasing incidence of somatic mutations promoted the evolution of a segregated germline [5, 7]. The hypothesis predicts an association across taxa between a segregated germline and high cell number. I discuss evidence for this association, consequences of a segregated germline, and parallels with the evolution of eusocial insects.
+
+Buss LW. 1987 The Evolution of Individuality. PUP.
+Maynard Smith J, Szathmáry E. 1995 The Major Transitions in Evolution. Oxford: W.H. Freeman.
+Michod RE. 2000 Darwinian Dynamics. PUP.
+Queller DC. 2000 Phil Trans R Soc Lond B 355, 1647-1655.
+Bourke AFG. 2011 Principles of Social Evolution. OUP.
+Bourke AFG. 2011 Proc R Soc B 278, 3313-3320.
+Reeve HK, Jeanne RL. 2003 Proc R Soc Lond B 270, 1041-1045.
+Roberta Fisher
+Oxford University
+Department of Zoology
+United Kingdom
+Relatedness and the evolution of multicellularity
+talk D23SY06RT11:42R5
+
+Author(s): Fisher, RM
+
+Summary: 
+
+It has been argued that a high genetic relatedness (r) between cells played a pivotal role in the evo-lutionary transition from single-celled to multicellular organisms. We tested this hypothesis with a comparative study, comparing the form of multicellularity in species where groups are clonal (r = 1), to species where groups are potentially non-clonal (r = 1). We found that: (1) only species with clonal group formation have undergone the major evolutionary transition to obligate multicellularity; (2) clonal organisms had more cell types, a higher likelihood of sterile cells and a trend towards higher numbers of cells in a group. More generally, our results build upon previous studies of animals, to show how group formation and genetic relatedness have played analogous roles in the three evolutionary transitions to multicellularity, cooperative breeding and eusociality.
+
+Norman Arnheim
+University of Southern California
+Department of Biological Sciences
+United States
+What is advantageous for the germline may be bad for the soma; the impact of germline selection on the mutational load in humans
+talk D23SY06IT10:30R5
+
+Author(s): Arnheim, N, Calabrese, P
+
+Summary: 
+
+Some new germline mutations that arise in the testis may confer a selective advantage to the mutated germ cell relative to non-mutated cells. Theoretically, if a new mutation provided a germline selective advantage it could increase the frequency at which the mutated allele was introduced into the population by orders of magnitude even though, much to the species detriment, it reduced the fitness of the individuals that inherited it. We have shown examples of positive germline selection for three human disease mutations that arise sporadically each generation at frequencies ranging from 1/2,000 to 1/70,000 births. These sporadic disease cases occur at rates 100-1,000 times greater than would be expected based on what we know about genome average mutation rates. Using a testis dissection/mutation detection approach along with mathematical modeling we have shown that the high frequency of these de novo disease mutations cannot be explained by hyper-mutation at the disease-causing sites. Instead, our data are consistent with the idea that the newly mutated germline stem cells have a proliferative advantage over non-mutated stem cells resulting in germline mosaicism. Plausible molecular mechanisms can explain the selective advantage for each of the three disease mutations. Others previously suggested that alleles conferring a selective advantage in the germline may be disadvantageous in the adult and might lead to “mitotic drive” systems that increase the mutational load of a population. The three disease mutations we examined may be realizations of this idea.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

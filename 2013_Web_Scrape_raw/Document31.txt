@@ -1,0 +1,905 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY31: Development, behaviour and evolution
+ Abstracts list Schedule Description
+View only talks or posters
+Ian Warren
+Bristol University
+School of Biological Sciences
+United Kingdom
+A general mechanism for conditional expression of sexually-selected traits
+poster D23SY31PS1385
+
+Author(s): Warren, IA
+
+Summary: 
+
+Exaggerated sexually-selected traits are widespread across nature, with the “classic” examples including the trains of peacocks and antlers of cervids. These traits have provided the focus of many models and much debate concerning how they have evolved and how they are maintained. It is clear that these traits are reliable signals of the bearer’s condition, but the underlying physiological mechanism required to achieve such exaggerated and highly condition dependent growth has remained, until recently, unclear. Handicap models have been proposed but lack consistent experimental support. Using the horned rhinoceros beetle, Trypoxylus dichotomus, we demonstrate that the insulin-like signaling (ILS) pathway can provide a robust and reliable physiological mechanism for generating an informative signal of individual condition. The ILS pathway is a highly conserved pathway that can regulate growth in response to nutritional level, stress and infection. Exaggerated and highly condition dependent growth in beetle horns is achieved by heightened sensitivity of the developing horn primorida to the ILS pathway, when compared to other traits such as wings and genitalia. This result, combined with evidence from a wide range of taxa (e.g. crustaceans, cervids and fish), as well as the highly conserved nature of the ILS pathway, raises the exciting possibility that parallel processes underlie the evolution of trait exaggeration in a multitude of sexually-selected signal traits across the animal kingdom.
+
+Marco Colombo
+University of Basel
+Zoological Institute
+Switzerland
+A novel approach to study phenotypic evolution in an adaptive radiation: x-ray images provide novel insights into the adaptive radiation of cichlid fishes in East African Lake Tanganyika
+poster D23SY31PS0930
+
+Author(s): Colombo, M, Meury, F, Büscher, H, Salzburger, W
+
+Summary: 
+
+The East African Great Lakes, Tanganyika, Victoria and Malawi, are ecosystems with highly diverse habitats and food resources and renowned for the spectacular adaptive radiations of cichlid fishes that they contain. Lake Tanganyika harbors a highly diverse cichlid species flock comprising more than 220 species that are morphologically and ecologically highly diverse, but also show a number of convergent cichlid species that have evolved within the lake. Here, we use a novel approach to study convergence and divergence in Lake Tanganyika cichlids, making use of about 5000 x-ray images of more than 160 Tanganyikan cichlid species. We used geometric morphometric as well as meristic measurements in combination with ecological data (stable-isotopes) and a molecular phylogeny to examine the patterns of diversification in a large cichlid radiation. Furthermore, we were interested in testing predictions regarding adaptive radiation, such as its progress in stages, the early-burst scenario and the correlation between phenotypes and the environment. We identified various instances of convergent evolution within the adaptive radiation of cichlid fishes in Lake Tanganyika, particularly regarding body elongation and benthic or pelagic lifestyles and show a relatively constant rate in phenotypic evolution. Our study thus deepens the understanding of how cichlids diversify and how morphologies changed as species adapted to different habitats and foraging modes.
+
+Carmelo Fruciano
+University of Konstanz
+Department of Biology
+Germany
+A resampling-based approach to study variation in morphological modularity
+poster D23SY31PS0896
+
+Author(s): Fruciano, C, Franchini, P, Meyer, A
+
+Summary: 
+
+Modularity has been suggested to be connected to evolvability because an higher degree of independence among parts allows them to evolve as separate units. Recently, the Escoufier RV coefficient has been proposed as a measure of morphological modularity in multivariate morphometric datasets. However, it has been shown, using randomly simulated datasets, that the value of the RV coefficient depends on sample size. Also, so far there is no statistical test for the difference in modularity between a priori defined groups. Here we: 1. using a rarefaction analysis, show that the value of the RV Escoufier coefficient depends on sample size also in real morphometric datasets; 2. propose a permutation procedure to test for the difference in the RV coefficient between a priori defined groups; 3. show, through simulations, that such a permutation procedure has an appropriate Type I error. The permutation procedure outlined here, readily extendable to non-morphometric datasets, will allow statistically sound comparisons of the degree of modularity between a priori defined groups.
+
+Karl Wotton
+Centre for Genomic Regulation
+EMBL/CRG Research Unit in Systems Biology
+Spain
+A tale of two ends: axis polarity in the scuttle fly Megaselia abdita
+talk D23SY31RT14:00R9
+
+Author(s): Wotton, KR, Jimenez Guri, E, Jaeger, J
+
+Summary: 
+
+In dipterans (flies, midges and mosquitoes), segment determination occurs early in embryogenesis through a hierarchy of genes activated by maternal factors. These include the anterior determinant bicoid (bcd), found only in Cyclorrhapha or "higher" flies, and also caudal (cad), hunchback (hb), and nanos (nos). Loss of any one of these genes in Drosophila results in the loss of segments, and in some cases duplication of anterior or posterior structures at the opposite pole of the egg. However, in none of these cases is global polarity lost. In contrast, removal of both maternal bcd and hb results in symmetrical embryos (mirror-abdomen or bicaudal phenotypes) in which global anterior-posterior polarity is lost. Similar bicaudal phenotypes can be generated in two other fly species, the hover fly Episyrphus balteatus and the scuttle fly Megaselia abdita, by knocking down only maternal bcd. In Episyrphus, this has been explained by a lack of maternal hb. However, in Megaselia this factor is present so another explanation must be found. We have generated gene knock-downs for each of the maternal factors in Megaselia and analysed the resulting gene expression patterns. We identify loss of Kr activation by maternal hb as the likely cause of the loss of polarity. Furthermore, we identify differences in cad and gap gene expression that account for the more anterior plane of symmetry observed in Megaselia bicaudal phenotypes. These differences suggest that a number of regulatory changes in the gap gene network have occurred since the divergence of these dipteran lineages. We are testing these inferred changes by performing more knock-down experiments, combined with data-driven modeling of the gap gene system in this species. Finally, we revisit the question of Kr activation in Drosophila and suggest an evolutionary scenario for the development of anterior-posterior polarity in dipterans.
+
+Amir Fallahshahroudi
+Linköping University
+IFM/Biology
+Sweden
+Alteration of HPA/HPG axis reactivity as a consequence of chicken domestication
+poster D23SY31PS0977
+
+Author(s): Fallahshahroudi, A, Ericsson, M, Bergquist, J, Kushnir, MM, Jensen, P
+
+Summary: 
+
+Domesticated animals can serve as models to study evolutionary processes. The hormonal stress responses of wild and domesticated animals have rarely been thoroughly compared. The Red Jungle fowl (RJF) is considered to be the main ancestor of all domesticated chicken breeds. The aim of this study was to investigate the impact of domestication on behaviour and reactivity of HPA/HPG axis to a stressful physical restraint episode. Using liquid chromatography tandem mass spectrometry methods (LC-MS/MS), plasma concentrations of 5 classes of steroids, namely, pregnanes, progestines, androgens, estrogens and glucocorticoids were measured at basal level, 10 and 60 minutes after restraint in domesticated female White Leghorn (WL) and RJF. In behaviour tests, WL had a slower stress recovery, whilst RJF resumed baselines in behaviour more quickly. Corticosterone level was significantly influenced by the stressor (p = 0.001) in both breeds. RJF had significantly higher acute stress response (p =0.05) but quicker stress recovery compared to WL. In RJF, most other hormones were not influenced by the stressor while they were mostly significantly affected in the domesticated WL. Among the hormones which were differently altered in WL and RJF, dehydroepiandrosterone (DHEA), an androgen which is also involved in social and aggressive behaviour in birds, showed the most pronounced breed difference (p = 0.005) and response to stress (p = 0.001) in WL and might be highlighted as an important hormone in relation to both stress and domestication of chicken. To our knowledge this is the first comprehensive study, investigating the impact of stress on behaviour and a wide range of steroid and neurosteroid hormones in any domesticated animal and it´s wild ancestor. In conclusion, our study shows that the domesticated phenotype in chicken is related to lower HPA axis reactivity and higher HPG axis activity, which cannot be maintained in stressful situations.
+
+Cristina Ledon-Rettig
+North Carolina State University
+Department of Molecular Biomedical Sciences
+United States
+Altered developmental programs underlying the novel gut morphology of a cannibalistic anuran larva
+talk D24SY31IT10:30R2
+
+Author(s): Ledon-Rettig, CC, Womble, M, Nascone-Yoder, N
+
+Summary: 
+
+The gut is a particularly fascinating organ from an ecological and evolutionary perspective; it dictates how well an organism digests and assimilates nutrients from its diet, and thus has a profound impact on fitness. Organisms vary widely in what they consume, and this dietary diversity is reflected by equally diverse variation in gut morphologies. For instance, anuran Xenopus laevis larvae maintain an elongate gut that is adaptive for their herbivorous diet (an ancestral condition). In contrast, larvae of Lepidobatrachus laevis are obligate carnivores (a derived condition) and possess a relatively short gut that is appropriate for their diet. Remarkably, little is known about how developmental programs have diverged to give rise to such variation in gut morphology. To reveal the developmental mechanisms underlying the evolution of the novel, short-gut morphology, we compared key features of gut morphogenesis between Xenopus and Lepidobatrachus. In Xenopus, all endodermal cells of the primitive gut tube become polarized, undergo radial intercalation and contribute to gut elongation as they become incorporated into the gut epithelium. In contrast, in Lepidobatrachus, many central endodermal cells do not undergo radial intercalation and therefore cannot contribute to elongation. Additionally, many cells in the developing epithelium of Lepidobatrachus undergo programmed cell death and are extruded, further limiting the endodermal contribution to elongation. This programmed cell death – which typically occurs during thyroid hormone-dependent metamorphosis in Xenopus – is correlated with the expression of thyroid hormone signaling components in Lepidobatrachus, suggesting that precocious thyroid hormone signaling in the developing intestine is, in part, responsible for their novel gut topology.
+
+Suzanne Mills
+USR 3278 CRIOBE CNRS-EPHE
+Laboratoire d'Excellence CORAIL
+France
+Anthropogenic disturbances on the development and physiology of marine species
+poster D23SY31PS1350
+
+Author(s): Mills, SC, Beldade, R, Bernardi, G, Bigot, L, Chabanet, P, Holles, S, Mourrier, J, O'Donnell, J, Planes, S, Radford, A, Simpson, S
+
+Summary: 
+
+Natural and human-induced disturbances across aquatic and terrestrial habitats affect a broad range of species and communities causing declines in both biodiversity and population abundance. Whilst habitat disturbances are known to affect species’ distributions, phenology and physiology, less is known about the effects on development and stress physiology, especially for marine species. We investigated how a range of disturbances, mainly anthropogenic, affected the development and stress physiology of different tropical marine species. We will describe how two different habitat disturbances, the 1998 global bleaching event that reduced live coral cover and chronic boat noise, increased levels of the teleost stress hormone, cortisol in the skunk anemonefish and three-spot damselfish respectively. We will also describe how shark- and ray-feeding dive sites interact with insulin and gonadal steroid hormones of the black-tipped reef shark. Finally, we will describe how chronic boat noise slows sea hare embryonic development and reduces veliger hatching success. We will discuss how these varying habitat disturbances could impact reproduction and survival, highlighting their consequences for population dynamics.
+
+Gábor Herczeg
+Faculty of Science, Institute of Biology, Eötvös Loránd University
+Department of Systematic Zoology and Ecology
+Hungary
+Behavioural consistency in Rana temporaria tadpoles: strong personalities, lack of syndromes and link to life-history
+poster D23SY31PS1245
+
+Author(s): Herczeg, G, Urszán, TJ, Hettyey, A, Török, J
+
+Summary: 
+
+Recent interest in evolutionary behavioural ecology has turned towards understanding the causes and consequences of behavioural consistency, manifesting either as animal personality (i.e. consistency in a single behaviour) or behavioural syndromes (i.e. consistency across two or more behaviours). Further, behavioural consistency has been linked to life-history strategies currently, possibly forming integrative pace-of-life syndromes (POLS). However, empirical tests of this theory are extremely scarce. Here, we tested, using agile frog (Rana dalmatina) tadpoles as model, if POLS could be detected in the larval stage of amphibians based on a common garden experiment targeting two ontogenetic stages and measuring three behavioural traits. Activity was consistent in the early stage and was negatively related to age at metamorphosis. In the later stage, activity, exploration and risk-taking was all consistent, but their relationship with life-history depended on whether the studied individuals were tested in the earlier stage or not. Already tested individuals showed no POLS, but both activity (negatively) and risk-taking (positively) was related to age at metamorphosis in their previously untested conspecifics. We only detected one behavioural syndrome: activity and risk-taking was strongly negatively correlated in the previously tested (i.e. disturbed) group. Our results provide evidence for (i) animal personality in tadpoles, (ii) an activity – metamorphosis-timing POLS and (iii) an unexpectedly strong effect of moderate disturbance related to standard behavioural testing on later behavioural consistency.
+
+Eva Lievens
+Uppsala University
+Department of Ecology & Genetics
+Sweden
+Brain size and personality: artificial selection reveals a positive genetic correlation between brain size and proactivity in the guppy
+poster D23SY31PS1461
+
+Author(s): Lievens, EJP, Kotrschal, A, Dahlbom, J, Bundsen, A, Semenova, S, Sundvik, M, Maklakov, AA, Winberg, S, Panula, P, Kolm, N
+
+Summary: 
+
+Animal personalities range from shy, cautious, easily stressed individuals (‘reactive’ personality types) to bold, innovative individuals that are prone to risk-taking and routine formation (‘proactive’ personality types). Though personality differences are expected to have important fitness consequences, their underlying mechanisms remain enigmatic. In this study, we investigated the relationship between individual differences in personality and variation in brain size. We performed three standard personality assays using populations of guppies (Poecilia reticulata) under artificial selection for large and small relative brain size, which also have known differences in cognitive ability. First, large-brained guppies were faster to habituate and more exploratory when tested in an open field; large-brained females were also bolder. Second, large-brained animals excreted less cortisol in a stressful confinement test. Finally, large-brained individuals were slower to adopt a novel food source, a result which is likely due to stronger routine formation rather than lack of innovation. Overall, our findings indicate that large-brained animals have a more proactive personality type, a characteristic which may affect important aspects of their ecology such as dispersal and niche exploration.
+
+Michal Stuglik
+Faculty of Biology and Earth Sciences of the Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Characterization of sex-biased genes from the transcriptome of a male-dimorphic mite
+poster D23SY31PS0867
+
+Author(s): Stuglik, MT, Babik, W, Radwan, J
+
+Summary: 
+
+The different sexes experience different selective pressures, which can lead to highly divergent phenotypes that are achieved via sex-biased gene expression. As a result of sexual selection and sexual conflict, sex-biased genes are expected to evolve at a faster rate than other genes in the genome. Furthermore, because sexual selection acts more strongly on males, male-biased genes are expected to evolve faster than female-biased genes. We aimed to test these predictions in a model species for sexual selection and conflict research, the bulb mite Rhizoglyphus robini (Acari, Acaridae), in which armored, aggressive fighter males coexist with unarmored scrambler males. We sequenced and de-novo assembled transcriptomes of adult males and females. Expression of 4.0% of 114,456 transcriptome-based gene models (TGMs) was male-biased, whereas 1.3% of TGMs had female-biased expression and this difference was highly significant. For TGMs with protein-coding capacity, the proportion with orthologs identified in the spider mite (Tetranychus urticae) genome was lower for male-biased than for unbiased genes, but was very similar for female-biased and unbiased genes. Mean amino acid distances between male-biased R. robini genes and their T. urticae orthologs were significantly greater than those between unbiased genes and their orthologs; female-biased gene orthologs had distances similar to those of the unbiased orthologs. The higher number and faster evolution of male-biased genes are consistent with the hypothesis that sexual dimorphism is driven mostly by male-biased sexual selection. This hypothesis is further supported by the result that the fighter morph, which is behaviorally and morphologically adapted to intense intrasexual competition, was characterized by a considerably larger number of overexpressed (compared to female expression levels) genes than the less sexually dimorphic scrambler morph.
+
+Keigo Uematsu
+University of Cambridge
+Department of Zoology
+United Kingdom
+Co-option of host-alternating polyphenism in the evolution of caste polyphenism in social aphids
+poster D23SY31PS1087
+
+Author(s): Uematsu, K, Shibao, H
+
+Summary: 
+
+Castes in social insects are one of the most well-known examples of polyphenism. However, the developmental origins of the discrete alternative phenotypes are largely unknown. Social aphids form galls on their primary host plant and open colonies on their secondary host plant, producing different phenotypes on each plant. Aphids of the genus Colophina form galls on Zelkova trees in spring. Winged aphids migrate from mature galls in summer and then found open colonies on Clematis plants. In the galls, polyphenism does not occur and the aphids produce first-instar defenders that attack predators with mouthparts. In the open colonies, first-instar sterile soldiers with enlarged legs and shortened mouthparts are produced from polyphenic development. The morphology and defensive behaviour of the soldiers in the open colonies resembles those of monomorphic defenders in the galls, suggesting the possibility that these two defensive morphs share a common developmental program. To investigate the genetic relationship between defenders of Zelkova trees and soldiers of Clematis colonies, I compared morphological traits of four Colophina species. Body parts of the following morphs were measured: 1. monomorphic first-instar nymphs of Zelkova galls, 2. reproductive first-instar nymphs of Clematis colonies, 3. soldier first-instar nymphs of Clematis colonies. Morphometric analyses showed a positive correlation between the morphology of the first-instar nymphs in galls and the sterile soldiers in open colonies. Moreover, in the species close to their ancestral condition, both phenotypes were almost identical. These results suggest that the soldier caste of Colophina species first evolved by co-option from ancestral host-alternating polyphenism, and diverged to have specialized morphology. I will also discuss ecological factors favouring the evolution of the sterile castes, and the contribution of inclusive fitness to the evolution of a novel phenotype.
+
+Kai Winkelmann
+Natural History Museum London
+Life Science
+United Kingdom
+Competition driven ecological speciation in Lake Tanganyika cichlids
+talk D24SY31RT11:42R2
+
+Author(s): Winkelmann, K, Genner, MJ, Rüber, L
+
+Summary: 
+
+Disruptive selection operating on different habitat use can lead to ecological speciation. However the selective forces are often unclear. In Lake Tanganyika the cichlid fish Telmatochromis temporalis has two morphs: a small-bodied "shell" breeding morph, and a large-bodied "rock" breeding morph. We first show that body size differences are heritable in laboratory-reared first generation offspring. Using mtDNA and AFLP data we then show populations are philopatic, and that these morphs have evolved repeatedly. We next tested for divergence on habitat preference using substrate choice trials on wild-caught fish. We found individual habitat preferences in the absence of other fish were tightly linked to body size with larger individuals using rock, and smaller individuals using shells, irrespective of collection habitat. However, medium-sized "shell" males also used rock when given a free choice, but the presence of large competitor "rock" males caused them to shift towards the less preferred shell habitat, and to pair assortatively. Thus, the results support competition as a crucial agent driving the dichotomous habitat use observed in nature. Ecological speciation is feasible because smaller fish are favoured on shell habitat but outcompeted on rocks, while larger fish are selected against on shell habitats by predators.
+
+Carsten Lucass
+University of Antwerp
+Department of Biology
+Belgium
+Conflict and co-adaptation: the evolution of parental care in a wild bird species
+poster D23SY31PS0315
+
+Author(s): Lucass, C, Eens, M, Müller, W
+
+Summary: 
+
+Interactions between caring parents and their offspring are one of the most widespread social behaviours in animals. Parent-offspring interactions involve two parties and its evolution is, therefore, dependent on the evolution of two traits, parental provisioning and offspring begging. From a quantitative genetic perspective both behaviours should co-adapt, which should ultimately lead to (genetic) co-variation. This hypothesis is supported by a number of recent empirical studies. However, most of these studies have been performed in captivity under controlled environmental conditions. This limits the information on among others fitness costs, while these costs are thought to stabilize the process of co-adaptation. By means of a cross-fostering experiment, we studied co-adaptation of offspring begging and parental provisioning in free-living blue tits (Cyanistes caeruleus), thus in the presence of natural selection. We did find evidence for co-adaptation, but only in male parents, as the paternal feeding rates co-varied with begging intensities of their genetic chicks, which were raised in foster nests. By contrast, feeding rates of females co-varied with the begging intensity of the foster chicks they were raising. We can think of two hypotheses that may explain the observed pattern: First, the co-variation in males may reflect a (general) genetic correlation between parental feeding rates and offspring begging, which may be masked in females due to a higher responsiveness to offspring need (thus foster chick begging). A higher responsiveness to actual need in females may also indicate that they may compensate for deviations between offspring begging and paternal feeding. Second, the co-variation of fathers’ feeding rate with their genetic offspring’s begging may relate to prenatal maternal effects, with mothers interlinking offspring begging (possibly via differently allocation of egg compounds) to the males’ expected contribution to parental care.
+
+Maartje Liefting
+VU University Amsterdam
+Dept of Ecological Science
+Netherlands
+Correlated evolution of learning rate studied by artificial selection in a parasitic wasp
+talk D23SY31RT10:30R9
+
+Author(s): Liefting, M
+
+Summary: 
+
+Learning is considered a form of behavioral plasticity through which an organism can adjust its behavior to changes in the environment. Because of both the apparent costs involved in learning and the fact that the rate of learning is highly context-dependent (depending on reliability of certain cues, the value of the reward, the expected lifespan of the organism) we expect and observe many species-specific learning rates. Even closely related species can demonstrate quite different learning rates and differences in consolidation rates of memory for similar experiences. These rates are therefore most likely adapted to the needs of the organism in its natural environment. Because many aspects of learning and memory formation share rather conservative regulatory pathways, rates of learning related to different types of behavior can be correlated (e.g. overall high learning rates for different stimuli). We explored this concept in the parasitic wasp Nasonia vitripennis by creating an artificial selection line favoring a high learning rate for associating a color with finding a host (after a single associative training trial). This selection regime selects for a higher rate of forming a type of middle-term memory. We then explored whether the established ‘high-learning’ lines also exhibit a correlated higher learning rate for a novelty stimulus like odor and whether formation of other memory types (short term or long term memory) was also affected. Also, changes in a selection of life history traits like fecundity and developmental rate were considered, as well as genetic differences. Here I will present the first results of this study.
+
+Hannele Kauranen
+University of Jyväskylä
+Department of Environmental Science & Biology
+Finland
+Daily and seasonal changes in the locomotor activity of Drosophila montana flies is accompanied by changes in the expression of two circadian genes, period and timeless
+poster D23SY31PS0722
+
+Author(s): Kauranen, HL, Hoikkala, A, Kankare, M
+
+Summary: 
+
+Adaptation to daily and seasonal changes in environmental conditions is of crucial importance for the species living in northern latitudes. This includes the ability of the organisms to predict the forthcoming winter by sensing gradual changes in environmental cues early enough to be prepared e.g. by synchronizing their metabolic, developmental and behavioral processes along with the changing seasons. This forecasting system relies heavily on the function of two major molecular clock mechanisms, the circadian clock and the photoperiodic timer. The genetic and neuronal background of the circadian clock is well-known, but the possible role of circadian clock in the photoperiodic timer is under intense debate, partly due to the fact that most of the studies have been performed in D. melanogaster that is not adapted to live seasonally highly varying environments and possesses only mild seasonal photoperiodic responses. Our study species, D. montana, offers a unique opportunity to study these questions as this northern species shows clear circadian rhythms as well as robust photoperiodic responses.
+
+We have studied the possible involvement of the circadian clock in seasonal adaptation by tracing the daily and seasonal rhythms in the locomotor activity of D. montana females and the function of two circadian clock genes, period and timeless, in conditions mimicking light and temperature conditions during ‘summer’ and ‘autumn’, when the females’ developmental pathway (direct maturation vs. reproductive diapause) is determined. D. montana flies shifted their evening activity, as well as the expression peaks of per and tim, towards an earlier time of the day along with a decrease in day length, suggesting that these genes are involved in seasonal adaptation. In addition, a decrease in D. montana’s locomotor activity, as well as the lower activity of diapausing females vs. the non-diapausing ones in late summer and autumn are clearly adaptive features on northern latitudes.
+
+Laura Lavine
+Washington State University
+Entomology
+United States
+Developmental links between sex and nutrition; Interactions between the sex determination pathway and hormonal signaling in stag beetles
+talk D23SY31IT15:45R1
+
+Author(s): Lavine, LC, Gotoh, H, Miyakawa, H, Ishikawa, A, Ishikawa, Y, Sugime, Y, Emlen, DJ, Miura, T
+
+Summary: 
+
+The evolution of sexual dimorphism in animals has long fascinated biologists. One of the important characteristics of sexually-selected traits is condition dependent expression. The mandibles of metallic stag beetles are sexually dimorphic and disproportionately larger in males with large body sizes compared to small body size males. The development of these sexually selected traits is likely to be regulated by nutrition-dependent mechanisms as well as the sex-determination pathway. Yet we know very little about how either of these mechanisms work, much less how they might interact with each other to generate sexual dimorphism. In this study, we experimentally offer evidence of a developmental link between nutrition and sex in the sexually dimorphic stag beetle, Cyclommatus metallifer, focusing on genes in the sex-determination pathway and its interaction with juvenile hormone (JH) signaling which acts as a mediator between nutrition and mandible growth.
+
+Julieta Goenaga
+Evolutionary Biology Centre
+Department of Ecology and Genetics
+Sweden
+Effect of male reproductive proteins on female fitness in seed beetles
+poster D23SY31PS1211
+
+Author(s): Goenaga, J, Yamane, T, Rönn, JL, Arnqvist, G
+
+Summary: 
+
+In organisms with internal fertilization, males transfer seminal fluids to females during copulation. Specific proteins secreted by the male accessory glands (Acps) have profound impact in female reproductive physiology and behavior, affecting fecundity and female remating rate. Thus, these proteins may mediate postcopulatory sexual selection and may generate sexual conflict. Such selection can lead to their rapid evolution, with consequences for speciation. Despite their importance, Acps have been identified and their function elucidated in few cases and our understanding of the genetic variation in Acps production and the selection upon their encoding loci is still incomplete. The main goal of this study is to elucidate the level of genetic variation for Acps across populations in a seed beetle species, Callosobruchus maculatus, and to identify the Acps that mediate the effects upon female fitness through comparative quantitative proteomics studies. By using 7 different populations, we performed an experiment to estimate genetic variation in the Acps that regulate offspring production and female longevity. To obtain the Acp-proteome profile from each population we performed two-dimensional gel electrophoresis (2D-PAGE) and we generated the proteomic fingerprint needed for quantitative comparative analyses. Preliminary results showed that males from different populations have differentially affected female fecundity and longevity. Our results suggest the presence of genetic variation across populations for the effects of the Acps upon the studied female traits. 2D-proteomics comparative analyses showed differences in the Acp-proteome profile across populations, revealing a potential correlation between changes in the proteome and the female fitness. This finding is essential to identify the Acps that mediate the effects upon female fitness. This novel information will offer new insights into the evolution of Acps.
+
+Magnus Elfwing
+IFM Linkoping University
+Department of Biology
+Sweden
+Effects of a mutation in the adrenergic receptor gene ADRA2C, selected during chicken domestication, on gene expression, receptor density and behaviour
+poster D23SY31PS0982
+
+Author(s): Elfwing, M, Fallahshahroudi, A, Altimiras, J, Jensen, P
+
+Summary: 
+
+During domestication, chickens have been selected for genotypes which confer selective advantages in conditions under human care and rearing, but little is known about the detailed genetic mechanisms involved. In a recent study of selective sweeps associated with domestication, resequencing of different chicken breeds reveled a number of strongly selected loci. One of those, containing the a-adrenergic receptor 2C (ADRA2C), was found to be selected in layer chickens. Furthermore, previous studies from our group show that the receptor is hyper-methylated in White Leghorn (WL) chickens compared to the Red Junglefowl (RJF) ancestor, suggesting the gene to be differently expressed. ADRA2C is a presynaptic autoreceptor modulating epinephrine and norepinephrine release within the central nervous system and secretion of epinephrine from the adrenals. A down-regulation is associated with increased catecholamine secretion. Hence, domestication on the receptor might have an impact on stress responses, memory formation and egg production. We used F9-birds from an intercross between domesticated WL and RJF, and selected parents which were heterozygous for the mutation in ADRA2C generating offspring with all genotypes represented. This allowed within-family comparisons of the effects of the mutation against a randomly recombined genome. We used an array of stress related behavioral tests and we measured differences in brain expression of the gene as well as receptor density. Briefly birds with the mutation tended to have impaired associative learning and recovered more quickly after exposed to an aerial predator model. We hypothesize that the domestication of chickens have selected birds with hypo-expressed levels of ADRA2C, generating an increased catecholamine release, and that this has caused modifications of the stress response.
+
+William Jeffery
+University of Maryland
+Department of Biology
+United States
+Evolution of a novel adaptive behavior may promote eye regression in Astyanax Cavefish
+talk D23SY31IT17:45R1
+
+Author(s): Jeffery, WR, Yoshizawa, M
+
+Summary: 
+
+The teleost Astyanax mexicanus is a species complex consisting of sighted surface-dwelling (surface fish) and blind cave-dwelling (cavefish) forms. Cavefish show constructive phenotypes, such as novel behaviors mediated by enhanced sensory systems, and regressive phenotypes, including the loss of eyes and pigmentation. Because surface fish and cavefish are interfertile genetic approaches can be used to study these phenotypes. Vibration attraction behavior (VAB) is a foraging behavior that detects aquatic vibrations emanating from living prey and requires a specialized class of sensory neuromasts (orbital neuromasts or ON). VAB is pervasive and strong in cavefish but is only rarely seen and weak in surface fish. Genetic analysis of F2 progeny obtained by crossing surface fish with cavefish showed that VAB is paternally inherited and controlled by several QTL that are congruent with QTL for ON number. Importantly, two of the major VAB and ON QTL cover the same genomic regions as some of the QTL responsible for cavefish eye degeneration. This QTL clustering, along with negative phenotypic correlations between VAB/ON and eye size in the F2 generation, suggest that the underlying constructive and regressive phenotypes are co-regulated, either by antagonistic effects of the same pleiotropic gene or by tightly linked genes that are subject to genetic “hitchhiking”. Thus the evolution of eye loss in cavefish may be a consequence of strong positive selection for VAB and its sensory receptors, whose enhancement is adaptive in the dark cave environment.
+
+Hugo Benitez
+Faculty of Life Sciences of The University of Manchester
+United Kingdom
+Evolutionary diversification at multiple levels of variation in Drosophila Wing Shape
+poster D23SY31PS1184
+
+Author(s): Benitez, HA, Klingenberg, CP
+
+Summary: 
+
+Studying integration and modularity is essential to understand the evolution of shape because the coherence of recognizable parts of most organisms is dependent on their developmental origin and structure. Drosophila wing morphology has been used extensively as an important model trait in evolutionary biology, since its genetics and development are well known. The aim of the present study is to address questions related to the evolution and developmental process of the wing shape architecture. Specifically, the questions are: 1- Are the Drosophila wings a single integrated morphological unit consistently in all the species groups across the whole genus? 2- Does morphological integration evolve across the genus? 3- Is there any evolutionary integration in the Drosophila wing? To study these morphological changes we used geometric morphometrics as a tool for analyzing shape variation and its covariation between the anterior and posterior (A/P) compartments of the wing and to compare the different covariance matrices between species. Moreover, we also used comparative methods for mapping the shape data onto the phylogeny. The analyses show, on the one hand, strong differences between the species of this genus. Indeed, the modularity test for the A/P wing compartments showed that they are not independent in all the species studied, confirming previous results for D. melanogaster at large scale. On the other hand, mapping the variation of covariance matrices onto the phylogeny shows the pattern of evolution of integration in the genus. This study has helped to answer questions related to the evolutionary process of the Drosophila wing shape and to show that the A/P wing compartments are not separate modules of variation. We have also found a clear evolutionary integration into all the different traits of wing shape. We can conclude that the wing shape shows strong internal covariation, and also that the integration process has evolved in the genus.
+
+Thanh-Lan Gluckman
+The University of Cambridge
+Department of Zoology
+United Kingdom
+Evolutionary pathways to convergence in plumage pattern phenotypes
+talk D22SY31RT11:42R4
+
+Author(s): Gluckman, T, Mundy, NI
+
+Summary: 
+
+Convergence in animal phenotypes is a central theme in evolution. Bird plumage patterns are an emerging model system due to the hierarchical nature of feather growth and spectacular within-feather pigmentation. Although birds are visually diverse, at the level of individual feathers there are just three major types of regularly repeating patterns: scales, bars and spots. Previous studies of avian pattern phenotypes have predominantly been adaptationist, focusing on camouflage and/or communication. In contrast, developmental constraint in plumage pattern convergence is relatively unexplored. A biologically realistic model of within-feather pattern formation (Prum & Williamson 2002) relies on a reaction-diffusion based mechanism. According to this model, scales require the least stringent regulation, bars require a higher rate of activation decay than scales, and spots require simultaneous spatial and temporal differentiation. Thus, development may constraint scales to evolve first, followed by bars and finally spots. Here, we use Bayesian phylogenetic modeling to reconstruct the evolutionary pathways to plumage pattern convergence, in the two avian clades with the most spectacular plumage patterns – waterfowl (Anseriformes – 118 species), and gamebirds (Galliformes – 170 species). Plumage pattern evolution was allowed to evolve independently in six feather tracts over the body, in each group separately. We found that for each tract, in both groups, scales predominantly evolve first, followed by barred and spotted plumage. Interestingly, we found that spotted plumage is more likely to evolve from scaled than barred plumage in gamebirds, but not in waterfowl. Together our results demonstrate directionality in plumage pattern evolution, providing support for developmental constraint that may be mediated by reaction-diffusion dynamics. These results underscore the importance of considering selection in the context of development in studies of phenotypic evolution.
+
+Christopher Kimber
+Queen's University
+Department of Biology
+Canada
+Experimental evolution reveals the "mother's curse": Sperm competition and cytonuclear interactions in Drosophila
+poster D23SY31PS1135
+
+Author(s): Kimber, CM, Chippindale, AK
+
+Summary: 
+
+Matrilineal transmission creates the potential for male-specific deleterious variation to accumulate in the mitochondrial genome via either selection for female-benefit sexually antagonistic alleles or drift. In either case, the result may be increased selection for nuclear regulation of mitochondrial function in males. Sperm function may therefore be particularly sensitive to cyto-nuclear coadaptation and compensatory evolution. Mitochondria are known to play a key role in insect spermatogenesis, though the energetics of insect sperm are relatively poorly understood.To investigate whether cyto-nuclear interactions are important in the evolution of sperm competitive ability, we created cyto-nuclear hybrids between Drosophila melanogaster populations selected for different life histories. We used five pairs of experimentally-evolved populations, now divergent for over 1000 generations. One selection treatment, CO, has been selected for late life reproduction (4 wk cycle). The other, ACO, has undergone selection for extremely rapid development and very early reproduction (9 day cycle), leading to marked changes across a host of life history and morphological traits (the “fast development syndrome”). We measured sperm offensive ability (P2) of all 20 cyto-nuclear hybrid and purebred populations at early and late ages by double-mating control females with a standard competitor as the P1 male and recording siring success. ACO-nuclear males with CO cytoplasm had lower P2 success than pure ACO males at both ages, while CO-nuclear males with ACO cytoplasm had lower success than pure CO males in old age . The deleterious effect of foreign cytoplasm on sperm competitive function suggests cyto-nuclear interaction can play an important role in the evolution of spermatogenesis or sperm energetics; which of these factors has evolved is the object of current investigation.
+
+Uttaran Maiti
+Institute of Environmental Science of Jagiellonian University
+Evolutionary physiology
+Poland
+Exploratory performance in an open field test of bank voles (Myodes glareolus) from multidirectional artificial selection experiment
+poster D23SY31PS0991
+
+Author(s): Maiti, U, Chrzascik, KM, Rudolf, A, Sadowska, ET, Koteja, P
+
+Summary: 
+
+It has been proposed that evolution of complex physiological adaptations, such as endothermy or capability to utilize a specific diet, could be driven by natural selection acting primarily on behaviour. Behavioural trait such as "personality" of individuals, influences habitat preference, aggression, attitude to novel objects or situations, which in turn could lead to the variation in physiological traits such as metabolic rate. As a consequence, individuals with higher resting metabolic rate are able to collect, process, and invest more energy, complementing their active personality. However, empirical evidence for this hypothesis remains ambiguous. To test the hypothesis we are comparing exploratory behaviour of bank voles (Myodes glareolus), selected for high aerobic capacity (A), predatory aggression (P), ability to grow on low quality herbivorous diet (H), with that of unselected control (C), in an open field condition. By measuring exploratory performance in an environment like open field, which is novel and stressful to these semi-fossorial rodents, we would interpret personality of individuals across the selection lines, on an “proactive – reactive” axis. We hypothesize that voles from A and P lines will show more “proactive”, whereas those from H lines more "reactive" personality, compared to voles from unselected C lines. The results will enable us to investigate if variation in personality is heritable and genetically correlated with the traits under selection.
+
+Ehsan Pashay Ahi
+Institute of Life and Environmental Sciences, University of Iceland
+Department of Biology
+Iceland
+Gene expression differences in Arctic charr ecomorphs during head development
+poster D23SY31PS1056
+
+Author(s): Pashay Ahi, E, Guðbrandsson, J, Pálsson, A, Kapralova, KH, Franzdóttir, SR, Snorrason, SS, Maier, VH, Jónsson, ZO
+
+Summary: 
+
+There is a strong connection between microevolutionary and ecological processes during the emergence of intraspecific diversity. Within populations similar phenotypes can be found in similar environments and hence appear as intraspecific parallel evolution. A remarkable example of this is the repeated occurrence of sympatric morph pairs (benthic/limnetic) in northern freshwater fishes. Arctic charr (Salvelinus alpinus) exhibits parallel evolution of benthic/limnetic morphological characteristics, particularly in the head and trophic apparatus. In Lake Thingvallavatn, Iceland, four ecomorphs of Arctic charr are found, two are benthic with subterminal mouth and blunt head (small and large benthivorous) and two are limnetic with elongate gracile terminal mouth (planktivorous and piscivorous). In this study the molecular basis of this craniofacial divergence was addressed during embryonic development by spatio-temporal expression profiling of candidate genes using a combination of tools (i.e. RNA-Seq technology, Real-Time QPCR, and in situ hybridization). Among differentially expressed candidate genes, a cluster of genes with craniofacial specific expression pattern have shown significant upregulation in the head of benthic ecomorphs. Two members of matrix metalloproteinase family, MMP-2 and MMP-9, were amongst the top differentially regulated candidates. Interestingly, a previous study in zebrafish demonstrates that glucocorticoid-induced increase in expression and activity of MMP-2 and -9 during embryogenesis generates a paedomorphic phenotype with subterminal mouth similar to benthic charr morphology. Thus, we hypothesize that a mechanism for the differential regulation of MMP-2 and -9 may play an important role in determining the benthic/limnetic craniofacial divergence of Arctic charr ecomorphs in this lake.
+
+Alexis Matamoro-Vidal
+Florida State University
+Department of Biology
+United States
+Generating morphological variation from basic developmental process: the example of the Drosophila wing
+talk D23SY31RT14:48R9
+
+Author(s): Matamoro-Vidal, A, Houle, D, Salazar-Ciudad, I
+
+Summary: 
+
+Understanding the genotype to phenotype map (G-P map) is a central problem in evolutionary biology. The G-P map determines the phenotypes that can be produced, and structures the possible evolutionary responses to selection. The complexity of both the genotype and the phenotype may suggest that the map concept is of little practical value in predicting either the range of possible phenotypic variation, or the way that traits evolve. We argue that this difficulty may be overcome by focusing on the developmental level. While the molecular basis of morphological variation is indeed complex, there are only a few morphogenetic developmental mechanisms (e.g., cell proliferation, movement, orientation of cell division, etc) that generate morphology. Understanding on the one hand how the spatial and temporal distribution of transcription and growth factors affect these mechanisms, and on the other hand, how variation in these mechanisms affects morphology provides a practical approach of the G-P map. To illustrate this approach, we built a cell-based computational model of Drosophila wing development that links cell signalling and biomechanics and wing morphology. The model represents cells as 2D polygons. Cell movement, division, biomechanical properties, and cell-cell interactions are implemented together with realistic cell signalling (wingless, dpp, vestigial) and intracellular gene networks. The model generates the 2D morphology of the wing, veins, cell position, shape and polarity. We will present the range of in silico morphological variation obtained through the exploration of the parameter space of the model. This variation will be confronted with the morphological variation obtained in the lab by quantitatively manipulating the level of expression of key developmental genes.
+
+Reinmar Hager
+University of Manchester
+Faculty of Life Sciences
+United Kingdom
+Genetic evidence for mosaic brain evolution in mammals
+talk D23SY31RT15:12R9
+
+Author(s): Hager, R, Lu, L, Rosen, GD, Williams, RW
+
+Summary: 
+
+The mammalian brain consists of distinct parts that serve different functions. It has been argued that evolution of the mammalian brain is constrained by developmental programs (concerted evolution) and that different brain parts are not free to respond individually to selection and evolve independent of other parts as predicted by a mosaic scenario of brain evolution. We test these hypotheses using a quantitative genetic approach involving over 10,000 mice and identify independent loci for size variation in seven key parts of the brain. We further demonstrate that brain parts show low or no phenotypic correlation, as is predicted by a mosaic scenario. We also demonstrate that variation in brain size is independently regulated from body size. The allometric relations seen at higher phylogenetic levels are thus unlikely to be the product of strong developmental constraints.
+
+Kalina Davies
+Queen Mary University of London
+School of Biological & Chemical Sciences
+United Kingdom
+Genetic insights into the behavioural and morphological diversity of African mole-rats (family: Bathyergidae)
+poster D23SY31PS0993
+
+Author(s): Davies, KTJ, Bennett, NC, Tsagkogeorga, G, Parker, J, Rossiter, SJ, Faulkes, CG
+
+Summary: 
+
+A principal constraint to have shaped many aspects of African mole-rat biology is their strictly subterranean lifestyle, with individuals rarely emerging above-ground. Linked to this lifestyle, their diet consists mostly of geophytes, the storage organs of plants, which has allowed mole-rats to occupy a range of climatically varied habitats across sub-Saharan Africa. Morphological adaptations include an elongated cylindrical body with shortened limbs, reduced eyes and external ears, and even hairlessness in the naked mole-rat (Heterocephalus glaber). Physiologically, mole-rats are adapted to a life in constant darkness, which may affect their circadian rhythms, and reduced oxygen levels (hypoxia), which may have allowed them to become insensitive to certain pain stimuli. Furthermore, for rodents, mole-rats are exceptionally long lived (~30 years). Social structure across the family ranges from solitary to eusociality, with sociality thought to have evolved multiple times. A subterranean lifestyle and similar social structures have convergently evolved in other divergent families within the Rodentia. All of these facts, coupled with the resource of the recently completed naked mole-rat genome, make this family a valuable group for diverse evolutionary studies.
+
+To identify genes that have been targets of selection in this group, we are undertaking phylogenomic analyses of mole-rats using transcriptomes obtained from 8 ecologically diverse mole-rat species, including social and solitary species. We present our preliminary findings of comparative genetic analyses of candidate genes relating to some of the key adaptive traits, for example, those relating to sensory perception, locomotion and social behaviour, which have evolved within this family. With the aim of beginning to document and understand the genetic basis behind the numerous remarkable evolutionary adaptations shown by the members of this family of highly specialised hystricomorph rodents.
+
+Wen-Juan Ma
+Faculty of Mathematics and Natural Sciences of University of Groningen
+Center of Evolutionary and Ecological Studies
+Netherlands
+Genetics of sex determination and sexual traits in the parasitoid wasp genus Asobara
+poster D23SY31PS0237
+
+Author(s): Ma, W, Pannebakker, B, Beukeboom, L, Schwander, T, Wertheim, B, Van de Zande, L
+
+Summary: 
+
+Sex determination and sexual-reproduction traits are key issues in evolutionary biology. One way to improve our understanding of sex determination is to study the underlying mechanisms in closely related species and in a phylogenetic framework. In the Hymenopteran parasitoid wasp genus Asobara, characterized by a haplodiploid sex determination system, we first investigated if haplodiploidy in four different species is caused by complementary sex determination (CSD), whereby sex differentiation depends on the allelic state at the CSD locus (heterozygous individuals are females, hemi- or homozygous are males). Using multiple-generations inbreeding experiments, flow cytometry and simulation models, we showed that sex in this genus is neither determined by the allelic state at a single locus nor at multiple loci, but by an alternative mechanism. We then focused on the species A. japonica which, in addition to sexual lineages, comprises asexual lineages as a result of Wolbachia infection. It is expected that in asexuals, traits once involved in sexual reproduction become redundant and vestigialize. To gain insights into the genetics of sexual vestigialization, genes from an asexual lineage were introgressed into a sexual lineage, by taking advantage of males that are occasionally produced by asexual females. Among the offspring of F1 hybrids, approximately 50% of females lost their mating propensity, suggesting a simple genetic architecture underlying trait decay, consistent with a single recessive locus. Sex allocation among the females that did mate became more female-biased in F1 generation and slightly less female-biased in further introgressed generations, suggesting a complex genetic architecture with dominance effects. Using next-generation sequencing of different Asobara species, we are investigating the molecular basis of sex determination mechanisms and vestigialized sexual traits. I will present and discuss the data in an evolutionary context.
+
+Ines Braga Goncalves
+University of Zurich
+Institute for Evolutionary Biology and Environmental Sciences
+Switzerland
+Hormonal effects on the vocal communication and anti-predator behaviour of cooperative breeding meerkats (Suricata suricatta)
+poster D23SY31PS1307
+
+Author(s): Braga Goncalves, I, Manser, MB
+
+Summary: 
+
+Animal vocalisations, like human voices, are characterised by individual differences in rate of production and acoustic structure. This variation can be partly explained by the social and environmental contexts that individuals experience, but also by their internal state. Thus, vocalisations can potentially be sources and vehicles of information concerning the producer’s age, size, rank, sex and endocrine status. Individual differences in androgens (e.g. testosterone) and glucocorticoids (e.g. cortisol) have been repeatedly associated with competitive ability, social rank, vigilance behaviour and reproductive success. In social species, hormone levels have additionally been associated with variation in calling behaviour, including calling rates and acoustic parameters. Meerkats (Suricata suricatta) are small cooperative breeding mammals that live in groups of up to 50 individuals in Southern Africa. Meerkats have a highly developed vocal communication system, which they use to coordinate their spatial organisation, social interactions and anti-predator behaviour. Thus, meerkats are an ideal study system in which to explore links between behaviour, vocalisations and hormones in animal societies, using both natural observations and manipulations. Experimental elevation of glucocorticoids significantly increased the production rate of close calls in males but not in females. This may potentially reflect a greater role of subordinate males than females in the maintenance of group cohesion, where close calls seem to play a major role, in periods of greater predation risk. In addition, reduction of circulating testosterone levels in subordinate males tended to increase calling rate. Overall, our results show how androgens and glucocorticoids can affect vocal communication and behaviour in meerkats with potentially significant consequences to group cohesion and coordination of anti-predator behaviour in this species.
+
+Souvik Mandal
+Indian Institute of Science
+Centre for Ecological Sciences
+India
+How far do wasps fly and how do they return home?
+poster D23SY31PS0057
+
+Author(s): Mandal, S, Gadagkar, R
+
+Summary: 
+
+Ropalidia marginata is a primitively eusocial, independent founding, polistine wasp widely distributed in peninsular India. Although we have a fair amount of information about its nesting biology and social organization, we know little about its abilities and mechanisms of orientation, navigation and homing. In an attempt to understand how far the wasps fly and how they manage to return to the nest, we removed and transported foragers from 4 nests, without giving them a view of the surroundings, and released them in 4 cardinal directions, in gradually increasing distances from the nests. Only foragers were used for the experiment because they were already observed to fly out and successfully return to their nests. All wasps (43/43 wasps and a total of 198/198 releases) successfully returned to their nests when they were released within an area of about one sq. km around their nests. We also released 125 wasps beyond an area of one sq. km around their nests but within four sq. km around their nests. Here the wasps returned sometimes but not always: of the 243 releases, wasps returned only in 140 cases. No wasps (0/64 wasps) returned to their nests when they were released beyond four sq. km around their nests. In another experiment, when all wasps, including foragers and non-foragers were released at a point 100 meters away from their nests, only some (38/64 wasps) successfully returned to their nests, even when they were given a view of their surroundings during transportation. In this experiment, the probability that a wasp returned to her nest was positively correlated with the proportion of time that she had spent away from her nest prior to the experiment. These results are consistent with the hypothesis that familiarity with the surroundings is both necessary and sufficient for the wasps to perform successful homing.
+
+Rosa Arribas Ramos
+Doñana Biological Station - CSIC
+Wetland Ecology
+Spain
+Invasive crayfish have a greater impact on amphibian larval survival and pond structure than native predators
+poster D23SY31PS0266
+
+Author(s): Arribas Ramos, R, Diaz Paniagua, C, Gomez-Mestre, I
+
+Summary: 
+
+The efficiency of induced antipredator responses critically depends upon accurate cue recognition and hence requires some joint predator-prey evolutionary history because otherwise preys may fail to recognize or respond efficiently against alien predators. Thus, amphibian larvae often fail to trigger antipredator responses against invasive predators. Few studies analyzed the ecological consequences of predator-tadpole interactions on the rest of the aquatic communities of temporary ponds, but amphibians’ impact on the community structure and dynamics of aquatic systems may be conditioned by their interactions with competitors and predators. Thus, predators can potentially have cascading effects on pond communities via alterations in amphibian larval density and/or their phenotype. We used a mesocosm array at Doñana National Park to test for density dependent and density-independent effects of native and invasive predators on survival and growth rate of amphibian larvae, also quantifying its consequences on the food web. Invasive predators caused greater mortalities of amphibian larvae than native predators, hence having a stronger potential for direct density-dependent effects on amphibian guilds and their interactions in the trophic web. Moreover, crayfish increased turbidity and nutrient content in the water and had a direct negative impact on plants that was carried over into the following hydrological cycle. Thus, our results highlight how this invasive species poses a greater predatory threat to amphibians than other native predators, and can also be highly disruptive of the entire pond structure.
+
+Virginie Népoux
+CNRS
+Laboratoire évolution génomes et spéciation
+France
+It smells like blue
+poster D23SY31PS0163
+
+Author(s): Népoux, V, Mery, F
+
+Summary: 
+
+In nature, animals are exposed to a wide variety of sensory cues, auditory, olfactory, visual or gustatory. These sensory cues may be used as information to learn to recognize dangers and resources in a changing environment. In order to associate a neutral stimulus to an aversive or appetitive one (associative learning), information may be collected by different sensory systems, which may vary in their reliability and may even be in conflict. How is processed information? Is there information transfer between sensory systems? How animals balance these different informations will have a strong impact on their decision making. Using Drosophila melanogaster, a well-known model for learning ability studies, we propose to understand how different sensory modalities (gustatory, visual and olfactory) can be used in an associative learning task and how they interact.
+
+Emilie Snell-Rood
+University of Minnesota
+Ecology, Evolution and Behavior
+United States
+Learning-like mechanisms across development: insights for the evolution of life histories and complex traits
+talk D22SY31IT10:30R4
+
+Author(s): Snell-Rood, EC
+
+Summary: 
+
+A long standing question in biology is understanding how complex and diverse traits can arise out of a relatively simply genome. Developmental selection, a process analogous to learning, has long been touted as a mechanism that can explain the emergence of complexity in the immune and nervous systems. Here, I argue that a broader appreciation of developmental selection across all traits is necessary for understanding phenotypic evolution. In particular, developmental selection increases the likelihood of adaptive plasticity and integrated complexity in traits, but comes with energetic and time costs relative to a specialist, resulting in major changes in life history strategies. In this talk I review evidence that developmental selection applies to a range of traits, from behavior to gene expression, and suggest that incorporating this mechanism into our evolutionary models will lead to a more complete understanding of innovation, diversification and complexity.
+
+Rui Oliveira
+ISPA - Instituto Universitário
+Biosciences
+Portugal
+Life-history pathways associated with sequential reproductive tactics in the peacock blenny (Salaria pavo)
+poster D23SY31PS0244
+
+Author(s): Oliveira, RF, Gonçalves, DM, Fagundes, T, Saraiva, J
+
+Summary: 
+
+A polymorphism has been documented in males of the peacock blenny (Blenniidae: Teleostei) according to which males can reproduce either as parental males (bourgeois males that express secondary sex characters such as a head crest and a sex-pheromone producing anal gland) or as sneaker males (smaller and younger males that lack male secondary sex characters and mimic female courtship behaviour). In this study the hypothesis that the two male morphs correspond to different life-history pathways was tested by following marked individuals in the field (Ria Formosa, Portugal) during a period that covers their life span (6 years). Two main pathways were identified: 1. early hatched immature males become bourgeois males at age 0+/1 and reproduce as such in their first reproductive season and subsequent ones (“Bourgeois pathway”); 2. later hatched males reproduce as sneakers in their first reproductive season switching to the bourgeois tactic after the end of that season, at the start of age 1, and they reproduce as bourgeois males in the subsequent seasons (“Sneaker pathway”).. These results confirm that the pattern of alternative tactics is flexible with fixed sequences, and supports the “birthdate effect” as a factor influencing tactic expression. The estimated reproductive success of the “bourgeois pathway” was lower than that of the “sneaker pathway”. Therefore early hatching may constitute a constraint that we hypothesise to be maintained by an opposing selective force that favours early hatching of females.
+
+Philipp Schiffer
+University of Cologne
+Zoologisches Institut
+Germany
+Major changes in the core developmental pathways of nematodes: Romanomermis culicivorax reveals the derived status of the Caenorhabditis elegans model
+talk D23SY31RT14:24R9
+
+Author(s): Schiffer, PH, Kroiher, M, Kraus, C, Koutsovoulos, GD, Blaxter, ML, Schierenberg, E
+
+Summary: 
+
+Despite its status as a model organism, the development of Caenorhabditis elegans is not necessarily archetypical for nematodes. The phylum Nematoda is divided into the Chromadorea (indcluding C. elegans) and the Enoplea. Compared to C. elegans, enoplean nematodes have very different patterns of cell division and determination in development, while at the same time the adult vermiform phenotype is extremely similar across the phylum. Embryogenesis of the enoplean Romanomermis culicivorax has been studied in great detail, but the genetic circuitry underpinning its development is unknown. We created a draft genome of R. culicivorax and compared its developmental gene content with that of two nematodes, C. elegans and Trichinella spiralis (another enoplean), and a representative arthropod Tribolium castaneum. This genome evidence shows that R. culicivorax retains components of the conserved metazoan developmental toolkit lost in C. elegans. T. spiralis has independently lost even more of the toolkit than has C. elegans. However, the C. elegans toolkit is not simply depauperate, as many genes essential for embryogenesis in C. elegans are unique to this lineage, or have only extremely divergent homologues in R. culicivorax and T. spiralis. These data imply fundamental differences in the genetic programmes for early cell specification, inductive interactions, vulva formation and sex determination. Thus nematodes, despite their apparent morphological conservatism, have evolved major differences in the molecular logic of their development. R. culicivorax serves as a tractable, contrasting model to C. elegans for understanding divergent genomic and thus regulatory backgrounds generating a conserved phenotype. The draft genome will promote use of R. culicivorax as a research model.
+
+Ljupka Filipovic
+University of Belgrade, Faculty of Biology
+Department of Genetics and Evolution
+Serbia
+Mating success and morphological traits in Drosophila melanogaster strains developed in different nutritive environments
+poster D23SY31PS0343
+
+Author(s): Filipovic, L, Trajkovic, J, Pavkovic-Lucic, S, Savic, T
+
+Summary: 
+
+Relations between mating success, adult body size and correlated traits were among the more explored in sexual selection studies. Reproductive behavior of many dipteran species, including Drosophila, depends of larval nutrition by influencing various aspects of adult body size. Nutrient-induced differences in traits that represent body size may affect both sexes, through competition (in males) or affecting fecundity (in females). Then, it is important to establish how fruitflies perceive the complex chemical environment, i. e. different chemical compounds involved in their life activities, such as feeding, mating and oviposition. In a series of multiple choice experiments, Drosophila melanogaster flies were put in competitive mating scenario and scored for mating success. Drosophila melanogaster strains maintained for more than a decade on standard laboratory medium and substrates containing fruits or vegetables were used. After behavioral observations, flies were used in analysis of morphological traits such as wings and sex combs. Wings are involved in male courting activities, due to attractiveness in their morphology (size, shape) and production of acoustic stimuli. Sex combs, which represent male secondary sexual trait, are also included in exchange stimuli during courtship. Beside their potential role in mating behavior, both wings and sex combs may be useful traits for considerations of effects of nutritional environment. Flies reared on different diets showed differences in mating success. As wing size and shape sexual dimorphisms were observed, the effects of long-term exposure to different nutrition on morphological characteristics under this study will be also considered. Obtained results will be further discussed in light of relations established among nutrition, behavioral and morphological traits in this species.
+
+Kevin Healy
+School of Natural Sciences, Trinity College Dublin
+Zoology Department
+Ireland
+Metabolic rate and body size linked with perception of temporal information
+talk D23SY31RT10:54R9
+
+Author(s): Healy, K, McNally, L, Ruxton, GD, Cooper, N, Jackson, AL
+
+Summary: 
+
+Body size and metabolic rate both fundamentally constrain how species interact with their environment and are hence an important determinant of the niche they occupy. While many mechanisms linking how both intra- and inter-specific interactions are constrained by body mass and metabolic rate have been explored, their effects on the fundamentally important resolution at which temporal information is perceived have been largely overlooked. The visual system acts as a gateway to the dynamic environment and the relative resolution at which organisms are able to acquire and process visual information is likely to restrict their ability to interact with events around them. As both smaller size and higher metabolism are known to facilitate rapid behavioral responses, we hypothesize that these traits will favor perception of temporal change over finer time scales. Using the critical flicker fusion frequency, the lowest frequency of flashing at which a flickering light source is perceived as constant, as a measure of the maximum rate of temporal information processing in the visual system, we present a phylogenetic comparative analysis of a wide range of vertebrates supporting this hypothesis. Our analyses show that species that have small body masses, high metabolic rates and live in bright environments have the highest temporal perceptual abilities. Our results have implications for the evolution of signaling systems and predator-prey interactions, and, combined with the strong influence that both body mass and metabolism have on a species’ ecological niche, suggest that time-perception may constitute an important and over-looked dimension of niche differentiation.
+
+Ana Florez-Rueda
+ETH - Zürich
+Integrative Biology
+Switzerland
+Molecular characterization of postzygotic isolation barriers in wild tomatoes: the endosperm transcriptome of Solanum peruvianum
+poster D23SY31PS0371
+
+Author(s): Florez-Rueda, AM
+
+Summary: 
+
+The establishment of reproductive isolation barriers is a basic component of the speciation process and thus of major interest in evolutionary biology. Closely related species in the tomato clade (Solanum section Lycopersicon) provide interesting material to study both pre- and postzygotic barriers. The sister species Solanum peruvianum and Solanum chilense exhibit very strong, reciprocal postzygotic reproductive isolation; following controlled pollinations there is production of fruits but developing embryos are usually aborted, i.e. the seeds are inviable. Embryo inviability (hybrid seed failure) is a common interspecific barrier in angiosperms, and there is substantial evidence that imbalances in endosperm-embryo interactions early in seed development mediate such barriers. Our histological comparisons of hybrid and intraspecific seeds of these species have shown abnormalities in hybrid endosperm development that are concurrent with arrest in embryo growth. We hypothesize that key genes involved in endosperm development, as well as epigenetic factors mediating their expression (i.e. small RNAs and genomic imprinting), are disrupted in these hybrid crosses. Following reciprocal within-population crosses, we laser-microdissected endosperms of early-developing seeds of S. peruvianum, extracted RNA and sequenced transcripts on the Illumina HiSeq2000 platform. The composition of the “normal” intraspecific endosperm transcriptome and its expression levels will be characterized. The next steps will be an assessment of the hybrid endosperm transcriptome (following reciprocal crosses between S. peruvianum and S. chilense) and its comparison with the within-species transcriptome. This research shows how endosperm development and its abnormalities in hybrid seeds are an important force shaping the speciation process in the tomato clade.
+
+Isabel Mück
+University of Tübingen, Germany
+Animal Evolutionary Ecology
+Germany
+Nest distribution affects behaviour and reproductive success of a marine fish
+poster D23SY31PS0361
+
+Author(s): Mück, IM, Wacker, S, Myhre, LC, Amundsen, T
+
+Summary: 
+
+The distribution of breeding resources, such as nest sites, can have a pronounced impact on a population by affecting the proportion of individuals that succeed to breed and hence the variation in reproductive success. Aggregation of important resources can lead to resource monopolisation by a limited number of individuals, and thus affect the intensity of sexual selection. We tested by contrasting two experimental treatments (dispersed vs. aggregated) how nest distribution affects: (1) mating behaviour, (2) male nest occupation and mating success, and (3) reproductive success and the opportunity for selection. We used the two-spotted goby (Gobiusculus flavescens), a small marine fish with a resource-based mating system, as our model species. When nests were aggregated, a larger proportion of the males behaved aggressively, fewer males succeeded in occupying a nest, fewer males became mated, and those males that mated received fewer eggs from spawning females. These effects resulted in a higher variance in reproductive success, and hence a higher opportunity for selection (Irs), in the aggregated treatment. However, we found no significant selection differentials for body length or condition of males in either treatment. Our results support the hypothesis that aggregation of essential resources like nests promotes resource monopolisation. In species facing highly clumped nesting resources in the wild, monopolisation may negatively impact population productivity but could lead to strong selection on traits that promote male competitive ability.
+
+Robert Anholt
+North Carolina State University
+Department of Biological Sciences
+United States
+Neurogenetic networks as substrates for natural variation in olfactory behaviour in Drosophila melanogaster
+talk D23SY31RT11:18R9
+
+Author(s): Anholt, RRH, Swarup, S, Huang, W, Arya, G, Mackay, T
+
+Summary: 
+
+Appropriate responses to chemical signals are essential for survival and reproduction, and genetic variation that gives rise to phenotypic variation in olfactory behaviour provides a substrate for natural selection. Drosophila melanogaster provides an ideal system to study the genetic basis for natural variation in olfactory behaviour because its olfactory system is well characterized and genetically identical individuals can be reared in controlled environments. The Drosophila melanogaster Genetic Reference Panel (DGRP), a collection of inbred wild-derived lines with fully sequenced genomes enables GWA studies to be performed in a scenario where all variants are known, candidate genes can be functionally tested allowing empirical assessment of the FDR, and outbred populations derived from DGRP lines can be constructed for the analysis of epistasis. GWA analysis together with variance GWA (vGWA) analysis in the DGRP revealed single nucleotide polymorphisms (SNPs) associated with variation in olfactory behaviour. Subsequent extreme QTL mapping using advanced intercross line (AIL) populations derived from lines with opposite extreme behavioural responses revealed additional SNPs. Combined analyses of GWA, vGWA and extreme QTL mapping uncovered a cellular network associated with variation in olfactory behaviour, centered on genes involved with cellular signaling and neural development. Candidate genes and network connectivity were validated through mutational analysis. We show that different elements of the genetic architecture underlying natural variation in olfactory behaviour are revealed in GWA studies and extreme QTL mapping contingent on allele frequencies and context-dependent effects, but they converge on similar cellular processes. Such genetic architecture appears to be a general feature of quantitative traits, is likely to be universal, and has profound implications for the interpretation of human GWA studies and the evolution of complex traits.
+
+Masahito Tsuboi
+Evolutionary Biology Center
+Department of Animal Ecology
+Sweden
+No space for a large brain? Testing constructional constraints on brain size evolution in Lake Tanganyika Cichlids
+poster D23SY31PS0258
+
+Author(s): Tsuboi, M, Gonzalez-Voyer, A, Kolm, N
+
+Summary: 
+
+Brain size is enormously variable among vertebrates and this variation is thought to be maintained through the balance of adaptations, trade-offs, and constraints. Although intuitive in theory, the impact on brain size evolution from constructional constraints exerted by head morphology has so far been largely overlooked. We used geometric morphometrics on the morphologically diverse Tanganyikan cichlids to investigate whether head morphology co-evolves with brain size. We examined the relationship between head shape and brain size while controlling for phylogenetic relationships and potentially confounding ecological factors. The analyses revealed significant associations between head shape and brain size. We found that species with curved, wide and high heads had large brains while narrow pointed head profiles were associated with small brains. This finding supports the hypothesis that constructional constraints can play a role in brain evolution. Our result, together with previous works on other groups of vertebrates, suggests that eco-morphological adaptation to specific feeding technique might cause constructional constraints on vertebrate brain evolution.
+
+Apostolos Kapranas
+University of Nottingham
+School of Biosciences
+United Kingdom
+Nutritional ecology and contest behaviour in parasitoid wasps
+poster D23SY31PS0268
+
+Author(s): Kapranas, A, Snart, C, Hardy, I
+
+Summary: 
+
+Animal contests are widely studied by behavioural ecologists and there is a well-developed framework for evaluating their functional significance. Parasitoid wasps in the family Bethylidae (Insecta: Hymenoptera) are ideal organisms to test evolutionary models as all of the predicted major influences on contest outcome-fighting ability, prior ownership and the way that individuals value possession of the contested resource - have now been successfully explored. However, possible links between nutritional/physiological state and contest behaviour have not been investigated. Parasitoids can feed on nutritionally very different diets during stages of their life cycle, such as nectar, honeydew and hosts. It is expected that particular nutrients may affect contest ability (Resource Holding Potential, RHP), whereas others may influence the value of the resource (RV) to a contestant. Here we explore whether dietary carbohydrates influence RHP and/or RV and, consequently, contest resolution. The influence of nutritional state on contest behaviour is evaluated with behavioural observations of dyadic contests of parasitoids wasps, whereas the Identification and manipulation of key dietary nutrients is achieved by metabolomics analysis (LC-MS and proton NMR spectroscopy).
+
+Karl Grieshop
+Evolutionary Biology Centre Uppsala University
+Department of Ecology and Genetics
+Sweden
+On the condition dependence of male genital spines in the seed beetle C. maculatus
+poster D23SY31PS1423
+
+Author(s): Grieshop, K, Hotzy, C, Rönn, JL, Arnqvist, G
+
+Summary: 
+
+The rapid divergent evolution of genital morphology is largely attributable to postmating sexual selection through cryptic female choice. Yet, our understanding of the evolutionary mechanisms of cryptic female choice for male genital traits is very incomplete. In the seed beetle Callosobruchus maculatus previous research has shown that male reproductive fitness increases with genital spine length. Here, we investigate the effects of artificial selection for male genital spine length on female fitness. We first show that, remarkably, females from lines in which males were artificially selected for longer genital spines exhibited comparatively greater fitness (life-time reproductive success). One explanation for this is that male genital spines in C. maculatus are condition dependent. That is, selecting for longer male genital spines may indirectly select for male genetic quality, and differences in female fitness across these selection lines may be due to shared genetic architecture between the sexes. We test the hypothesis that male genital spines in C. maculatus are condition dependent by rearing genetically independent families (derived from the same base population as the selection lines) through a series of substrates that vary in nutritional value. Differences in genital spine size across developmental substrates indicate condition dependence of the trait. Variation in the degree of condition dependence across genetic families indicates standing genetic variation for condition dependence (G x E), which could account for the fact that artificial selection on male genitalia generates a correlated response in female fitness. We discuss our findings in terms of the origin and maintenance of traits selected via cryptic female choice.
+
+Samantha Patrick
+CNRS
+Centre d'Etudes Biologiques de Chizé
+France
+Personality and life history trade-offs in wandering albatross
+poster D23SY31PS0048
+
+Author(s): Patrick, SC, Weimerskirch, H
+
+Summary: 
+
+Trade-offs are central to life history theory and frequently reported between current and future reproduction. As a result individuals display polymorphic strategies across their lifetime but the proximate causes driving individual variation remain largely unknown. Theoretical models propose life history trade-offs as both a causal factor and mechanism maintaining animal personalities and there is increasing empirical evidence linking personality to individual life history traits. In this study we extend these analyses, to ask whether personality may predict an individual’s lifetime reproductive strategy, or “pace of life”. It is predicted that “fast” living individuals breed early and invest heavily in each attempt, whereas “slow” individuals delay reproduction, invest more strategically over time, but experience reduced or delayed senescence. Here, quantifying the change in life history traits across the lifetime of individuals, we test whether personality predicts an individual’s investment and pace of life. Using personality data from over 1100 wandering albatross and demographic data collected across 47 years, we demonstrate that variation in early life investment is predominantly driven by sex specific strategies, but senescence in later life is strongly dependent on both personality and sex. We report sexually antagonistic effects, with bold females and shy males suffering early and rapid senescence in reproductive success. Effects are mainly apparent in hatching success and we examine whether differences in foraging behaviour may drive the observed patterns. We discuss the implications of our results for individual senescence and consider how sexually antagonistic selection and differences in lifetime fitness may affect selection on personality in this population.
+
+Pablo Librado
+Universitat de Barcelona
+Departament de Genètica
+Spain
+Positive selection drives the transcriptional evolution of the Drosophila chemosensory gene families
+poster D23SY31PS0886
+
+Author(s): Librado, P, Rozas, J
+
+Summary: 
+
+The chemosensory system is involved in critical processes such as nutrition, reproduction and social communication, being therefore crucial for the survival of animals. In insects, the early steps of the chemosensory process are mediated by proteins encoded in multigene families, including extracellular ligand-binding proteins (OBPs, CSPs and CheBs) and membrane receptor proteins (ORs, GRs and IRs). Since the ability to discriminate chemical stimuli (and thus the individual fitness) depends on such gene families, positive selection may promote their transcriptional evolution as an adaptation to external environment changes.
+
+Here we examined the transcriptional changes underlying the adaptive evolution of the chemosensory gene families. In particular, we analysed the OBP gene cluster organisation, the turnover of cis-regulatory elements, and the patterns of polymorphism and divergence at the upstream regions of the genes of these chemosensory families. For that, we integrated information from diverse genome-wide data sets, such as the expression pattern, chromatin state and promoter architecture of the confined genes.
+
+We found that chromatin domains play an important role in the maintenance of the OBP clusters by restricting the location of genes to regions with the appropriate transcriptional environment: low expression intensity, high expression breadth and noise. These elevated noise levels may be adaptive, by increasing the behavioural plasticity in front external changing environments. Moreover, we also identified the positive selection signature at the nucleotide variability of the upstream chemosensory regions, as well as in the turnover of cis-regulatory elements. Therefore, our results show that positive selection has driven the transcriptional evolution of the chemosensory gene families.
+
+Natalia Estramil
+University of Antwerp
+Biology
+Belgium
+Potential pitfalls of cross-fostering to test parent-offspring conflict and coadaptation
+poster D23SY31PS0082
+
+Author(s): Estramil, N, Eens, M, Müller, W
+
+Summary: 
+
+The often complex interplay between offspring begging for food and food-providing parents is a key feature of the family life of many animal species. Theory predicts that this interplay may ultimately lead to a coadaptation between parental provisioning and offspring begging, which will be stabilized by fitness costs to parents and offspring. There is now mounting evidence which supports such predictions for a number of species, including the canary (Serinus canaria), our model species. These studies typically used cross-fostering designs in order to control for the potential effects of the provisioning of parents on the begging of their biological offspring and vice versa. However, it is still unknown to what extent cross-fostering per se changes the expression of these behaviours and which costs may be associated with cross-fostering. Thus, we investigated whether (or not) offspring begging is affected by the cross-fostering and estimated the potential associated costs for the offspring in terms of growth and survival. Offspring begging and parental provisioning levels were tested, both on day 3 (= before cross-fostering a subgroup of broods) and day 5 after hatching (= 2 days after cross-fostering a subgroup of broods). The begging intensity was lower at day 5, but this change was not different between control and cross-fostered broods. Neither did we find fine scale adjustments of the offspring to the parental qualities of the foster parents (estimated from their provisioning behaviour). In addition, cross-fostering had -on average- no negative effects on offspring growth and survival. Thus, these results suggest that cross-fostering does not entail costs to the offspring, despite the fact that chicks do not respond to the change in parental qualities.
+
+Roshan Vijendravarma
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Predatory cannibalism in Drosophila melanogaster larvae
+talk D24SY31RT11:18R2
+
+Author(s): Vijendravarma, RK, Narasimha, S, Kawecki, TJ
+
+Summary: 
+
+Predatory cannibalism involves hunting live conspecifics of size similar to (or larger than) oneself. Although this is risky and is thought to require specialized behavioural and morphological adaptations similar to those in predatory animals, instances of such predatory cannibalism have been reported in numerous non-carnivorous species. It remains unclear if such predatory cannibalism has adaptive significance, while research into its genetic and sensory basis has been hindered by the lack of a suitable model system. Here we report predatory cannibalistic behaviour in Drosophila melanogaster larvae and address its evolutionary significance. We found that groups of younger larvae regularly attack and consume larger healthy conspecific larvae. Aggregations of cannibalistic larvae are mediated by strong attraction to chemical cues from the attacked victim. The nutrition obtained through cannibalism is significant: we show that Drosophila can complete their egg-to-adult development on an exclusively cannibalistic diet, and that this diet induces phenotypic plasticity of the mouth hooks. Finally, during 118 generations of experimental evolution, replicated populations maintained under larval malnutrition evolved enhanced propensity towards cannibalism, in addition to changes in their larval-foraging path length (sitter-like behavior) and competitive ability. These results indicate that predation on conspecifics in Drosophila involves specific adaptations, has a survival value, and can rapidly evolve in response to nutritional conditions. Thus, even in non-carnivorous animals natural selection can promote cannibalistic behaviour. This discovery additionally changes the perspective on many aspects of behaviour, ecology and evolution of Drosophila and simultaneously provides an extensive model for investigating the neuronal, ecological and evolutionary aspects of cannibalistic behaviour.
+
+Neus Martínez-Abadías
+Center for Genomic Regulation
+Spain
+Quantifying gene expression patterns for understanding development and evolution
+poster D23SY31PS0740
+
+Author(s): Martínez-Abadías, N, Niksic, M, Sharpe, J
+
+Summary: 
+
+To understand morphogenesis and the evolution of organs it is crucial to visualize and quantify gene expression patterns. Development of high-throughput imaging techniques, such as optical projection tomography (OPT), to visualize gene expression patterns in a 3D framework has revolutionized developmental biology research. However, methods to precisely quantify gene expression domains in a systematic manner are lacking. To fill in this gap our research focuses on developing novel methods for multivariate shape analysis and comparison of gene expression domains within developing structures. Here we used the limb bud as a model for development and analyzed the gene expression domains of two relevant genes for proximo-distal limb patterning, Hoxa11 and Hoxa13, in a large sample of C57Bl6 mouse embryos between stages E10-E12. Gene expression domains were segmented from whole-mount in situ hybridization experiments with an automatic multiple thresholding method. Gene expression patterns were compared across stages and in association with limb morphology using geometric morphometrics. Our method provides an accurate phenotyping tool to quantify the spatiotemporal dynamics of gene expression patterns. Multiple thresholding enables to capture the continuous gradient of gene expression domains by overlapping the isosurfaces thresholded for different values of gene expression. Comparison within and between mouse litters at different timepoints highlights the complexity and variation of gene activity underlying limb morphogenesis to an unprecedented level of detail. Further development of methods to compare gene expression patterns in mutant versus wildtype strains and between different species may increase our ability to track development and to investigate how evolution has modified a common developmental pattern to generate a wide diversity of morphologies, as in the vertebrate limb. Potentially, these methods could be extended to different organs, genes and animal models.
+
+Martin Johnsson
+Linköping University
+IFM Biology
+Sweden
+Quantitative trait genes for fearful behaviour under chicken domestication
+poster D23SY31PS0344
+
+Author(s): Johnsson, M, Gustafsson, I, Jensen, P, Wright, D
+
+Summary: 
+
+Domestication is a form of strong directional selection imparting wide-ranging phenotypic changes to animals and plants, and ever since Darwin considered a model of evolution. Changes in behaviour, particularly fearful and social behaviour, are at the heart of animal domestication. A wild by domestic advanced intercross of chickens is a powerful study system for the genetics and genomics of domestication phenotypes. We applied quantitative trait locus (QTL) mapping and genetical genomics to fear-related behaviours.
+
+QTL mapping in 572 birds from an eight-generation intercross revealed ~44 loci for behaviour in three test situations: an open field, a social reinstatement, and a tonic immobility test. The tests have separate but overlapping architectures with a few potentially pleiotropic loci and small to moderate QTL effect sizes.
+
+To search for underlying genes we mapped transcriptome-wide expression QTL (eQTL) in hypothalamus from 129 birds. Out of 634 eQTL, 16 candidate quantitative trait genes had eQTL coinciding with behaviour QTL and a gene expression—behaviour correlation.
+
+Structural equations modelling found eight genes in four QTL to be consistent with a causal role of gene expression: PRDX4 (a periredoxin), ACOT9 (an acyl-coenzyme A thioesterase) and SRPX (Sushi repeat-containing) are candidates for a social reinstatement and tonic immobility locus on chromosome 1; TTRAP (TRAF and TNF receptor-associated protein) and an unknown EST sequence 60386624F1 for a social reinstatement QTL on chromosome 2; ADAM10 (disintegrin and metalloproteinase domain-containing) and APBA2 (Amyloid beta A4 precursor protein-binding) for an open field locus on chromosome 10; and the unknown LOC770352 for a second open field QTL on chromsome 10.
+
+In conclusion, our mapping gives genetic and gene expression evidence for unexpected putative quantitative trait genes for fearful behaviour under chicken domestication.
+
+Veronika Laine
+University of Turku
+Department of biology
+Finland
+Quantitative trait loci for behavior, growth and body size in the nine-spined stickleback Pungitius pungitius L.
+talk D23SY31RT16:33R1
+
+Author(s): Laine, VN, Shikano, T, Herczeg, G, Vilkki, J, Merilä, J
+
+Summary: 
+
+Genetic architecture of ecologically important traits, such as behavior and body size, are as yet relatively little studied in wild animals. Using F2-intercross (n = 283 offspring) between behaviorally and growth strategically divergent nine-spined stickleback (Pungitius pungitius) populations, we explored the genetic underpinnings of growth and behavioral traits describing different aspects of activity and boldness with the aid of quantitative trait locus (QTL) analyses based on 226 microsatellite markers. The behaviors were analyzed separately (viz. feeding activity, risk-taking, exploration) and also in combination to map “behavioral types”. Significant (experiment wide) QTLs were detected for both trait groups. In addition, suggestive (chromosome wide) QTLs were also detected. The results also showed that loci affecting size and growth traits were located in some cases in the same chromosomal region as loci affecting behavior of the nine-spined stickleback. The results found in these studies lay the foundations for fine mapping these traits and provide a starting point for identification genes responsible for the size and behavior differences between marine and pond nine-spined sticklebacks.
+
+Hanne Lovlie
+Linköping University
+Dept. of Physics, Chemistry and Biology (IFM)
+Sweden
+The influence of cyto-nuclear interactions on life-history traits and behaviour
+poster D23SY31PS1161
+
+Author(s): Lovlie, H, Arnqvist, G
+
+Summary: 
+
+Despite the longstanding perception of the selective neutrality of mitochondrial genes, there is a growing awareness of their influence on life-history traits via interaction with the nuclear genome. Due to their effect on traits such as metabolism and growth rates, cyto-nuclear interactions are affecting variation predicted to explain the evolution of behavioural types or personalities (i.e. behavioural variation that is consistent within individuals, but differs among individuals). However, while cyto-nuclear interactions have significant potential to explain variation in behaviours, this line of research remains poorly explored. We used nine cyto-nuclear integression lines, where three cytoplasmic genomes were introgressed into three nuclear backgrounds, to disentangle genetic effects on both life-history traits and behavioural variation in the seed beetle (Callosobruchus maculatus). We show that life-span, but also activity of individuals in behavioural assays are influenced by the interaction of nuclear and cytoplasmic genes. Variation in activity level is consistent among individual beetles, suggesting that intergenomic interactions can also explain variation in animal personality. These results advance our understanding of the functionality of mitochondrial genes and their non-neutrality, and highlight the importance of cyto-nuclear interactions in explaining variation in behaviour and personality.
+
+Emília Santos
+University of Basel
+Department of Environmental Sciences
+Switzerland
+The molecular basis of a novel pigment trait in cichlid fishes
+talk D23SY31RT18:33R1
+
+Author(s): Santos, E
+
+Summary: 
+
+How novel traits emerge and are modified is one of the many unresolved questions in evolutionary biology. The spectacularly diverse adaptive radiations of cichlid fishes in the East Africa Great Lakes provide an ideal system to study the molecular basis of evolutionary novelties in the context of adaptation and explosive speciation. One characteristic innovation of the most species-rich lineage of cichlids, the haplochromines, is a set of brightly pigmented spots on male anal fins, known as “egg-spots”. Egg-spots are a diverse trait (number, colour and shape), and this trait plays a key role in the territorial and breeding behaviour of about 1,500 species of cichlids. Here we report the identification of several egg-spot candidate genes by quantitative next generation sequencing of RNA from egg-spot tissue in the haplochromine cichlid Astatotilapia burtoni. We confirmed these results in other haplochromine species through quantitative gene expression analysis (qPCR), and narrowed down our study to one gene – an androgen receptor (AR) cofactor. A comparative genomic analysis between haplochromines and egg-spot-less non-haplochromine species reveals that the coding region of this gene cannot explain the origin and diversity of this trait. However, the upstream regulatory region of the AR cofactor differs between these groups: haplochromines bear a unique transposable element insertion in the proximity of the transcription initiation site of the AR cofactor. We designed constructs containing this AR-cofactor transposable element region upstream of a GFP (green fluorescent protein) coding sequence and tested them in zebrafish. GFP expression was detected in iridophores (pigment cells) and in the fin rays. We thus propose that this transposable element insertion might have changed the expression pattern of AR-cofactor, thereby initiating the morphogenesis of a key evolutionary innovation in one of the most species-rich lineages of vertebrates.
+
+Elise Donovan
+University of Auckland
+The Liggins Institute
+New Zealand
+Uses and abuses of the term conflict in developmental biology and evolutionary medicine
+poster D23SY31PS0096
+
+Author(s): Donovan, EL, Buklijaš, T, Beedle, AS, Gluckman, PD
+
+Summary: 
+
+The term conflict has been used widely in evolutionary biology to describe outcomes of competition over resources between genetically different individuals; e.g. rivals, mates, relatives. The parent-offspring conflict theory, introduced by Trivers in 1974 and furthered by Haig in the 1990s, describes metaphorical conflict between maternal and offspring genes (and paternal and maternal genes in an offspring). A developing offspring shares 50% of its genes with its mother but 100% of its genes with itself, thus the conflict theory predicts that a fetus demanding more resources than is in the mother’s interest to give will increase its own (and its father’s) fitness at the mothers expense. Conflict theory has been applied to explain aspects of developmental physiology including evolution of the placenta, genomic imprinting, and maternal constraint. However, many original predictions made by the conflict theory are not supported by recent empirical and theoretical evidence. The conflict theory also has been applied in ways to suggest that the (metaphorical) conflict between maternal and fetal genes can be unproblematically extended to the level of the organism. Yet, particularly in humans, in many of these cases cooperation, coadaptation, and conflict resolution appear to be better explanations than ‘conflict” itself. While application of conflict theory has led to insights into the developmental relationship and application of evolutionary theory to the human condition is essential, a more integrated developmental paradigm that also includes resource availability, mother’s age and reproductive history, mono/polytocous birth, multiple paternity, gestation length, and fetal phenotype response to the environment, is vital in defining the maternal fetal relationship. Those in different fields should use caution, understanding, and perspective when applying concepts such as genetic conflict and distinguish between conflicts at different levels of selection in future work.
+
+Diana Rennison
+University of British Columbia
+Zoology
+Canada
+Visual adaptation of threespine stickleback (Gasterosteus aculeatus) to divergent spectral regimes
+talk D23SY31RT18:57R1
+
+Author(s): Rennison, DJ, Owens, GL, Veen, T, Schluter, D
+
+Summary: 
+
+Vision is a sensory modality of fundamental importance for many animal species, aiding in foraging, the detection of predators and colour based mate choice. Consequently, adaptation to divergent spectral environments is often essential and can influence reproductive isolation. This study collected opsin gene expression data from 11 populations of threespine stickleback (Gasterosteus aculeatus) in order to model the spectral sensitivity of stickleback inhabiting divergent spectral environments. We found that the spectral sensitivity of freshwater stickleback populations was significantly shifted toward longer wavelengths relative to their marine ancestors. The observed divergence in spectral sensitivity was repeated for multiple independently derived populations inhabiting similar spectral habitats, suggesting parallel evolution of the visual system and the action of natural selection. This shift in sensitivity has important implications for prey detection and mate choice. Correspondingly, divergence in the visual system of threespine stickleback could have important implications for speciation in this system and requires further attention. Additionally, the observed shifts in visual sensitivity after freshwater colonization from marine environments could be extremely widespread.
+
+Adam Kane
+Trinity College Dublin
+Department of Zoology
+Ireland
+Vultures acquire information on carcass location from scavenging eagles –the evolution of a producer-scrounger game
+poster D23SY31PS0608
+
+Author(s): Kane, A
+
+Summary: 
+
+Vultures are known as the scroungers of the natural world, owing to their ecological role as obligate scavengers. In addition to being unable to kill prey for themselves we suggest that they are dependent on other species to locate food.
+
+Our analyses of bird arrival times at carcasses show that vultures join a carcass after discovery by a raptor more often than expected by chance. We therefore hypothesise that a producer-scrounger game is at play, with raptors tending to locate and “produce” carcasses in an information sense, while the vultures tend to “scrounge” this information by taking their lead from the raptors.
+
+We develop a game-theoretic model showing that such an interspecific producer-scrounger game is evolutionary stable when vultures are dominant to the raptors in agonistic interactions over food. Based on this theoretical finding we explored the dominance hierarchy at a carcass and show empirically that vultures dominate raptors in aggressive contests over food.
+
+Together our analyses show that vultures scrounge on carcass location by observing foraging raptors and their interactions map to a producer-scrounger game. In terms of information use, raptors are dependent on personal information whereas vultures use socially acquired information. Globally vulture populations are declining so our findings have implications for the conservation of the group. By sometimes depending on raptors to locate carrion, scrounging vultures are sensitive to declines in the abundance of these producers.
+
+Leonor Rodrigues
+CBA - Faculty of Sciences of the University of Lisbon
+Department of animal biology
+Portugal
+Why do spider mites re-mate?
+poster D23SY31PS0498
+
+Author(s): Rodrigues, L, Clemente, S, Carvalho, J, Duarte, F, Ponce, R, Varela, S, Olivieri, I, Magalhães, S
+
+Summary: 
+
+In Tetranychus urticae, only the first mating is effective, except if the interval between first and second copulations is shorter than 24 hours or if the first mating is interrupted. However, males often attempt to copulate with mated females. Here, we address this paradox. We first tested whether males prefer to mate with females that have mated within the preceding 24 hours or with those that have mated before that period. We found that males show no preference between these two types of females. Moreover, the time to mating was longer and the mating duration shorter when males mated with mated females, relative to virgins, irrespective of their timing of mating. This confirms a lack of distinction between different types of mated females and suggests that males are either less motivated to mate with mated females or that the second mating occurs for a different reason than siring offspring. Subsequently, we investigated the consequences of polyandry for the reproductive fitness of females, depending on the frequency and timing of the mating events. We predicted that if females benefit from polyandry, fecundity and survival of multiply mated females would be higher than those of once mated females. Indeed, multiply mated females have higher fecundity than once mated females, suggesting that females potentially benefit from mating multiply. No difference in survival and sex ratio was found between these females. Our data shows that females benefit from multiple matings, hence this behaviour is probably under female control. This result has implications for our understanding of mating behaviour in spider mites and other organisms.
+
+David Outomuro
+Uppsala University
+Evolutionary Biology Centre, Ecology and Genetics
+Sweden
+Wing pigmentation and the evolution of wing shape
+poster D23SY31PS0121
+
+Author(s): Outomuro, D, Johansson, F
+
+Summary: 
+
+Wing shape is affected by different selection pressures. For instance, when wings have pigmentation, they can be involved in colour signalling for sexual selection. Therefore, pigmented wings may show morphological variations not expected by aerodynamic predictions alone. We present results from a series of comparative studies where we explored the role of wing pigmentation in the evolution and diversification of a group of pigmented-winged damselflies. Pigmentation is a sexually selected trait related to individual male fitness in these damselflies. At the intraspecific level, we found that wing shape is correlated with the expression of wing pigmentation, presumably related to male ability to maintain a territory. At the interspecific level, we found that the presence and extension of pigmentations were related to wing shape variation in hindwings, but not in forewings. Wings showed larger regions where the pigmentation was located. Moreover, we also found a faster evolution of hindwings in comparison to forewings, which fits with the major role of hindwings in signalling during courtship flights. Interestingly, we found that the differences in wing shape are not related to different levels of flight agility between species. Our results suggest a correlated evolution of hindwing shape and wing pigmentation in order to improve colour signalling to potential mates. In our system, evolution of wing shape seems to be partially decoupled, between fore- and hindwings. Finally, despite different gender-specific strategies and clear sexual dimorphism in wing shape, we also show evidence for correlated evolution of wing shape between the sexes.
+
+Dario Moser
+University of Basel
+Zoological Institute
+Switzerland
+Repeated lake-stream divergence in Stickleback life history within a Central European lake basin
+poster D23SY31PS1438
+
+Author(s): Moser, D, Berner, D
+
+Summary: 
+
+Life history divergence between populations inhabiting ecologically distinct habitats might be a potent source of reproductive isolation, but has received little attention in the context of speciation. We test for life history divergence between threespine stickleback inhabiting Lake Constance (Central Europe) and multiple tributary streams. Otolith analysis show that lake fish generally reproduce at two years of age, while their conspecifics in all streams have shifted to a primarily annual life cycle. This divergence is paralleled by a striking and consistent reduction in body size and fecundity in stream fish relative to lake fish. Stomach content analysis suggests that life history divergence might reflect a genetic or plastic response to pelagic versus benthic foraging modes in the lake and the streams. Microsatellite and mitochondrial markers further reveal that life history shifts in the different streams have occurred independently following the colonization by Lake Constance stickleback, and indicate the presence of strong barriers to gene flow across at least some of the lake-stream habitat transitions. Given that body size is known to strongly influence stickleback mating behavior, these barriers might well be related to life history divergence. Current work is using high-resolution genome-wide marker data to explore genomic signatures of selection across the habitat transitions.
+
+Axel Meyer
+Universität Konstanz 
+Fachbereich Biologie 
+Germany
+Revisting Gavin de Beer’s classic example of heterochrony: the developmental basis of jaw growth in halfbeaks and needlefish
+talk D23SY31RT16:57R1
+
+Author(s): Meyer, A, Gunter, H, Fan, S
+
+Summary: 
+
+Heterochronic shifts in growth can generate novel, adaptive phenotypes that facilitate access to previously unoccupied niches. As they can arise from simple developmental switches, encoded by few mutations, novelties that arise through heterochronic shifts, are ideal systems for investigating the molecular basis of evolutionary change. Fishes from the suborder Belonioidei achieved a vast array of craniofacial morphologies that appear to have arisen through a series of heterochronic shifts. In some species (needlefishes) both the upper and lower jaws are highly elongated in others only the lower jaw (half-beaks). We examined the molecular basis of accelerated heterochronic growth in the lower jaw, relative to the upper jaw in the half beak Dermogenys pusilla, and compared it to a their sister group of the suborder the medaka, where this trait is ancestral, i.e., both jaws are equally long. Previous investigations have identified Calmodulin as a likely molecular determinant of accelerated jaw growth in D. pusilla, as its developmental expression reflects the relative growth of the jaws, while expression remains equal between the upper and lower jaws in medaka. Here we describe new transcriptome-wide analyses identify further candidates for accelerated jaw growth in the halfbeak, which also shed light on the structural composition of the tissues that comprise this morphological novelty. Furthermore, comparative gene expression analyses in medaka provide insights into the ancestral condition, enabling further assessments of mutational changes that may underlie a major heterochronic shift that is shared amongst the Belonoidei. As this shift appears to have been critical enabling the Belonoidei to occupy a greater number of trophic niches than the medaka, we postulate that this heterochronic shift explain the considerably greater evolutionary success of the Belonoidei compared to the medaka lineage.
+
+M. Joao Martins
+CCMAR,Univ Algarve
+CCMAR
+Portugal
+Sex-biased gene expression in a broadcast spawning dioecious brown algae, Fucus vesiculosus
+poster D23SY31PS0906
+
+Author(s): Martins, MF, Mota, CF, Pearson, GA
+
+Summary: 
+
+The fucoid brown algae are increasingly the focus of ecological genetics, biodiversity, biogeography and speciation research. The molecular underpinnings of mating system variation (repeated dioecious – hermaphrodite switches) and the molecular evolution of sex-related genes, as well as proteins involved in gamete interactions are hampered by a lack of genomic information. We undertook a comparative analysis of male and female reproductive tissue transcriptomes (FLX 454) against a vegetative background during natural reproductive cycles in Fucus vesiculosus. Over 300k reads were assembled and annotated against public protein databases. Photosynthetic and carbohydrate metabolism pathways were under-expressed, particularly in male tissue, while several pathways involved in genetic information processing and replication were over-expressed. Estimates of sex-biased gene (SBG) expression were higher for male (14% of annotated orthologues) than female tissue (9%) relative to the vegetative background. Mean expression levels and variance were also greater in male- than female-biased genes. Major female SBG were carbohydrate-modifying enzymes with likely roles in zygote cell wall biogenesis and/or modification. Male SBG reflected distinct sperm development and function, and orthologues for signal perception, transduction, and putatively flagella-localized proteins. Overall, the results suggest constraint on female SBG (possible pleiotropy), and less constrained male SBG associated with sperm-specific functions. Our results support the growing contention that males possess a large array of genes regulating male fitness, broadly supporting findings in evolutionarily distant heterogametic animal models. This work identifies an annotated set of F. vesiculosus gene products that potentially regulate sexual reproduction and contribute to prezygotic isolation, one essential step towards developing tools for a functional understanding of species isolation and differentiation.
+
+Imroze Khan
+National Centre for Biological Sciences
+Ecology and Evolution
+India
+Sex-specific effects of pathogenic bacterial infection on fitness components, reproductive behaviour and mate choice in Drosophila melanogaster
+talk D22SY31RT11:18R4
+
+Author(s): Khan, I, Prasad, NNG
+
+Summary: 
+
+We investigated the sex specific effect of Serratia marcescens infection through septic injury on two components of fitness, survivorship and adult competitive reproductive fitness in male and female Drosophila melanogaster. Under competitive conditions, infected females showed significantly lower reproductive output compared to control females. However, male reproductive fitness was not affected by infection. We did not find any cost of injury and immune deployment in our study indicating that the fitness cost resulted only from sustained infection or virulence. However, the bacteria was found to be pathogenic, growing equally well in males and females and causing about 80% mortality over an eleven day period with no significant difference in mortality between sexes. Thus, such sex specific effects of pathogens on individual components of fitness indicate that the total fitness cost experienced by each sex might be very different, even within a given regime, thereby affecting the evolution of antibacterial immunity. Given such sex-specific effects of bacterial infection on reproductive fitness, we further, investigated the sex-specific effect of bacterial infection on components of reproductive behaviour. We did not find any change in mating latency or copulation duration with male or female infection status. When given a simultaneous choice between infected and sham infected females, males preferentially mated with sham infected females. This result suggests that male D. melanogaster may adaptively bias their mating effort in response to the infection status of females.
+
+Jessica Abbott
+Lund University
+Dept. of Biology
+Sweden
+Sexual selection on a cryptic wing pattern trait in Drosophila
+poster D23SY31PS0561
+
+Author(s): Abbott, JK, Katayama, N, Kjaerandsen, J, Svensson, EI
+
+Summary: 
+
+Wing interference patterns (WIPs) are a newly discovered trait in Drosophila, and are caused by thin-film interference of light on the wing surfaces. Only 10-12% of the incident light on the wing is reflected as a WIP, so these patterns are only visible against a dark background. This is also the reason WIPs are a previously overlooked (i.e. cryptic) trait. We have carried out the first comprehensive study of WIPs in Drosophila, and have been able to confirm that although WIPs are influenced by wing size, there is a large genetic component to WIP variation. We have also carried out a manipulative mate choice experiment, where female preference for different WIP phenotypes was tested against light and dark backgrounds. We found that there was a significant effect of WIPs on female preference in the dark background, providing the first evidence that WIPs are a cryptic sexually selected trait in Drosophila melanogaster.
+
+Damian Smith
+University of East Anglia
+Biological Science
+United Kingdom
+Small RNA regulation of post mating response to sex peptide in female Drosophila melanogaster
+poster D23SY31PS0482
+
+Author(s): Smith, DT, Mohorianu, I, Dalmay, T, Chapman, T
+
+Summary: 
+
+Male Drosophila melanogaster fruitflies transfer seminal fluid proteins (sfps) to females during mating. One sfp, sex peptide, is responsible for several post mating responses in females, such as increased egg laying and reduced remating rate. Yet little is known about the female responses to these substances at the genomic level. Small RNAs are short (20-22nt) regulatory non-coding RNAs, which bind to messenger RNAs and prevent their translation to proteins. By the use of ‘high definition’ adapters, we reduced the bias in small RNA sequencing data detection and measurement of small RNAs. We investigated here the differences in expression of small RNAs and messenger RNA in female D. melanogaster mated to males that do and don’t transfer sex peptide during mating. We assayed different tissue types at four consecutive, equally distributed time points after mating. The results show how gene regulation following receipt of sex peptide is influenced by small RNAs. We discuss the results in the context of sexual conflict and post mating responses in females.
+
+Eva Schultner
+University of Helsinki
+Department of Biosciences
+Finland
+Social conflict in ant larvae: a case for cannibalism
+poster D23SY31PS0131
+
+Author(s): Schultner, E, D'Ettorre, P, Helanterä, H
+
+Summary: 
+
+In social organisms cooperation is widespread, however social groups also provide excellent opportunities for individuals to exploit the cooperative efforts of others, thus creating conflict. Ants provide some of the most intriguing examples of social conflict in nature, for example when colony members differ in their interests concerning male parentage. Such conflicts are often mediated by kinship, and the ability of individuals to assess kinship within colonies plays an important role in conflict resolution. However, whilst much is known about conflict in adult ants, the social role of larvae has been largely neglected. We investigated a novel social conflict in ants by measuring competition among larvae in the form of egg cannibalism. We found that first instar larvae of the ant F. aquilonia eat eggs and that levels of cannibalism differed depending on the origin of eggs. While 10% of larvae ate sibling eggs, 24% of larvae ate eggs from a foreign population. Discriminatory behaviour matched population-specific egg odours, providing first evidence that larvae detect and react to chemical cues in a similar way as adult ants. Cannibalistic larvae showed prolonged survival compared to non-cannibals, indicating that cannibalism bears benefits for ant larvae. We also found that males cannibalised significantly more often than females, which points to sex-dependent selection for selfish behaviour. These results suggest that larvae are not the powerless individuals they have been seen as so far. Instead, developing offspring and male larvae in particular may be important players in social conflict in ants, and social animals in general.
+
+Anna-Carin Karlsson
+Linköping University
+IFM Biology
+Sweden
+TSHR -a possible domestication gene
+poster D23SY31PS1144
+
+Author(s): Karlsson, A, Svemer, F, Eriksson, J, Andersson, L, Jensen, P
+
+Summary: 
+
+Domestication, the process where wild animals adapt to captivity, offers an excellent model to study evolution. Strong selection for traits of human interest causes genetic adaptations and a rapid change in morphology, physiology and behaviour. The Red Jungle Fowl (Gallus gallus) is the wild ancestor of domesticated chickens. Resequencing has revealed a selective sweep in domestic chickens over the thyroid stimulating hormone receptor gene (TSHR). A missense mutation in TSHR causing a glycine to arginine change is the most obvious candidate causal mutation for the sweep. Thyroid hormones are important in development and the thyroid system is suggested to correlate with stress response and hence behaviour in animals. Fast development and altered behavioural responses are traits shared by all domesticated animals. Therefore, we hypothesize that a mutation in the TSHR gene has been of selective advantage during the domestication of the chicken. To study this, we used intercrosses between Red Junglefowl and domesticated White Leghorns. We included 28 birds homozygous for the TSHR mutation, 34 homozygous for the wild-type allele and 62 heterozygous birds, and subjected them to a broad phenotyping. Incubation time was recorded in order to measure development and behavioral tests for social, aggressive and fear behaviors were conducted. Individuals homozygous for the TSHR mutation had longer incubation time (21,7 ± 1,3 vs. 18,0±1,2 and 18,2±1,0 h from first hatch p<0,05), showed less aggression in a social dominance test (8,6±4,8 vs. 26,9±4,8 and 18,6±4,8 number of observations p<0,05) and less fear in a fear of human test (2,2±2,5 vs. 14,9±2,3 and 16,3±1,9 % of observations p<0,05) in comparison to the other genotypes. The results are in line with previous studies comparing pure-bred domestic White Leghorns with pure-bred Red Jungle Fowl. This indicates that a mutation in the TSHR gene could have been of selective advantage during the domestication of the chicken.
+
+Nathan Bailey
+University of St Andrews
+School of Biology
+United Kingdom
+Testing evolutionary models for the maintenance of same-sex sexual behaviour
+talk D23SY31RT11:42R9
+
+Author(s): Bailey, NW, Hoskins, JL, Ritchie, MG
+
+Summary: 
+
+The evolutionary maintenance of same-sex sexual behaviour (SSB) is an enduring mystery because of its apparent negative impact on reproductive fitness. Two influential genetic models of SSB were developed several years ago by Sergey Gavrilets and William Rice: SSB might be maintained by sexually antagonistic selection for fitness-increasing traits in the opposite sex, and/or it might result from overdominance if alleles enhancing its expression are maintained by a heterozygote advantage. These models make distinct predictions about the genetic architecture of SSB and its correlations with male and female fitness. We present results of an experiment to empirically test these predictions using the Drosophila Genome Reference Panel. We screened 50 highly-inbred, genome-sequenced D. melanogaster lines for male SSB and performed a series of crosses between high and low lines designed to discriminate the two hypotheses. There was substantial additive genetic variation for SSB, strong effects of the social environment, and evidence for G x E. We will discuss genetic variance components contributing to this behaviour, candidate loci found to be strongly associated with its expression, context-dependence of the influence of those loci, and effects of SSB on fitness of males and females. Taken together, the results enable us to statistically compare support for either hypothesis – sexual antagonism vs. overdominance – and provide an intriguing contrast with Drosophila knock-out studies that have found a wide assortment of genes that might contribute to variation in male SSB.
+
+Sjouke Kingma
+University of East Anglia
+Centre for Ecology, Evolution and Conservation, School of Biological Sciences
+United Kingdom
+The costs of helping behaviour in cooperatively breeding warblers
+poster D23SY31PS0957
+
+Author(s): Kingma, SA, Komdeur, J, Richardson, DS
+
+Summary: 
+
+In several animal species, subordinate individuals forego independent breeding to assist others in raising offspring that are not their own. Several benefits underlying the evolutionary stability of such seemingly altruistic helping behaviour have been invoked, and assessment of variation in individual investment in response to variation in such benefits is often being used to reveal the adaptive significance of these benefits. In the Seychelles warbler Acrocephalus sechellensis, subordinates gain substantial fitness benefits of helping: individuals that start as helpers have higher life time fitness than subordinates that do not help initially. Nonetheless only about half of the subordinates do help. Using a range of physiological measures, we show here that helping carries a substantial cost, as helpers were in poorer condition after the breeding season than non-helping subordinates . Additionally, only individuals in good condition do provide help, because probably only these individuals can overcome the associated costs. This result suggests that, apart from the associated benefits, variation in subordinates’ condition explains part of the variation in helping behaviour. This highlights that considering the condition of the (potential) helper and the costs of helping are important to unravel the benefits of helping, and to understand the variation in the expression of helping behaviour within species.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

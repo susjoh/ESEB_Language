@@ -1,0 +1,838 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY33: Population ecology
+ Abstracts list Schedule Description
+View only talks or posters
+Duur Aanen
+Wageningen University
+Plant Sciences Group
+Netherlands
+A completely unknown lifecycle in mushrooms: cyclical inbreeding and haplo-diploidy
+poster D20SY33PS0959
+
+Author(s): Aanen, DK
+
+Summary: 
+
+Mycena galericulata (Basidiomycota, Agaricales) occurs in two forms, a clampless with two-spored basidia and a clamped with four-spored basidia. It is generally accepted that the two-spored form is haploid asexual (apomictic), and the four-spored form sexual (dikaryotic and heterothallic). In order to study the interrelationship between both forms, we performed mating tests and phylogenetic and genetic analyses of a sample of both forms. Surprisingly, our results are inconsistent with any currently known life-cycle. While the four-spored form is heterothallic indeed, we show that the two-spored form is diploid, and produces diploid spores via intra-tetrad selfing. However, the absence of genetic differentiation between both forms, and the high degree of heterozygosity in the two-spored form, indicate that the two-spored form frequently arises from the four-spored. We hypothesise that the two-spored form can again give rise to four-spored forms. Consistent with this, we discovered that a small percentage of fruiting bodies has both two-spored and four-spored basidia.
+
+Alexander Duthie
+Iowa State University
+Ecology, Evolution, and Organismal Biology
+United States
+A fluctuating environment drives coexistence in five non-pollinating fig wasps
+talk D20SY33RT14:48R5
+
+Author(s): Duthie, AB, Abbott, KC, Nason, JD
+
+Summary: 
+
+The principle of competitive exclusion states that species competing for identical resources cannot coexist, but this appears paradoxical given myriad ecologically similar competitors. Theory shows coexistence is possible if a fluctuating environment changes the competitive dominance of species, but only when environmental variation leads to non-linear or non-additive population growth. Non-additivity facilitates coexistence when competition and environment covary in their effects on growth such that competition is weaker in poor environments. The variation required to facilitate coexistence is typically interpreted as a physical aspect of environment. We investigate a system that might be considered constant under such interpretations, but show a hidden source of temporal variability relying on fluctuating dispersal distances between resource patches. We model populations that use resources in discrete, ephemeral, patches. Such ephemeral patch systems often support many competing species. We frame our model with respect to the highly diverse non-pollinating fig wasp communities that oviposit and develop within fig fruit. Using numerical and individual-based models, we show that temporal storage of larval wasps leads to long-term community coexistence under a wide range of biologically realistic parameter values when wasps face a trade-off between dispersal ability and fecundity. We empirically test whether or not such a trade-off exists in a community of five competitor species of non-pollinators associated with Ficus petiolaris. We find strong evidence of a negative correlation between species dispersal abilities and fecundities, which we present as an extreme case in which a single fluctuating environmental variable appears to mediate coexistence in a community of competitors. We suggest that fluctuating environmental conditions may drive coexistence more generally, especially among competitors regularly dispersing between ephemerally available habitat patches.
+
+Pauline Gelin
+ECOMAR - Université de La Reunion
+Réunion
+A genetic approach of reef colonization by a surgeon fish (Acanthurus triostegus) in La Réunion Island
+poster D20SY33PS0850
+
+Author(s): Gelin, P, Riou, A, Collet, A, Magalon, H
+
+Summary: 
+
+Resilience of coral reefs is highly dependent on the ability of reef organisms to colonize and survive, and thus to maintain these reefs connected. The aim of this study was to better understand, through population genetics, the fine-scale spatio-temporal colonization pattern of the surgeon fish A. triostegus. This species is well distributed all over the Indo-Pacific reefs and presents a good model to study the variability of reproductive success in marine organisms. The recruits, arriving in two locations 20 km apart, were collected from March 2011 to February 2013 using light traps. A total of 520 post-larvae were caught. Sampling was divided into several nested groups for each location: 4 reproduction seasons (mean duration: 3 months), 17 fishing campaign (6 days around the new moon), 64 days (whenever catches number was higher than 25 individuals). The genetic structure of these juveniles’ populations was assessed using 14 microsatellites loci. For a given location, we found no significant genetic differentiation (1) between days among a fishing campaign, (2) between fishing campaign among a reproduction season, and (3) between reproduction season (maximum FST = 0.0043, NS). On the 34 comparisons performed between locations over fishing campaign, only 4 were differentiated from the others (maximum FST = 0.012 ; P=0.042). Assignment tests did not allow identifying any genetic cluster over the overall sampling. These results showed the absence of temporal or spatial genetic heterogeneity between the post-larvae samples (no chaotic genetic patchiness): the pool of reproductive adults was stable through time. Moreover, the heterozygote deficiency (mean FIS = 0.153±0.006) can be linked to related fishes within samples. So, we performed sib-ship and half-ship reconstruction and found brothers and sisters among samples, showing that post-larvae migration is concerted. Key-words: colonization, A. triostegus, fish, population structure, microsatellites.
+
+Teppo Hiltunen
+University of Helsinki
+Finland
+A newly discovered role of evolution in published consumer-resource dynamics
+poster D20SY33PS0028
+
+Author(s): Hiltunen, T, Hairston, NG, Hooker, G, Jones, LE, Ellner, SP
+
+Summary: 
+
+The consumer-resource relationship is central to population biology and evolutionary ecology. While the interaction is conceptually simple, the mechanisms behind the persistence of any given consumer-resource relationship vary and can be extremely complex. The interaction is generic: a majority of species participate as either consumer or resource, diner or dinner. Traditionally when population biologists interpret results, evolution is not considered to affect the population dynamics because ecological and evolutionary dynamics are assumed to occur on different time scales. Yet recent research has demonstrated that evolutionary change can happen rapidly and on the same time scale as ecological processes affecting population dynamics qualitatively.
+
+In here we present a reanalysis of 21 consumer-resource data published over the last 80 years, approximately. Of the 21 published studies of consumer-resource dynamics we analyzed, evolution played a significant and substantial role in ten and a marginally significant role in another three, even though the original authors did not recognize its effect. In addition to a reanalysis of previously published data, we demonstrate via mathematical modeling how rapid prey evolution results in a transition from predator-prey dynamics with classical quarter-lag cycles, to anti-phase oscillations typical of eco-evolutionary dynamics and at the extreme, to cryptic cycling. We then show that this mechanism very likely explains dynamics observed in historical data, where possibility of rapid evolution was originally ignored. In general, our reanalysis suggests that evolutionary dynamics occurred in many of these, but the significance of qualitative features in the dynamics went unrecognized at the time. Furthermore, with more prey generations and larger population sizes the likelihood of evolutionary dynamics was higher.
+
+Ulrich Steiner
+Max-Planck Odense Centre on the Biodemography of Aging
+University of Southern Denmark, Insitute of Biology
+Denmark
+Aging and imperfect asymmetric division in bacteria
+poster D20SY33PS0045
+
+Author(s): Steiner, U, Ni, M
+
+Summary: 
+
+The process of aging is assumed to result from accumulating damage over the lifespan, and such damage finally leads to death. Evolutionary theory predicts that dividing organisms such as bacteria flee from that process at the population level by asymmetric division, that is one cell (presumably the mother cell) takes over more of the damage and the other cell (daughter) is perfectly rejuvenated. To test these arguments and to see whether asymmetric division remains perfect throughout life we conducted experiments on a single cell microfluidic bacteria system to compare demographic parameters of daughter cells that came from young mothers with daughter cells coming from old mothers. Results show that daughters from young mothers have long lifespan and divide more often compared to daughters coming from old mothers. There seem to be no differences in cell growth. Our results suggest that asymmetric division is only perfect early in life of cells but not late in life. Our findings can explain the maintenance of the cell line by perfect rejuvenation of daughter cells produced early in life, and at the same time see substantial aging processes. The results therefore combine previously contrasting theories of aging and show how life-histories have to be considered across generations.
+
+Nuria Polo-Cavia
+Universidad Aútónoma de Madrid
+Biología
+Spain
+Chemical anthropogenic pollution interferes in prey recognition systems
+poster D20SY33PS0373
+
+Author(s): Polo-Cavia, N, Burraco, P, Gomez-Mestre, I
+
+Summary: 
+
+Chemical detection of predator cues is crucial for aquatic prey, because it allows predator avoidance and activation of plastic antipredatory defenses. This is the case of many larval amphibians that respond to water-borne cues from potential predators by strongly reducing activity levels. However, as a consequence of increasing anthropogenic activity, a variety of harmful contaminants are dumped in freshwater ecosystems, where they can create interferences in the cue recognition system of tadpoles. Here we analyze the potential effects of two contaminants (i. e., humic acid and ammonium nitrate) on the ability of tadpoles of the western spadefoot toad (Pelobates cultripes) to recognize chemical cues from a common predator, nymphs of the dragonfly Anax imperator. We compared swimming activity of tadpoles in presence and absence of water-borne chemical cues from dragonflies, at different concentrations of humic acid and ammonium nitrate. Changes in tadpole activity associated to toxicity were non-significant. In contrast, the interaction between predator cues and presence of contaminants was significant: tadpoles effectively responded to predator cues in the absence of pollutants by reducing their swimming activity, but remained unresponsive to predator cues when either humic acid or ammonium nitrate were added, even at low concentrations. These interferences due to chemical anthropogenic pollution may pose a threat to the cue recognition systems of prey-predator interactions evolved in amphibian populations.
+
+Marta Barluenga
+Museo Nacional de Ciencias Naturales, CSIC
+Department of Biodiversity and Evolutionary Biology
+Spain
+Cichlid evolution in crater lakes and ecological opportunity
+talk D20SY33RT11:42R5
+
+Author(s): Barluenga, M, Magalhaes, IS
+
+Summary: 
+
+Ecological opportunity fuels the generation of biodiversity. When empty habitats are colonized ecological release favors species niche expansion and eventually the divergence of taxa via intraspecific resource competition and character release. The very young cichlid fish radiations from the Nicaraguan lakes in Central America are a powerful model for the study of very rapid diversification. Multiple recently formed crater lakes exist in this area, and all of them have been independently colonized by a subset of the fish fauna from the larger and older close by Nicaraguan Great Lakes. This setting is excellent to test the idea of ecological and character release following ecological opportunity. To this end we have studied the entire fish fauna of several crater lakes and characterized the ecological role of each of the species. We investigate the consequence of the absence of some of these species in the community for the remaining species, and the ability of the latter to expand their niche, release their morphological design and ultimately speciate.
+
+Charles Mullon
+University of Lausanne
+Departement of Ecology and Evolution
+Switzerland
+Co-evolutionary branching of dispersal and sociality in structured populations
+talk D20SY33RT16:33R5
+
+Author(s): Mullon, CDL, Keller, L, Lehmann, L
+
+Summary: 
+
+Dispersal has antagonistic effects for the evolution of altruism, cooperation and social behavior. On one hand, dispersal of individuals from their native patches decreases relatedness between locally interacting individuals, and thus disfavors the evolution of social traits. On the other hand, dispersal reduces local competition among kin, thereby favoring cooperation. It is traditionally thought that these two antagonistic effects balance, and as a consequence, an intermediate level of dispersion and sociality evolves. However, recent numerical experiments have suggested that when social traits and dispersal evolve together, evolutionary branching may take place, leading to the stable coexistence of social and asocial individuals with different dispersal strategies. In order to clarify the effects of dispersal on the evolution of cooperation, we developed analytical tools to study the evolution of multiple phenotypic traits in structured populations. By tracking changes in the phenotypic distribution in a population over time, we are able to explicitly predict the conditions that lead to evolutionary branching, and thus the coexistence of different dispersal and cooperating strategies. More generally, our method can be applied to study the emergence of highly differentiated life histories in structured populations.
+
+Philip McLoughlin
+University of Saskatchewan
+Biology
+Canada
+Density-dependent dispersal in Sable Island horses: rate and direction varies with sex and age but also scale at which density is assessed
+poster D20SY33PS0166
+
+Author(s): McLoughlin, PD, Marjamäki, PH, Contasti, AL, Coulson, T
+
+Summary: 
+
+Density-dependent dispersal is known for most species; why it evolves is of fundamental interest to ecology and evolution. In this context, we have yet to fully appreciate how individuals of varying conditions might differently perceive quorum in their decision whether to disperse, which may be scale-dependent. Using an individual-based field study, we demonstrate how dispersal rate in an island population of feral horses (Equus ferus caballus, Sable Island, Canada, 2008–2010) is positively density-dependent for all age and sex categories with respect to local density (breeding adults within 8000 m of a horse’s centroid location), but negatively density-dependent for males and positively density-dependent for females in relation to group (band) size. Dispersal was generally female-biased, with the exception of foals which moved with their mothers (no sex effect), and for yearlings and subadults when band sizes were smaller than average, in which case males dispersed at higher rates than females. Dispersal distance was positively related to local density. We conclude that dispersal rate can be both positively and negatively density-dependent for feral horses, contingent on the state of individuals and the scale at which quorum is assessed. Scale effects and interactions of density-dependent and sex- and age-biased dispersal may have both ecological and evolutionary consequences through effects on resource and mate competition.
+
+Colin Garroway
+University of Oxford
+Department of Zoology
+United Kingdom
+Disentangling the social, parental and genetic influences on natal dispersal in great tits
+talk D20SY33RT16:57R5
+
+Author(s): Garroway, CJ, Hinde, C, Verhelst, B, Sheldon, BC
+
+Summary: 
+
+Natal dispersal is a key process underpinning the structure and dynamics of populations. Individual variation in dispersal behaviour is substantial, but we know very little about the causes of individual variation in dispersal, and the extent to which this variation is influenced by social processes. Here, we integrate longitudinal data collected over five decades from a wild great tit (Parus major) population with two cross-fostering experiments to disentangle the influence of social processes, parental effects and genetics on dispersal behaviour. We show first that parental dispersal phenotype, whether they are themselves locally hatched or immigrants, has scale-independent effects on dispersal by offspring. Birds with immigrant parents dispersed further within patches and were more likely to disperse outside patches. Using an index of the composition of early social environments, with reference to the immigrant and locally hatched status of neighbours, we then show that dispersal is independent of the local social environment in which birds are raised. We used two large-scale cross-fostering experiments to demonstrate that parental effects on dispersal are primarily intrinsic to offspring, and therefore independent of parental behaviour. Finally, we show that parental dispersal phenotypes show similar fledging success but differing rates of local recruitment of offspring, implying that dispersal phenotypes will be genetically structured across landscapes. Our findings suggest that understanding the underpinning genetics of dispersal will be important for understanding the behaviour of populations in fragmented landscapes. Non-random dispersal of particular types of individuals suggests scope for the emergence of fine-scale population structure and has important consequences for interpretations of selection studies and dispersal theory.
+
+Miguel Baltazar-Soares
+GEOMAR - Helmholtz Center for Ocean Research
+Evolutionary Ecology of Marine Fishes
+Germany
+Dispersal and evolution of the European eel shaped by variations of North Atlantic drift currents
+poster D20SY33PS0563
+
+Author(s): Baltazar-Soares, MA, Biastoch, A, Harrod, C, Hanel, R, Marohn, L, Prigge, E, Evans, D, Bodles, K, Behrens, E, Böning, CW, Eizaguirre, C
+
+Summary: 
+
+For open ocean broadcast spawners, environment-dependent dispersal is a crucial but critical life phase. The yearly recruitment fluctuations and cryptic adult population structure commonly observed in these species are assumed to reflect both the temporal and the spatial environmental conditions that early stages are exposed to. With a long-lasting ocean-dependent dispersal, the European eel (Anguilla anguilla) poses as perfect model organism to study the role of the environment in the evolutionary ecology of a broadcast spawner. To this end, we compared predictions made on dispersal, recruitment and population genetics by 45 years of high-resolution North Atlantic drift modeling with natural recruitment and population genetics at European coasts. We identify atmospherically-driven current variations in the Sargasso Sea as a key factor for a successful dispersal. We also demonstrate how unexpected findings of population structuring are consistent with contemporary recruitment levels, and with cryptic female philopatric behaviors within the Sargasso Sea. We suggest this strategy to be an evolutionary consequence of the unpredictable oceanic environment in the Sargasso Sea.
+
+Allison Shaw
+The Australian National University
+Evolution, Ecology and Genetics
+Australia
+Dispersal in a world with edges: hypermobility, inertia, and the population cost of evolution
+talk D20SY33RT11:18R5
+
+Author(s): Shaw, AK, Jalasvuori, M, Kokko, H
+
+Summary: 
+
+Dispersal is a fundamental characteristic of organisms -- it determines the spatial, genetic, and demographic structure of population and is necessary for the persistence of any species. However, from the perspective of the individual, dispersal often carries substantial costs that can come in the currencies of energetics, time, risk and opportunities. Often the dispersal strategy favored by individuals will not be the strategy that would be ‘best’ for the population (best in terms of maximizing size or distribution). This leads to one of two results 1) individuals disperse less than is best for the population (“inertia”) or 2) individuals disperse more than is best for the population (“hypermobility”). Models of dispersal are often constructed to avoid edge effects, however, the real world is full of edges. A major risk of dispersal, the possibility of landing in unfavorable habitat, becomes exacerbated in habitats that are not only potentially fragmented but also have sharp boundaries (e.g., an archipelago). One might therefore predict inertia to be a problem in worlds of small size where most habitat is near an edge. Here we construct a model to address these questions. We find that small worlds, small patch carrying capacities, and high dispersal mortality all lead to inertia whereas large worlds, large patch carrying capacities, and low dispersal mortality lead to hypermobility. We also show that although heterogeneity in individual dispersal behavior can increase long-distance dispersal events, this is not guaranteed to be so. In a subset of parameter space heterogeneity actually decreases the probability of long-distance dispersal, in contrast to previous thinking.
+
+Anniina Mattila
+Faculty of Biological and Environmental Sciences, University of Helsinki
+Department of Biosciences
+Finland
+Dispersal, flight metabolism and flight-induced gene expression in the Glanville fritillary butterfly
+poster D20SY33PS0300
+
+Author(s): Mattila, ALK, Somervuo, P, Kvist, J, Frilander, M, Lehtonen, R, Hanski, I
+
+Summary: 
+
+Flight is essential for reproduction and dispersal in butterflies and other flying insects. Studies on the Glanville fritillary butterfly have shown that the higher the rate of flight metabolism an individual can achieve, the higher is its capacity for dispersal in the field. However, thoracic muscles of flying insects exhibit the highest mass-specific rates of oxygen consumption known for any locomotor tissue, making insect flight an energetically demanding activity. Flight that is based on aerobic metabolism may become quickly limited by oxygen conductance to the flight muscles, leading to hypoxia. In this study, we investigate genome-wide gene expression induced by controlled active flight in the Glanville fritillary. We aim to identify genes and pathways that are up- or down-regulated in flight, and we study how allelic variation in annotated genes, gene expression, and flight metabolism phenotypes covary. We compare females and males, which exhibit significant differences in their flight metabolism and movement behaviors, reflecting different functions of flight in the two sexes. Second, we contrast individuals from two natural populations with very different genetic compositions, a large metapopulation in the Åland Islands and a small, completely isolated island population with low genetic variability, high genetic load as well as greatly reduced flight metabolic rate.
+
+Jean Clobert
+Station d’Ecologie Experimentale du CNRS
+France
+Dispersal: causes, mechanisms and population consequences
+talk D20SY33IT10:30R5
+
+Author(s): Clobert, J
+
+Summary: 
+
+Dispersal is a three steps process. The social and non social environments can act either similarly or dissimilarly at all these stages. We will review the actual knowledge on dispersal ecology and evolution and try to sketch priorities for future research. We will also try to examine how dispersal might interact with global changes and in turn influence the dynamic of fragmented populations.
+
+Mariana Castro
+CFE, Centre for Functional Ecology
+Department of Life Sciences
+Portugal
+Do native and invasive populations of Oxalis pes-caprae differ in reproductive traits?
+poster D20SY33PS1020
+
+Author(s): Castro, M, Ferrero, V, Costa, J, Roiloa, S, Loureiro, J, Navarro, L, Castro, S
+
+Summary: 
+
+Biological invasions offer the opportunity to study evolutionary transitions in current timescales. Because reproductive strategies determine demographic and genetic characters of invasive populations, variations on reproductive characters have the potential to influence evolutionary processes during invasion, and the invasion process itself. Thus, comparative studies of reproductive systems between native and invaded ranges are crucial for understanding the mechanisms of plant invasion and for predicting microevolutionary changes in anthropogenic environments. Oxalis pes-caprae is a tristylous species native from South Africa and an invasive weed in Mediterranean climate regions worldwide. In its native habitat, the species presents three floral morphs, reproduces sexually and asexually, and has different cytotypes (2x, 4x, 5x). In most invaded areas, strong founder events lead to the introduction of the 5x short-styled morph only, leading to an exclusively asexual mode of reproduction. However, in the Mediterranean basin, new floral morphs and cytotypes with the ability to reproduce sexually were recently found. The aim of the present study was to assess evolutionary shifts in asexual and sexual reproduction traits between floral morphs and cytotypes, and between native and invasive populations of O. pes-caprae. For this, phenotypic characters directly linked with reproduction were assessed in plants from native and invasive populations growing in a common garden. The results of the sexual and asexual reproductive traits among floral morphs, cytotypes and invaded vs. native range are presented. The information gathered adds significant background information on the evolutionary biology and ecology of biological invasions. The knowledge of the probability and speed at which local adaptation evolves in invasive plants is particularly important for management practices, especially when evolutionary changes enhance ecological opportunities and invasive spread.
+
+Sonny Bleicher
+Ph.D Candidate at University of Illinois at Chicago
+Department of Biological Science
+United States
+Do prey respond appropriately to evolutionarily novel predators?
+poster D20SY33PS0064
+
+Author(s): Bleicher, SS, Brown, JS, Kotler, BP
+
+Summary: 
+
+Deserts provide a model system for studying convergent evolution. Sand dunes in the Mojave (USA) and Negev (Israel) deserts are home to distinct yet convergent community of species with granivorous rodents and sidewinding vipers, red foxes and barn owls as predators. By virtue of heat sensing pits(vipers) and external cheek pouches (hetromyid rodents) the Mojave possess constraint breaking adaptations over the counterpart species in the Negev.
+
+In a semi-natural arena, we exposed Merriam’s kangaroo rat (Dipodomys merriami) and desert pocket mice (Chaetodipus penicillatus) of the Mojave, and Allenby’s gerbil (Gerbillus andersoni allenbyi) of the Negev to sidewinder rattlesnakes (Crotalus cereastes), a pit viper, and to the Saharan horned viper (Cerastes cerastes). We quantified the response of each rodent species to the snakes and in combination with owls. We monitored activity over all moon phases and asked whether the rodents responded differently to the novel, compared to the familiar, snake species. Specifically, we test the recognition of gerbils of a novel predator with heat sensing pits, and heteromyids’ assessment of a snake with limited tools.
+Analysis shows that the gerbiline rodents, at first, risk encounters with the novel viper before rapidly learning to avoid both vipers. Lengthy exposure allowed gerbils to adjust and optimize their balancing of food and safety. This caused a 25% increase in foraging for both species of vipers. Pocket mice reduced their foraging equally regardless of viper species. Interestingly Kangaroo rats found both species equally frightening following exposure they ceased to be aversive of the novel predator.
+
+Fabrizia Ronco
+University of Basel
+Zoologiocal Institute
+Switzerland
+Ecological divergence between lake-stream populations of an East African cichlid fish
+poster D20SY33PS0965
+
+Author(s): Ronco, F, Egger, B, Theis, A, Indermaur, A, Salzburger, W
+
+Summary: 
+
+Divergent selection due to differences between environments often triggers ecological speciation. The cichlid species Astatotilapia burtoni occurs in the lacustrine environment as well as in the surrounding rivers of Lake Tanganyika. In this setting of replicated lake-stream populations, ecologically relevant traits such as gill rakers and the pharyngeal jaw apparatus (important for food uptake) are supposed to be under divergent selection as a consequence of different resource availabilities and utilization. Here, we study traits related to gill raker morphology (gill arch length, gill raker length and raker number), apply geometric morphometrics on pharyngeal jaws and analyse gut and stomach contents of four lake-stream systems in order to tests for shifts associated with differential foraging modes in A. burtoni.
+
+Raquel Ortells
+ICBiBE. Universitat de València
+Microbiology and Ecology
+Spain
+Effect of crowding on hatching strategies of two cryptic species of cyclical parthenogens
+poster D20SY33PS1246
+
+Author(s): Ortells, R, Parets, C, Serra, M, Carmona, M
+
+Summary: 
+
+Monogonont rotifers are cyclical parthenogens combining asexual reproduction with occasional bouts of sexual reproduction. This life-cycle is considered an adaption to time-varying habitats as the asexual phase allows clonal propagation in the water column before harsh conditions begin, while sexual reproduction makes re-colonization possible when good conditions are restored. The sexually-produced diapause egg can resist periods of habitat unsuitability (desiccation, intense competition, presence of predators) and is induced as a response to any environmental cue (abiotic or biotic) that anticipates the advent of unfavorable conditions. Similarly, it is crucial that dormant eggs should be able to detect such conditions before hatching. The beginning and end of diapause are thus two important transition points in their life cycle, whose success is dependent on their timing. In the extensively studied genus Brachionus, sexual reproduction is density-dependent, and induced by a chemical signal (mixis induction protein) produced and released into the environment by the rotifers. We believe that the same protein can influence hatching because as population density increases, the probability of success of one hatchling against a high density of clonally multiplied competitors decreases. Aiming at testing this hypothesis, we investigate the influence of population density on diapausing egg hatching of two rotifer cryptic species. Brachionus plicatilis and B. manjavacas belong to a species complex of planktonic rotifers dwelling in temporary waters which frequently co-occur in ponds across the Iberian Peninsula. We test whether rotifer diapausing eggs can detect infochemicals during dormancy and assess the presence of conspecific and intraspecific high population densities and if such an assessment results in changes in hatching strategies.
+
+Sonny Bleicher
+Ph.D Candidate at University of Illinois at Chicago
+Department of Biological Science
+United States
+Evolutionarily convergent rodents do not converge on predator evasion strategy
+poster D20SY33PS0065
+
+Author(s): Bleicher, SS, Brown, JS, Kotler, BP
+
+Summary: 
+
+Merriam’s kangaroo rat (Dipodomys merriami) and desert pocket mice (Chaetodipus penicillatus) of the Mojave Desert and Allenby’s gerbil (Gerbillus andersoni allenbyi) of the Negev Desert are granivorous rodents inhabiting desert sand dunes. These dunes are home to the sidewinder rattlesnake (North America) and the horned viper (a sidewinding snake of the Middle East). The gerbils in the Negev evolved with the Saharan horned viper (Cerastes cerastes) and the Mojave Desert rodents evolved with the sidewinder rattlesnake (Crotalus cerasts). Both predators and prey species in the Mojave are convergent to the Negev counterparts: The snakes have heat sensing pits and the rodents have fur lined cheek pouches.
+
+We exposed the three rodent species to both snake species in a test system and measured the inherent knowledge they possess on the predators. The process was repeated after two months of exposure to both snakes to understand what knowledge was acquired when the predation risk was real and the selective pressures it puts on the population. We were interested in seeing how the species view the evolutionarily know and novel predators, and to assess whether the rodents learnt the strengths and weaknesses of the snakes in relation to each other.
+
+We found that each species employs a different strategy in response to the predators. Gerbils learnt that the pit vipers are dangerous by decreasing the amount of time they spend foraging in their presence by 80% and forage 25% less food in those patches. Desert pocket mice avoid snakes overall and decreased the time they spend in the presence of the known predator (the pit viper) by 90%. Lastly Kangaroo rats employed an “in your face” predator management strategy. They doubled their foraging time in the presence of the novel predator with an increase of 13% in foraged grain. This suggests that these species who are functionally convergent may not be behaviorally convergent.
+
+Ane Myhre
+The Faculty of Natural Sciences and Technology at NTNU
+Department of Biology
+Norway
+Factors affecting juvenile movement in a house sparrow metapopulation – the role of time of birth and habitat configuration
+poster D20SY33PS0707
+
+Author(s): Myhre, AM, Pärn, H, Jensen, H, Sæther, B
+
+Summary: 
+
+Dispersal propensity may vary considerably between individuals in a population. Still, dispersal remains one of the least understood processes in ecology and evolution. In this study, we investigate individual variation in juvenile movement during the onset of the dispersal phase in four insular house sparrows Passer domesticus populations in northern Norway. The predictors were clutch size, hatch day, sex and morphology. The study islands differ in degree of patch isolation, configuration of suitable habitat, and characteristics of the matrix habitat. Thus, it was possible to assess the importance of such landscape features on movement. On one of the islands, movement rate was negatively related to hatch day. This pattern may be generated by age-dependent movement since early born individuals are older when the dispersal phase is initiated. However, we suggest that this relationship rather is a result of seasonal variation in the environment experienced by the nestlings, which affects their phenotype and propensity to disperse. Clutch size, sex, body size, mass and condition did not significantly explain variation in movement. On the other hand, movement rate seemed to decrease with increasing patch isolation, i.e. distance between patches and hostility of the matrix habitat. This suggests that habitat configuration is an important factor influencing movement and dispersal capacities of juvenile house sparrows.
+
+Inês Carvalho
+American Museum of Natural History
+Sackler Institute for Comparative Genomics
+United States
+Fine-scale population structure of humpback whales in South Africa coast
+poster D20SY33PS1432
+
+Author(s): Carvalho, IC, Barendse, J, Best, P, Pomilla, C, Leslie, M, Findlay, K, Rosenbaum, H
+
+Summary: 
+
+Humpback whales (Megaptera novaeangliae) undertake extensive seasonal migrations from polar feeding grounds in the summer to tropical breeding grounds in winter, displaying high fidelity to the same breeding and foraging areas. En route between these areas, some humpback whales utilize the coastal waters of southern hemisphere continents as migratory corridors. On South African coast two distinct migratory corridors of humpback whales are present. One takes humpback whales past the west coast of South Africa in autumn, en route to breeding grounds off Gabon, Congo, Angola and coastal and offshore areas in Gulf of Guinea. And the other takes them past the east coast of South Africa, en route to coastal waters of Mozambique and Madagascar. The aim of the present work was to assess a fine-scale population structure of humpback whales on the two migratory paths in the South African coast, combining mitochondrial DNA and microsatellites markers in order to characterize individual and population levels of genetic structure variation in this region. It was amplified, sexed, genotyped and sequenced a total of 484 samples from west and east coast. The results revealed population differentiation and restricted connectivity of humpback whales from west and east coast of South Africa. Differences on fidelity and seasonality to each region were also found, with humpback whales from west coast showing high levels of long term fidelity to the area, with identified animals returning to the same area in multiple years and between long periods of time and broader seasonality with several animals been sighted and resighted in summer months suggesting that this region besides functioning as a migratory corridor serve as an important feeding ground to some animals of the population. A better understanding of the scale of this behaviour off the west coast of South Africa and the importance of this area for the breeding ground of Gulf of Guinea should be achieved in the future.
+
+Luis Santos del Blanco
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Fitness returns of inflorescence architecture in a wind pollinated annual plant
+talk D20SY33RT17:45R5
+
+Author(s): Santos del Blanco, L, Tudor, E, Pannell, JR
+
+Summary: 
+
+Male fitness in outcrossing wind-pollinated plants is indirectly influenced by the efficiency of pollen delivery. Many wind-pollinated plant species present adaptations for efficient pollen dispersal. A typical example is provided by Mercurialis annua, where male individuals disperse pollen from erect inflorescences held above the plant. In contrast, hermaphrodite individuals usually release their pollen from sessile axillary inflorescences (axillary hermaphrodites), but pollen production and the length of inflorescences on hermaphrodites in some populations resembles that found in males (pedunculate hermaphrodites). The ability of males to invade and establish in populations with hermaphrodites is expected to depend directly on their relative ability to disperse pollen successfully. Thus, enhanced pollen production and dispersal ability by pedunculate hermaphrodites might prevent male invasion. Here, we estimated the pollen production and siring success of males and hermaphrodites of M. annua that varied in their inflorescence architecture in experimental mating arrays. Males sired four times more offspring when growing in populations with axillary hermaphrodites than with pedunculate hermaphrodites. We use these results, and those from previous work, to model the fate of males and hermaphrodites with different inflorescence architectures. Our results have important implications for the maintenance of males with hermaphrodites in this species (androdioecy). They also raise questions about the genetic architecture and the geographic distribution of inflorescence morphology in M. annua.
+
+Carmen Gabaldón
+University of Valencia
+Institut Cavanilles de Biodiversitat i Biologia Evolutiva
+Spain
+Fluctuation of salinity effect on the coexistence of two rotifer cryptic species
+poster D20SY33PS0818
+
+Author(s): Gabaldón, C, Montero-Pau, J, Carmona, M, Serra, M
+
+Summary: 
+
+Salinity is an important factor affecting ecological and evolutionary processes in continental plankton. Brachionus plicatilis species complex is a group of planktonic rotifer cryptic species dwelling in salt and brackish waters. Two of the species in the complex (B. plicatilis and B. manjavacas) co-occur frequently in ponds across the Iberian Peninsula despite their great ecological similarity in terms of resource use and susceptibility to predation. These species widely overlap their salinity tolerance ranges, but have still different allocation patterns in diapause stages. These rotifers are cyclical parthenogens producing sexually diapause stages. As their populations are seasonally active, diapause is needed for their persistence. From observational data and theoretical work salinity fluctuation and diapause has been suggested to promote their coexistence. In order to test this hypothesis, B. plicatilis and B. manjavacas were grown together under several salinity fluctuation patterns in laboratory experiments simulating rows of growing seasons, so that the active populations in a growing season were founded from diapausing stages produced in the previous one. Our results reveal that high constant salinity brings to extinction to B. plicatilis, while low constant salinity has the opposite result. Under fluctuating salinity the species excluded was less consistent. The results can be used to design experiments in order to found the salinity fluctuation patterns required for coexistence.
+
+Domenico D'Alelio
+Stazione Zoologica Anton Dohrn
+Ecology and Evolution of Plankton
+Italy
+Frequent recombination shapes the epidemic population structure of a freshwater cyanobacterium
+poster D20SY33PS1273
+
+Author(s): D'Alelio, D, Salmaso, N, Gandolfi, A
+
+Summary: 
+
+Based on increasing knowledge, cyanobacteria are prone to gene-flow, as are other prokaryots. The planktonic genus Planktothrix showed remarkable signals of both homologous and non-homologous recombination. However, it is not yet clear how frequent recombination is and whether this phenomenon impacts population structuring. In the frame of a population genetics study, we characterized 290 Planktothrix strains isolated from seven neighbouring lakes in the subalpine Italian region with multi locus sequence typing. Four of six house-keeping loci analysed were polymorphic, resulting in 20 distinct multi-locus genotypes. Association indices among alleles at different loci were suggestive of a so called ‘epidemic population structure’, thus intermediate between clonal and panmictic structures. Further analyses carried out by using the software ClonalFrame, which is able to infer genealogies from multy-locus datasets impacted by recombination, supported this view by detecting: i) three major clades affected by three distinct recombination events, ii) a recombination rate about equal to the mutation rate and iii) the fact that recombination had an impact in introducing molecular diversity more than double the mutation rate. Furthermore, among-lake diversity, determined by the analysis of molecular variance and verified over an annual cycle in three of seven lakes, appeared as influenced by both recombination processes and local clonal expansions. Our observations suggest that microevolution of the cyanobacterium Planktothrix is frequently impacted by recombination, thus determining a reliable epidemic population structure.
+
+Aline Janke
+Federal University of Rio Grande do Sul (UFRGS)
+Genetics Department
+Brazil
+Genetic diversity and gene flow of introduced populations of Dyckia distachya Hassler, a bromeliad extremely endangered
+poster D20SY33PS0683
+
+Author(s): Janke, A, Reis, MS, Bered, F
+
+Summary: 
+
+Specific of rheophytics environments, Dyckia distachya is a rare bromeliad. Due to anthropic pressures imposed on its natural habitat, remains only one known population in the wild. Aiming to avoid their extinction, populations were introduced in similar places to those of natural occurrence. The main objectives are the verification of the structuring of introduced populations, inference of gene flow and evaluation of the genetic diversity between generations. The natural population and 4 introduced populations were evaluated using SSR nuclear markers. Samples were collected from all reproductive individuals in each population, being considered 15 mother plants by population and 15 individuals per mother plant. Parameters of genetic diversity from mother plants were calculated, such as observed and expected heterozygosities in Hardy-Weinberg Equilibrium (HWE) and inbreeding coefficient. Also we calculated the outcrossing rate, crossing between related individuals, paternity correlation and effective number of pollen donors. The observed heterozygosity in introduced populations was greater than natural, ranging from 0.292 to 0.406, while in natural was 0.169. All populations analyzed deviated from HWE. The inbreeding coefficient ranged from 0.247 to 0.307 in introduced populations, while the natural was 0.087. The outcrossing rate (1.072) indicates that there is high cross pollination in the introduced population and low in natural (0.214). The outcrossing rate between related individuals in the introduced population (-0.005) indicates that there are few inbreeding crosses and the paternity correlation (0.141) that the crossings occur preferentially among unrelated individuals. The number of half sibs in the introduced population was high (0.92), probably due to the effective number of pollen donors (7). The monitoring of introduced populations with genetic parameters will be important to elucidate some aspects of the introduction of species in nature.
+
+Sueme Ueno
+Luiz de Queiroz College of Agriculture, University of São Paulo
+Genetics Department
+Brazil
+Genetic diversity and structure of Oeceoclades maculata (Lindl.) Lindl. Populations
+poster D20SY33PS0407
+
+Author(s): Ueno, S, Rodrigues, JF, Veasey, EA
+
+Summary: 
+
+Originally from Africa, the terrestrial orchid Oeceoclades maculata (Lindl.) Lindl is considered an invasive species with potential to colonize large areas. The species grows well in dry and wet environments as well as is present in disturbed and undisturbed areas. Although presenting a passive mechanism of self-fertilization, studies also point to the occurrence of cross-fertilization in Brazilian populations, indicating the existence of variation in the reproductive biology of the species throughout its geographic range. Considering the lack of information on the population genetics of this species, the aim of the study was to assess the genetic diversity and structure of Brazilian populations of O. maculata and to obtain more information on the reproductive system of the species. Five populations were considered for analysis [three from São Paulo state (SP), one from Mato Grosso (MT) and one from Paraná (PR)]. Population genetic analyses were obtained from eight ISSR primers and 153 specimens. The percentage of polymorphic loci (P) for each population was variable: Piracicaba/SP (6.25%), Ribeirão Preto/SP (1.79%), Maringá/PR (12.50%), Piracicaba1/SP (34.82%), Cáceres/MT (2.68%). The values of Shannon index (I) and Nei's genetic diversity (He) were low, varying from I = 0.0023, He = 0.0010 (Ribeirão Preto/SP) to I = 0.0305, He = 0.0160 (Maringá/PR). A cluster analysis made with Jaccard similarity coefficient and UPGMA method separated the five populations into five independent groups. The analysis of molecular variance (AMOVA) showed that 90.4% of the variation occurs between populations, indicating high genetic structuring, with more genetic variation partitioned among populations than was detected within populations. A Bayesian model-based clustering analysis placed the individuals into nine clusters, showing evidence that the groups are strongly structured. These results corroborate with other autogamous and invasive species.
+
+Ana Cuenca
+University of São Paulo
+Department of Genetics
+Brazil
+Genetic diversity of cocoyam (Xanthosoma spp.) in Brazil, assessed with ISSR markers
+poster D20SY33PS0649
+
+Author(s): Cuenca, ACP, Rodrigues, JF, Ueno, S, Dequigiovanni, G, Pereira, AA, Ming, LC, Rodrigues, DP, Clement, CR, Veasey, EA
+
+Summary: 
+
+The native American cocoyam (Xanthosoma spp.) is considered an important food crop in many parts of the tropics. The usable parts of these species are the subterranean tuberous stems and, as a secondary use, the young leaves, similar to spinach. This study aimed at characterizing the genetic diversity of local varieties of cocoyam collected from several regions in Brazil, using Inter Simple Sequence Repeat (ISSR) markers. A total of 31 accessions were analyzed with five ISSR primers, with 12 accessions from UNESP collection and 19 accessions from the National Institute for Amazonian Research (INPA). Three accessions from INPA were classified as Colocasia spp. Binary data was used to construct a Jaccard similarity coefficient matrix and data were analyzed using the PAST software. The classification of the accessions into groups was performed by conducting both a cluster and a principal coordinate analysis. A total of 89 bands were observed, of which 99% were polymorphic. Cluster analysis showed high genetic divergence among the accessions, with the Jaccard coefficient ranging from 0.06 to 1.0. The accessions were divided into two groups, one of Xanthosoma sp. and the other of Colocasia sp., with a Xanthosoma sp. sample that may be incorrectly identified. Within the Xanthosoma group, 3 subgroups were found, with 2 outliers, one of which was X. blandum. Accessions of X. robustum, X. sagittifolium and X. violaceum were mixed in the 3 subgroups. Three duplicates were observed, one of them including two accessions classified as X. violaceum, which grouped together with a X. sagittifolium accession. Accessions from the UNESP collection were separated in both analyses from the INPA collection, with one exception. No geographic clustering was found among the accessions. Analyses with a larger number of markers are being conducted in order to confirm the results. Financial support: FAPESP and CNPq.
+
+Katerina Vasileiadou
+University of Patras
+Department of Biology
+Greece
+Genetic diversity patterns of macrobenthic populations from lagoonal ecosystems
+poster D20SY33PS0259
+
+Author(s): Vasileiadou, K, Pavloudi, C, Chatzinikolaou, E, Gonzalez-Wanguemert, M, Tsikopoulou, I, Kotoulas, G, Arvanitidis, C
+
+Summary: 
+
+Coastal lagoons are dynamic ecosystems characterized by vigorously changing temporal and spatial conditions. They are an intriguing field for the study of genetic adaptations and community behavior. In these ecosystems, a small number of species is able to tolerate these conditions. Polychaetes are one of the most abundant taxa inhabiting lagoons and in many cases, they have been found to provide a good assessment of the benthic community showing comparable trends to those produced by the total macrobenthic fauna. The aim of the study is to compare polychaete species population patterns from Amvrakikos Gulf (W Greece) and Ria Formosa (S Portugal) inferred from mtDNA data. The current study attempts to correlate genetic diversity patterns to the patterns of abiotic data from each lagoonal system. The research leading to these results received funding from the European Community's Seventh Framework Programme (FP7/2007-2013) under grant agreement n° 227799- ASSEMBLE.
+
+Wellington Nascimento
+Luiz de Queiroz College of Agriculture, University of São Paulo
+Department of Genetics
+Brazil
+Genetic structure of the endangered Amerindian yam (Dioscorea trifida L.)
+poster D20SY33PS0610
+
+Author(s): Nascimento, WF, Fernandes, JR, Koehler, S, Gepts, P, Silva, EF, Veasey, EA
+
+Summary: 
+
+Dioscorea trifida (Dioscoreaceae) is an endangered Amerindian yam species, whose origin, evolution and domestication are still unresolved issues. In order to assist in developing strategies for the conservation of D. trifida, we assessed the genetic diversity of 53 accessions of D. trifida from the states of São Paulo, Santa Catarina, Mato Grosso and Amazonas in Brazil based on eight SSR and 16 ISSR markers. The level of polymorphism among the accessions was high, 95% for SSR and 76% for ISSR. The SSR marker showed higher discrimination power among accessions compared to ISSR, with D parameter values of 0.79 and 0.44, respectively. Although SSR and ISSR markers led to dendrograms with different topologies, both separated the accessions into three main groups: I – Ubatuba-SP; II – Iguape-SP and Santa Catarina; and III - Mato Grosso. The two accessions from Amazonas varied their position according to the genomic region analyzed. Bayesian and principal coordinate analyses conducted with both molecular markers corroborated the classification into three main groups. Higher variation was found within groups in the AMOVA analysis for both markers (66.5% and 60.6% for ISSR and SSR, respectively), and higher Shannon diversity index was found for data from SSR marker. Significant correlations were found between genetic and geographic distances (r = 0.08; p = 0.0007 for SSR and r = 0.16; p = 0.0002 for ISSR). Therefore, results from both markers showed a high spatially structured genetic diversity in D. trifida accessions maintained by small traditional farmers in Brazil.
+
+Takashi Yamane
+University of Uppsala
+Ecology and Genetics
+Sweden
+Genetic variation in the effect of monoamines on female mating receptivity and oviposition in the adzuki bean beetle (Callosobruchus chinensis)
+poster D20SY33PS0188
+
+Author(s): Yamane, T
+
+Summary: 
+
+Female mate choice after mating is a strong force in sexual selection and would lead to co-evolution of mating traits between the sexes. Some genotypes differ in the female mating rate and fecundity, and these differences are thought to be caused by the female’s mate choice in response to the male ejaculate, including substances in male seminal fluids. Monoamines regulate animal physiology and behavior, including the post-mating behavior of females. In the present study, I compared the effects of monoamines on female mating receptivity and oviposition among four Callosobruchus chinensis strains (populations) (isC, akC02, mC, and the previously studied jC-S strain). Injection with octopamine or tyramine solutions significantly reduced female receptivity in the jC-S and mC strains, with low remating frequencies. However, no monoamines reduced female receptivity in isC, with a high remating frequency. Oviposition was activated by tyramine or serotonin in jC-S and by tyramine in mC. However, octopamine activated oviposition in isC and no monoamines did in akC02. Previous researches showed that jC-S and mC females had stronger responses than isC and akC02 females to male seminal substances that reduce receptivity or induce oviposition, suggesting that similarities exist between the effects of monoamines, especially tyramine, and the responses to male substances. These findings suggest relationships between the differences in female responses to male seminal substances among populations and the existence of one or more mutations in the biogenic biosynthetic or transmission pathways, which in turn would cause female mate choice to respond to male substances.
+
+Antonio Rodrigues
+University of Oxford
+Department of Zoology
+United Kingdom
+Good times bad times: Should I stay or should I go?
+poster D20SY33PS1281
+
+Author(s): Rodrigues, AMM, Johnstone, RA
+
+Summary: 
+
+The classical theory of dispersal predicts that heterogeneity in local density may select for the evolution of density-dependent dispersal strategies. In this case, individuals should disperse away from high-density habitats, i.e. positive density-dependent dispersal, thus increasing their chances of breeding in favourable low-density habitats. Various empirical studies support this view, while others suggest the opposite, i.e. negative density-dependent dispersal. Using a theoretical model, we show that temporal variation in habitat density may be a key factor in explaining these contrasting observations. Stable environments tend to promote the evolution of negative density-dependent dispersal rates, whereas unstable environments tend to promote the evolution of positive density-dependent dispersal rates. We also show that temporal variation in habitat density greatly affects the evolution of unconditional dispersal strategies, with unstable environments typically favouring the evolution of higher unconditional dispersal rates.
+
+Susana Varela
+Faculty of Sciences of the University of Lisbon
+Department of Animal Biology, Centre for Environmental and Marine Studies
+Portugal
+Habitat choice in the flat periwinkle (Littorina fabalis) Iberian ecotypes: an experimental approach
+poster D20SY33PS1101
+
+Author(s): Varela, SAM, Marçal, R, Marçal, R, Altenrath, C, Carvalho, J, Carvalho, J, Costa, D, Lago, T, Galindo, J, Rolán-Alvarez, E, Faria, R, Faria, R
+
+Summary: 
+
+Although it is widely recognized that habitat choice can facilitate local adaptation, its contribution to speciation has been poorly studied. Littorina species (marine gastropods) offer unique models to study the mechanisms underlying ecotype differentiation. In the flat periwinkle L. fabalis, three ecotypes have been described in the Iberian Peninsula, each associated with different host algae/seagrass (Fucus sp., Mastocarpus sp., and Zostera marina). Whether this association results from consistent habitat preference/avoidance, represents the outcome of environmental selective pressures like predation and/or results simply from stochastic processes, has never been investigated. Here we conducted two series of laboratory experiments where we measured L. fabalis immediate habitat choice within a 30 minutes interval and long-term choice within a six days interval. Results were similar: while two of the ecotypes (living in Fucus sp. and Mastocarpus sp.) tend to choose their host algae more frequently than by chance, the opposite trend was observed for the third ecotype (living in Zostera marina). The implications of these results will be discussed within the context of ecological speciation.
+
+Kira Delmore
+University of British Columbia
+Zoology
+Canada
+Hybrid songbirds employ intermediate routes in migratory divide
+talk D20SY33RT16:09R5
+
+Author(s): Delmore, KE, Irwin, DE
+
+Summary: 
+
+Seasonal migration may play a significant role in speciation; many divergent populations breed adjacent to one another while using different routes to reach their wintering grounds (i.e., form migratory divides). Migratory orientation is largely genetically determined in these populations and often involves navigation around geographic barriers. Accordingly, hybrids have been predicted to employ intermediate routes that are inferior to those of parental forms. We provide the first direct test of this hypothesis here, by attaching light-level geolocators to birds in a narrow hybrid zone between two groups of Swainson’s thrushes that form a migratory divide in western North America. Most of these birds employed intermediate routes, navigating over large geographic barriers. The remainder employed a mixed strategy, using the same route as one parental form on fall migration and the other on spring migration. Data from age ratios and cline analyses further suggests that hybrids survive at lower rates than parental forms and are selected against. Together, these results provide strong support for the migratory divide hypothesis and represent one of few established examples in which a behavioral trait reduces hybrid fitness, thereby promoting speciation.
+
+Timo Thuenken
+University of Bonn
+Institue for Evolutionary Biology and Ecology
+Germany
+Increased risk of kin competition induces kin avoidance during shoaling behavior
+poster D20SY33PS0536
+
+Author(s): Thuenken, T, Hesse, S, Meuthen, D
+
+Summary: 
+
+Inclusive fitness theory predicts that individuals can indirectly increase their fitness by kin-biased behavior. However, kin-bias can also increase the competition between kin, potentially eliminating the benefits. Thus, individuals are expected to plastically adjust kin-bias according to the risk and intensity of kin-competition which can be highly variable depending on environmental conditions. We investigate the impact of competition on kin-bias in a shoaling context using juveniles of the cichlid fish Pelvicachromis taeniatus. Kin-shoaling is a widespread adaptation to reduce the predation risk in prey organisms. In the present study, variation in competition was increased by limiting food availability in greatly size-variable juveniles that were given the choice between a shoal consisting of kin and a shoal consisting of non-kin. Considering that food limitation affects differently sized fish differentially due to the extent of energy expenditure, the level of competition varies accordingly. We found that preference to shoal with kin decreased with increasing competition. Shoaling behavior switched from kin-preference at low competition levels to kin-avoidance during high competition levels. We suggest that individuals may increase their inclusive fitness by avoiding competition with kin.
+
+Sudipta Tung
+Indian Institutes of Science Education and Research (IISER)-Pune
+Department of Biology
+India
+Influence of stage specific availability of nutritional resources on the dynamics of laboratory populations of Drosophila melanogaster
+poster D20SY33PS0852
+
+Author(s): Tung, S, Rajamani, M, Joshi, A, Dey, S
+
+Summary: 
+
+The amount of nutritional resources available for individuals is known to play a major role in shaping the dynamics of a population. However, the effects of resource availability on the dynamics of stage-structured populations, remains relatively less explored. Here, we present our findings from a 49-generation experiment on replicate populations of the common fruit fly, Drosophila melanogaster, subjected to four different combinations of larval and adult nutrition. We show that in general, increasing levels of larval nutrition stabilizes the dynamics, while increasing adult nutrition has the opposite effect. To study the dynamics in further detail, especially with the continuous change in the level of food available in the two life stages, we have constructed a stage-structured theoretical model for Drosophila. This model incorporates details of the various density-dependent feedback loops that determine the dynamics of Drosophila cultures. The model does a fair job in capturing both the qualitative and the quantitative nature of the dynamics of each of the four nutritional regimes studied empirically. Exploration of the model parameter space reveals that egg and adult dynamics behave very differently when subjected to different nutritional combinations. Insights obtained from this study have possible implications in managing biological populations with similar life-cycle.
+
+Anne Duplouy
+University of Helsinki
+Department of Biosciences
+Finland
+Life-history of the Glanville fritillary butterfly in fragmented versus continuous landscapes
+talk D20SY33RT18:33R5
+
+Author(s): Duplouy, A, Ikonen, S, Hanski, I
+
+Summary: 
+
+Habitat loss and fragmentation threaten the long-term viability of innumerable species of plants and animals. At the same time, habitat fragmentation may impose strong natural selection on populations and lead to evolution of life-histories with possible consequences for demographic dynamics. The Baltic populations of the Glanville fritillary butterfly (Melitaea cinxia) inhabit landscapes with highly fragmented habitat (networks of small dry meadows) as well as landscapes with extensive continuous habitat (calcareous alvar grasslands). Here, we report the results of common garden studies on butterflies originating from two highly fragmented landscapes in Finland and Sweden and from two continuous landscapes in Sweden and Estonia, conducted in a large outdoor population cage and in the laboratory. We investigated a comprehensive set of 63 life-history traits, including components of larval development, adult behavior and reproductive performance. Habitat fragmentation shows association with several life-history traits. Most notably, the growth rate of the post-diapause larvae and several measures of flight capacity were higher in butterflies from fragmented than continuous landscapes. These results support theoretical predictions about high rate of population turnover in fragmented habitats selecting for increased rate of dispersal. Females from continuous landscapes had shorter intervals between consecutive egg clutches and somewhat higher life-time egg production, but shorter longevity, than females from fragmented landscapes. These results are likely to reflect the constant opportunities for oviposition in females living in continuous habitats, and possibly also the more dispersive females from fragmented landscapes allocating more resources to dispersal capacity at the cost of egg maturation rate
+
+Benjamin Barth
+Martin-Luther-University Halle-Wittenberg
+Department of Biology
+Germany
+Male-biased dispersal promotes large scale gene flow in a subterranean army ant, Dorylus (Typhlopone) fulvus
+poster D20SY33PS1244
+
+Author(s): Barth, BM, Moritz, RFA, Pirk, CWW, Kraus, BF
+
+Summary: 
+
+Sex-biased dispersal is widespread in the animal kingdom and may strongly influence gene flow and population structure. Particularly army ants, important key-stone predators in tropical ecosystems, are prone to population fragmentation and isolation due to their extraordinary mating system: Queens are permanently wingless and propagate via colony fission and only the males disperse in mating flights. Here we report on sex-biased dispersal and the genetic population structure of an African subterranean army ant, Dorylus (Typhlopone) fulvus. Using maternally inherited mtDNA and bi-parentally inherited microsatellites we found strong geographical structuring of mtDNA haplotypes, whereas the microsatellite genetic population structure was less pronounced. Strong mtDNA, but significantly lower microsatellite genetic differentiation translated to a more than an order of magnitude larger male migration rate compared to that of queens. This reflects the low motility of queens and strong, promiscuous dispersal by males. Thus, the well flying D. fulvus males appear to be the sex to promote large scale gene flow. With this study we aim to achieve a better understanding of how the evolution of sex specific dispersal patterns and mating systems affect the population structure and phylogeography of species.
+
+Martijn Egas
+IBED / University of Amsterdam
+Population Biology
+Netherlands
+Male-male aggression peaks at intermediate relatedness in a social spider mite
+poster D20SY33PS0538
+
+Author(s): Egas, M, Sato, Y, Sabelis, MW, Mochizuki, A
+
+Summary: 
+
+Inclusive fitness theory predicts that when individuals live in groups or colonies, male-male aggression should peak at intermediate levels of average relatedness in the colony. Assuming that aggression is costly and directed towards nonrelatives and that competition for reproduction acts within the colony, the benefits of aggressive behaviour are maximized in colonies with a mix of related and unrelated competitors because aggression hurts unrelated individuals often, thereby favouring reproduction of related individuals. This prediction has been tested with specific bacterial strains in laboratory settings, but not with organisms in the field. Here, we study how male-male aggression varies with average relatedness in naturally occurring colonies of the social spider mite Stigmaeopsis miscanthi. This mite lives on Chinese silver grass, constructs colonies as woven nests on the undersurface of grass leaves, and lives within these nests in kin groups. This mite species shows parental care: males defend the offspring they fathered by counterattacking the offspring from predatory mites that intruded the nest. However, males also show aggression towards conspecific males. They kill rival males inside nests, and establish their own harem. Male-male aggression (quantified as the probability of lethal combat) is highly variable among populations, and it is negatively correlated with a proxy for average genetic relatedness in the colony - winter harshness. We sampled 25 populations across a wide geographic range between Taiwan and Japan, representing a gradient of high to low within-colony relatedness. For each population the weaponry of males was measured as the length of the first pair of legs, and male-male aggression was tested by placing pairs of non-sibling males together and scoring the frequency of male death over a given period. In support of theory, male-male aggression and weapon size strongly peak at intermediate average relatedness.
+
+Elizabeth Veasey
+Luiz de Queiroz College of Agriculture / University of São Paulo
+Department of Genetics
+Brazil
+Morphological genetic diversity of yam (Dioscorea cayenensis/D. rotundata complex) local varieties in Brazil
+poster D20SY33PS0994
+
+Author(s): Veasey, EA, Silva, LRG, Nascimento, WF, Mezette, TF, Silva, EF
+
+Summary: 
+
+Yams are one of the main roots and tuber crops in the world, especially within the species complex Dioscorea cayenensis Lam/D. rotundata Poir. The cultivation of yams is important both in traditional agriculture, and in family farming. Few studies have been conducted in Brazil with these species, including genetic diversity studies. As such, the objective of this study was to characterize the genetic diversity of yam (Dioscorea cayenensis / D. rotundata) local varieties from different regions in Brazil, using morphological characters. Thus, collections were made in several municipalities in the South, Southeast and Northeast regions. The tubers were planted in an experimental field, where they were evaluated for 18 morphological traits. These traits were transformed into binary data. The species identification of the accessions was carried out in accordance with the morphological evaluation performed. High genetic variability was observed and most of the variability was found between regions and between species, and this variability was spatially structured, with high and significant correlation between genetic and geographical distances. The cluster analysis and the principal coordinate analysis using the Jaccard index, showed a clear separation of accessions into two distinct groups: group I with accessions, identified as D. rotundata, originated from the Northeast and group II with accessions, mostly identified as D. cayenensis, originated in the Southeast region, while the accessions from the South were allocated either at an intermediate zone between the two groups, or included in either group. Given these data, one can infer that in Brazil there is a clear separation between D. cayenensis and D. rotundata species, and that D. cayenensis occurs mainly in the Southeast and South regions, and D. rotundata occurs predominantly in the Northeast region. Financial Support: FAPESP and CNPq.
+
+Erik Van Bergen
+University of Cambridge
+Department of Zoology
+United Kingdom
+Nature’s ecological recorders: stable isotopes in Mycalesine butterflies
+poster D20SY33PS0633
+
+Author(s): Van Bergen, E, Osborne, C, Griffiths, H, Brakefield, P
+
+Summary: 
+
+Mycalesine butterflies have radiated dramatically in Africa, Madagascar and Asia to produce more than 250 extant species. The primary driving process of these radiations could have been the ability of mycalesine butterflies to invade the empty niches that arose as a result of the evolution of the C4 photosynthetic pathway and the world-wide expansion of C4 grasses in open, sunlit environments. Primary forest species of mycalesines are expected to be C3 specialists as the advantage of the C4 pathway declines in shaded forest understories where cool conditions improve the relative photosynthetic efficiency of C3 grass species. C4 grasses are characteristic of more open, sunlit habitats and where we expect mycalesines to be more opportunistic and generalist in their host plant choice or even to have become C4 specialists. Reliable host plant data is essential to be able to test this hypothesis but host plant records for grass-feeding mycalesines are very limited. However, over the last three decades stable isotope analyses have become an important part of the ecologist’s toolbox. We used a community of three sympatric species of Bicyclus in Malawi, which were caught on a daily basis through two wet-dry seasonal cycles between January 1996 and December 1997, to explore whether d13C the d18O can be used to detect micro-climate conditions during the larval development of Mycalesine butterflies. Preliminary data shows that the feeding history of the larvae, with respect to C3 and C4 grasses, can be traced by analysing the relative amount of 13C in the leg tissue of adults. Indeed, both savannah species primarily develop on C4 grasses whereas the forest species mainly uses C3 grasses. Increased evaporation of water in the insect is reflected by enriched d18O values in adult tissue. Our data clearly show that the d18O values in butterfly leg tissue are enriched during the dry season. There are interspecific differences that can be explained by adult habitat preferences.
+
+Lars Witting
+Greenland Institute of Natural Resources
+Greenland
+The population ecological fundament for life history evolution
+poster D20SY33PS0545
+
+Author(s): Witting, L
+
+Summary: 
+
+Although rarely recognized, population ecology may be the most essential natural selection fundament for life history evolution. I illustrate how population growth and intra-specific density dependent competitive interactions unfold from self-replication in limited environments generating selection for the inevitable evolution of organized organisms similar to those on Earth. This include the evolution of exponentially increasing body masses, the evolution of body mass allometries, and evolutionary transitions from the negligible-sized asexual self-replicator, over large bodies organisms with sexual reproduction, to the fully evolved eusocial colony.
+
+Petri Rautiala
+University of Jyväskylä
+Section of Ecology and Evolutionary Biology
+Finland
+Unmatedness promotes the evolution of helping more in diplodiploids than in haplodiploids
+poster D20SY33PS0679
+
+Author(s): Rautiala, PT, Helanterä, H, Puurtinen, M
+
+Summary: 
+
+One major question in evolutionary biology is how non-reproductive workers have evolved in eusocial organisms. The ‘haplodiploid hypothesis’ attempted to explain why eusociality seems to have evolved more times in haplodiploids than in non-clonal diplodiploids. That theory was proven inadequate by Trivers and Hare (1976) who showed, however, that haplodiploidy could promote the evolution of eusociality provided the existence of variation in sex ratio among different broods (‘split sex ratios’). Gardner et al. (2012) reviewed the empirical progress in the understanding of the evolution of eusociality, and suggested that the potentially important causes of split sex ratios at the origin of helping are limited to queen virginity (some queens not mating and producing all-male broods) and queen replacement. After Gardner et al’s correction on the role of queen replacement has been taken into account, only queen virginity seems to be a possible cause for split sex ratios at the origin of helping in haplodiploids. However, when comparing haplodiploid and diplodiploid systems, Gardner et al. neglect the fact that unmated diplodiploid females have zero reproductive success. The analysis we propose reveals that unmatedness promotes the evolution of helping more in diplodiploids than in haplodiploids. Considering altogether Gardner et al’s results and our own, we conclude that the factors causing split sex ratios in haplodiploids do not make eusociality more likely to evolve in haplodiploids than in diplodiploids.
+
+Pauline Garnier-Géré
+UMR BIOGECO, INRA (National Institute of Agronomical Research)
+France
+gMETAPOP, a software for simulating the evolution of subdivided populations in species with complex demographic features
+poster D20SY33PS0902
+
+Author(s): Garnier-Géré, P, Raspail, F, Le Corre, V, Mariette, S, Machon, N, Godelle, B, Kremer, A, Austerlitz, F
+
+Summary: 
+
+Theoretical predictions of multilocus evolution in subdivided populations are usually very complex in realistic cases. Flexible simulation tools are thus needed to model the evolution of polygenic traits and their underlying genes in various selection or demographic scenarios. Several computer simulation tools have become available in recent years but none is user-friendly, as they need complex input files with large numbers of population genetics parameters. We propose here a simulation software that allows to model various key features («Life-history», «Demography», «Migration», «Selection», «Recombination») with a high level of complexity. We first combined two previous complementary versions of the program METAPOP: one with simple demographic features, but the possibility to model phenotypic values and selection, and one allowing more complex demography with overlapping generations. The new software (gMETAPOP) includes a Graphical User Interface (GUI) that greatly simplifies its use with no need to fill very large input parameter files so that users can focus on their biological model. Practically, the GUI is organised in different tabs (genome, phenotype-genotype modelling, demography, selection....), where the user simply chooses from different parameters’ available options. Users are also guided by the GUI by being proposed default parameter values within possible ranges, thus avoiding trivial errors, and although a detailed helpfile is available, we have also summarized important parameter definitions uses with short statements (Tooltips). The simulation software is now further tested with a large range of simple modular tests, but also with tests based either on classical analytical predictions from population and quantitative evolutionary genetics or on published simulation results. These tests improve the efficiency for correcting bugs, and allow to assess the limits of the software. Various outputs are designed to be easily imported into R.
+
+Darja Dubravcic
+Laboratory of Interdisciplinary Physics
+France
+Not everybody is social in social amoebae: Dictyostelium discoideum population partitioning into aggregating vs non-aggregating cells and its evolutionary significance in fluctuating environments
+poster D20SY33PS1114
+
+Author(s): Dubravcic, D, Nizak, C, Van Baalen, M
+
+Summary: 
+
+The social amoeba Dictyostelium discoideum is widely known for its cooperative behavior. Upon starvation, millions of cells aggregate and form a fruiting body that allows better dispersion of dormant spores. But not all cells aggregate and take part in this social act. A part of the population ignores the aggregation signal and continues behaving as single cells, that can take advantage of incoming nutrients while the others are embedded in multicellular development. We have developed a new cell-tracking technique based on time-lapse fluorescence microscopy and image processing. This enabled us to quantify population partitioning into social/aggregating and unsocial/non-aggregating cells. We are currently investigating the effects of cell nutritional state, genetic background and environment structure on population partitioning. In addition, we propose a model to illustrate potential evolutionary benefits of population partitioning in fluctuating environments.
+
+Jucelene Rodrigues
+University of São Paulo
+Departament of Genetic
+Brazil
+Population genetic analyses of the endangered Brazilian Atlantic Forest 'Cattleya coccinea' orchid complex
+poster D20SY33PS0651
+
+Author(s): Rodrigues, JF, Nascimento, WF, Tomé, TM, Oliveira, GCX, Veasey, EA, Koehler, S
+
+Summary: 
+
+The 'Cattleya coccinea' orchid clade comprise a high altitude species complex found in the mountain ranges of South and Southeastern Brazil. The identification of species in this group is challenging due to the overlap of morphological characters. Our goalwas to conduct population genetics analyses to describestructure and patterns of diversity within and among populations and thus understand lineage diversification. A previous study with ISSR markers showed high structuring and low diversity within populations. This study was performed with populations from eight localitiesand six SSR markers, widening geographical and morphological sampling to the southern and westernmost limits of the clade distribution. Results confirmed populations as highly structured(G'ST= 0.221) but indicated moderate to high levels of within-population genetic diversity (He= 0.482-0.703), possibly due to co-dominant marker sensitivity. Bayesian clustering analysis revealed four genetically distinct groups. The same four groups were also obtained in the cluster analysis using Nei’s (1978) genetic distance, corroborating the previousanalysis entirely. Our data does not corroborate current species delimitation. Instead threeeco-geographical lineages emergeas putative species, respectively from (1) northeastern Brazilian Atlantic Forest (BAF); (2) southern BAF; and (3) a westernmost lineage found in drier habitats, mainly 'campos rupestres'. High population structure is concordant with limited gene flow promoted by reward hummingbird pollination, suggesting genetic drift as an important mechanism of speciation. Additional population sampling and complementary phylogeographical and morphological studies are in progress to understand the contribution of drift and natural selection to the diversification within this clade. Financial support: FAPESP.
+
+Thomas Reed
+University College Cork
+Ireland
+Quantifying the demographic cost of selection in a changing environment
+talk D20SY33RT15:12R5
+
+Author(s): Reed, TE, Gienapp, P, Visser, ME
+
+Summary: 
+
+The lag load, or reduction in mean fitness caused by incomplete adaptive tracking of a moving phenotypic optimum, is a key quantity in models of evolution in changing environments. Despite its central theoretical importance, empirical studies quantifying the lag load and the factors affecting it are lacking. Here we explore these issues in a Dutch population of great tits Parus major, where warming springs have generated a mismatch between annual breeding time and the timing of an important food resource, providing an ideal opportunity to examine how the resulting directional selection for earlier breeding time impacts population mean fitness and related demographic parameters. First, we show that interannual variation in mismatch over almost four decades has surprisingly not affected population growth, despite it having led to intensified directional selection. We demonstrate an important mechanism contributing to this uncoupling, whereby fitness losses associated with mismatch are counteracted by fitness gains due to relaxed competition. Next, we parameterised a quantitative genetic model to predict the theoretical ‘critical rate of environmental change’, beyond which increased maladaptation leads to population extinction. Results imply that even ‘mild’ rates of climate change would be close to the critical rate. However, individual-based simulations that account for both evolutionary processes and density dependence revealed that the expected time to extinction, although highly uncertain, is on the order or centuries, rather than decades. These findings imply that microevolution would only rescue the population from mild rates of sustained climate change. On the other hand, they also illustrate that considerable maladaptation can be demographically tolerated in the short term through density dependence, without immediate population declines, effectively ‘buying time’ for microevolution to restore adaptation until the environment (climate) stabilises.
+
+Laurent Penet
+INRA
+Santé des Plantes & Environnement
+France
+Rainsplash spore dispersal in Colletotrichum gloeosporioides infecting yams: dispersal distance and effect of ground contamination
+poster D20SY33PS0537
+
+Author(s): Penet, LPM, Salles, M, Briand, S, Guyader, S, Pétro, D, Bussière, F
+
+Summary: 
+
+Pathogens evolved a great diversity of dispersal mechanisms, from biological vectors to wind or rain, or even a combination of these. Rain splash is known from a variety of plant pathogenic fungi, and may be an efficient drive of local epidemics in crops, whereby infectious strains can quite rapidly propagate to genetically homogenous neighbouring plants. Splashing is nevertheless a very local dispersal process and spores taking the droplet ride are bound to a vicinity of a few decimeters at best. In this study, we assessed rainsplash dispersal of conidiospores of the Yam anthracnose disease agent, Colletotrichum gloeosporioides, in an experimental setting using a rain simulator, with emphasis on the impact of prior soil contamination (effect of re-splashing events in spore dispersal). Inoculum source from leaves allows for a dispersal up to 50cm, though with an exponential decrease in distance traveled from source, while ground driven contamination via re-splash is weak but contributes more and more to dispersal with increasing distance from initial source. Our results demonstrate that recurrent rains may contribute to a much greater dispersal distance than acknowledged from single rain release estimates, and may efficiently contribute to local field epidemics in tropical environments.
+
+Chia-hua Lue
+University of Maryland Baltimore County
+department of biological science
+United States
+Regional and temporal variation in the biodiversity of Drosophila-parasitoid communities in eastern North America: Implications for coevolution
+poster D20SY33PS0223
+
+Author(s): Lue, C, Birdsley, J, Buffington, M, Leips, J
+
+Summary: 
+
+Coevolution, resulting from ecological interactions among species in communities, is thought to be one of the most important processes organizing biodiversity on Earth. Since coevolution requires long-term interactions between species, ecological factors that alter these interactions may reduce the likelihood of coevolution. My research is focused on understanding how temporal and geographic variation in community composition alters species interactions and so influences the process of coevolution, using Drosophila host species and their parasitoid wasps as a model system. As the first step in the study, we are chronologically surveying the biodiversity of natural Drosophila-parasitoid communities along a North-South cline in eastern North America at three different time points during the breeding season (from May to October, depending on location) of 2012. We have found extensive variation in Drosophila host species diversity and the results indicate that their biodiversity displayed geographic and temporal variation among five sample sites. We are currently in the process of identifying the parasitoids wasps from each sample period. Combining data from seasonal and regional variation of host-parasitoid community structure will lay the foundation for future experiments to explore how different regional ecological interactions influence the coevolution of host and parasitoid species.
+
+Katherine Ostevik
+Faculty of Sciences of the University of British Columbia
+Botany
+Canada
+Reproductive barriers between Helianthus petiolaris ecotypes
+talk D20SY33RT15:45R5
+
+Author(s): Ostevik, KL, Andrew, RL, Otto, SP, Rieseberg, LH
+
+Summary: 
+
+Helianthus petiolaris is a widespread sunflower species that usually occupies sandy soils. However, at Great Sand Dunes National Park in Colorado, populations of H. petiolaris survive in large and active sand dunes. We consider these dune populations to be an ecotype of H. petiolaris and a potential incipient species. Accordingly, there is significant phenotypic differentiation and low but significant genetic differentiation between the dune and non-dune ecotypes. For example, dune seeds are 3 times heavier than non-dune seeds. In order to better understand the extent of speciation in this system, we measured reproductive barriers between the two ecotypes. We found asymmetric immigrant inviability, in which dune seedlings emerge and survive better in both habitat types, some assortitive mating via pollen competition, and weak intrinsic post-zygotic isolation. Interestingly, in our pollen competition experiment some plants showed biased seed set while others did not suggesting that 'choosiness' is polymorphic within the ecotypes. In sum, the nature and types of reproductive barriers we found between the dune and non-dune ecotypes of H. petiolaris are consistent with those we would expect between populations at an early stage of ecological speciation. Finally, we plan to compare adaptation and speciation in this system with two pairs of sunflower sister taxa with similar habitat differences.
+
+Norbert Duda
+Institute of Biology, University of Bialystok
+Department of Vertebrate Zoology
+Poland
+Seasonal migrations and space use of non hunted moose population in the Biebrza Marshes Poland
+poster D20SY33PS0711
+
+Author(s): Duda, N, Kowalczyk, R, Swislocka, M, Czajkowska, M, Ratkiewicz, M
+
+Summary: 
+
+The Biebrza marshes are one of the most important refuges for moose in Poland, where since 2001 temporary moose-hunting moratorium is imposed. The Biebrza population numbers over 600 individuals and is genetically distinct from other populations in Poland. In 2011, we initiated a project on space use and foraging ecology of moose with the use of modern methods: GPS-tracking and DNA-based diet analysis. We immobilised 21 moose (11 females and 10 males) in January-March 2012, and fitted them with GPS-GSM collars (Ecotone, Poland). Collars collect 24 locations a day. Our preliminary results showed that in winter, moose ranges (MCP 100%) covered an average area of 12.5 km2 (range: 3.2 - 30.2 km2) and did not differ significantly between males and females. Mean daily movement distance was 1,68 km (range: 0.78 – 2.12 km). Collared animals utilised mainly pine forests. The majority of moose (67%) migrated a short distance (7.0 km on average; range; 3.3 to 18.8 km) in late March and April to the marshland. Spring ranges of collared individuals covered 16.8 km2, on average, significantly larger for males (25.6 km2) than for females (8.0 km2).
+
+Michael Morrissey
+University of St Andrews
+School of Biology
+United Kingdom
+Selection and evolution of causally-covarying traits
+talk D20SY33IT14:00R5
+
+Author(s): Morrissey, MB
+
+Summary: 
+
+Causal effects of traits on one another and on fitness can be viewed both as the source of covariance among traits, and as the mechanism of natural selection. I will discuss the inference of evolutionary parameters (selection, genetics) conditional on a priori hypotheses of causal relations among characters, i.e., path diagrams. Inference of selection based on Wright's path rules yields selection coefficients that differ in their fundamental biological meaning from the selection coefficients that are commonly used in evolutionary quantitative genetics. Path-based coefficients analogous to selection gradients may most directly reflect interpretations about selection that biologists seek to make. I seek to formalize the meaning of path-based inference of selection by obtaining an equation to predict evolutionary trajectories based on such inferences. I discuss path-based inference of non-linear selection and approaches for empirical application of the quantitative genetic theory of causally covarying traits.
+
+Henrik Pärn
+Norwegian University of Technology and Science
+Department of Biology
+Norway
+Sex-specific fitness consequences of translocation in house sparrows
+poster D20SY33PS1426
+
+Author(s): Pärn, H, Skjelseth, S, Herfindal, I, Sæther, B, Stokke, BG, Ringsby, T, Jensen, H
+
+Summary: 
+
+Translocations are increasingly used in conservation programmes to reinforce small populations. Success of translocations in relation to characteristics of the species, the location or the translocation event, such as propagule size, is well studied. However, much less is known about individual variation in genetic contribution to the release population. Here, we compare sex-specific fitness of resident and introduced individuals based on genetic parentage, following a translocation experiment in house sparrows. The genetic mating pattern revealed assortative mating based on origin, where introduced males were highly unlikely to mate with resident females. Introduced males had fewer mates and fledglings than resident males. Origin had no effect on number of fledglings in females. The effect of origin on number of fledglings was sex-specific as indicated by the significant interaction between sex and origin. The number of recruits and total annual fitness contribution did not differ between resident and introduced individuals. In the house sparrow, male badge size has a function in intra- and intersexual selection. It is likely that the influence of badge size is of greater importance for introduced males, which have to compete with resident males over nest sites and mates. However, the relationship between number of mates and badge size did not differ between resident and introduced males. Still, the effect of badge size on number of fledglings was stronger in introduced males. Our results provide insights about sex-specific individual heterogeneity in reproductive success of introduced individuals, and the potential role of sexually selected traits for the genetic consequences of a translocation event.
+
+Jana Wolf
+Faculty of Biological and Environmental Sciences at University of Helsinki
+Department of Biosciences
+Finland
+Size-assortative mating in the ant Myrmica ruginodis and its implication for speciation
+poster D20SY33PS0502
+
+Author(s): Wolf, JI, Seppä, P
+
+Summary: 
+
+Size-assortative mating occurs widely in animals - increasing the frequency of desirable traits and enhancing fitness. In queens of the myrmecine ant Myrmica ruginodis, two distinct morphs exist, larger (macrogyne) and smaller (microgyne) queens. However, whether the occurrence of these morphs is maintained by size-assortative mating is unknown. Females are considered to choose their mating partner during nuptial flights, while males compete over females and large males usually regarded as higher quality will find a mating partner more likely. Nevertheless, whether a bi-modal size distribution exists in males at all, and whether small males participate in a nuptial flight has not been confirmed so far. To test whether assortative mating occurs in the two queen-morphs in M. ruginodis, individual males as well as males and females engaged in copula were collected during nuptial flights, and measured for size. Furthermore, queens of excavated nests and their offspring were analyzed to investigate if size characteristics are heritable and therefore fulfill preconditions for an ongoing speciation. We investigated whether size–assortative mating occurs for the mating couples, as well as if spatial and temporal isolation of macrogyne and microgyne morphs during the mating flights exist. This study provides insight into the composition of nuptial flights of Myrmica ruginodis and their mating behavior in connection to the queen size dimorphism and its implications on speciation in this ant.
+
+Asta Audzijonyte
+CSIRO
+Marine and Atmospheric Research
+Australia
+Small fish, big fish: modelling ecological consequences of life-history evolution in harvested stocks
+talk D20SY33RT18:57R5
+
+Author(s): Audzijonyte, A, Kuparinen, A, Fulton, EA
+
+Summary: 
+
+An increasing amount of evidence shows that fishing and climate change are changing fish life-histories. Empirically determined rates of change are usually within the range of 0.5-3% per year and they are positively correlated with fishing intensity, suggesting that some of the change is due to fisheries-induced evolution. Many fish now mature at younger age and smaller size and this trend is expected to continue. We used the marine ecosystem model Atlantis to explore how a slow (<0.1% per year) but continuous decrease in size-at-age of five harvested SE Australian fish species may affect their demography, species interactions and recovery potential. We found that even small decreases in fish sizes are amplified by positive feedback loops in the ecosystem and can lead to major changes in their natural mortalities. For some species, e.g. tiger flathead, a 4% decrease in length-at-age over 50 years resulted in a 50% increase in predation mortality. However, the magnitude and direction in predation mortality changes differed among shrinking species. The impact that shrinking of five species had on many functional groups in the ecosystem (change in biomass and diets) was similar and comparable to the impact caused by the introduction of moderate fishing into an unfished system. Some of the shrinking species failed to recover to the previous biomass levels even after fishing was completely stopped. The natural mortality of these species remained high, suggesting that the ecosystem had moved into a new state. Our model shows that human induced reduction in fish size will alter predation regimes, changing species interactions and strength of natural selection. The outcomes of this interplay between natural and fisheries induced selection on harvested stocks will determine the final rate of phenotypic change and is currently being explored in the ecosystem model that allows for the dynamic evolution of most species.
+
+Christelle Couchoux
+Faculty of Biological and Environmental Sciences of the University of Helsinki
+Department of Biosciences
+Finland
+Spatial genetic structure and reproductive success of a parasitoid wasp in a competitive environment
+poster D20SY33PS0162
+
+Author(s): Couchoux, C, Seppä, P, Van Nouhuys, S
+
+Summary: 
+
+In presence of a limiting resource, individuals can suffer from intraspecific exploitation competition. In the context of a parasitoid foraging for hosts, the effect of competition on fitness can be seen as a variation in reproductive success. The parasitoid wasp Hyposoter horticola is a specialist of the butterfly Melitaea cinxia. The wasp parasitizes the host larva just before it hatches from the eggshell. The host is therefore available for parasitism for a limited amount of time only (a couple of days). To cope with this time constraint, female wasps start to forage for host eggs before the eggs are ready to be parasitized. Hyposoter horticola is a good forager; females monitor several host clusters and visit them regularly until they are susceptible to parasitism. This behaviour increases the amount of time available for parasitism but, since the location of a host cluster is known by several wasps and each cluster can only be parasitized by a single wasp, it creates competition among the foraging females. In the Åland archipelago, Finland, the host butterfly lives as a metapopulation inhabiting a subset of 4 000 patches of suitable habitat. In order to conduct genetic analyses of the parasitoid population, we developed 14 microsatellite markers and genotyped 800 individuals collected from each of the host local populations during 2009. Performing clustering and relatedness analyses, we assessed the genetic structure of the population as well as the extent of the landscape area covered by females during foraging for hosts. We also analysed the effect of environment (host population locality, size and patch connectivity) and competition (local host and parasitoid density) on the proportion of females that reproduce and their reproductive success.
+
+Tania Minhós
+IGC - Instituto Gulbenkian de Ciência
+Portugal
+Spatio-temporal changes in the dispersal patterns of two sympatric Colobus Monkeys from Cantanhez National Park, Guinea-Bissau
+poster D20SY33PS0800
+
+Author(s): Minhós, T, Nixon, E, Sousa, C, Vicente, LM, Ferreira da Silva, M, Sá, R, Bruford, MW
+
+Summary: 
+
+Western black-and-white colobus (Colobus polykomos) and Temminck’s red colobus (Piliocolobus badius temminckii), often live in sympatry but exhibit contrasting social systems. C. polykomos live in small groups with one to three adult males, with mainly male-mediated dispersal but where females can also disperse. In contrast, P. b. temminckii live in large multi-male multi-female groups where dispersal is female-biased. To investigate whether genetic evidence supports the reported patterns of dispersal, we examined eight black-and-white and six P. b. temminckii social groups from Cantanhez National Park, Guinea-Bissau. Microsatellite markers revealed a lack of sex-biased dispersal for C. polykomos. Female-mediated gene flow better explained the genetic patterns found in P. b. temminckii, with evidence for less extensive male dispersal. In contrast, low mitochondrial diversity for the C. polykomos suggests that historical and/or long-range male-mediated gene flow might have been favored. In P. b. temminckii, the co-existence of three divergent mitochondrial lineages suggests that this population contains a secondary contact zone between divergent lineages. Female-biased dispersal may be a major factor contributing to the colonization by such differentiated mitochondrial lineages in the region. Overall, we found evidence for spatio-temporal change dispersal patterns of these colobus monkeys: mitochondrial DNA indicating historical and/ or long-range dispersal by mainly a single sex and microsatellite data suggesting that recently both sexes are dispersing within the population. This could indicate a local behavioral adaptation in response to changes in the environment that has becoming increasingly fragmented due to human-related activities. Ultimately, genetic data integrated in the study of dispersal patterns can provide great insights not only on the socio-genetic dynamics but also on the effect that anthropogenic disturbance may have on endangered populations.
+
+Thor Harald Ringsby
+Norwegian University of Science and Technology
+Department of Biology
+Norway
+Temporal and spatial variation in prevalence of the parasite Syngamus trachea in a metapopulation of House Sparrows (Passer domesticus)
+poster D20SY33PS1418
+
+Author(s): Ringsby, T, Holand, H, Jensen, H, Tufto, J, Sæther, BERIK
+
+Summary: 
+
+When investigating parasite-host dynamics in wild populations, a fundamental parameter to investigate is prevalence. This quantifies the percentage of individuals infected in the population. Investigating how prevalence changes over time and space can reveal interesting aspects in the parasite-host relationship in natural populations. We investigated the dynamic between a common avian parasite (Syngamus trachea) in a host metapopulation of House Sparrows (Passer domesticus) on the coast of Helgeland in northern Norway. We found that parasite prevalence varied in both time and space. In addition, the parasite prevalence was found to be different between demographic groups in the local populations. Our results reveal just how complex the dynamic between a host and its parasite may become in a fragmented landscape. Although temperature may be an important factor, the specific mechanisms causing this complexity are not fully understood, but needs to be further examined to understand how parasite-host interactions may affect the ecological and evolutionary dynamics and viability of host populations.
+
+Peter Halvarsson
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Temporal genetic and kin structure in a boreal bird, the Siberian Jays (Perisoreus infaustus)
+poster D20SY33PS1187
+
+Author(s): Halvarsson, P, Liu, C, Vilà, C
+
+Summary: 
+
+Abundance of the Siberian Jay (Perisoreus infaustus) varies depending on weather condition during reproduction and predation. Siberian jays are territorial, long lived birds that form family groups with up to six individuals. The breeders are nepotistic towards their own kin while they display aggressive behavior towards non-kin. Relatively short dispersal distances and social behavior can lead to formation of kin clusters. We are combining observational data and microsatellite markers to examine temporal structure and genetic relatedness during a 15 year time period.
+
+Predation by the main predator, Goosehawks, lowered Siberian jay recruitment following high Willow grouse recruitment the year before. Furthermore, longevity of the Siberian jays dampens the effect of changes in temporal genetic structure during different population densities.
+
+Jenni Kesäniemi
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Temporal population genetic patterns in a polychaete with multiple larval developmental modes
+poster D20SY33PS1416
+
+Author(s): Kesäniemi, J, Knott, K
+
+Summary: 
+
+Many marine invertebrates have complex life cycles in which in one or more larval stages precede the adult stage. The larval developmental mode of a species can affect population dynamics through differences in fecundity, larval mortality and dispersal potential. Developmental mode may also affect temporal stability of populations. Due to multiple risks that planktonic larvae face during the pelagic stage, benthic species with planktonic larvae may be more vulnerable to temporal variation in population genetic structure, whereas species with benthic or non-dispersive larvae are expected to be temporally more stable. We examined temporal genetic patterns in populations of a poecilogonous polychaete with within-species variation in developmental mode. Pygospio elegans can produce small free swimming larvae feeding in the plankton, or benthic larvae feeding on nurse eggs while brooded in capsules in the maternal tube. With our microsatellite analyses, we found low but significant temporal genetic differentiation in the populations with high frequency of benthic larvae. This pattern is likely to have been caused by genetic drift, since estimations of population density, Ne and migration rates among these populations were low. Stable temporal genetic structure and higher Ne was observed in the strictly planktonic population. In one population (Dutch mudflat with both larval modes), a distinct genetic turnover was detected among the temporal samples, which could have been caused by habitat change (due to harsh winter) and (re)colonization from neighboring planktonic populations. Over a long time scale, metapopulation dynamic patterns may be likely in P. elegans, especially in planktonic populations in high disturbance intertidal habitats. Because of the observed polymorphism in developmental mode seen in P. elegans, it is a good model species for research on the consequences of life history variation on population genetic patterns.
+
+Ariel Gueijman
+Faculty of life sciences of Tel-Aviv university
+Department of molecular biology and ecology of plants
+Israel
+The evolution of Fitness Associated Dispersal in homogeneous environments
+poster D20SY33PS0156
+
+Author(s): Gueijman, A, Ayali, A, Ram, Y, Hadany, L
+
+Summary: 
+
+Dispersal is a major factor in ecological and evolutionary dynamics, but the evolution of dispersal strategies is still puzzling, in particular when the cost of dispersal is high. Empirical evidence show that the tendency to disperse varies among individuals in many organisms. Which individuals, therefore, should disperse and which should stay? We suggest that dispersal can be viewed as a means to genetically diversify offspring when individual fitness is low, even in a homogeneous and stable environment. Using stochastic simulations we show that throughout the parameter range selection is likely to favor plasticity in dispersal - where fit individuals are less likely to disperse (Fitness Associated Dispersal or FAD) - over uniform dispersal (where everyone disperse with the same probability). Moreover, FAD can evolve under a much wider parameter range than uniform dispersal, even when the cost of dispersal is high, and such dispersal strategy has significant long term effects. We thus predict that individuals of low quality would have an increased tendency for dispersal, even when dispersal brings significant costs.
+
+Bárbara Parreira
+Instituto Gulbenkian de Ciência
+Portugal
+The genetic consequences of social structure: a simulation approach
+poster D20SY33PS0784
+
+Author(s): Parreira, BR, Chikhi, L
+
+Summary: 
+
+In nature most organisms occur in structured populations, which are rarely isolated but are part of a network of populations. Structure at the population level is taken into account in many population genetic studies and it is recognized as having consequences for genetic diversity, depending on processes such as the spatial distribution, habitat fragmentation, dispersal or migration patterns. However, in many species, populations are furthermore subdivided in social groups where organisms interact during most of their life time with related individuals. The types and complexities of social structures are enourmous and althought nature provides many examples of social organizations, this level of structure is usually ignored in population genetic studies. Instead, it is usually assumed that samples are obtained from populations at Hardy-Weinberg equilibrium.
+
+Empirical studies have found genetic substructure of populations due to the presence of social organization in different species. Specifically, these studies have found negative Fis values, a signal of deviations from random-mating, and have interpreted these results as an evidence of outbreeding. However, theoretical studies and simulation models have suggested that complex social structure combined with dispersal processes may generate similar patterns without the need to invoke inbreeding avoidance.
+
+Here we are interested in understanding i) what are the implications of departures from random mating conditions for population genetics studies; and ii) how the social structure influences the diversity and differentiation within and between groups. We have performed simulations under different types of social systems and different patterns of gene flow. We have quantified different genetic diversity statistics, namely, the Wright’s F statistics and heterozygosities. Our results suggest that real data can be reproduced when social structures are taken into account in the modeling approach.
+
+Xavier Harrison
+Zoological Society of London
+Institute of Zoology
+United Kingdom
+The implications of reverse sex-biased dispersal for spatial genetic structure in a co-operatively breeding bird
+talk D20SY33RT18:09R5
+
+Author(s): Harrison, XA, York, J, Young, AJ
+
+Summary: 
+
+Understanding the extent to which individuals differ systematically in dispersal propensity is crucial for quantifying patterns of gene flow in wild populations. For example, sex-biased dispersal can give rise to vastly different spatial patterns of relatedness between sexes, whereby the philopatric sex has a much higher density of relatives in the immediate neighbourhood. Such patterns can generate population genetic structure, whilst in co-operatively-breeding species such differences in local relatedness could potentially underpin observed asymmetries in levels of intergroup-conflict. We present long-term ecological data from a co-operatively breeding bird to show that whilst both sexes show restricted dispersal, males disperse significantly further than females from their natal groups. We quantify the capacity of this dispersal bias to drive sex-differences in fine-scale spatial genetic structure by using a pedigree of 600 individuals in concert with these ecological data to partition gene flow into that caused by both dispersal and extra-group matings, the latter having the potential to reinforce or disrupt emerging patterns of genetic structure. We discuss our results in the context of their implications for our understanding of the processes shaping patterns of inter-group conflict, and genetic differentiation over small spatial scales, in wild populations.
+
+Vienna Kowallik
+Max-Planck Institute for Evolutionary Biology
+Germany
+The interaction of Saccharomyces paradoxus with its natural competitors on oak bark
+poster D20SY33PS1305
+
+Author(s): Kowallik, V, Greig, D
+
+Summary: 
+
+Saccharomyces cerevisiae is a well-studied laboratory model organism but its natural history is poorly understood, and confounded by domestication. Its close relative, S. paradoxus, is often found on oak trees. Saccharomyces species seem to be adapted for rapid growth in sugar rich environments (like the grape juice that is fermented for wine production wine), so we wanted to study how they grow in their natural, but very different, environment of oak bark. Oak tree S. paradoxus grows well on oak bark medium that is sterilised by heat, filtration, or chemically. But its growth is almost completely suppressed when the microbes that normally inhabit the oak bark are allow to compete. Using a combination of culturing, oak bark competition experiments, and metagenomic sequencing we are investigating what the most important natural competitors of yeast are in its natural habitat.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

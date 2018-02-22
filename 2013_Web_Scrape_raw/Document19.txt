@@ -1,0 +1,195 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY19: Evolutionary consequences of deception
+ Abstracts list Schedule Description
+View only talks or posters
+Yann Le Poul
+Museum Nationnal d'Histoire Naturelle de Paris
+CNRS UMR7205 Systematique et evolution
+France
+Batesian mimicry, morphospace occupancy, and the shaping of warning signal diversity in butterfly communities
+talk D20SY19RT15:45R8
+
+Author(s): Le Poul, Y, Chazot, N, Elias, M, Joron, M
+
+Summary: 
+
+Mimicry as a defensive strategy is one of the most compelling example of adaptation. Mimicry communities often involve numerous species, and both mutualistic (Müllerian) and deceptive (Batesian) mimics coexist. In deceptive mimicry, palatable prey mimic unprofitable species (e.g. chemically defended prey which predators avoid) with a negative impact on avoidance learning by predators. In mutualistic mimicry, appearances of defended prey converge on a similar warning signal, thereby reinforcing it and decreasing the per-capita cost of training predators. Theoretical and experimental studies on mimicry phenotypes abound, but studies empirically testing their predictions in real mimicry communities remain scarce. Indeed, the quantitative distribution of phenotypes within and among mimicry complexes is largely unknown, and how phenotypic variations are influenced by the type of mimicry, selection intensity, and/or phylogeny remains unaddressed. We first developed a novel framework that enables for the automatic and precise quantification and comparison of colour pattern. We then used this tool on over 2000 specimens, consisting of 130 butterfly species, collected from distinct Neotropical butterfly communities in the Peruvian Amazon. We quantified the distribution of phenotypes and their structure into a number of separate mimicry optima, using a morphological space encompassing the variation and frequencies of all coexisting colours patterns. We analysed this structure to extract the ecological and phylogenetic patterns underlying the coexistence of multiple mimicry groups within a given locality. We then demonstrated the influence of deceptive vs. mutualistic mimics on phenotypic variability around a mimicry optimum in order to address the effective impact of deception on mimicry.
+
+Martin Stevens
+University of Exeter
+Centre for Ecology and Conservation
+United Kingdom
+Brood parasites and mimicry: a sensory ecology approach
+talk D20SY19IT14:00R8
+
+Author(s): Stevens, M
+
+Summary: 
+
+Cuckoos and other brood parasites are cheats – they lay their eggs in the nests of other birds, leaving all parental care to the hosts. A striking outcome of coevolution in many systems is egg and chick mimicry by parasites to deceive host parents into accepting young that they would otherwise reject. To understand interactions between host and parasite requires investigating the use of sensory information by both parties. I will discuss work my collaborators and I have done to understand several parasitic systems by considering the visual system of the receiver and the use of sensory information in decision-making (e.g. egg/chick rejection). I will show how mimicry of host eggs by parasites can be highly refined in terms of bird vision, and in turn how hosts use the most reliable information to discriminate between and identify their own and foreign eggs. I will then discuss how coevolution can drive different host species down alternative lines of defence, such as egg polymorphism, highly refined rejection behaviour, or chick rejection. Furthermore, I will discuss long-term data indicating how interactions between host and parasite can lead to rapid changes in egg phenotype over short timescales, and the nature of this change. Finally, I will discuss how parasites can exploit limitations in host sensory and cognitive systems to defeat host defences.
+
+Lázaro II Benavides Hernández
+Instituto Mexicano del Petróleo
+Medio Ambiente y Seguridad
+Mexico
+Cats developed spots and stripes to lure rodents. A multidisciplinary framework for understanding the functions of the colour pattern on cats.
+poster D20SY19PS0456
+
+Author(s): Benavides Hernández, L, Benavides, O
+
+Summary: 
+
+To date the precise function of spots and stripes pattern on feline´s fur remains a mystery. Predators use lures in the type and range of signals used by their prey to sense his environment in feeding activities and possible in other intra- and inter- species communication. The type of signals can be acoustic, visual, chemical, mechanical or other used by the prey. In our work we argue that predation by luring is a driving force to the formation of skin color patterns and behavior of cats. We propose a computational visual comparative model to demonstrate the function of the color pattern on feline’s fur. We hypothesized that felines have developed a selective signaling, meaning that a signal pattern is intended to be detected by a specific receiver, but it would pass undetected for non-convenient receivers.
+
+Thomas Schmitt
+University of Würzburg
+Department of Animal Ecology and Tropical Biology
+Germany
+Consequences of an arms race on the cuticular hydrocarbon profiles of an insect host and its three brood parasites
+talk D20SY19RT15:12R8
+
+Author(s): Schmitt, T, Wurdack, M, Kroiss, J, Strohm, E, Niehuis, O
+
+Summary: 
+
+Parasites and their hosts have conflicting interests – to either successfully exploit the host or to defend against the parasite attack. This situation sets the board for an evolutionary arms race between both species. The species pair then follows a trajectory through repeated cycles of fine tuning of the parasite’s attack strategies and evasive actions of the host. As a special case, brood parasites need to avoid detection by the host in order to neither be attacked while in the nest nor risk the nest to be abandoned by the host afterwards. Insect brood parasites may avoid olfactory detection by mimicking the host’s cuticular hydrocarbon (CHC) profile. In this case, the arms race would lead to optimized chemical mimicry in the parasite. The host could e.g. change the CHC composition in order to escape a mimetic match. The most straightforward parasitic associations consist of one parasite and one host. More complex variations are possible but very rare: one parasite may use several hosts or several parasites may specialize in one single host. In this study, a solitary host and its three host-specific brood parasites serve as a model of such a multi enemy / single target system. We compare the CHC profiles and predict that a brood parasite whose intrusion is detectable by the host should develop chemical mimicry. The host in return should establish counterstrategies. Competition between parasites may fuel the perfection of mimicry or the development of completely new intrusion strategies. We find two chemotypes of the host that differ greatly in their CHC composition. Evolving a second CHC profile might be the outcome of escaping a parasite’s mimicry. However, a second parasite species has evolved a close match of their CHC composition compared to the alternative chemotype. The third parasite produces its very own CHC bouquet – it has developed a new strategy for invading host nests and can no longer be fended off by the host.
+
+Rafael Duarte
+University of São Paulo
+Centre for Marine Biology
+Brazil
+Contrasting shape, color plasticity and habitat use indicate morph-specific roles in a marine shrimp
+poster D20SY19PS0220
+
+Author(s): Duarte, RC, Flores, AAV
+
+Summary: 
+
+Color and shape polymorphisms are important traits of species, allowing a more generalist strategy and a better use of resources. An efficient occupation of space may lead to very abundant populations, triggering density-dependent processes and alternative mating systems. Hippolyte obliquimanus is a small gonochoristic shrimp species, and supposedly a generalist algal dweller in shallow waters. Yet, populations comprise two main morphotypes, homogeneous shrimps of variable color (H) and transparent individuals with disruptive stripes or bands (D). H color patterns tend to inhabit macroalgal substrates of matching background, while D individuals are evenly distributed between habitats. Unlike D shrimps, H morphs are capable of color change within a few days, but camouflage efficiency is habitat-dependent. Pink (P) animals collected in the red algal Galaxaura turned cryptic when supplied the brown weed Sargassum, but color change of greenish-brown (GB) shrimps from Sargassum did not fully conceal in Galaxaura. Homogeneous GB and disruptive morphs select Sargassum, while no preference was detected for homogeneous P individuals. Crypsis efficiency and habitat selection explain the much higher shrimp density in Sargassum compared to Galaxaura. The overall population sex-ratio did not depart from the 1 : 1 ratio, but D individuals were mostly males and H shrimps chiefly females. These main morphs also differ in shape; D shrimps are more streamlined and H ones stouter, further suggesting enhanced mobility and substrate fidelity, respectively. Morph-specific functional roles would promote lower density and stable population dynamics at mixed algal beds, but higher density and a more fluctuating trend in monospecific Sargassum stands.
+
+Tom Flower
+University of Cape Town
+Department of Zoology
+South Africa
+Flexible deceptive tactics of the fork-tailed drongo
+talk D20SY19RT16:57R8
+
+Author(s): Flower, TP
+
+Summary: 
+
+Animals commonly deceive each other, but just as in Aesop’s fable ‘The boy who cried wolf’, deceptive signals cease to work when they are made too often. However, deceptive species might evade this frequency constraint by tactically varying their deceptive signal, thus maintaining their deception racket. My research investigates the behaviour of a South African bird, the Fork-tailed Drongo (Dicrurus adsimilis), which uses deceptive false alarm calls, including the mimicked alarms of other species, to scare host species and steal their food. Using a combination of observations and experiments undertaken on a wild population of individually recognisable drongos habituated to close observation, I show the benefits drongos gain from employing vocal mimicry to vary their false alarm calls. Drongos most frequently mimicked the alarm calls of a host species when using false alarms to steal food from that specific host. Furthermore, an experiment demonstrated that these mimetic alarm calls were more likely to deceive a host than the drongos own alarm calls. A second experiment showed that hosts reduced their response when the same false alarm call type was repeated, but increased their response again when the call type was changed. In natural conditions, drongos were more likely to change the type of alarm call they made when a previous false alarm call was unsuccessful and evidence indicates that this increased the likelihood drongos stole food. By tactically varying a deceptive signal, drongos exploit signals in the environment more likely to deceive a host, and potentially evade the frequency dependent constraints which typically restrict the pay-offs from deception. Results highlight that in communication systems, feedback from a receiver’s previous response provides valuable information to signallers. Furthermore, they raise questions regarding the mechanisms that enable animals to produce apparently sophisticated communication behaviour.
+
+Johanna Mappes
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Is variation in chemical defence parasitism on a public good?
+talk D20SY19IT11:18R8
+
+Author(s): Mappes, J
+
+Summary: 
+
+An individual's chemical defences (toxins) contribute to a ‘common good’ by educating predators about the distastefulness of the population, hence deterring future attacks on the toxic individuals themselves and other individuals of similar appearance. Defensive chemicals are found in both simple and complex organisms including bacteria, fungi, animals and plants. Variation in defensive chemicals both within and among prey populations has been reported repeatedly in chemical ecology literature but it has received far too little attention from evolutionary ecologists. If some individuals lack defences (‘automimics’) they may exploit the common protection profiting from reduced attack rates but paying no individual cost of toxicity themselves. I will discuss whether variation in chemical defence and automimicry are examples of “environmental noise” or whether we need to seek evolutionary explanations for them. I will also discuss examples where understanding the dynamics of deception (e.g. Batesian mimicry) may have important consequences for successful conservation management.
+
+Baharan Kazemi
+Faculty of science, Stockholm University
+Department of Zoology
+Sweden
+Mimicry evolution: it's in the eye of the beholder
+poster D20SY19PS1442
+
+Author(s): Kazemi, B, Leimar, O, Gamberale-Stille, G
+
+Summary: 
+
+During mimicry evolution the perceived mimic-model similarity increases and the evolutionary direction could be strongly influenced by predators judgement of similarity. Mimicry evolution is thus more likely to commence in traits that predators use prior to others to categorise prey. If they use such feature-based categorisation, a similarity with the model in such a feature should lead to increased survival. I tested the idea by studying if birds attend to specific features of prey appearance when they learn to discriminate and generalise between them. I used wild Blue Tits as predators and tested the colour, pattern and shape dimension of artificial prey. The birds first learned to avoid a specific model prey appearance and then performed a generalisation test with new mimics that shared one dimension with the model. I found that colour mimics were strongly avoided whereas pattern and shape mimics were attacked. This shows that the birds primarily attended to a single feature, colour, and thus generalised between models and colour mimics. In a separate experiment I found that the birds learned the colour dimension significantly quicker than pattern and shape, showing that colour is a significantly more salient trait to them in terms of learning and categorisation.
+
+Janni Larsen
+University of Copenhagen
+Department of Biology
+Denmark
+Reproductive competition between polygynous parasite queens in ant colonies
+talk D20SY19RT16:09R8
+
+Author(s): Larsen, J, Stürup, M, Schiøtt, M, Nash, DR
+
+Summary: 
+
+One of the most remarkable and complex parasitic interactions is social parasitism, where a parasite exploits a complete societies, rather than an individual organism. By integrating into a society the parasite gains protection against predators and diseases, and can redirect resources from the host to increase its own fitness. Among the most specialized social parasites are the inquilines that exploit social insect colonies. Inquilines are usually close relatives of their host and so share ancestral characteristics (Emery’s rule). They are dependent on being fully integrated into their host’s colony throughout their lives in order to reproduce. Most inquiline ants have completely lost their sterile worker caste. An exception to this is Acromyrmex insinuator, a parasite of the fungus-growing ant Acromyrmex echinatior. Studies have shown that a threshold proportion of parasite workers in the colony are essential for parasite reproduction. Multiple invasions of parasite queens into host colonies suggest that each parasite queen may need to produce fewer parasite workers and that the reproductive phase can be achieved more quickly. Polygyny among parasite queens is expected to select for intraspecific hyperparasitism, where some queens might cheat by only producing sexual offspring, effectively parasitizing the worker force produced by other queens. We investigated hyperparasitism in A. insinuator by genotyping parasite offspring, workers and alates in polygynous nests to investigate any bias in the production of reproductive castes relative to workers. Hyperparasitism may provide a pathway towards speciation, and can shed light on the evolution of social parasites.
+
+Maria Abou Chakra
+Max Planck Institute for Evolutionary Biology
+Evolutionary Biology
+Germany
+Retaliatory parasites make an offer a host should not refuse
+talk D20SY19RT14:48R8
+
+Author(s): Abou Chakra, M, Hilbe, C, Traulsen, A
+
+Summary: 
+
+Mafia like behavior occurs not only in humans, but is also observed in animals. For example, experimental evidence suggests that avian hosts tend to accept a certain degree of parasitism in order to avoid retaliating punishment from the brood parasite. Herein, we model the interaction between hosts and parasites to understand under which conditions it will be beneficial for the host to accept parasitism. In our model, the host's behavior is plastic, and thus, its response depends on the previous interactions with the parasite. We find that such learned behavior in turn is crucial for the evolution of retaliating parasites. The abundance of this kind of mafia behavior oscillates in time and does not settle to an equilibrium. Our results suggest that retaliation is a mechanism for the parasite to evade specialization and to induce acceptance by the host.
+
+Yukie Sato
+Faculty of Science, University of Amsterdam
+Institute for Biodiversity and Ecosystem Dynamics
+Netherlands
+Sneaking behaviour in young males: alternative male mating phenotypes in the two-spotted spider mite
+talk D20SY19RT16:33R8
+
+Author(s): Sato, Y, Sabelis, MW, Egas, M
+
+Summary: 
+
+Sneaking behaviour as a strategy to compete for females has been observed in many taxa from insects to mammals. Often, the less competitive males who would lose contests over females against stronger males, display sneaking behavior in that they deceive their rivals by pretending to be female. To understand the evolution of observed sneaking behaviour, it is important to elucidate the mechanisms maintaining alternative mating strategies. Recently, we found three male mating phenotypes in a population of the two-spotted spider mite: territorial, sneaking and opportunistic. Opportunistic males wander around in search of females that are about to moult into the adult phase (teleiochrysalis). Territorial males spend much time in a mounted position on the dorsum of the teleiochrysalis females, and guard them by fighting intruding rival males. Sneaker males also spend much time in a mounted position, but they never show aggressive behaviour against intruders. Intruding males easily find and attack territorial males but fail to notice or even ignore sneaker males. Here, we focus on territorial and sneaker males in the two-spotted spider mite, and investigate which males display sneaking behaviour and how effective the sneaking behaviour is against territorial males. We show that young males display sneaking behaviour more often, and that young territorial males are three times more likely to lose their mounted position to old territorial males than young sneaker males. Old males are always territorial and rarely lose their position on the female dorsum to young males. Finally, young territorial males are observed to change their mating strategy to that of sneaker in the presence of old males. Our results suggest that old males are superior to young males in contests over females, and that in response to old males young males can phenotypically switch to sneaker behavior, thereby possibly improving their mating success.
+
+Sara Stieb
+Zoological Institute, University of Basel
+Switzerland
+The cichlid and reef fish visual system as a model for speciation processes
+poster D20SY19PS0817
+
+Author(s): Stieb, SM, Marshall, J, Salzburger, W
+
+Summary: 
+
+Freshwater cichlid and marine reef fish species represent spectacular products of adaptive radiations. Their amazing color diversities and well-adapted visual systems make them ideal candidates for a comparative study of molecular mechanisms involved in speciation based on the visual system. These will help to identify external factors and environmental conditions that shape color morphs and visual sensitivities. The major aims of this study are to compare (1) the coloration, (2) the molecular basis of the diversity of visual pigments, (3) visual pigment expression patterns, (4) transmission properties of the ocular media and (5) photic properties of habitats between cichlids and reef fish. Up to now, we sampled a representative set of shallow-water labrids (Labridae), damselfish (Pomacentridae) and cichlids (Cichlidae) in definite light habitats and studied their visual sensitivities composed of opsin gene variations and opsin gene expression patterns. Spectrophotometry was used to define the different light environments. To determine the molecular basis of visual pigments, we sequenced opsin genes using DNA and next generating sequencing. To quantify the relative amount of opsin gene expression we performed real time quantitative PCR.
+
+Thomas Sherratt
+Carleton University
+Department of Biology
+Canada
+The evolution of imperfect mimicry in hover flies (Diptera: Syrphidae)
+talk D20SY19IT10:30R8
+
+Author(s): Sherratt, TN, Penny, H, Abbott, K, Hassall, C, Skevington, J
+
+Summary: 
+
+Although exquisite examples of the outcomes of natural selection are widely celebrated, it has long been recognized that nature’s imperfections tell us more about the process of adaptation than its perfections. Here we consider the phenomenon of imperfect mimicry and the variety of evolutionary theories that have been postulated to understand it, concentrating on hover flies (Diptera: Syrphidae). First, we review what we know about the morphological, acoustic and behavioural similarity of hover fly mimics to their putative models (bees and wasps), asking whether mimicry is extended into the UV range of the reflectance spectrum, and whether the behavioural mimics tend to be good morphological mimics. Second, we take a phylogenetic approach to quantify how frequently evolutionary transitions between model types have evolved, and what features need to evolve to facilitate mimicry of a given model type. Taken together these empirical and comparative insights allow us to rule out some theories for imperfect mimicry and provide support for others, although there is much more to do to understand the maintenance of imperfect mimicry in this species rich group.
+
+Øistein Holen
+University of Oslo
+Dept. of Biosciences
+Norway
+Warning signals and handicap theory
+poster D20SY19PS1264
+
+Author(s): Holen, ØH, Svennungsen, TO
+
+Summary: 
+
+Aposematism has often been seen as a dynamical, transient phenomenon that can be destabilised by the appearance of undefended cheater prey (mimics). Recent theoretical work has made it clear that warning signals can also be evolutionarily stable and honest. Signalling theory predicts that an honest signalling system can contain a limited number of cheats without being destabilised as long as the system remains 'honest on average'. Somewhat analogous to this, a game theoretical analysis of three different mechanisms for honest warning signalling predicted an overall positive relationship between conspicuousness and defence across prey, given that signals were honest on average. Here we extend this analysis further and identify mechanisms for honest warning signalling that do not give rise to a positive relation between conspicuousness and defence. Some complicating factors include tradeoffs between warning signals and life-history traits, and non-monotonic relations between prey aversion and toxicity that may arise when predators can taste-reject prey.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

@@ -1,0 +1,275 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY14: Non genetic inheritance
+ Abstracts list Schedule Description
+View only talks or posters
+Arnaud Pocheville
+University of Pittsburgh
+Center for Philosophy of Sciences
+United States
+(Non)-genetic inheritance: a historical overview
+poster D23SY14PS0129
+
+Author(s): Pocheville, A
+
+Summary: 
+
+Current debates on the biological relevance and theoretical impacts of non-genetic inheritance in evolution seem to have much in common with archaistic debates between Neo-Lamarckians and Neo-Darwinians on the existence of inheritance of acquired characteristics. In this presentation, we will adopt a historical point of view to put the current debates into perspective. In the first part, we will first recall how the publication of The Origin made the researches about inheritance a central theme of theoretical biology, and how these researches themselves put Darwinism at risk at the turn of the XIXth-XXth centuries. We will recall how Neo-Darwinism and Neo-Lamarckism emerged during the debates on the role of acquired characteristics in heredity. We will show how, as soon as the end of the XIXth century, the inheritance of acquired characteristic has been a heterogeneous concept – heterogeneous enough to seem, in some instances, compatible with Neo-Darwinism. In the second part, we will show how, in the first part of the XXth century, researches on genetic inheritance impacted the debates about the inheritance of acquired characteristics, making them slip towards debates on the "genetic" inheritance of acquired characteristics. We will show how, in parallel, researches on non-genetic inheritance got marginalized, without disappearing totally, before blossoming again at the end of the XXth century. In conclusion, we will draw on our historical account to clarify the conceptual differences between directed mutation, the inheritance of acquired characteristics, and non-genetic inheritance. This will lead us to consider in which respect an Extended Evolutionary Theory could depart from the conceptual matrix of the Modern Synthesis.
+
+Marine Battesti
+CNRS
+Laboratoire Evolution, Génomes et Spéciation
+France
+Diffusion of social information within Drosophila group
+poster D23SY14PS0396
+
+Author(s): Battesti, M, Moreno, C, Joly, D, Mery, F
+
+Summary: 
+
+Understanding how behavioral diversity arises and is maintained is central to evolutionary biology. Genetically based inheritance has been a predominant research focus of the last century; however, nongenetic inheritance, such as social transmission, has become a topic of increasing interest. How social information impacts behavior depends on the balance between information gathered directly through personal experience versus that gleaned through social interactions and on the diffusion of this information within groups. We investigate how female Drosophila melanogaster use social information under seminatural conditions and whether this information can spread and be maintained within a group, a prerequisite for establishing behavioral transmission. We show that oviposition site choice is heavily influenced by previous social interactions. Naïve observer flies develop a preference for the same egg-laying medium as experienced demonstrator flies conditioned to avoid one of two equally rewarding media. Surprisingly, oviposition site preference was socially transmitted from demonstrators to observers even when they interacted in a cage with only unflavored, pure agar medium, and even when the observer flies had previous personal experience with both rewarding media. Our findings shed light on the diffusion process of social information within groups, on its maintenance, and ultimately, on the roots of behavioral local adaptation.
+
+Etienne Danchin
+CNRS
+Evolution & Diversité Biologique (UMR5174, EDB)
+France
+Genetic and nongenetic inheritance
+talk D22SY14IT10:30R6
+
+Author(s): Danchin, E
+
+Summary: 
+
+Many biologists are calling for an ‘extended evolutionary synthesis’ that would ‘modernize the modern synthesis’ of evolution. Biological information is typically considered as being transmitted across generations by the DNA sequence alone, but accumulating evidence indicates that both genetic and non-genetic inheritance and their interactions have important effects on evolutionary outcomes. I will define the terms of nongenetic inheritance and briefly review the evidence for such effects of epigenetic and cultural inheritance, and outline methods that quantify the relative contributions of genetic and non-genetic heritability to the transmission of phenotypic variation across generations. These issues have major implications for diverse domains, including medicine where they may profoundly affect research strategies. For instance, non-genetic inheritance may explain a significant part of one of the major enigma of current molecular biology, namely missing heritability, which concerns many human supposedly genetic disorders. The missing heritability rather suggests that we should broaden our view of inheritance by including non-genetic inheritance into an inclusive theory of evolution.
+
+Kevin Laland
+University of St Andrews
+School of Biology
+United Kingdom
+Genetic control of non-genetic inheritance: fact or fallacy?
+talk D23SY14IT14:00R6
+
+Author(s): Laland, KN, Morgan, T, Fogarty, L, Mesoudi, A, Feldman, M, Smith, G
+
+Summary: 
+
+The foundation of the Modern Synthesis placed the gene at the centre of evolutionary explanations of biology, largely because at the time Mendelian genetics appeared to be the only general inheritance system. More recently, other non-genetic inheritance (henceforth NGI) systems (epigenetic inheritance, parental effects, ecological inheritance, social transmission and cultural inheritance) have been identified and been found to be widespread, raising questions about whether, and how, non-genetic inheritance might change the character of biological evolution. Here we draw on established empirical and theoretical findings from the cultural evolution, gene-culture coevolution, evolution of plasticity, and niche construction, literatures to illustrate ten ways in which non-genetic inheritance affects biological evolution. These include the findings that NGI systems can generate non-random (adaptive) variants; that they change the rate and dynamics of evolution, the pathways of information flow, and equilibria reached; that they alter the frequencies and spatial distribution of phenotypes; that they can propagate maladaptive variants; and that they change conceptions of fitness. These findings leave untenable the claims that non-genetic inheritance is under genetic control and as a consequence does not change the evolutionary process in biologically meaningful ways. Our analysis supports arguments for a broadening of current conceptions of biological evolution.
+
+Philip Leftwich
+University of East Anglia
+School of Biological Sciences
+United Kingdom
+Larval diet alters associations with commensal gut bacterial and induces trans-generational effects on host fitness in Ceratitis capitata
+poster D23SY14PS0746
+
+Author(s): Leftwich, PT, Friend, L, Chapman, T
+
+Summary: 
+
+The importance of diet and gut bacteria for host health and fitness is well known across vertebrates and invertebrates. In many instances these associations are variable and flexible, but still of fundamental importance to our understanding of animal biology. In the Mediterranean Fruit Fly (medfly) a pest insect of great agricultural importance, it is known that interactions between diet and gut bacteria can have a significant influence on host development, female fecundity, male mating speed and female survival. There can even be vertical transmission of commensal gut bacteria from mother to offspring, via inoculation into the fruit during oviposition and subsequent ingestion by the developing larval offspring. The composition of microbes is affected by larval and adult diet, which explains why laboratory-reared fruit flies, with a relatively invariant diet, generally seem to have restricted microbial communities in comparison to wild fruit flies. However the precise relationship between diet, gut bacteria and host fitness has not been systematically studied in this pest of economic importance. We address this gap by a study in which we systematically altered larval dietary components and found effects on host development, mating success and gut microbiota. In addition we present data to show that these were trans-generational effects, with non-genetic parental influence on the development of offspring.
+
+Angela Crean
+University of New South Wales
+School of Biological, Earth and Environmental Sciences
+Australia
+Like father like son? Nongenetic paternal effects reinvigorate the possibility of telegony
+talk D23SY14RT11:42R6
+
+Author(s): Crean, AJ, Kopps, AM, Bonduriansky, R
+
+Summary: 
+
+Telegony, a belief that was once widely accepted but now largely dismissed, is the hypothesis that offspring occasionally inherit characters from a previous mate of their mother. Although telegony seems unfeasible under Mendelian laws of inheritance, mounting empirical evidence for nongenetic inheritance mechanisms reinvigorates the hypothesis. In the neriid fly, Telostylinus angusticollis, fathers transmit their environmentally-acquired condition to offspring: large fathers that are reared on a high-quality larval diet produce larger offspring. Males show no obvious forms of paternal investment or care, and thus the mechanism mediating the effect of paternal condition on offspring body size is not known. As a first step towards disentangling whether the effect is borne by the sperm itself or by accessory-gland products (ACPs) in the seminal fluid, we mated females initially to a male in high or low condition and then remated the female to a new male in high or low condition two weeks later. Interestingly, offspring size and viability were determined by the condition of the first male, with no effect of the condition of the second mate. Genetic tests confirm this result holds even when the second male is the biological father of the offspring. These findings suggest the paternal effect is mediated by ACPs, and provide a compelling case for reassessing the possibility of telegony as a valid phenomenon.
+
+Rie Henriksen
+IFM Biology, Linköping University
+Sweden
+Matching or mismatching: effects of maternal heat stress are modified by postnatal heat stress in Japanese quails
+poster D23SY14PS1069
+
+Author(s): Henriksen, R, Rettenbacher, S, Groothuis, T
+
+Summary: 
+
+The environment can influence an animal phenotype during various stages of an animal’s life but during embryonic development animals are especially susceptible to changes in their environment due to the speed and complexity of development at this time in life. Changes in the prenatal environment often reflect and are due to changes in the parent’s environment. Phenotypic alterations induced during this early period in life are therefore particularly intriguing because they demonstrate that environmental changes in one generation can influence the development and phenotypic expression in the next generation. Currently researchers are exploring the role of maternal stress during egg formation in oviparous species as an inducer of phenotypic plasticity in offspring. Maternal stress is often reported to reduce the phenotypic quality of the offspring, but it has also been suggested that these maternal effects might prepare offspring for a stressful environment. However, in most studies the environmental conditions in the postnatal environment in which the offspring are raised and tested are ignored. In this study Japanese quail females and their offspring were either heat stressed (35 °C) or housed at control temperature (22 °C) in a split-brood design. Offspring matched to their mother’s hot environment had a significantly faster corticosterone response to 10 min. intense heat stress (40 °C) and a significantly faster recovery than offspring of control mothers. Offspring matched to their mother’s environment had significantly lower but similar corticosterone response to a single ACTH injection and significantly higher but similar respiratory quotient compared to offspring mismatched to their mother’s environment. These results demonstrate that some effects of maternal heat stress are not express if offspring are raised in the same stressful environment and that maternal heat stress might prepare offspring for high temperatures in their postnatal environment.
+
+Elvire Bestion
+Station d'Ecologie Expérimentale du CNRS de Moulis
+France
+Maternal exposure to predators: how to prepare offspring to a risky natal environment?
+poster D23SY14PS0316
+
+Author(s): Bestion, E, Teyssier, A, Cote, J
+
+Summary: 
+
+Predation risk is a strong force inducing morphological, physiological and behavioural responses. As predation risk is often higher in early life, antipredator defences should be produced at a juvenile stage. Maternal effects are a good tool to produce antipredator defences early in juvenile life. We investigated if maternal exposure to predator cues during gestation affected juvenile morphology, behaviour at birth and life-history traits in common lizard (Zootoca vivipara). We exposed 22 adult females to cues from a saurophagous snake (Hierophis viridiflavus) for one month of gestation and 22 other females were kept unexposed. At birth, juveniles were measured and tested for thermal preferences and activity levels in presence or in absence of predator cues, and then released in semi-natural enclosures connected to a corridor allowing to monitor dispersal. We also quantified survival and growth rate at the end of the season by capture-recapture sessions. Offspring born from exposed mothers had longer tails at birth and at an older age and preferred lower temperatures than juveniles from unexposed mothers. Tail autotomy and decreased basking behaviour are common antipredator behaviours and thus our results suggest that mothers can prepare juveniles to risky environments. Juveniles from exposed mothers also increased their activity levels in response predator cues showing better abilities to recognize such cues. This increased activity, along with an overall increase in dispersal probability, show that mother also manipulated juvenile flight response. In response to predation risk, mothers can manipulate offspring phenotype to make them more adapted to their natal environment or increase their dispersal ability to find more suitable habitats. Our results show that, in common lizards, these two adaptive mechanisms act conjointly in order to improve offspring survival to predators.
+
+Marion East
+Leibniz Institute for Zoo and Wildlife Research
+Evolutionary Ecology
+Germany
+Maternal effects on offspring growth, survival and social status in spotted hyenas
+talk D23SY14RT10:30R6
+
+Author(s): East, ML, Höner, OP, Wachter, B, Wilhelm, K, Burke, T, Hofer, H
+
+Summary: 
+
+We have studied two processes of non-genetic inheritance in a social mammal with linear dominance hierarchies. Firstly, in such species, the social status of an offspring at adulthood is often similar to the social position held by their mother; a phenomenon termed “rank inheritance”. Mothers may influence the rank obtained by their offspring at adulthood in at least three distinct ways: 1) the direct genetic inheritance of maternal traits that influence resource holding potential might predispose offspring to obtain a rank similar to that held by their mother, 2) the pre-natal maternal environment might influence offspring rank if foetal exposure to maternal androgens is related to maternal status and affects offspring competitiveness, and 3) maternal behavioural support, a component of the post-natal maternal environment, may help offspring to dominate those individuals that are subordinate to their mother, thereby assisting offspring to acquire a rank similar to that of their mother. We simultaneously test predictions derived from these three potential maternal effects on offspring rank acquisition at adulthood, using rare cases of offspring adoption detected by microsatellite profiling. We demonstrate that adopted offspring acquire a rank at adulthood similar to that of their surrogate mother and that the competitive ability of offspring at adulthood was best explained by post-natal maternal behavioural support. Secondly, we use long-term data to also show that high-born offspring have higher growth rates, are more likely to survive to adulthood and start reproduction at an earlier age than offspring of lower ranking mothers – thereby demonstrating a maternal ‘silver spoon effect’ in spotted hyenas.
+
+Helene Collin
+University of Liverpool
+Ecology Evolution and Behaviour
+United Kingdom
+Non-genetic inheritance generated by exposure to anthropogenic stressors in the water flea (Daphnia pulex)
+talk D22SY14RT11:42R6
+
+Author(s): Collin, H, Paterson, S, Plaistow, S
+
+Summary: 
+
+Understanding how populations rapidly adapt to anthropogenic change is imperative for predicting limits to population persistence and reducing species extinction rates. Since most random mutations decrease fitness, and even those that increase fitness initially only occur in a single individual in the population, it is hard to envisage how new mutations alone can explain rapid evolutionary responses. Rapid adaptation might arise through ‘soft selection’ operating on standing genetic variation. However, an emerging, alternative hypothesis that is that environment-induced non-genetic inheritance facilitates and speeds up adaptive evolution.
+By decoupling phenotypic change from genotypic change, non-genetic inheritance (parental effects and epiallelic variation) is not subject to the limitations typically associated with genetic inheritance. However, our lack of understanding of the mechanism that underpin non-genetic inheritance, the transience and instability of non-genetically transmitted phenotypic states, and the way that non-genetic inheritance interacts with genetic inheritance, all greatly limit our ability to evaluate the significance non-genetic inheritance for long-term evolutionary change. We addressed this shortfall by performing a 4-generation experiment in which we exposed 3 clones of Daphnia pulex to sub-lethal doses of novel freshwater pollutants (heavy-metal, endocrine disruptor, herbicide) and then quantified the patterns of non-genetic inheritance generated over the next three generations. This was done at the individual trait level as well as at the multivariate level, using phenotypic trajectory analysis to quantify stressor-induced patterns of phenotypic integration over multiple generations. We evaluate whether non-genetic inheritance accumulates, persists or dissipates over multiple generations, whether these patterns differ for different types of stressor, and whether there is an interaction between genetic and non-genetic inheritance.
+
+Jaime Grace
+Uppsala University
+Evolutionary Biology
+Sweden
+Paternal effects on lifespan and aging in the fruit fly (Drosophila melanogaster)
+talk D23SY14RT10:54R6
+
+Author(s): Grace, JL, Ryden, P, Friberg, U
+
+Summary: 
+
+Paternal effects are a potentially important source of non-genetic inheritance; however, attempts to quantify natural variation in paternal effects are often complicated by or confounded with maternal effects or the effects of genetic variation. Here we present a novel method for isolating and quantifying paternal effects using hemiclonal analysis. In Drosophila melanogaster, hemiclones have been used to replicate an entire haploid genome while holding the other haploid genome constant. We created hemiclones from diverse genetic backgrounds, including 38 inbred lines from the Drosophila Genome Reference Panel and 4 lines derived from other global populations. By crossing these hemiclones to homozygous females, we can select flies that are genetically identical, despite having fathers from genetically diverse backgrounds. We screen these 42 lines for variation in lifespan, a phenotype that harbors significant variation in the source populations, and is affected by a wide variety of genetic and non-genetic factors. Preliminary results indicate that there are significant differences in lifespan attributable to variation in paternal effects, and these results will further explore the relative importance of standing variation that exists within populations compared to the divergent variation that exists between populations. We will also consider the relative importance of paternal effects on early- vs late-stage mortality.
+
+Elin Videvall
+Lund University
+Department of Biology
+Sweden
+Pronounced maternal effect on hybrid gene expression in Arabidopsis
+poster D23SY14PS1210
+
+Author(s): Videvall, E, Sletvold, N, Hagenblad, J, Ågren, J, Hansson, B
+
+Summary: 
+
+Understanding how hybridization influences phenotype is of major importance for evolutionary biology. Theoretically, phenotypic differences are expected to be controlled mainly by gene regulation, which can be environmentally or genetically determined. However, until recently it has been difficult to accurately measure expression levels and determine whether hybrid gene expression are caused by additive (intermediate expression levels between the parents), dominance (expression levels equal to one of the parents) or parental effects (gene expression similar to that of either the mother or the father). Here we use high throughput RNA-sequencing (Illumina) to test the different expression hypotheses and evaluate gene expression in hybrids between two differentiated populations of Arabidopsis lyrata. Our results showed (i) broad differential expression between populations (9573 significant genes) and (ii) a very strong maternal effect on hybrid gene expression (94.7% of genes followed the expression of the mother rather than the father plant). In plants, where seed dispersal is limited and the developing seedlings will experience similar environmental conditions as their mothers, such maternal effects are expected to be highly beneficial as they can facilitate local adaptation.
+
+Antonia Klein
+Faculty of Biology of the University of Regensburg
+Department for Evolution, Behaviour and Genetics 
+Germany
+Sex determination in the haplodiploid ant species Cardiocondyla obscurior
+poster D23SY14PS0887
+
+Author(s): Klein, AM, Heinze, J, Oetller, J
+
+Summary: 
+
+Sex determination across insects seems to rely on the same pathway: A primary signal induces sex specific alternative splicing of transformer (tra) or its ortholog. This leads to a functional TRA protein in females, whereas an in-frame stop codon in the male transcript leads to no functional protein. TRA induces female specific splicing of doublesex (dsx) and the sex specific DSX protein regulates downstream development of the embryo. While the developmental cascade is conserved across taxa, the primary inducing signals are not, ranging from a single locus (csd) in Apis to maternal imprinting in Nasonia (reviewed in Verhulst et al., 2010). We investigated the sex determination pathway in Cardiocondyla obscurior (Hymenoptera, Formicidae), a model for eusocial traits. Single locus sex determination can be ruled out, because no diploid males were detected despite many generations of inbreeding (Schrempf et al., 2006). We confirmed the exclusive maternal origin of males by genotyping F1-hybrid offspring of a cross of two distinct populations with known genotypes. The sex determination genes tra and dsx were annotated and the cDNA sequences were compared between female and male embryos. Furthermore tra expression in fertilized versus unfertilized eggs was analysed using RT-qPCR to test for maternal provisioning of the zygote as an epigenetic effect and as the primary signal of the sex determinaton pathway in C. obscurior.
+
+Julia Schroeder
+Max Planck Institute for Ornithology
+Germany
+Sex specific social genetic effects in parental-care behaviour
+talk D23SY14RT14:48R6
+
+Author(s): Schroeder, J, Dugdale, H, Burke, T, Nakagawa, S
+
+Summary: 
+
+The social environment, namely conspecifics, can influence the expression of phenotypes i.e., individuals other than the one expressing the trait in question can explain some of the phenotypic variation. The genetic part of this indirect effect represents an indirect genetic effect (IGE). Not accounting for IGEs can considerably under- or over-estimate the total heritable variation available for selection to act on, and thus predict misleading evolutionary trajectories. Yet, empirical studies on wild populations often ignore IGEs. We present a quantitative genetic analysis of biparental care in a wild, genetically pedigreed, bird population. Sex-specific IGEs increased the total heritable variation. Our data suggests that the female trait could evolve through indirect selection by her mating partner, which most theoretical models explaining the evolution of biparental care do not take into account. Notably, the within-individual repeatability of female parental care was lower than the total heritable variation. Our results show that the assumption that repeatability is the upper limit of heritability should be used cautiously when applying to socially interactive traits, and highlight the importance of accounting for social effects.
+
+Luke Holman
+Australian National University
+Evolution, Ecology and Genetics
+Australia
+The benefits, costs and evolutionary consequences of genomic imprinting
+poster D23SY14PS0143
+
+Author(s): Holman, L, Kokko, H
+
+Summary: 
+
+Under genomic imprinting, alleles “remember” which parent they are derived from and show differential gene expression. Imprinting is an evolutionary puzzle because it carries all the costs of diploidy but foregoes its principal benefit (protection from recessive mutations). Here, I synthesise and critically evaluate the many evolutionary hypotheses for the origin and maintenance of imprinting, while adding at least one more. I also review imprinting’s many costs, and argue that the origin of imprinting is substantially more difficult than the maintenance because of evolutionary changes wrought by imprinting itself. I finish by using theoretical models to consider the long-term consequences of imprinting for adaptation and population fitness.
+
+Rebecca Hoyle
+University of Surrey
+Department of Mathematics
+United Kingdom
+The fitness implications of adaptation via phenotypic plasticity and maternal effects
+talk D23SY14RT11:18R6
+
+Author(s): Hoyle, RB, Ezard, THG, Prizak, R
+
+Summary: 
+
+In a changing environment, organisms face the challenge of using the most accurate environmental cues to construct phenotypes that optimise fitness. This environmentally specific phenotypic expression is delivered by phenotypic plasticity within the current generation and potentially also via previous generations through indirect or nongenetic inheritance.
+
+Using a quantitative genetic model of adaptation via indirect genetic maternal effects, phenotypic plasticity and an additive genetic component, we show how the maternal effect coefficient that maximises population mean fitness depends on the predictability of environmental change (fast or slow, sinusoidal or stochastic) and the lag between development and selection. The impact of this developmental lag is particularly clear in rapidly changing stochastic environments.
+
+We consider the influence on fitness of interactions between phenotypic plasticity and maternal effects. Expected mean population fitness is highest away from the peak levels of phenotypic plasticity, particularly in slowly or rarely changing environments. Phenotypic plasticity is highest when the lag between juvenile development and adult selection is shortest. We expect the relative influence of phenotypic plasticity and maternal effects to differ among environments, which may help to explain why we observe such a vast range of maternal effects coefficients empirically.
+
+Sinead English
+University of Oxford
+Department of Zoology
+United Kingdom
+The information value of non-genetic inheritance in heterogeneous environments
+talk D22SY14RT11:18R6
+
+Author(s): English, S, Shea, N, Pen, I, Uller, T
+
+Summary: 
+
+Parents contribute a variety of inputs to the development and fitness of their offspring beyond the transmission of DNA, including epigenetic marks, transfer of nutrients, antibodies and hormones, and behavioural interactions after birth. The evolutionary consequences of such non-genetic inheritance have been explored recently. By disconnecting what is selected from what is inherited, non-genetic inheritance can modify the course of evolution and selection on future generations. Less is known, however, about how mechanisms of non-genetic inheritance have themselves evolved. Here, we present a simple model to explore the adaptive evolution of non-genetic inheritance under different regimes of environmental change. Our model is based on a developmental switch that can evolve to produce different phenotypes in response to different levels of input. We consider genetic and non-genetic inputs as potential cues containing correlational information about coming selective conditions. Differential use of these cues is manifested as different degrees of genetic, parental or environmental morph determination. By exploring a range of temporal and spatial environmental fluctuation scenarios (cyclic and stochastic, of varying frequency), we evaluate the conditions that favour non-genetic inheritance as opposed to genetic determination of phenotype or within-generation plasticity. Finally, we use the model to exemplify three case studies which have provided hallmark examples of non-genetic inheritance: maternal effects on seed germination in plants, transgenerational phase shift in desert locusts and grandparental effects on dispersal polymorphisms in aphids.
+
+Longfei Shu
+Eawag/ETH Zürich
+Dept. of Aquatic Ecology/Institute of Integrative Biology
+Switzerland
+The molecular basis of adaptive maternal effects in amphibians
+poster D23SY14PS0061
+
+Author(s): Shu, L, Suter, M, Laurila, A, Räsänen, K
+
+Summary: 
+
+Maternal effects, the effect of a mother’s phenotype and environment on offspring phenotype and performance, can influence the speed and direction of trait evolution, responses to divergent selection, as well as population dynamics. However, the mechanisms and the molecular basis of maternal effects are often poorly understood. Here we present data for natural populations of two amphibian species (Rana arvalis and Rana temporaria), which show intra-specific adaptive divergence to acidity via maternally derived egg capsules. Particularly, we use cutting edge molecular approaches (proteomics, glycan analysis) to elucidate the molecular mechanisms behind adaptive maternal effects in these systems, and emphasize the role of egg capsules for adaptation at early life-stages.
+
+Lára Hallsson
+University of New South Wales
+Evolution & Ecology Research Centre
+Australia
+The relative importance of genetic and nongenetic inheritance in relation to trait plasticity
+talk D23SY14RT15:12R6
+
+Author(s): Hallsson, LR, Chenoweth, SF, Bonduriansky, R
+
+Summary: 
+
+A trait’s response to natural selection will reflect the nature of the inheritance mechanisms that mediate the transmission of variation across generations. The relative importance of genetic and nongenetic mechanisms of inheritance is predicted to be related to the degree of trait plasticity, with nongenetic inheritance playing a greater role in the cross-generational transmission of more plastic traits. However, this prediction has never been tested. We investigated the influence of genetic effects and nongenetic parental effects in two morphological traits differing in degree of plasticity by manipulating larval diet quality within a cross-generational split-brood experiment using the seed beetle Callososbuchus maculatus. In line with predictions, we found that the more plastic trait (elytron length) is strongly influenced by both maternal and paternal effects whereas genetic variance is undetectable. In contrast, the less plastic trait (first abdominal sternite length) is not influenced by parental effects but exhibits abundant genetic variance. Our findings support the hypothesis that environment-dependent parental effects may play a particularly important role in highly plastic traits and thereby affect the evolutionary response of such traits.
+
+Lisa Shama
+AWI Wadden Sea Station Sylt
+Germany
+Transgenerational plasticity in marine sticklebacks: maternal effects mediate impacts of a warming ocean
+poster D23SY14PS0724
+
+Author(s): Shama, LNS, Wegner, M
+
+Summary: 
+
+Transgenerational plasticity is a potentially powerful mechanism for species to cope with rapid environmental change. Recent studies show these non-genetic parental effects can facilitate acclimation to environmental stressors (e.g. increased temperature and ocean acidification) across generations. Yet, the relative contribution of maternal vs. paternal effects is not well known. We crossed adult marine sticklebacks acclimated to two experimental temperatures (17°C and 21°C) to produce egg clutches in 4 groups: 17mx17f, 17mx21f, 21mx17f, 21mx21f. Clutches were split and reared at 17°C and 21°C. Egg traits (clutch size, egg size and hatching success) and offspring growth at 30 and 60 days were quantified. We found that 21°C females produced smaller (but not fewer) eggs with a lower hatching success than 17°C females, suggesting that mothers optimise their fitness over that of their offspring in stressful environments. Still, offspring growth at 30 days showed a clear benefit of transgenerational (maternal) plasticity; offspring had higher growth when reared at their maternal temperature. Growth at 60 days was mostly determined by offspring environment, yet maternal effects persisted in the stressful environment. Our results show that transgenerational plasticity can mediate some of the impacts of a warming ocean and may facilitate population persistence under climate change.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

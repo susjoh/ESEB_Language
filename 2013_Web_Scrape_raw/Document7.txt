@@ -1,0 +1,235 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY07: The nature and mechanisms of evolution of species recognition systems
+ Abstracts list Schedule Description
+View only talks or posters
+Avelina Espinosa
+Roger Williams University
+Biology
+United States
+Entamoeba varieties use biochemical signaling and behavioral aggregation to discriminate between members of distinctive strains
+talk D21SY07RT15:12R9
+
+Author(s): Espinosa, A, Paz-y-Miño-C, G
+
+Summary: 
+
+Evolutionary processes in which selection acted continuously and cumulatively on ancestors of Entamoeba populations gave rise to chemical and behavioral signals that allowed individuals to discriminate non-population members and, gradually, to the emergence of new lineages. The concept of ‘species recognition’ at the unicellular level might be artificial and inadequate to define signaling in single-cell natural populations. Aggregative behavior could be explored in a nonsocial protist to define discrimination cues among/between natural varieties. We demonstrate that by color tagging and pair-mix-culturing six Entamoeba varieties, the difficulty of discerning among apparently similar taxa can be resolved. When grown together with different amoeba strains, free-living/opportunistic (E. moshkovskii Laredo), commensal (E. moshkovskii Snake) or parasitic (E. invadens IP-1, E. invadens VK-1:NS, E. terrapinae, E. histolytica) trophozoites aggregate only with members of their own lineage. Clusters of trophozoites from each amoeba show distinctive rate of aggregation, density of cells per cluster, and distance between clusters. By using these behavioral cues, and identifying the genes involved in cell-signaling for cluster formation, distinctive amoeba taxa can be characterized quantitatively; we postulate that not only Entamoeba varieties, but apparent taxa crypticity in other protists, can be resolved by examining the natural ability of unicellular eukaryotes to discriminate between members and non-members of a lineage. Thus, phylogenetic relations among protists, which are usually determined by morphology and molecular techniques (the latter often confounded by horizontal gene transfer), could be further understood by incorporating behavior into the evolutionary analysis of this complex group of organisms.
+
+Emily Cramer
+University of Oslo
+Natural History Museum
+Norway
+An experimental test of a potential post-copulatory pre-zygotic reproductive barrier in a passerine species pair
+poster D20SY07PS1036
+
+Author(s): Cramer, ERA, Laskemoen, T, Eroukhmanoff, F, Haas, F, Hermansen, JS, Lifjeld, JT, Rowe, M, Sætre, G, Johnsen, A
+
+Summary: 
+
+Sexual selection may drive speciation, but most research has focused only on pre-copulatory sexual selection, overlooking post-copulatory processes. Under strong post-copulatory sexual selection, post-copulatory pre-zygotic (PCPZ) phenotypes could diverge, limiting gene flow upon secondary contact. We did in vitro experiments on a potential PCPZ barrier between sister species: house sparrows (Passer domesticus) and Spanish sparrows (P. hispaniolensis). In birds, sperm selection most likely occurs as sperm cross the vagina, so we tested if reproductive tract fluid of heterospecific females reduced sperm swimming speed or motility, relative to conspecific female fluid. We found that house sparrow female fluids affected the two species’ sperm asymmetrically, consistent with the observed asymmetrical genetics of the hybrid species, the Italian sparrow (P. italiae, which has house sparrow mitochondrial DNA but mixed house and Spanish sparrow nuclear DNA). In house sparrow female fluid, slow-swimming house sparrow sperm were sped up, and fast-swimming house sparrow sperm were slowed down. Spanish sparrow sperm was not systematically affected, thereby increasing the speed difference between fast-swimming Spanish sparrow sperm and randomly-chosen house sparrow sperm. This could contribute to asymmetrical introgression if Spanish sparrow males with fast-swimming sperm are also more likely to seek extra-pair copulations, which is plausible. Overall, however, there was no evidence for a PCPZ barrier: sperm performed equally in conspecific and heterospecific female fluids, and the species had similar sperm morphology, sperm swimming performance, and female fluid protein profiles. Low divergence in PCPZ phenotypes between species may be insufficient to cause an overall PCPZ barrier, and may be due to low post-copulatory sexual selection within each species. Also, pre-copulatory barriers between the species may prevent PCPZ barriers from evolving via reinforcement.
+
+Salomé Clemente
+CBA- Faculty of Sciences of University of Lisbon
+Department of Animal biology
+Portugal
+Asymmetric reproductive interference among two spider mite species
+poster D20SY07PS0783
+
+Author(s): Clemente, SGLH, Rodrigues, L, Ponce, AR, Cruz, C, Magalhães, S
+
+Summary: 
+
+Incomplete specific recognition can lead to the occurrence of reproductive interference (RI) - reproductive interactions between two species resulting in fitness loss for at least one of them. RI can play an important role in the coexistence of species, being especially important in the fate of introduced exotic species and in pest management.Tetranychus urticae and Tetranychus evansi are two closely related haplodiploid spider mite species that often coexist in solenaceous crops. Incomplete specific recognition occurs among these species: heterospecific matings were observed, although no hybrid progeny has been found. We tested two possible RI mechanisms: (1) the effect of mating with heterospecifics on virgin (haploid) offspring and (2), the consequences of heterospecific crosses for the offspring of females that have or will mate with conspecifics. Behavioural assays showed that (1) only T. urticae females and T. evansi males prefer to mate with conspecifics; (2) regarding latency to copulation individuals behave as virgins after mating heterospecifically, (3) T. urticae females copulate for a shorter period with heterospecifics than with conspecifcs. Results for fecundity and sex-ratio revealed that (1) for both species, fecundity of females mated with heterospecifics are similar to that of virgins - heterospecific crosses do not affect egg viability; (2) T. evansi females that mate with both conspecific and heterospecific males had higher fecundity than females that mated with a conspecific male only; this was not observed in T. urticae. (3) T. urticae females that mate with a heterospecific male after a conspecific mating had a lower percentage of female offspring. The results obtained point to the occurrence of asymmetric RI, in which T. evansi females benefits from mating with heterospecifics, whereas T. urticae pay a cost of such matings. These results may affect the coexistence of these species, a hypothesis requiring further testing.
+
+David Wheatcroft
+Uppsala University
+Department of Animal Ecology
+Sweden
+Does incorporation of alarm calls into avian song increase rates of signal divergence across species?
+talk D21SY07RT14:48R9
+
+Author(s): Wheatcroft, D, Price, TD
+
+Summary: 
+
+Assortative mating of co-occurring species depends on the interaction between the evolution of signals involved in mating decisions and the corresponding recognition mechanisms. In two hybridizing Ficedula flycatcher species, both plumage characteristics and mate preferences are found on the paternally inherited Z chromosome, suggesting that assortative mating is achieved in these species through physical linkage of signals and preferences. In flycatchers, as in other songbird species, song functions not only in mate attraction, but also in interactions between males and has a learned component, leading to a series of potential problems for genetic linkage and assortative mating. Here, through experimental playbacks to Ficedula chicks from each species still in the nest, I show that chicks respond more strongly to the songs of their genetic fathers, suggesting that recognition of complex vocal signals is determined by genes on the Z chromosome. In contrast, chicks respond readily to the innately produced alarm calls of the other species, suggesting that recognition of vocal signals is achieved through mechanisms that are independent from how they are transmitted.
+
+Fabio Cortesi
+The University of Basel
+Department of Environmental Sciences
+Switzerland
+Ecological and molecular cues for colour change in a marine fish
+poster D20SY07PS1082
+
+Author(s): Cortesi, F, Cheney, KL, Marshall, JN, Salzburger, W
+
+Summary: 
+
+Coral reef fish are among the most colourful and beautifully patterned organisms on the planet; however, understanding the function and evolution of such coloured visual signals is unclear. Possible ways in which we can start to unlock the processes that have created such diversity in colours and patterns is to understand: 1) the molecular capacities that allow signal emergence, 2) how such visual signals are perceived by others (predators, competitors and potential mates), and 3) how this drives the evolution of such signals. To address these questions we are currently using the coral reef fish Pseudochromis fuscus as a model system. It is a species that exhibits multiple colour morphs, has the ability to change colouration between morphs, and is considered a putative aggressive mimic. However, the environmental cues that drive and the molecular basis that enable the species to change colour remain unclear. To investigate these questions we are using a multidisciplinary approach by combining behavioural, neurophysiological, cell histological and molecular methodologies. First results indicate mimicry as the main trigger for colour change in Pseudochromis fuscus. However, other benefits such as cryptic and predatory advantages might be associated with colour differences in this species. Ultimately we aim to better understand how colourful signals evolve, what kind of selective pressures might act on them and whether there are molecular similarities between the signal co-evolution of mimic and model species.
+
+Felipe Vigoder
+University of St-Andrews
+School of Biology
+United Kingdom
+Effect of Wolbachia infection on the courtship song of Drosophila paulistorum and D. equinoxialis
+poster D20SY07PS1335
+
+Author(s): Vigoder, FM, Schneider, DI, Ritchie, MG, Miller, WJ
+
+Summary: 
+
+Understanding the processes that can lead to speciation are one of the main goals in evolutionary biology. It has been proposed that coevolution between parasite and its host can potentially drive speciation. A good model for studies of infectious speciation is the neotropical fly Drosophila paulistorum spp.. This species complex is currently under incipient speciation in nature and consists of six semispecies that are in an obligatory mutualistic relationship with bacteria of the Wolbachia genus. Previous studies have determined that infection with Wolbachia is associated with hybrid inviability and male sterility. Interesting enough, Wolbachia not only cause postzygotic isolation in the D. paulistorum complex but also prezygotic isolation through an influence on assortative mating between the different semispecies. These data suggest that the infection is modulating some courtship signal that allows self-recognition among the semispecies. Among the different male signals involved in mate recognition in Drosophila species, courtship song is one of the most studied and is well known to affect isolation between close related species. Here we recorded the courtship song of males from three D. paulistorum semispecies and also of its sibling species D. equinoxialis comparing wild type infected lines with lines treated with antibiotics where the bacteria titer were reduced. Our result shows a significant variation in the interpulse interval (IPI) associated with the infection with Wolbachia in all groups. We discuss whether the changes are likely to influence sexually selection or are more likely to reflect changes in male condition following curing of the Wolbachia infection.
+
+Alejandro Gonzalez-Voyer
+Estación Biológica de Doñana (CSIC)
+Integrative Ecology
+Spain
+Evolution of acoustic and visual signals in Asian barbets
+talk D21SY07RT11:42R9
+
+Author(s): Gonzalez-Voyer, A, Castelló, A, Leonard, J
+
+Summary: 
+
+The study of animal communication systems is an important step towards gaining greater understanding of the processes influencing diversification because signals often play an important role in mate choice and can lead to reproductive isolation. Signal evolution can be influenced by a diversity of factors such as biophysical constraints on the emitter, the signalling environment, or selection to avoid heterospecific matings. Furthermore, because signals can be costly to produce, trade-offs may exist between different types of signals. Here, we apply phylogenetic comparative analyses to study the evolution of acoustic and visual signals in Asian barbets, a clade of non-Passerine, forest-dependent birds. Our results suggest that evolution of acoustic and visual signals in barbets is influenced by diverse factors, such as morphology and signalling environment, suggesting a potential effect of sensory drive. We found no trade-offs between visual and acoustic signals. Quite to the contrary, more colourful species sing significantly longer songs. Song characteristics presented distinct patterns of evolution. Song frequency diverged early on and the rate of evolution of this trait appears to be constrained by body size. On the other hand, characteristics associated with length of the song presented evidence for more recent divergence. Finally, our results indicate that there is a spatial component to the evolution of visual signals, and that visual signals are more divergent between closely related taxa than acoustic signals. Hence, visual signals in these species could play a role in speciation or reinforcement of reproductive isolation following secondary contacts.
+
+Guila Ganem
+université montpellier 2
+Institut des Sciences de l'Evolution
+France
+From sexual communication to species recognition: examples from the house mouse
+talk D21SY07RT14:00R9
+
+Author(s): Ganem, G
+
+Summary: 
+
+Sexual communication involves transfer of information between potential mates on their identity, quality, compatibility and history. Both endogenous and exogenous factors are expected to shape the evolution of the complex systems made of signals, receptors and preferences. Further, variation in the latter factors could result in divergence between the sexes, populations and species. How potential mates make sense of the diverse information available for mate choice remains an unresolved question. My research addresses this question in rodent species using the olfactory chemosensory channel to communicate. For example, several pheromones involved in social and sexual communication have been described in the house mouse (Mus musculus domesticus). These chemical cues are mostly present in the mouse urine and the mouse marks its territory by depositing urine drops. Moreover, mice are both excellent noses and carry odor signatures that act as fingerprints. Still, despite of this remarkable individual variability population and species differences exist. The house mouse is involved in chromosomal diversification in parts of its range and share a hybrid zone with another subspecies (M. m. musculus) along a north south axis crossing Europe from Scandinavia to the Black sea. Using these different evolutionary and geographical settings, research in my laboratory has addressed the mechanisms involved in mate recognition system divergence. Referring to examples from my research I shall illustrate how genetic drift, local adaptation sexual selection and reproductive interference shape the house mouse mate recognition system and could facilitate speciation.
+
+Julia Jones
+University of Konstanz
+Department of Biology
+Germany
+How can a sexually selected exaggerated male trait be reduced or lost?
+poster D20SY07PS0874
+
+Author(s): Jones, JC, Weber, M, Henning, F, Schartl, M, Meyer, A
+
+Summary: 
+
+What drives the evolution of male specific conspicuous traits? Sexual selection is known to act via female preference for exceptional traits. However, using phylogenomic (RAD sequencing) analysis we have shown that a definitive example of such a trait, the exaggerated caudal fin (or sword) specific to Xiphophorus fish, is likely to have been lost during the evolutionary history of this genus. If such a trait is subject to strong sexual selection, how can it be lost? To address these questions we used the green swordtail fish, Xiphophorus hellerii, whose sword is a textbook example of female association preferences. Classic studies have demonstrated through association tests that females prefer males with long swords, and even species whose males lack this trait prefer males with an artificial sword over their own non-sworded males. Here, we extend these findings by using a natural population setting, where males and females could freely interact and choose mates, to show that female preferences are highly likely to involve an array of male traits. By conducting independent replicate experiments we find no significant difference in paternity success between long and short sworded males, and in any given replicate females tended to choose the same male. Further, by genotyping sperm stored in the female ovary we provide the first indication that post-copulatory sexual selection may play a role in the paternity success of different males. Previous studies have largely painted a picture of the sword as the main determiner of reproductive success. Under this scenario, the repeated loss of the sword is paradoxical. By considering male sexiness as a more multivariate trait these losses can be explained by changes in the environment and fluctuations in population size.
+
+Kit Magellan
+University of Girona
+Department of Sciences
+Spain
+Innate sex recognition and learned species recognition in an invasive fish
+talk D20SY07RT18:33R9
+
+Author(s): Magellan, K
+
+Summary: 
+
+Sex and species recognition are both fundamental to sexual reproduction. Speciation imposes modification of species recognition traits but not necessarily those for sex recognition. However, most studies either focus on sex recognition characteristics in a single species or assume sex recognition a priori and focus solely on species recognition traits. Invasive species represent an ideal opportunity to explore the relationship between these two recognition systems. I investigated interactions between the highly invasive mosquitofish, Gambusia holbrooki and the native Iberian toothcarp, Aphanius iberus. I found that male Gambusia consistently differentiated between male and female heterospecifics but initially failed to distinguish heterospecific females from those of their own species. However, they began to learn to recognise species differences within 24 hours. Given the lack of costly mating displays and nuptial gifts in the mosquitofish mating system, sex recognition and misdirected mating attempts may be less costly than species recognition. This and their rapid learning ability may be a factor explaining the invasive success of G. holbrooki.
+
+Thomas Blankers
+Humboldt Universität, Berlin
+Institute for Biology
+Germany
+Premating reproductive isolation between two closely related cricket species
+poster D20SY07PS0337
+
+Author(s): Blankers, T, Hennig, M
+
+Summary: 
+
+Reproductive isolation (RI) is the key requirement for speciation and, as a possible first isolation barrier, premating RI can be particularly important during early speciation stages. In our study we address premating RI between Gryllus texensis and G. rubens, two closely related sympatric species of field crickets. Male crickets attract females with a calling song, a cue used for species recognition. Previous studies have shown that the two species differ in pulse rate of the song and in female preference for pulse rate, but not much is known about other song parameters or about hybrid preference. In this study we discuss the following two questions: (i) which (other) parameters of the calling song play a role in premating isolation; (ii) which part of the song (and song-preference) parameter space do laboratory-bred F1 and F2 hybrids occupy? For both species, male songs were individually recorded in an anechoic chamber to analyze the within and between species variation for several temporal parameters and for carrier frequency of the song. Female preference was measured using two set-ups. First, two-choice arena experiments were used to test the strength of the preference for either con- or heterospecific (artificial) songs broadcasted by two juxtaposed speakers. Second, by mounting a female upon a sphere opposite to two orthogonally placed speakers, we tested her preference for a range of stimuli. Pulse rate (pulses s-1) and duty cycle (duration relative to the period) were the most important temporal parameters for species separation. Additionally, preliminary results showed that G. texensis preferred a higher carrier frequency than G. rubens, while males of both species sang at a similar frequency. Hybrid song and preference had intermediate values, with preliminary results indicating a bias towards the maternal parent species.
+
+Nalini Puniamoorthy
+University of Zurich
+Institute of Evolutionary Biology & Environmental Studies
+Switzerland
+Rapid divergence in mating behavior versus sexual morphology among diverging populations in a widespread neotropical fly, Archisepsis diversiformis (Diptera: Sepsidae)
+poster D20SY07PS0349
+
+Author(s): Puniamoorthy, N, Blanckenhorn, WU
+
+Summary: 
+
+Reproductive traits often evolve rapidly and can be important in generating sexual isolation, restricting gene flow between diverging populations. In particular, pre-mating discriminating mechanisms, such as courtship behavior, can evolve faster than other types of traits. Here, we present a detailed study of mating behavior and sexual morphology in two populations (Costa Rica & Panama) of the widespread neotropical sepsid fly Archisepsis diversiformis. We find that (i) despite overall similarities in courtship repertoires, some behavioral elements performed during mating are clearly population-specific, and (ii) these populations exhibit clear pre-mating isolation when tested one-on-one. Nevertheless, mass-container population crosses (perhaps similar to situations that occur in the wild) did produce viable F1 offspring after extended exposure. (iii) Furthermore, morphometric analysis indicates that the populations differ significantly in male and female wing shape but only moderately in the shape of the grasping structure on the male fore femur, and not at all in the male genital clasper shape. (iv) Finally, a comparison of the fast-evolving cytochrome oxidase subunit I (COI) gene fragment indicates that individuals from Costa Rica & Panama are genetically highly similar, forming a strong monophyletic cluster with uncorrected pairwise distances ranging from 0.5-1.6%. This study documents that behavior diverges faster than morphology, which may play a role in impeding gene flow between these two populations. We argue that fine-scaled behavioral work is important when studying incipient sexual isolation and ongoing processes of speciation among widespread species.
+
+Gwendolen Rodgers
+CNRS Brunoy Muséum National d'Histoire Naturelle
+Department of Ecology and Biodiversity Management
+France
+Species recognition in heterogeneous sensory environments
+talk D21SY07RT11:18R9
+
+Author(s): Rodgers, GM, Théry, M, Belle Mbou, M, Bayle, F, Sourice, S, Jean, S
+
+Summary: 
+
+Reproductive isolation is central to the speciation process and efficient species recognition is crucial to prevent the waste of time, energy and resources in low quality matings. Ideally, animal communication systems are tuned to environmental conditions, facilitating the selection of appropriate mates. However, breeding individuals often face heterogeneous conditions some of which may reduce preclude efficient species recognition and enhance the hybridization rate. Recent work suggested that information may be reliably transferred under a broad set of environmental conditions by resorting to multimodal communication (backup hypothesis). These predictions may not hold for species experiencing recent environmental changes but they may do for species experiencing long term stochasticity of their sensory environment. The two newts Lissotriton vulgaris and L. helveticus extensively overlap in Europe. Mating involves tactile, visual and chemical components. We investigated how the sensory environment affected species recognition and whether the use of multimodal sexual communication supported the backup hypothesis. We showed that despite large phenotypic differences, hybridization is common at the site level. We also found that visual and olfactory communication contributed to recognition under ideal transmission conditions but that visual recognition was drastically reduced under poor, but realistic, visual conditions. We thus tested whether olfactory recognition would maintain a high recognition level regardless of visual conditions. We also tested whether the visual environment experienced during development influences visual perception in order to determine the level of constraints for the olfactory channel. These results show that variable sensory environments may contribute to long-term hybridization. They also suggest that selection against hybrids may generate divergent habitat selection and allow overlaps only in habitats allowing efficient recognition.
+
+Murielle Ålund
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Sperm swimming ability and reproductive isolation in Ficedula flycatchers
+talk D20SY07RT18:57R9
+
+Author(s): Ålund, M, Immler, S, Qvarnström, A
+
+Summary: 
+
+Incomplete premating isolation can lead to costly hybridization in sympatry. When premating barriers are absent or incomplete, postmating prezygotic isolation (or gametic isolation) can prevent heterospecific fertilization. For example, poor transfer and/or storage of sperm, low sperm competitive ability or incompatibility between gametes can contribute to low fertilization success between heterospecific individuals. Sperm traits (e.g. viability, longevity, swimming velocity and motility) play a crucial role for fertilization success and divergence in any sperm trait between species could facilitate prezygotic isolation. Here we compare sperm swimming ability, motility and longevity between two hybridizing species of flycatchers (Ficedula albicollis and F. hypoleuca) from a well-studied hybrid zone population on the island of Öland (Sweden), in the Baltic Sea. Species recognition is imperfect in this system and leads to costly hybridization. Indeed, about 4% hybrids with strongly reduced fertility are produced every year in our study population. We relate our measurements of ejaculate quality to the fertilization success of flycatcher males in different crosses within and between species. As density and competitive ability differ between these two flycatcher species, asymmetric gametic isolation is expected in the system. We discuss the implications of our results for the rate and direction of gene flow between pied and collared flycatchers.
+
+John Endler
+Deakin University
+School of Life and Environmental Sciences
+Australia
+The multiple functions of sexual displays and their implications for species recognition systems
+talk D21SY07IT10:30R9
+
+Author(s): Endler, JA
+
+Summary: 
+
+Sexual displays have functions other than indicating potential mate quality. I will briefly discuss them and give an example in an Australian bowerbird. I will then discuss their implications for species recognition systems, speciation, and the generation of species diversity.
+
+Tamra Mendelson
+University of Maryland Baltimore County
+Biological Sciences
+United States
+What is "species recognition"?
+talk D20SY07IT17:45R9
+
+Author(s): Mendelson, T
+
+Summary: 
+
+The concept of “species recognition” is widely used in the study of animal communication, typically referring to the tendency of organisms to distinguish members of their own species from heterospecifics. Yet, it is difficult to pinpoint a consensus definition of the concept, and close inspection reveals a host of underlying assumptions. First, I discuss definitions and underlying assumptions of species recognition as used in the literature and identify where these assumptions are either untested or logically flawed. I then discuss the implications of species recognition for the question of whether non-human animals have species concepts and articulate directions for research into the cognitive architecture of species boundaries in nature.
+
+Emily Burdfield-Steel
+University of St Andrews
+School of Biology
+United Kingdom
+Why is there so little pre-copulatory choice in a promiscuous seed bug?
+talk D21SY07RT14:24R9
+
+Author(s): Burdfield-Steel, ER, Shuker, DM, Dougherty, LR
+
+Summary: 
+
+Male bugs of the family Lygaeidae have been recorded to sexually harass and even mate with females of different species, both in the wild and in the laboratory. Studies have shown that female bugs suffer fitness costs from repeated male harassment, and that this may even be the case when this harassment comes from heterospecifics. We present recent findings that suggest that these inter-specific mating attempts are not the result of an inability to distinguish between conspecifics and heterospecifics, but rather a failure to use that information to inform mating decisions. We suggest that the available data on the mating system of these seed bugs may explain this pattern. For instance, males appear able to correctly differentiate conspecifics from heterospecifics under some circumstances, and will do so during interactions that require greater investment (i.e. mate guarding). As most seed bug species live in patchy habitats, encounter rates in the wild may be low and selection may act to reduce male choosiness during the early stages of copulation in order to avoid missing out on potential mating opportunities. The lack of any obvious pre-copulatory courtship supports this model of opportunistic mating. Additionally, the evolution of pre-copulatory courtship and signals may be constrained due to the aposematic nature of many seed bug species. This may mean instead that post-copulatory sexual selection, including a high frequency of mating failures, may be key determinant of non-random mating in these species.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

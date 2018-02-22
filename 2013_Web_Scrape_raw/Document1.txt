@@ -1,0 +1,328 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY01: Experimental evolution on empirical fitness landscapes
+ Abstracts list Schedule Description
+View only talks or posters
+Guillaume Martin
+CNRS
+Institut des Sciences de l'Evolution, UMR 5554
+France
+Can we predict adaptation trajectories on simple fitness landscapes?
+talk D23SY01RT14:00R2
+
+Author(s): Martin, G
+
+Summary: 
+
+The dynamics of adaptation to a new environment is inherently complex, even in the simplest situations such as encountered in experimental evolution). Over the past decades, several empirical studies have measured the long-term dynamics of adaptation in different model species (mostly micro-organisms). Yet, existing theory does not, to our knowledge, provide quantitative predictions to which such trajectories could be compared. Indeed, the speed with which a population adapts (i.e. the speed of the mean fitness increase) depends on the rate, fitness effects, and fate of beneficial mutations. While tremendous progress has been made in modelling these processes in steady state regimes, the key parameters are still difficult to measure, and more important, they vary over time in observed adaptive trajectories, because of background dependence effects (epistasis). The net result is that populations do not simply adapt linearly over time (i.e. at some steady state rate of increase), and the form of this non-linearity is not predicted by any widely accepted model. Our goal here will be to show that some tools exist that provide testable predictions in this context, and check on a few examples if these predictions are accurate. We will first present some old and new results on Fisher’s model and how they allow to predict the change in rate and effect of beneficial mutations over adaptive trajectories, from empirically measurable deleterious mutation effects and rate. Then we will discuss several alternative tools that can be used to model adaptation trajectories in these types of landscapes, accounting for non - stationary distributions of mutation effects and rates. We will illustrate the use of this approach on some empirical trajectories in model species.
+
+Santiago Elena
+CSIC
+IBMCP
+Spain
+Empirical fitness landscapes reveals a limited number of accessible adaptive pathways for an RNA virus
+poster D23SY01PS0027
+
+Author(s): Elena, SF, Lalic, J, Franke, J, DelaIglesia, F
+
+Summary: 
+
+RNA viruses are the main source of emerging infectious diseases owed to the evolutionary potential bestow by their fast replication, large population sizes and high mutation and recombination rates. However, an equally important parameter, which is usually neglected, is the topography of the fitness landscape, that is, how many fitness maxima exist and how well connected they are, which determines the number of accessible evolutionary pathways. To address this question, we have reconstructed a fitness landscape describing the adaptation of Tobacco etch potyvirus to a new host, Arabidopsis thaliana. Two fitness traits were measured for most of the genotypes in the landscape, infectivity and virus accumulation. We found prevailing epistatic effects between mutations in the early steps of adaptation, while independent effects became more common at latter stages. Results suggest that the landscape was rather smooth, with a high number of potential neutral paths and a single fitness peak.
+
+Tim Cooper
+University of Houston
+Department of Biology and Biochemistry
+United States
+Epistasis and evolvability in experimentally evolved populations of Escherichia coli
+talk D23SY01IT10:30R2
+
+Author(s): Cooper, TF
+
+Summary: 
+
+Epistatic interactions between mutations play a prominent role in many evolutionary theories. Many studies have found that epistasis is widespread, but direct analyses of epistasis can be technically difficult and has not generally considered beneficial mutations. We analyse the effects of epistasis on fitness in a set of genotypes including all combinations of the first five beneficial mutations to fix in an experimental population of Escherichia coli. We show that epistasis depends strongly on the fitness effects of the combined mutations – the larger the expected benefit, the more negative the effect of epistasis on fitness. A similar pattern of interactions is also seen among a set of seven mutations that substituted in a population that was selected in an environment containing a combination of two sugars. Epistasis thus tended to follow a simple relationship of diminishing returns with genotype fitness. This observation supports a model that predicts negative epistasis explains a decelerating rate of adaptation as populations approach a fitness peak. Preliminary experiments are consistent with this prediction, finding that the effective size, but not rate, of beneficial mutations declines across a series of replay populations started from genotypes of progressively higher fitness.
+
+Joachim Krug
+University of Cologne
+Institute for Theoretical Physics
+Germany
+Epistatic constraints and evolutionary predictability on empirical fitness landscapes
+talk D22SY01IT10:30R2
+
+Author(s): Krug, J
+
+Summary: 
+
+The adaptive dynamics of an asexual population in the space of genotypes is constrained by epistatic interactions between mutations at different genetic loci. Recent empirical studies have shown that this strongly reduces the number of mutational pathways that are accessible under conditions of strong selection and weak mutation (SSWM). In the talk I will describe statistical models for fitness landscapes that quantify evolutionary accessibility under different assumptions on the amount of epistasis as well as on the underlying genetic architecture, and show how these models can be used to classify and interpret empirical data sets. I then discuss the impact of epistatic constraints on the predictability of evolutionary trajectories in asexuals, with particular emphasis on the role of population size. With increasing population size clonal interference implies a preference for mutational steps of large effect, which leads to an increase in predictability beyond the expectation under SSWM dynamics. However, a further increase of population size reduces predictability by opening up new pathways that involve the crossing of fitness valleys by multiple mutations. This nonmonotonic pattern of evolutionary predictability is found in large-scale simulations on an empirical fitness landscape, and argued to be observable in experiments that monitor the variability of fitness trajectories among replicate populations.
+
+Ivo Chelo
+Instituto Gulbenkian de Ciência
+Portugal
+Evading genetic drift: an experimental test of the probability of fixation of new genetic variants
+poster D23SY01PS0507
+
+Author(s): Chelo, IM, Nédli, J, Gordo, I, Teotónio, H
+
+Summary: 
+
+Progression through an adaptive fitness landscape requires the appearance and fixation of beneficial mutations. But fixation of a beneficial variant is not a necessary outcome, as deduced by J.B.S. Haldane in 1927, instead its probability can be given by twice the fitness effect: Pfix= 2s. This is based in the reasoning that even beneficial variants are lost with high probability by genetic drift. In this work, we performed invasion experiments with inbred lines of Caenorhabditis elegans in well-defined demographic conditions to experimentally demonstrate the determinant role of drift in the initial dynamics of new beneficial alleles. We provide the evidence that extinction rates (Pext) decrease with the initial numbers of beneficial variants, as expected. We also show that the extinction of a deleterious variant, when at low frequency, is higher than that of a beneficial variant thus establishing that classical population genetics theory can accurately predict the fate of low frequency variants. Remarkably though we also find that, when at high frequency the fate of these variants is distinct from their low frequency dynamics, which results not in their ultimate fixation or loss, but on their maintenance. Our data confirm one of the key results of population genetics theory and highlights the complex nature of adaptation, where polymorphism can be maintained or lost depending on population structure.
+
+Nadine Timmermeyer
+University of Oregon
+Institute of Ecology and Evolution
+United States
+Evolutionary consequences of female promiscuity
+poster D23SY01PS1054
+
+Author(s): Timmermeyer, N, Michiels, NK, Phillips, PC
+
+Summary: 
+
+To cope with stressful conditions like parasite attacks or temperature changes, females can increase their offspring diversity and fitness by mating multiply with several males. This can result in male harm but can be advantageous in fluctuating environments. Populations with promiscuous females therefore are supposed to be more stable than populations with monogamous females. We study the gonochoristic nematode Caenorhabditis remanei, which is mating multiply and affected by male harm. Using experimental evolution, we were able to show that females, in contrast to males, were able to adapt to sex ratio manipulations. Additionally, offspring of promiscuous females had a higher fitness than monogamous females under the influence of the microparasite Bacillus thuringiensis. Even though a powerful tool to investigate fitness effects, manipulating sex ratios in nematodes in scientifically meaningful numbers is very work intensive if done by hand. To increase the population size and replicate number and therefore decrease the effects of drift, we are using differently labeled males and females and an automated sorting device. Worms are loaded onto a polymeric silicon chip (PDMS) and screened for fluorescent makers, resulting in separated males and females, which can be combined in different sex ratios depending on the treatment. These populations will be tested under stressful conditions to investigate whether populations with promiscuous females are more resistant to stressful changes in their environment compared to the monogamous control. Additionally, individual females will be compared to analyze within and between population fitness.
+
+Shraddha Karve
+Indian Institute of Science Education and Research, Pune
+Biology
+India
+Evolving in an unpredictable world - the E. coli story
+poster D23SY01PS0353
+
+Author(s): Karve, SM, Daniel, S, Chavan, Y, Anand, A, Dey, S
+
+Summary: 
+
+Effects of temporally fluctuating environments on the fitness of populations are less explored compared to the effects of directional selection regimes. Existing studies on temporally fluctuating environments employ a narrow selection regime i.e. mostly one environmental parameter fluctuating predictably between two limit points and the fitness measurements happen in the environmental backgrounds similar to that of selection. Obviously such studies fail to predict the fitness outcomes in the complex and/or novel, unpredictable environments. We select replicate microbial populations under randomly fluctuating complex, stressful environmental regime. When fitness proxies of these selected lines are compared with the control populations grown in benign environments, under multiple novel environmental backgrounds, selected lines display ‘Generalist’ properties. We further characterize these Generalists by fitness proxy measurements at different time intervals during the growth in the novel environments. We see that acclimation is beneficial in both selected and control populations but consistently more advantageous in the populations with the history of randomly fluctuating environment. Characterization of the Generalists on the mechanistic level, shows that the commonly evoked explanations of evolution of hypermutators or modified permeability or carry over plasticity are not sufficient to explain observed Generalist phenomenon.
+
+Monika Marxer
+Institute of Integrative Biology ETH Zurich
+Switzerland
+Experimental evolution for growth rate and its implications for infection success, co-infection dynamics, and virulence in a trypanosome parasite of bumblebees
+poster D23SY01PS0107
+
+Author(s): Marxer, M
+
+Summary: 
+
+Host-parasite interactions and their outcomes are strongly affected by several factors such as host and parasite genotypes and environmental conditions. Selection on basic growth properties in parasites may have far reaching consequences for numerous parasite traits, infection outcome and importantly the consequences for host fitness. It is know that strains of the trypanosome parasite of bumblebees Crithidia bombi have widely varying growth rates when cultured in vitro. We aim to experimentally evolve this parasite in vitro selecting for fast and slow growing sub-lines. This will enable us to investigate the costs, benefits and fitness trade-offs related to parasite growth rate by subsequently measuring in vivo infection profiles, transmission, and competitive ability under co-infection. To our knowledge, it would be the first time ecological trypanosome isolates have been experimentally evolved in vitro. These results will help define the fitness consequences for the observed natural variation in C. bombi growth, and will also inform important aspects of host-parasite evolution including the evolution of virulence.
+
+Valerie Morley
+Yale University
+Department of Ecology and Evolutionary Biology
+United States
+Experimental evolution of an RNA virus in mixed host environments
+poster D23SY01PS0637
+
+Author(s): Morley, VJ, Usme Ciro, J, Wasik, BR, Turner, PE
+
+Summary: 
+
+Spatially heterogeneous environments pose unique challenges for evolving asexual populations. One possibility is that selection will lead to high genetic variance, where multiple subpopulations adapt to specialize on a subset of the available habitats. In contrast, spatial heterogeneity may lead to evolution of generalism, where the population is dominated by a single genotype with a broad niche. However, the evolution of populations in spatially heterogeneous environments has been rarely examined outside of theory, and to date there have been no experiments that test how rapidly evolving RNA virus populations adapt in the face of this challenge. Here, we allowed vesicular stomatitis virus (VSV) to evolve in replicated environments containing different mixtures of two host types in laboratory tissue culture: cancer-derived HeLa cells and non-cancerous BHK cells. After 25 passages (100 generations), the fitness (growth) of evolved viruses was assayed on each host type, relative to the common ancestor. We observed a correlated response to selection when VSV was evolved on pure cultures of either host (100% BHK or 100% HeLa). However, in mixed environments this correlated response was broken; populations evolved in spatially heterogeneous environments consistently improved on HeLa cells, even when HeLa cells were rare, but were much more variable in their improvement on BHK cells. Current work examines whole-genomics of evolved populations, to determine how simple versus spatially-complex environments affect genetic variation in VSV populations, and to compare/contrast trajectories of phenotypic and genetic change within and among treatments. This study demonstrates that simple versus mixed environments can pose fundamentally different challenges for adapting populations, and the need for theory that addresses how environmental complexity may influence adaptive trajectories.
+
+Florien Gorter
+Wageningen University
+Plant Sciences
+Netherlands
+Experimental evolution of heavy metal tolerance in changing environments
+poster D23SY01PS0494
+
+Author(s): Gorter, FA, Aarts, MMG, Zwaan, BJ, De Visser, JGM
+
+Summary: 
+
+In most long-term laboratory evolution experiments, organisms are exposed to a constant selection regime that initially causes a large reduction in fitness. However, the ecological relevance of this treatment may be questioned: under natural circumstances, environmental variables likely vary with time. We were interested in how the rate of directional environmental change affects the evolution of heavy metal tolerance in Saccharomyces cerevisiae. To this end, we grew replicate lines of yeast for 500 generations in the presence of (i) a constant high concentration of Cd, Ni or Zn or (ii) gradually increasing concentrations of these metals. We anticipated that these contrasting selection regimes would result in different adaptive dynamics and evolutionary endpoints, as the shape of the fitness landscape changes as a function of metal concentration. More specifically, we propose the following alternative scenarios: 1) the most resistant genotype is most fit at all metal concentrations, but strength of selection is proportional to concentration 2) the optimal genotype changes with concentration, such that the optimal genotype at intermediate concentrations will confer an intermediate level of tolerance. These scenarios predict that a gradual increase of metal concentration (as opposed to a constant high concentration) causes mutations of large effect to be fixed at later time points (scenario 1), only mutations of small or intermediate effect to be fixed (scenario 2) and, if the fitness landscape is rugged, evolutionary endpoints to be fitter and more diverse (both scenarios). Here, we present results from competition assays that were used to determine the relative fitness of evolved and ancestral isolates and thus differentiate between the alternative hypotheses. Although evolutionary dynamics differed between the treatments, evolutionary endpoints had a similar fitness, reflecting a smooth fitness landscape that changes as a function of metal concentration.
+
+Elisabetta Versace
+Vetmeduni Vienna
+Institut für Populationsgenetik
+Austria
+Experimental evolution uncovers environment dependent fitness differences among Wolbachia strains in Drosophila melanogaster
+poster D23SY01PS0203
+
+Author(s): Versace, E, Schlötterer, C
+
+Summary: 
+
+Natural populations of Drosophila melanogaster carry different Wolbachia strains, but it is not clear whether these Wolbachia strains are functionally diverged. To address this question, we exposed a natural D. melanogaster population to two different environments (hot and cold) and traced the relative frequency of different Wolbachia haplotypes during the experiment. Our D. melanogaster population sample from Portugal contained a highly polymorphic Wolbachia population in which three of the six described clades were present. Using Pool-Seq, we found that in the hot environment the Wolbachia composition remained remarkably stable over 37 generations. In the cold environment, however, Wolbachia strains from two clades increased in frequency. To distinguish between host and Wolbachia mediated effects, we exposed flies that evolved for 37 generations in the hot environment to the cold environment. Interestingly, we observed a very similar pattern to the previous experiment, suggesting that Wolbachia from two clades have a fitness advantage in the cold environment.
+
+Alison Duncan
+Universite of Montpellier 2
+France
+Experimental host-parasite coevolution in temporally variable environments
+talk D23SY01RT14:24R2
+
+Author(s): Duncan, AB, Jacob, F, Dusi, E, Hochberg, M, Kaltz, O
+
+Summary: 
+
+Antagonistic, host-parasite coevolution is predicted to be an important driver of genetic change. Despite this, few examples exist from natural populations, possibly because temporal environmental variation may interfere with the co-evolutionary process.
+
+Here we investigate experimental co-evolution between Pseudomonas fluorescens and its phage SBW2F2 in a fluctuating temperature environment, changing between permissive (28ºC) and restrictive (32ºC) conditions, for phage populations. We investigated how the frequency of environmental change influenced coevolution in populations experiencing temperature switches every 2, 4 or 8 days, over a 16-day period. Phage persistence is severely reduced at 32ºC, thus we hypothesised that longer periods at 32ºC would be detrimental for the phage.
+
+We found that coevolutionary dynamics under fine-grained fluctuations (every 2 or 4 days) did not differ from the constant 28ºC control. Contrary to expectation, coarse-grained fluctuations (every 8 days) benefited phage populations, despite extended periods at 32ºC. During periods of 32ºC, bacteria flourished in an environment where phage were unable to infect, but also lost previously acquired resistance. Although infections did not occur at 32ºC, all phage populations persisted. Accordingly, once populations were returned to 28ºC, phage benefitted from high infection rates of susceptible bacteria. Our results highlight the need to consider temporal environmental heterogeneity when investigating coevolutionary interactions.
+
+Louis Du Plessis
+ETH Zürich
+Environmental Systems Sciences
+Switzerland
+Exploring the validity of representing high-dimensional fitness landscapes with a quadratic approximation
+poster D23SY01PS0765
+
+Author(s): Du Plessis, L, Bonhoeffer, S
+
+Summary: 
+
+A predictive model for in vitro replicative fitness of HIV, that estimates main fitness effects and epistatic interactions of mutations with a generalized kernel ridge regression, was presented in [1]. The predictive power of the resulting quadratic approximation was found to be high when testing on an independent dataset. A quantitative analysis of the resulting fitness landscape further showed that it was less rugged, less neutral and more correlated than expected [2]. However, due to the high-dimensionality of the sequence space it is intractable to assess its performance on all possible sequence variants.
+
+We evaluate the regressor’s generalization performance by approximating quasi-empirical fitness landscapes based on RNA secondary structure. This is the only known system where a genotype-phenotype map can be easily and accurately computed [3]. Although fitness does not solely depend on RNA secondary structure, it is a good proxy. Unbiased datasets and datasets biased to contain sequences close to the target genotype or phenotype are simulated. Fitness is measured as a combination of thermodynamic stability and the distance to a target structure. The model is alternately trained and tested on each pair of datasets. In addition, the approximations are compared to the real quasi-empirical fitness landscapes with respect to ruggedness, neutrality and correlation length. Together, this provides an analysis of the validity of using a quadratic approximation to represent high-dimensional fitness landscapes.
+
+[1] Hinkley, T., Martins, J., Chappey C. et al. A systems analysis of mutational effects in HIV-1 protease and reverse transcriptase. Nat Genet, 43, 2011. [2] Kouyos, R.D., Leventhal, G.E., Hinkley, T. et al. Exploring the complexity of the HIV-1 fitness landscape. PLoS Genet, 8(3) 2012. [3] Schuster, P., Fontana, W., Stadler, P.F. and Hofacker, I.L., From sequences to shapes and back: A case study in RNA secondary structures. Proc R Soc B, 255(1344) 1994.
+
+Jasmine Ono
+University of British Columbia
+Department of Zoology
+Canada
+Genetic interactions between beneficial mutations in Saccharomyces cerevisiae
+talk D23SY01RT15:12R2
+
+Author(s): Ono, J, Gerstein, AC, Otto, SP
+
+Summary: 
+
+Independently evolving populations may adapt to similar selection pressures via different genetic changes. The interactions between such changes can then inform us about the underlying fitness landscape, allowing us to determine whether gene flow would be facilitated or hampered following secondary contact. We used Saccharomyces cerevisiae to measure the genetic interactions between independently evolved first-step mutations to the fungicide nystatin. We found that genetic interactions are prevalent, even among the first adaptive mutations. In the adaptive environment, the more beneficial mutation often masks the other, less beneficial one. This would allow a population fixed for the less beneficial allele to acquire and fix a more beneficial allele - thus continuing to climb the adaptive peak. In one case, however, reciprocal sign epistasis was observed, indicative of a fitness valley between two peaks. This is surprising given the small number of mutations combined and the relative simplicity of the adaptive environment.
+
+Daniel Goldhill
+Yale University
+Ecology and Evolutionary Biology
+United States
+Genetic robustness and environmental robustness in an RNA virus
+talk D23SY01RT14:48R2
+
+Author(s): Goldhill, D, Turner, PE
+
+Summary: 
+
+Robustness, the ability of phenotypes to withstand perturbation, is often categorized into environmental robustness, resistance to environmental change, and genetic robustness, resistance to mutation. Determining how robustness interacts with the fitness landscape is vital to increasing our understanding of how organisms successfully adapt to changing environments. Studies in proteins and RNA molecules have shown that areas of the fitness landscape with high environmental robustness have high genetic robustness, a property that has been termed plastogenetic congruence. However, it is unknown how environmental and genetic robustness relate at higher levels of biological organization such as organisms. We have experimentally evolved an RNA virus, ?6, to have higher resistance to heat shock, a form of environmental robustness. We have tested the virus for genetic robustness using a mutagen and shown that the evolved virus maintained higher fitness and therefore had higher genetic robustness. Previous work with this virus has shown that increased genetic robustness does not necessarily lead to increased environmental robustness. Our investigations of the mutations leading to increased robustness allow us to suggest a mechanism linking environmental and genetic robustness in an RNA virus. The study of robustness at the level of a virus provides insight into the nature of the fitness landscape and may help predict evolutionary trajectories.
+
+Lilia Perfeito
+Instituto Gulbenkian de Ciência
+Portugal
+Impact of gene architecture on the adaptation rate
+talk D22SY01RT11:18R2
+
+Author(s): Perfeito, L, Godinho Ferreira, M
+
+Summary: 
+
+The accumulation of spontaneous beneficial mutations is one of the drivers of survival and adaptation in novel environments. Predicting the fitness effects of mutations and explaining them from a functional point of view are among the major goals of modern evolutionary biology. The rate and effects of spontaneous beneficial mutations are expected to depend on the environment, on demography and on genotype. Different models have been proposed to predict and explain the effects of new mutations from the underlying phenotypes. Here we measure the adaptation rate of fission yeast strains with different genome architectures. These strains have identical gene composition. However, they vary in gene expression and show substantial variation for fitness. By following the course of evolution of neutral markers in populations of these strains, we are able to estimate the rate and distribution of effects of new mutations. We use a variant of Fisher's geometrical model (FGM) which can explain the data, while capturing the functional details of the system. FGM predicts that the adaptation rate is a function of initial fitness, even when these differences come from changes affecting multiple genes, as is the case with genomic rearrangements. Our results, taken together with recent observations in experimental evolution, point to the existence of a single peaked landscape with minute complexities at the microscopy level, but a smooth upward climb on the macroscopic level.
+
+Anita Melnyk
+Faculty of Science at the University of Ottawa
+Department of Biology
+Canada
+Landscape ruggedness reduces genomic parallelism in experimental populations of Pseudomonas
+talk D22SY01RT11:42R2
+
+Author(s): Melnyk, AH, Kassen, R
+
+Summary: 
+
+The repeatability of adaptive evolution depends on the ruggedness of the underlying adaptive landscape, how fitness varies as a function of phenotype or genotype. Rugged landscapes are thought to promote divergent adaptation, with genotypes evolving towards distinct genotypic and phenotypic solutions determined by the number of available fitness peaks. By contrast, genotypes evolving on a smooth landscape containing a single adaptive peak are expected to converge on a single genotypic and phenotypic solution. Here we evaluate the genomic consequences of adaptation on rugged and smooth landscapes by quantifying the degree of genic parallelism observed following adaptive evolution by genetically distinct starting genotypes of Pseudomonas fluorescens evolving on two single carbon substrates, xylose and glucose. Previous work showed that these substrates differ in the number of adaptive solutions available to these genotypes, with xylose being a relatively more rugged landscape than glucose. We find that, consistent with expectation, DNA sequence evolution is less parallel in a rugged, compared to a smooth landscape. Our results suggest that the ruggedness of the adaptive landscape has a strong influence on the pattern of genomic evolution.
+
+Nichola Hawkins
+Rothamsted Research
+Biological Chemistry and Crop Protection
+United Kingdom
+Mapping the adaptive landscape of Mycosphaerella graminicola CYP51 under selection by azole fungicides
+talk D23SY01RT11:18R2
+
+Author(s): Hawkins, NJ, Cools, HJ, Fraaije, BA
+
+Summary: 
+
+The evolution of resistance to drugs and pesticides is a prime example of evolution in action. In many cases, such as the evolution of resistance to QoI and MBC fungicides in fungal pathogens of plants, the adaptive landscape is very simple, with a single mutation effectively conferring full resistance. However, in the case of the azole fungicides, multiple mutations in the target-site-encoding gene CYP51 occur in various combinations, with quantitative and epistatic effects on fungicide sensitivity and enzyme function. Epistatic interactions between mutations may result in rugged fitness landscapes, and incomplete cross-resistance between azoles causes the fitness landscape to shift as different fungicides are used. Mycosphaerella graminicola (Mycosphaerellaceae, Ascomycota) is a major foliar pathogen of wheat, causing yield losses of up to 50%. Azoles have been used extensively to control M. graminicola, but many CYP51 mutations have been reported, with up to eight coding changes in one haplotype, reducing the effectiveness of some compounds. Tools available to investigate M. graminicola CYP51 mutations include functional studies through heterologous expression and homologous gene replacement, experimental evolution through UV mutagenesis and in vitro selection, and historical studies with 160 years of archived samples from Rothamsted's Broadbalk long-term winter wheat field experiment. We consider the value of modelling the evolution of M. graminicola CYP51 as an adaptive landscape, both in formulating anti-resistance strategies for azole use in agriculture, and in addressing fundamental evolutionary questions such as historical contingency and the crossing of adaptive valleys.
+
+Ioannis Theologidis
+Instituto Gulbenkian de Ciência
+Portugal
+Reproductive assurance drives mating system transitions to selfing
+poster D23SY01PS0557
+
+Author(s): Theologidis, I, Chelo, IM, Teotónio, H
+
+Summary: 
+
+Evolutionary transitions from outcrossing to selfing are thought to occur because selfing reproductively assures the persistence of populations when mates or pollinators are unreliable. Direct evidence for reproductive assurance is however equivocal, in particular because outcrossing can easily overcome the adaptive benefits of selfing. To test for the impact of reproductive assurance by selfing, we performed invasion experiments of hermaphrodites into predominantly male-female populations of the nematode Caenorhabditis elegans. The invasion and fixation of selfing resulted in adaptation when populations evolved in a new environment that hindered mating. In contrast, when selfing failed to invade, adaptation to the novel environment was compromised because mating was possible. Using Monte Carlo simulations we further explored the factors that might have influenced the invasion dynamics of selfing. We confirm that reproductive assurance was responsible for the experimental transition from outcrossing to selfing.
+
+Josianne Lachapelle
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Selection in different levels of stress and its effects on fitness across a gradient of environmental conditions
+talk D23SY01RT11:42R2
+
+Author(s): Lachapelle, J, Colegrave, N
+
+Summary: 
+
+Most environments are variable over time or space, and the populations that are still surviving today have therefore most likely experienced many different environmental conditions. The performance of a population in a novel environment is likely to depend on its own particular selection history if the amplitude and direction of the correlation between the fitness landscapes of the past and novel environments is highly variable along a gradient of environmental conditions. We tested the prediction that adaptation to an intermediate level of stress would enhance performance across a gradient of permissive to stressful conditions by running a selection experiment in the unicellular alga Chlamydomonas reinhardtii. We selected replicated populations for about 40 generations in different levels of stress along an environmental gradient, and then measured their performance in their own as well as in all other levels of stress. We carried the experiment in six different environmental gradients and using three different strains to determine if the particular fitness landscape of the environment and/or the genetic architecture of the strain have an effect on the universality of the results. The results of this experiment will contribute in increasing our understanding of the effects of selection history on performance across a range of possible future environmental conditions.
+
+Jeong-Man Park
+The Catholic University of Korea
+Department of Physics
+South Korea
+Short-time response function of the modular dilute Sherrington-Kirkpatrick model
+poster D23SY01PS1391
+
+Author(s): Park, J
+
+Summary: 
+
+We consider the short-time energy relaxation of the dilute SK model. We show that the more modular the system, the more rapidly the energy decays at short times. Conversely, a more modular system reaches a less favorable energy at long times in a static environment. We use these results to discuss the dynamics of the modularity order parameter in a system for which the coupling parameters of the dilute SK model change in time, due to a changing environment. Modularity endows the spin glass with a better response function in a changing environment.
+
+Rok Krasovec
+Faculty of Life Sciences of University of Manchester
+United Kingdom
+Social interactions determine mutation rate in Escherichia coli
+poster D23SY01PS1186
+
+Author(s): Krasovec, R, Belavkin, RV, Aston, J, Channon, A, Knight, CG
+
+Summary: 
+
+Spontaneous mutation is the key engine of evolution. It is fully appreciated that mutation rates vary between genotypes and locally over the genome, but how plastic mutation rate can be for a particular site in a particular genotype is far less clear. I will describe our recent findings that rate of mutations conferring rifampicin resistance increase with decreasing density of Escherichia coli cells, and that this mutation rate plasticity is mediated by genes involved in quorum sensing. I will present a view that mutation rate is a plastic trait that can be regulated by cell-cell communication, and go on to discuss how our results might help us to better understand the emergence of de novo genetic resistance in microbial communities.
+
+Siobhán O'Brien
+University of Exeter, Cornwall Campus
+Centre for Ecology and Conservation
+United Kingdom
+The evolution of bacterial mutation rates under simultaneous selection by inter-specific and social parasitism
+poster D23SY01PS0539
+
+Author(s): O'Brien, S, Rodrigues, AMM, Buckling, A
+
+Summary: 
+
+Many bacterial populations harbour substantial numbers of hypermutable bacteria, in spite of hypermutation being associated with deleterious mutations. One reason for the persistence of hypermutators is the provision of novel mutations, enabling rapid adaptation to continually changing environments, such as coevolving virulent parasites. However, hypermutation also increases the rate at which intra-specific parasites (social cheats) are generated. Inter-specific and intra-specific parasitism are therefore likely to impose conflicting selection pressure on mutation rate. Here, we combine theory and experiments to investigate how simultaneous selection from inter- and intra-specific parasitism affects the evolution of bacterial mutation rates in the plant-colonizing bacterium Pseudomonas fluorescens. Both our theoretical and experimental results suggest that phage presence increases, and selection for public goods cooperation (the production of iron-scavenging siderophores) decreases selection for mutator bacteria. Moreover, phages imposed a much greater growth cost than social cheating, and when both selection pressures were imposed simultaneously, selection for cooperation did not affect mutation rate evolution. Given the ubiquity of infectious phages in the natural environment and clinical infections, our results suggest that phages are likely to be more important than social interactions in determining mutation rate evolution.
+
+Stéphanie Bedhomme
+IDIBELL
+PREC
+Spain
+Viral experimental evolution reveals genotypic but not phenotypic historical contingency
+poster D23SY01PS0151
+
+Author(s): Bedhomme, S, Lafforgue, G, Elena, SF
+
+Summary: 
+
+The importance of historical contingency in determining the evolvability of virus has been largely unappreciated. Identifying the constraints imposed by past adaptation is, however, of importance for understanding the evolution of host usage dynamics by multi-host viruses or the emergence of escape mutants that persist in the absence of antiviral treatments. To address this issue, we undertook an experimental evolution approach. Sixty lineages of Tobacco etch potyvirus that differ in their past evolutionary history and degree of adaptation to Nicotiana tabacum, and thus in their position on the adaptive landscape, were allowed to adapt to this host for 15 rounds of within host multiplication and transfer. The degree of adaptation to the new host as well as to the original ones was evaluated and the consensus sequence of each evolved lineage was obtained. Past evolutionary history did not determine the phenotypic outcome of this common host evolution phase. By contrast, historical contingency left footprints at the genotypic level: the majority of host-specific mutations present at the beginning of this experiment were retained in the end-point populations and may have affected which new mutations were consequently fixed. Further divergence between the sequences occurred despite a shared selective environment. Our results imply that viruses are not easily trapped into suboptimal phenotypes and that TEV (re)emergence is not evolutionarily constrained.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

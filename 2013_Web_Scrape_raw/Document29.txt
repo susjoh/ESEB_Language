@@ -1,0 +1,91 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY29: Actively learning evolution: methods and resources
+ Abstracts list Schedule Description
+View only talks or posters
+Maria Romeiras
+IICT-Tropical Research Institute
+JBT
+Portugal
+Building scientific capacity in Cape Verde Islands: integrating different approaches to study the evolution of the endemic flora
+poster D20SY29PS1023
+
+Author(s): Romeiras, MM, Moura, M, Sequeira, MM, Duarte, MC
+
+Summary: 
+
+Understanding the origin and evolution of the Cape Verde endemic flora is essential for the conservation in this Biodiversity Hotspot. A recent funding research project by FCT-Portugal, entitled “Conservation of plant biodiversity in the Macaronesian Hotspot: Integrating phylogenetic, taxonomic, and ecological approaches to study the Cape Verde endemic flora” will address different questions, namely: (a) How does an extraordinarily rich endemic flora evolved? and (b) Why is the flora so threatened and how might its conservation be secured? In this communication we show how the fieldwork activity can play an important role to help graduated students understanding and learning plant evolution; it is expected that at the end of each botanical expedition, students will be able to understand the scientific methods used for the study evolutionary processes in this archipelago. We advocate that international collaborations can build scientific capacity in developing countries and will contribute to influence in a positive way students’ attitudes about biodiversity, as well as, to encourage further studies in this insular ecosystem. Moreover, by stimulating a positive attitude and providing knowledge about biodiversity and the consequences of its loss, students realize why scientists are concerned about the extinction of insular species. Finally, links with local research institutions will be strengthened, as well as with other institutions devoted with Macaronesian flora, namely with Madeira and Azores Universities.
+
+Thomas Meagher
+University of St Andrews
+United Kingdom
+Data Access and Scientific Societies
+talk D20SY29IT10:30R7
+
+Author(s): Meagher, TR
+
+Summary: 
+
+As part of the changing landscape of science, data archiving is becoming a widespread practice. This has in turn created an opportunity to more directly integrate archived data resources into teaching at all levels. For example, it is possible to develop student exercises that reconstruct the underlying analysis presented in published work, and perhaps to explore other dimensions of such work in creative ways. In order to facilitate such exploration-based learning, there is a need for developing scientific data as a teaching tool. An approach to doing so being led by the Ecological Society of America, in collaboration with the Society for the Study of Evolution and other scientific societies, has been to establish an online resource library of peer-reviewed data-based educational modules, EcoED (http://ecoed.esa.org/). In the very near future, this online resource is planned to grow to include various modules, including one geared to the evolution community, EvoED (http://evoed.evolutionsociety.org/). Integration of the vast online resource into educational modules that encourage exploration and analytical approaches to science is an important step change in science teaching that will promote better understanding among students of science as a process as well as a product.
+
+Guillermo Paz-y-Mino-C
+University of Massachusetts Dartmouth
+Biology
+United States
+The Jackprot Simulation: slot-machine model to teach the non-random nature of protein evolution
+talk D20SY29RT11:42R7
+
+Author(s): Paz-y-Mino-C, G, Espinosa, A
+
+Summary: 
+
+Protein evolution is not a random process. We use slot-machine probabilities and ion channels, in an inquiry-based learning scenario, to show biological directionality on molecular change. The slot-machine represents the cellular chemical apparatus, product itself of Darwinian evolution, required to generate, step by step, each of the nucleotides coding for an amino acid of a model protein. Teachers and students can access the Jackprot Simulation and run statistical analysis of protein evolution by cutting and pasting nucleotide sequences obtained from the WWW. The Jackprot generates statistics on nucleotide evolution under selection (observed vs. expected values) and at random (without selection). We will use the following example when explaining hands-on how to use the Jackprot: Because ion channels reside in the lipid bilayer of cell membranes, their residue location must be in balance with the membrane’s hydrophobic/philic nature; a selective ‘pore’ for ion passage is located within the hydrophobic region. We will contrast the random generation of DNA sequence for KcsA, a bacterial two-transmembrane-domain (2TM) potassium channel, from Streptomyces lividans, with an under-selection scenario, the ‘Jackprot,’ which predicts much faster evolution than chance. We will distribute guidelines on how to use the online interface The Jackprot Simulation (JAVA APPLET Version 1.0) to model a numerical interaction between mutation rate and natural selection during the scenario of polypeptide evolution. Winning the ‘Jackprot,’ or highest-fitness complete-peptide sequence, requires cumulative smaller ‘wins’ (rewarded by selection) at the first, second and third positions in each of the 161 KcsA codons (‘jackdons’ that led to ‘jackacids’ that led to the ‘Jackprot’). The ‘Jackprot,’ as didactic tool, helps students understand how mutation rate coupled with natural selection suffice to explain the evolution of specialized, complex proteins. Student learning data will be shared.
+
+Juan Arroyo
+University of Seville
+Department Plant Biology and Ecology
+Spain
+The mismatch between education and research on Evolutionary Biology in Spain
+poster D20SY29PS1359
+
+Author(s): Arroyo, J, Serra, M, Verdú, M, González-Candelas, F
+
+Summary: 
+
+Since the Renaissance, cultural traditions, moral prejudices and social structure have hindered the development of modern science in Spain, with a minor burst during the 18th c. Political instability during second half of the 19th c. was also coincident with the development of Darwinian ideas, which had little impact on the Spanish cultivated class, with some noteworthy exceptions. This situation spanned most of the 20th c. until the economical burst of the 60’s, when science became a pursuit of increasing interest for Spanish leaders. With the advent of democracy in the late 70’s and early 80’s scientific achievements became a prominent goal progressively assumed by a rapidly growing middle class and normalized research programs and procedures were established. As a result, Spain currently ranks ninth in the world in the amount of relevant scientific production. Biology has shown a paradigmatic progress, and evolutionary biology has been one of its fastest growing fields. In contrast, teaching of evolution at different educational levels, from secondary schools to postgraduate programs, has been surprisingly neglected. Thus, evolutionary biology shows a mismatch between teaching ad research that deserves an explanation. Here we present statistics that document the extent of the mismatch. By comparing with other countries and other science fields, we examine what the possible causes might be. We propose that evolutionary-like processes such as founder effects and drift due to initial low number of practitioners, or selective processes against individuals in non-organized groups, might explain this distortion. Mirroring evolutionary processes, social processes such as those involving a scientific community have some delay in showing the consequences, which we aim to foresee in the hope of preventing them.
+
+Ricardo Noguera-Solano
+Facultad de Ciencias UNAM
+Departamento de Biologia Evolutiva
+Mexico
+The role of chance in Evolution: how to teach it in the classroom
+poster D20SY29PS0424
+
+Author(s): Noguera-Solano, R, Ruiz-Gutierrez, R, Alvarado, VH, Rodriguez-Caso, JM
+
+Summary: 
+
+Comprehend the role of chance in evolutionary processes has been one of the most notorious difficulties in the practice of teaching and learning of evolution. Historical research has noted the persistence of teleological and finalist thinking even after taking courses of evolution. The proposal is based on the builder metaphor (or the architect metaphor) used by Charles Darwin to explain the causal disconecction between variation’s origin and the process of natural selection (C. Darwin, 1868, The variation of animals and plants under domestication). Darwin developed this rethoric form to show the contingency (or chance) in the evolutionary history of the species, and to explain that variations that arise from natural causes, they do not have in their origin any relation to the adaptive role that variations have in the life history of organisms. This proposal is divided in three sections: First, a description of the builder metaphor; second, how the metaphor can be used to explain the role of chance in a human-made construction: a “stone snake”, and third, an explanation of the role of chance in the origin and evolution of rattlesnakes (Crotalus sp), emphasizing the following characteristics: elongated body, lack of limbs, flathead distinguished from the body, and three specific characteristics of the genus Crotalus: specialized dentition or solenoglyph, sensitive pits to infrared light and the rattlesnake. This proposal is intended for teachers of upper secondary education and seeks to explain schematically trough illustrations the role of chance in evolutionary processes.
+
+Tania Jenkins
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Visualising the development of evolutionary thought: a graphical outreach project
+poster D20SY29PS1344
+
+Author(s): Jenkins, T, Quick, M, Posavec, S
+
+Summary: 
+
+The general public remains confused about evolution. To prevent creationism from taking hold, there is a pressing need for both clarification and – just as importantly – inspiration. The aim of this infographic is to trace the progression of evolutionary thought from pre-Darwinian times to the present in a visually striking way. Standing at the intersection of science and art, this work shows through an innovative use of colour, text and graphics how evolution by natural selection has come to be established as the dominant force explaining the diversity of life. Our aim is to communicate the facts of evolution – but also inspire and excite – using a creative, compelling design to attract the eyes of people not normally interested in science. This poster will be made available both on request and online.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

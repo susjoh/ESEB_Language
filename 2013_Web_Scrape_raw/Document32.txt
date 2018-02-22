@@ -1,0 +1,564 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY32: Climate change and evolution
+ Abstracts list Schedule Description
+View only talks or posters
+Henrik Krehenwinkel
+Max Planck Institute for Evolutionary Biology
+Evolutionary Genetics
+Germany
+A genetic and ecological dissection of the recent range expansion of the European wasp spider Argiope bruennichi - Consequence of climate change?
+talk D20SY32RT14:00R2
+
+Author(s): Krehenwinkel, H, Tautz, D
+
+Summary: 
+
+Rapid, poleward range expansions are observed for an increasing number of species and commonly attributed to global warming. The role of contemporary adaptation in facilitating such range shifts is often neglected and remains to be discussed. A typical example for a recent range shift is provided by the European wasp spider Argiope bruennichi. Originally limited to the Mediterranean region, the species has greatly expanded its range in the past century and can now be found as far north as Finland. Here we present a detailed phylogeographic analysis of the spider’s range expansion, using mitochondrial DNA sequences, nuclear microsatellites and SNPs. We base our study on a dense, range wide sampling of more than 2000 contemporary samples and about 500 historical museum specimens from the time before the range expansion. The study is complemented by morphological data, thermal tolerance and -preference tests and a reciprocal transplant experiment of native and invasive European wasp spider populations. Using historical DNA, we can show that the spider’s range expansion is accompanied by an increasing admixture of formerly isolated, genetic lineages. At the same time, morphological changes are evident in invasive spiders. The reciprocal transplant experiment indicates local adaptation of recently established populations to their colder overwintering conditions. Moreover, our experiments show that invasive spiders have lowered their temperature tolerance and -preference, indicating a shift of their temperature niche. Based on these results, we speculate that genetic admixture at the species range edge has recently enabled an adaptation of wasp spiders to cold Northern European climates. Currently, we are investigating the genomic signatures of this adaptation, using a whole genome sequencing approach along environmental gradients.
+
+Mauro Zampiglia
+Università della Tuscia
+Dipartimento di Scienze Ecologiche e Biologiche
+Italy
+A hotspot on fire: predicted impact of climate change on genetic diversity and disease tolerance in the endangered Apennine yellow-bellied toad Bombina pachypus
+poster D20SY32PS1448
+
+Author(s): Zampiglia, M, Canestrelli, D, Bisconti, R, Chiocchio, A, Nascetti, G
+
+Summary: 
+
+Climate change, emerging infectious diseases and levels of population genetic diversity can ‘conspire’ in yielding the decline and extinction of populations and species. We modeled species distribution and carried out a climate change vulnerability assessment for the endangered Bombina pachypus, an Italian endemic toad recently hypothesized to be faced with such ‘conspiracy’. For this species, southern Italy is the hotspot of genetic diversity and of disease tolerance to the chytrid pathogen Batrachochytrium dendrobatidis. This area showed the highest bioclimatic suitability for B. pachypus based on data for the years 1951-2000. Forecasted species distribution to 2080, under various models and emission scenarios, suggests that this area will become progressively less suitable, or even unsuitable for B. pachypus. Thus, loosing most of its evolutionary potential and historical resources to cope with chytrid outbreaks, B. pachypus will face a high extinction risk in the near future. On the other hand, in the northern regions, where populations are almost genetically invariable and demographically inconsistent, habitat suitability is predicted to increase in the near future. We suggest that captive breeding programs aimed at supporting translocation of genetic diversity from southern into northern populations (i.e. genetic rescue), are the only conservation actions with non-null probability to counteract this negative trend, and to attempt avoiding the human-driven extinction of this threatened amphibian species.
+
+Katja Leicht
+Eawag (but enrolled in the University of Jyväskylä, Finland)
+Department of Aquatic Ecology
+Switzerland
+Adaptive potential in a snail population
+poster D20SY32PS0634
+
+Author(s): Leicht, K, Seppälä, O
+
+Summary: 
+
+Adaptation to climate conditions is crucial for the existence and distribution of species and knowledge of adaptive potential will help us to predict how populations will be affected by climate change. Within-population genetic variation is the prior requirement for adaptation to changing environmental conditions, e.g. global warming. Here we examined if genetic variation in the responses to environmental change exists in a freshwater snail Lymnaea stagnalis. We exposed maternal family-lines originating from a Swiss snail population to thermal conditions similar to those during heat waves and assessed its effect on snail reproduction and immunocompetence. We found that high temperature increased snail reproduction and reduced immunocompetence. In addition we found family-level variation in snail reproduction and in all measured immune traits. However, we did not find family-level variation in response to a rise in temperature in any trait we measured indicated by non-significant family by temperature interactions. This suggests limited genetic potential to adapt to the predicted increase in the frequency of heat waves owing to climate change.
+
+Victoria Pritchard
+University of Turku
+Department of Biology
+Finland
+Characterization of expression quantitative trait loci (eQTL) associated with response to thermal stress in the threespine stickleback, Gasterosteus aculeatus
+poster D20SY32PS1156
+
+Author(s): Pritchard, VL, Merilä, J, Nikinmaa, M, Primmer, C, Sävilammi, T, Viitaniemi, H, Leder, E
+
+Summary: 
+
+Ongoing climate change will expose populations to altered thermal regimens, which are likely to include more frequent and higher temperature maxima. Whether and how a resident population can withstand or adapt to these new conditions will depend on the genetic architecture underlying responses to temperature changes. This includes both coding genes and the regulatory regions that govern expression of these genes. Recent advances enabling the quantification of transcription levels for a large number of genes and the genotyping of many thousands of genetic markers throughout the genome, together with novel statistical methods, are facilitating the identification of such regulatory regions via expression quantitative trait locus (eQTL) analysis.
+
+The threespine stickleback (Gasterosteus aculeatus) is an important model organism in evolutionary biology. The species occurs as resident populations in a wide range of habitats with different thermal profiles. We used sticklebacks derived from the Baltic coast of Finland to identify and localize eQTLs underlying changes in gene expression in response to thermal stress. Experimental subjects comprised 600 individuals in 30 sib–halfsib families, half of which were subject to a thermal challenge immediately prior to tissue collection. Liver mRNA expression was subsequently quantified using Agilent custom microarrays. Over 2000 genes were found to be differentially expressed between control and treatment groups. Genotyping of the families by sequencing on the Illumina platform, in combination with the existing G. aculeatus genome, was used to generate a linkage map that included over 10,000 SNPs. This enabled us to characterize and explore the regulatory networks underlying these changes in gene expression.
+
+Jouni Taskinen
+University of Jyväskylä
+Department of Biological and Environmental Sciences
+Finland
+Climate and trematode-mollusk relationship
+poster D20SY32PS0775
+
+Author(s): Taskinen, J, Choo, JM
+
+Summary: 
+
+In trematode-mollusk relationships, climate warming may affect cercaria larvae production, virulence and competition between parasite species. In the present study we investigated the host-parasite relationship of the bucephalid trematodes Rhipidocotyle fennica and R. campanula which are transmitted from the unionid bivalve A. anatina to the second host, cyprinid fish Rutilus rutilus, via cercariae produced in the bivalve host. Results suggest that the annual period of cercarial production has become markedly longer in both parasite species from 1980’s to 2012—during the period of a climatic increase in temperature and length of summer. As compared to R. fennica, the parasite R. campanula started to produce cercariae much earlier in summer, resulting in a longer ceracariae production period annually. Early start of larval production was made possible in R. campanula by having cercaria production machinery ‘on standby’ throughout the year while R. fennica become inactive during winter. In line with this, R. campanula occurred in higher prevalences than R. fennica in northern areas, opposite to the south. The shorter summers towards north eventually limit the cercariae production period of the parasites, but due to the earlier onset of cercarial emission R. campanula is probably able to inhabit higher latitudes than R. fennica. However, R. campanula appeared to be more virulent than R. fennica (in terms of host survival and reproduction) which may be a cost of R. campanula’s ability to start cercariae production early seasonally. Impact of experimental temperature increase on annual cercarial production was positive in R. fennica but zero or negative in R. campanula. Thus, climate warming should benefit more R. fennica, and expand its range to the north. To conclude, climate change will presumably affect geographic distribution and abundance of Rhipidocotyle parasites, as well as modify the evolution of their virulence.
+
+Ary Hoffmann
+University of Melbourne
+Genetics
+Australia
+Climate change adaptation: genetic and genomic approaches in Drosophila
+talk D20SY32RT18:33R2
+
+Author(s): Hoffmann, AA
+
+Summary: 
+
+It is being increasingly appreciated that rapid evolutionary changes can help species counter the negative effects of global warming, and also that they can allow species to exploit favourable conditions provided in a warming world. There are now several well documented cases of rapid genetic change in response to natural and experimental warming in animals and plants. The genetic and genomic basis of these changes can be understood through comparisons of populations. Moreover, the genes and genomic regions identified in these comparisons can be further investigated through functional analyses on model organisms and along environmental gradients. Because related species often differ in their evolutionary potential, there is also an opportunity to investigate the genomic basis of limits to climate change adaptation, particularly as more sequenced genomes become available. I illustrate the opportunities provided through this framework by considering recent research on Drosophila. However I also highlight limitations of these approaches for predicting the dynamics of adaptive shifts in populations. Ideally genetic and genomic approaches need to be combined with quantitative studies of selection in populations.
+
+Carolin Wendling
+Alfred Wegener Institut for Polar and Marine Research
+Coastal Ecology
+Germany
+Climate change, host-parasite interactions and species invasions: an experiment initiated by Nature
+poster D20SY32PS0529
+
+Author(s): Wendling, CC, Wegner, MK
+
+Summary: 
+
+Biological invasions can be considered as an experiment performed by nature. They offer a unique way to study adaptation to new environments with all facets of new biotic and abiotic challenges like climate change and disease. On top of that, rising temperatures and risk of disease can interact and intensify selection pressure on invasive species to immunologically adapt to local parasites. The invasion of the Pacific oyster, Crassostrea gigas into the North Sea, is an ideal system to study the interactive effects of climate change and disease. Two independent invasions lead to the establishment of two genetically distinct populations, that differ in their selective history of disease outbreaks. While the Southern population is frequently subjected to natural selection induced by oyster summer mortality, with mortality rates exceeding 60%, Northern populations and hybrids in a secondary contact zone have been spared so far. Here, the interaction of high temperatures and bacteria of the genus Vibrio are believed to be the main causative agents of such mortalities. To test for differential selection gradients within the two invasion waves, we infected wild and artificially bred oysters with allopatric and sympatric Vibrio splendidus strains at prevailing and proposed future water temperatures. Based on mortality rates, immune response, and bacterial infection loads we observed that at high water temperatures oysters were severely impacted by Vibrio infection. However, while we consistently observed specific host immunological adaptation to sympatric parasites also at lower temperatures, direct advantages in terms of host fitness could only be detected at high temperatures indicating that the selective environment can unveil otherwise cryptic patterns of local adaptation.
+
+Eike Dusi
+Faculty of Environmental Sciences of Technische Universität Dresden
+Institute of Hydrobiology
+Germany
+Climate warming: Who suffers more in a host-parasite
+poster D20SY32PS1435
+
+Author(s): Dusi, E, Krenek, S, Sachse, R, Kaltz, O, Berendonk, TU
+
+Summary: 
+
+Climate change can alter species distributions, interactions and community compositions. Further, it can accelerate evolutionary processes. In host-parasite interactions it is difficult to predict whether the parasite or the host benefits most from global warming, because milder winter periods or higher nighttime temperatures can cause changes in development or transmission rates and may support the host/parasite. This study focuses on parasite virulence and prevalence in the context of stressful temperature conditions. We examined different strains of the host species Paramecium tetraurelia, a common freshwater ciliate, infected with the obligate intracellular bacterium Caedibacter taeniospiralis. This parasite is located in the cytoplasm of its host and vertically transmitted. An experimental approach was used to investigate if parasite virulence, defined as host’s fitness reduction caused by the parasite, is increasing under acute stress temperature conditions. Fitness of infected and uninfected P. tetraurelia was measured and the fitness-reduction/virulence was calculated at five different temperatures including a host stress temperature. The virulence caused by C. taeniospiralis was rising with higher temperature, but parasite prevalence was reduced at the host stress temperature. In an evolutionary context, the parasite could go extinct under acute stress conditions and the host would become cured of infection. Therefore, it was also tested how the parasite evolves under stress and optimum temperatures in long-term. The parasites that evolved under stress conditions seem to reduce costs to the host while having a higher prevalence compared to parasites that evolved under optimal conditions. Acute and intense stress might harm the parasite and seem to cause its extinction, but the parasite appears to be able to evolve and adapt to high-temperature stress conditions as caused by climate change.
+
+Shai Markman
+University of Haifa -Oranim
+Department of Biology & Environment
+Israel
+Co-evolution overrides climate change in cuckoo and reed warbler arms-race
+poster D20SY32PS0636
+
+Author(s): Markman, S, Berkowic, D, Stokke, BG, Meiri, S
+
+Summary: 
+
+The evolution of host organisms is influenced by their parasites and vice versa, and a co-evolutionary arms race often develops between the two. Evolution is also influenced by climate, but the interaction between co-evolution and climate has largely been overlooked. Here, we show that the co-evolutionary arms race between the parasitic common cuckoo (Cuculus canorus) and its host, the reed warbler (Acrocephalus scirpaceus), overrides climatic factors in affecting the egg sizes of both species. Cuckoo egg volume decreased during the 20th century while reed warbler egg volume in parasitized nests increased, resulting in cuckoo eggs that were closer in size to those of the reed warbler. Egg volumes of sympatric reed warblers in non-parasitized nests, however, remained stable during that period. Cuckoo body size indices remained constant or increased over the same period, whereas reed warbler body size remained stable. Temperature and precipitation were uncorrelated with egg volume of either species. We suggest that cuckoos evolved to lay smaller eggs, to reduce rejection probability. Furthermore, our results point to the possibility that cuckoos may actively selected host nests with the largest host eggs. We suggest that cuckoos recently gained the upper hand in their co-evolutionary arms race with reed warblers, overriding the effects of recent climatic changes.
+
+Agata Plesnar-Bielak
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Complex response in life history traits of the bulb mites in elevated thermal conditions – an experimental evolution approach
+poster D20SY32PS0490
+
+Author(s): Plesnar-Bielak, A, Jawor, A, Kramarz, P
+
+Summary: 
+
+Temperature is a key environmental factor affecting almost all the aspects of life histories in ectotherms. The theory predicts that organisms grow faster, reach smaller sizes and produce smaller offspring when temperature increases. In addition, temperature changes, through their effects on metabolism, may also influence the expression of alternative reproductive phenotypes (ARP). Although many studies investigated reaction norms of life history traits in relation to temperature change, little is known about how these reaction norms evolve. In our study we subjected the bulb mites to experimental evolution in two temperature treatments: control and elevated. After 18 generations we measured adult body size, eggs size and development time of both treatments at control as well as at elevated temperature. Thus, we were able to distinguish genetic changes (the effect of selection temperature) from environmental effects. The ARP expression was recorded in each generation. We found that mites developed faster and reached smaller sizes at increased temperature, but genetic effects of thermal adaptation were not always parallel to the observed reaction norms revealing quite complex patterns of life history traits response to temperature. Despite smaller body sizes females laid larger eggs at higher temperature. This effect was more pronounced in animals evolving at elevated temperature. Evolution at increased temperature affected also ARP expression with the proportion of armored fighters decreasing from generation to generation. We propose that this could be the consequence of temperature sensitiveness of cost to benefits ratio of expressing ARPs.
+
+Luis Castañeda
+Universitat Autònoma de Barcelona
+Departament de Genètica i Microbiologia
+Spain
+Vanishing chromosomal inversion clines in Drosophila subobscura from Chile: is behavioral thermoregulation to blame?
+poster D20SY32PS0174
+
+Author(s): Castañeda, LE, Balanyà, J, Rezende, EL, Santos, M
+
+Summary: 
+
+Chromosomal inversion clines paralleling the long standing ones in native Palaearctic populations of Drosophila subobscura evolved swiftly after this species invaded the Americas in the late 1970s and early 1980s. However, the new clines did not consistently continue to converge on the Old World baseline. Our recent survey of Chilean populations of D. subobscura shows that inversion clines have faded or even changed sign with latitude. Here we investigate the hypothesis that this fading of inversion clines might be due to the Bogert effect; namely, that flies’ thermoregulatory behavior has eventually compensated for environmental variation in temperature, thus buffering selection on thermal-related traits. We show that latitudinal divergence in behavioral thermoregulation has evolved in Chile for females, with higher latitude flies having a lower mean of thermal preference. Plastic responses in thermal preference also lessen latitudinal thermal variation because flies developed at colder temperatures prefer warmer microclimates. Our results are consistent with the idea that active behavioral thermoregulation might buffer environmental variation and reduce the potential impact of thermal selection on other traits as chromosomal arrangements.
+
+Miguel Cunha
+Faculty of Sciences of the University of Lisbon
+Centro de Biologia Ambiental / Departamento de Biologia Animal
+Portugal
+Variable association between inversions and wing traits in Drosophila subobscura: are there consistent differences between continents?
+poster D20SY32PS0393
+
+Author(s): Cunha, MAL, Simões, P, Fragata, I, Lima, M, Kellen, B, Bárbaro, M, Santos, M, Matos, M
+
+Summary: 
+
+Clinal variation for wing size and shape as well as for chromosomal inversion frequencies has been found in Drosophila subobscura from Europe as well as North and South America. Particularly it has been reported that standard arrangements increase in frequency towards higher latitudes, where flies are also bigger. In the New World the rapid evolution of body size clines as a follow up of clinal evolution of inversions, suggested that the wing traits cline had been driven by the inversion polymorphism. Previous studies, in favor of this hypothesis, found an intra-population association between wing traits (size and shape) and standard chromosomal inversions. Nevertheless, it was also found that the association (for shape) or details of it (for size) had opposite signs in one European population (Adraga) and one South American population (Puerto Montt). This is probably due to a bottleneck effect following the colonization of the Americas. Despite this interesting finding it is still unknown if this is a generalized difference between continents. To tackle this question we here tested for the consistency of the association between wing traits and inversions in three populations along the cline of Europe as well as South America. Surprisingly we found no clear association between wing size and the number of standard inversions in either continent. On the other hand, we confirmed that the previously reported negative association between wing shape and standard dose of Puerto Montt spread with latitude through other South America populations. This is not in agreement with the positive sign of the cline for both wing shape and inversions. Overall and contrary to previous indications, this study suggests that the inversion and wing clines in D. subobscura have evolved independently from each other.
+
+Matthieu Bruneaux
+University of Turku
+Department of Biology - Genetics
+Finland
+Constrating signatures of thermal stability evolution in ray-finned fish mitochondrial DNA-encoded proteins
+poster D20SY32PS0786
+
+Author(s): Bruneaux, M, Thalmann, O, Vasemägi, A, Primmer, C
+
+Summary: 
+
+Ray-finned fishes (actinopterygii) have successfully colonized almost all aquatic habitats, exploiting a wide range of temperature, salinity, oxygen level and hydrostatic pressure conditions. Temperature in particular is a strong environmental constraint driving adaptation, and several recent studies have detected signals of selection on mitochondrial genome along latitudinal or altitudinal gradients as well as an interaction between mitochondrial and nuclear genotypes in determining metabolic performance. Numerous actinopterygii complete mitochondrial genomes are now available and crystallographic structures have been determined for most of the 13 mitochondrial DNA-encoded proteins. Concomitantly, studies of the structural differences between mesophilic and thermophilic (optimal growth temperature > 50°C) microorganisms have provided useful insights into the general evolutionary patterns leading to increased protein thermal stability. In this context, we used all currently available actinopterygii mitochondrial genomes in relation with an environmental database (FishBase) to test whether there was an association between the thermal stability of mtDNA-encoded proteins and the environmental temperature commonly inhabited by the species. Several predictors of thermal stability (local structural entropy, amino acid compositional bias, hydrophobicity) were used with and without prior partitioning of the protein sequences into transmembrane and exposed regions. Phylogenetically independent contrasts were calculated to test the relationship between stability and environmental temperature. Signatures of increased predicted thermal stability with increasing environmental temperature were detected for some but not all of the proteins, thus suggesting that environmental temperature constrains the evolution of mtDNA-encoded protein stability in ray-finned fishes but that this constraint is not homogeneous among proteins.
+
+Darren Parker
+University of St. Andrews
+United Kingdom
+Do closely related species use the same genes to adapt to fluctuating environmental conditions?
+talk D20SY32RT14:48R2
+
+Author(s): Parker, DJ, Vesala, L, Ritchie, MG, Laiho, A, Hoikkala, A, Kankare, M
+
+Summary: 
+
+For insects, seasonal fluctuating temperature conditions require the ability to acclimate to lower than optimal temperatures in order to remain active. Cold tolerance in insects has been shown to have a genetic basis in numerous groups; however it is not clear if the underlying genetic basis producing this phenotype is the same across species. We used the SOLiD platform to sequence the transcriptomes of two Drosophila species that diverged approximately 9 Myr ago, D. montana and D. virilis, from both cold acclimated and non-cold acclimated individuals. We established the genes which were differentially expressed between the treatments, allowing us to a) identify the genes and pathways involved in cold acclimation in each of the species and b) test whether they are conserved between the two species. Approximately 150 genes were differentially expressed between cold acclimated and non-cold acclimated treatments in D. virilis and D. montana. The biological processes associated with these genes were broadly similar in both species and included circadian clock regulation and metabolism. Despite being involved in broadly similar biological processes, few specific genes were found to be differentially expressed in both species. This suggests that the underlying genetic basis of cold acclimation in both species uses different genes, but similar pathways, to produce a similar phenotype.
+
+Jörn Scharsack
+University of Münster
+Institute for Evolution and Biodiversity
+Germany
+Do rising temperatures accelerate the evolutionary arms race of hosts and parasites?
+talk D20SY32RT16:09R2
+
+Author(s): Scharsack, JP, Dittmar, J, Schmidt, AM, Franke, F, Kurtz, J
+
+Summary: 
+
+Climate change is expected to impact host-parasite coevolution, but information on effects of climate variables on such systems is sparse. Here, three-spined sticklebacks (Gasterosteus aculeatus) infected with the tapeworm Schistocephalus solidus were experimentally exposed to different temperatures. Hosts and parasites were laboratory offspring of populations from Norway, Spain and Germany. Infections were done at 18°C and temperatures were changed to 13°, 24° or kept at 18°C. Whole transcriptome sequencing (RNAseq, Illumina) was performed with liver RNA from a subset (n=96) of control and infected sticklebacks maintained at 13° and 24°C. Temperature alone had significant effects on the gene expression. Exposure to the parasite boosted the temperature effects on genes expression. At 13°C S. solidus grew slower compared to 18° and 24°C, which might partially be explained by lower metabolic rates, but also by the higher activity of the stickleback’s immune system at 13° compared to 18°and 24°C. This was supported by the gene ontology (GO) analysis of the RNAseq data, which revealed that immune genes of infected sticklebacks were more strongly differentially expressed in infected sticklebacks at 13° compared to 24°C. Parasite growth rates did not simply increase with temperature and were lower at 24° compared to 18°C. This suggests that immune activity of sticklebacks is optimal and represses parasite growth around 13°C, while S. solidus grows best at 18°C. Similar observations were made with different origins of sticklebacks and S. solidus, but Norwegian parasites were more virulent and Norwegian sticklebacks were more resistant than the other origins. In ectothermic systems, at first parasites benefit from rising temperatures, but over-exploitation of hosts at very high temperatures might become maladaptive also for the parasites. The present data suggest that rising temperatures indeed have the potential to accelerate the arms race of hosts and parasites.
+
+Ramiro Morales-Hojas
+The Pirbright Institute
+Vector-borne Viral Diseases programme
+United Kingdom
+Ecological niche evolution, phylogeography and thermal adaptation studies in Drosophila americana suggest it is a plastic species
+poster D20SY32PS0595
+
+Author(s): Morales-Hojas, R, Sillero, N, Reis, M, Vieira, C, Vieira, J
+
+Summary: 
+
+The study of ecological niche evolution is fundamental to understand how the environment influences species distributions and the role it plays in adaptation to divergent environments and species formation. Drosophila americana is widely distributed in North America. It comprises two chromosomal forms distributed in a north-south cline (chromosomes X/4 fused and non-fused, respectively), which is maintained by selection. Here we present a study of the ecological niche evolution and thermal adaptation of D. americana and the two chromosomal forms with the aim of understanding how they respond to a variety of environmental conditions. For this, we have used Ecological Niche Modelling, phylogeographic analysis and performance (locomotor and developmental time) experiments. Temperature is the environmental factor that contributes most to the ecological niches, although the relevance of precipitation is also high in the model of the Southern populations. Thermal performance experiments show no difference in the locomotor activity across a temperature range of 15º to 38ºC between flies from the north and the south of its distribution. Finally, we have modelled the past distribution of the species; its range during the last glacial maximum (LGM) was reduced to the southernmost of North America, while they had a similar distribution during the last interglacial (LIG) as currently. Analysis of the demographic history, nevertheless, detects no bottlenecks during the LGM. These results suggest that D. americana displays a plastic adaptation to the different temperatures of their distribution and do not support niche conservatism in Drosophila.
+
+Carlos Botero
+North Carolina State University
+Initiative for Biological Complexity
+United States
+Environmental tolerances, latitudinal gradients and the potential for speciation in mammals and birds
+talk D20SY32RT11:18R2
+
+Author(s): Botero, CA, Dor, R, McCain, C, Safran, R
+
+Summary: 
+
+Janzen (1967) proposed that the broader temperature tolerances of temperate species should facilitate dispersal across the cold peaks of mountain barriers and therefore should promote latitudinal differences in the potential for speciation. This elegant hypothesis has since been extended to other environmental barriers to dispersal and suggested as a possible driver of latitudinal diversity gradients. Nevertheless, a key prediction –that gene flow across mountain passes, or other environmental gradients, is more likely in species with broader environmental tolerances– has never been tested in a large-scale comparative analysis that controls for the effects of phylogeny and other relevant factors. Here we test these ideas through phylogenetically-informed analyses of the potential for speciation in terrestrial mammals (3136 species) and birds (6694 species). We show that although greater tolerance to rainfall unpredictability reduces significantly the potential for speciation (as measured by the number of subspecies per species), greater tolerance to temperature variability has the opposite effect, even among species whose ranges are dissected by mountains. In addition, we show that the net potential for speciation is higher in temperate than tropical mammals, and that it does not vary significantly with latitude in birds. We discuss the implications of these findings for our understanding of the effects of climate change on global patterns of diversity.
+
+Elena Mosca
+Fondazione Edmund Mach
+Italy
+Environmental vs. geographical molecular adaptation in Alpine conifers
+talk D20SY32RT17:45R2
+
+Author(s): Mosca, E, González-Martínez, SC, Neale, DB
+
+Summary: 
+
+Alpine ecosystems are facing rapid human-induced environmental changes and more knowledge on the adaptive potential of keystone Alpine tree species is needed. This study addresses the question as to whether geographical isolation (IBD) or environmental-driven selection (IBA) is more important for adaptation, based on SNP genotyping of silver fir and larch natural populations in the Alps and Apennines. Genetic structure was tested for both geographical and environmental groups, using AMOVA. For each species, environmental groups were defined using climate variables selected from a multiple factor analysis. Complementary methods were applied to identify outliers based on these groups, and to test for IBD vs. IBA. AMOVA showed weak but significant genetic structure for both group types. Among the potential outliers detected, up to four loci were found for geographical groups and up to seven for environmental groups. A stronger effect of IBD than IBA was found in both species; nevertheless, once spatial effects were removed, elevation in fir and precipitation in larch were relevant factors explaining genetic structure. In Alpine trees, environmental-driven selection and geographical-isolation are both important for adaptation. This process is advantaged by large amount of seeds and strong selection at early stages of establishment.
+
+Jon Bridle
+University of Bristol
+School of Biological Sciences
+United Kingdom
+Evolution on the move: adaptation to use a widespread host associated with responses to climate change in the UK butterfly Aricia agestis
+talk D20SY32RT10:54R2
+
+Author(s): Bridle, J, Buckley, J
+
+Summary: 
+
+A species’ geographical ranges typically consists of many populations differently adapted to local ecological conditions, such as the availability of particular hosts or prey. Specialization on localized resources could prevent species from colonizing new sites where the same resources are not available, limiting their capacity to track climatic changes. Consistent with this, we observe that rapid evolution of host preference as well as morphology related to increased dispersal has been associated with recent range expansion of the Brown Argus butterfly, Aricia agestis. While butterflies in long-established parts of their range exhibit local adaptation, usually showing increased preference for laying their eggs on the locally most abundant host plants, butterflies in recently-colonized areas show a consistent preference for a host plant species (Geranium molle) that is geographically widespread in the region of expansion, despite being locally rare. Reciprocal transplant experiments support these data, and show that recent colonists have lost local adaptations present in the established part of the range. Our data suggest that future anthropogenic warming can be expected to bring about a major restructuring of patterns of local adaptation, and may limit the potential for popuations to continue to evolve in the future.
+
+Friederike Schulz
+Uppsala University
+Department of Ecology & Genetics
+Sweden
+Facing a warming world: temperature adaptation and competition with an invasive species
+poster D20SY32PS0306
+
+Author(s): Schulz, F, Laurila, A
+
+Summary: 
+
+Climate change is one of the main drivers of environmental change, with profound effects on ecology and evolution. Species differ in their tolerance limits, and in their abilities to disperse and to respond to a changing environment. This may lead to mismatches in species interactions or change competitive outcomes. Furthermore, a warming climate can aid non-native species to establish and become invasive, with potentially serious effects on communities and ecosystems.
+
+We studied the competitive outcome between the native snail Theodoxus fluviatilis and the thermo-tolerant exotic snail Potamopyrgus antipodarum under ambient and increased temperature conditions in a field experiment. The experiment was conducted in the Biotest Basin at the Swedish Baltic Sea coast, which receives warmed up cooling water from the Forsmark nuclear reactor plants. As a result, water temperatures have been increased by 4 to 10°C for more than 30 years. We were particularly interested in whether native snails from populations affected by cooling water discharge were better able to compete with the thermo-tolerant invader.
+
+The native Theodoxus showed counter-gradient variation, with cold-origin snails growing faster than warm-origin snails in both ambient and warm temperatures. Thermo-tolerant Potamopyrgus affected Theodoxus growth negatively, and the warm-origin snails were not better at competing with it. Potamopyrgus had very high population growth rates, especially in warm conditions, suggesting that this species may become invasive in the Baltic Sea when temperature increases. The combined pressure of temperature increase and competition may have negative consequences for the native snail species.
+
+Tarmo Ketola
+University of Jyväskylä
+Department of Biological and Environmental Sciences
+Finland
+Fluctuating temperature leads to evolution of thermal generalism and pre-adaptation to novel environments
+poster D20SY32PS0317
+
+Author(s): Ketola, T, Mikonranta, L, Zhang, J, Saarinen, K, Friman, V, Örmälä, A, Mappes, J, Laakso, J
+
+Summary: 
+
+Climate change scenarios do not only expect elevated temperatures but also increased temperature fluctuations. Environmental fluctuations are suggested to select for low levels of plasticity in fitness that is also hypothesized to increase organisms’ ability to invade novel environments and affect virulence of pathogens. We tested these hypotheses and show that across a range of temperatures, opportunistic bacterial pathogen Serratia marcescens that evolved in fluctuating temperature (daily variation between 24 and 38 °C, mean 31 °C), outperforms strains that evolved in constant temperature (31° C) across all measured temperatures. Their better growth was also evident in novel environments with parasitic viruses and predatory protozoans. However, the strains from fluctuating environment were less virulent to Drosophila melanogaster host. Therefore, whilst supporting the hypothesis that evolution in fluctuating environments is paired with tolerance to several novel environments, our results show that adapting to fluctuating environments can also be costly in terms of reduced virulence. Together these results suggest that thermal fluctuations driven by the climate change could affect not only species thermal tolerance but also species’ invasiveness and virulence.
+
+Yuma Takahashi
+Graduate School of Life Sciences, Tohoku University
+Department of Ecology and Evolutionary Biology
+Japan
+Genetic architecture and phenotypic mismatch at range limits in colour polymorphic damselflies
+poster D20SY32PS0165
+
+Author(s): Takahashi, Y, Nagata, N, Kawata, M
+
+Summary: 
+
+What does limit a species’ distribution without any physical barriers? Theoretically, genetic load due to maladaptive gene flow from central populations or absence of genetic variation due to lack of gene flow are hypothesized to constrain adaptation to the novel environment in marginal populations, preventing range expansion. However, the links between gene flow and deviation of fitness-related traits from trait optima along environmental gradient remains largely unclear in nature. Here we examined population genetics and the degree of adaptation of fitness-related traits (body size and wing loading) along the latitudinal environmental gradient using two ecologically similar congeneric damselflies (Ischnura asiatica and I. senegalensis) in Japan which also differ in the absence (I. asiatica) or the presence (I. senegalensis) of female limited colour polymorphism. The former species has its distribution central to Japan and the latter is at its northern biogeographic boundary. At the overlapped geographic region in Japan, the monomorphic I. asiatica showed adaptive latitudinal cline in both body size and wing loading, whereas I. senegalensis showed maladaptive cline in these traits and the degree of maladaptiveness increased near the northern boundary of their distribution. Population genetic analyses found evidence for both asymmetric migration from the south (distribution core) and the loss of genetic diversity near the distribution boundary but only in I. senegalensis. Our study indicates the constraining effects of maladaptive gene flow and lack of genetic variation constrains adaptation at different spatial scales, and cooperatively prevents their range expansion in nature.
+
+David Berger
+Evolutionary Biology Centre, Uppsala University.
+Department of Ecology and Genetics
+Sweden
+Genetic conflict between the sexes and rates of adaptation to climate warming
+poster D20SY32PS1436
+
+Author(s): Berger, D, Grieshop, K, Lind, M, Goenaga, J, Maklakov, A, Arnqvist, G
+
+Summary: 
+
+Intralocus sexual conflict (IASC) occurs when selection favors sex-specific optima in traits that have a shared genetic basis in males and females. This form of genetic conflict plays a key role in evolution and is likely to cause a gender load on population fitness. However, even though theory predicts that IASC may hamper adaptation under environmental change, we know very little about its potential role in affecting evolutionary rates under climate warming. We quantified the intersexual genetic correlation for fitness itself at a benign (29°C) and a stressful (36°C) temperature in the seed beetle Callosobruchus maculatus, by measuring offspring production of males and females from isofemale lines. In the studied population, there is a substantial gender load on fitness at the benign temperature, signified by a negative genetic correlation between male and female fitness. However, the correlation changed sign and became positive at stressful temperature conditions, suggesting that novel conditions may reduce genetic conflict between the sexes and increase rates of adaptation to climate warming. We estimate intersexual genetic correlations for, and sex-specific selection on, key traits likely to be involved in responses to climate warming (metabolic rate, lifespan, water loss, locomotor activity and body size). These data allow testing of two mechanisms that each predicts reduced conflict at stressful temperatures: 1) a release of cryptic genetic variation that has similar effects on fitness in both sexes and increases the opportunity for selection, and 2) a change and alignment of sex-specific selection differentials under stress.
+
+Hélène Audusseau
+Stockholm University
+Zoologi
+Sweden
+Host plant range and climate change: predictions for a butterfly
+poster D20SY32PS0197
+
+Author(s): Audusseau, H, Nylin, S, Janz, N
+
+Summary: 
+
+Although changes in distributions, phenology and species associations are relatively well documented responses to global warming, the potential interactions between these phenomena are less well understood. In this study we investigate the interactions between temperature, phenology and host plant use in the polyphagous butterfly Polygonia c-album. We found that the hierarchy in larval performance on three natural host plants was not modified by temperature, with growth rates above a minimum, allowing the host plant use range to be maintained. However, a potential shift from univoltinism to bivoltinism, because of a longer temporal window for reproduction, would modify host plant use, most likely due to differences in phenological responses of the three host plants. Hence, host range evolution in response to warming would in this species be highly contingent on whether the population undergoes a predicted shift from one to two generations. We conclude that warming can have significant effects on species associations, but that phenological responses among the species involved can lead to complex outcomes.
+
+Iris Aviezer
+Faculty of life sciences of Tel Aviv University
+Department of Molecular Biology and Ecology of Plants
+Israel
+How rapid can rapid evolution be? Differences between semi-arid and Mediterranean populations of Brachypodium distachyon
+talk D20SY32RT15:45R2
+
+Author(s): Aviezer, I, Chamovitz, DA, Sternberg, M, Sapir, Y
+
+Summary: 
+
+Models of future climate change predict a rapid decrease in precipitation and lower water availability in the East Mediterranean region. One consequence of this change will be a northward desertification process into the Mediterranean climate region, threatening the Mediterranean ecosystems. To survive this climate change, plants may adapt by a plastic response, or by an evolutionary-genetic response, which can be either genetic or epigenetic mechanisms. Understanding the rate and direction of evolutionary change of wild plants under climate change will enable better ecosystem management. Natural geo-climatic gradients provide a natural lab for studying the outcome of climate changes. Thus, the arid areas in Israel can serve as the predicted climate in the Mediterranean region following climate change. This study provides evidence for a rapid evolution of phenotypic traits following experimental rapid climate change. We tested different traits of the annual grass Brachypodium distachyon (Poaceae), related to the cereal crops, from Mediterranean and semi-arid sites in Israel. Seeds were collected from both sites after five and ten generations of experimental rain decrease (drought), and morphological and physiological traits were compared in common-garden conditions. We found differences in life-history and morphological traits after five generations only. We also found that while Mediterranean plants can undergo rapid evolution, semi-arid ones are pre-adapted. We argue that plants can adapt to future climate change and undergo a rapid evolution under strong environmental selection. These results are important not only in a conservation perspective but also in an agricultural perspective.
+
+Marija Tanaskovic
+Faculty of Biology, University of Belgrade
+Chair for Genetic and Evolution
+Serbia
+Inter- and intrapopulation hybrids of Drosophila subobscura under temperature stress differ in fitness components
+poster D20SY32PS0929
+
+Author(s): Tanaskovic, MM, Kurbalija Novicic, Z, Kenig, B, Savic Veselinovic, M, Stamenkovic Radak, M, Andjelkovic, M
+
+Summary: 
+
+Temperature is one of the most important variables that determines distribution and abundance of species. In combination with genomic stress, such as inbreeding and/or hybridization, temperature as environmental stress may act synergistically leading to significant decrease of fitness components and deterioration of population survival. The consequences of climate change and habitat fragmentation on genetic structure should therefore be studied in combination rather than separately. We sampled Drosophila subobscura populations from two ecologically different habitats. One is from urban part of Belgrade (Botanical garden) where seasonal and daily temperature fluctuations can be substantial and another from Sicevo gorge with slightly higher average temperature and smaller temperature fluctuations. Isofemale lines (IL) from each population were established, and withinline, intrapopulation and interpopulation crosses were made. Progeny from these crosses was reared at low (16°C) and high (22°C) temperatures and fitness components (egg-to-adult viability and developmental time) of all groups were recorded. The obtained results suggest the population specific response to thermal stress. The crosses within ILs showed lower fitness after exposure to temperature stress which supports the hypothesis that superiority of heterozygous individuals is probably due to the increased metabolic efficiency.
+
+Marta Pascual
+Universitat de Barcelona
+Dept. Genètica, Facultat de Biologia and IRBio
+Spain
+Local adaptation drives latitudinal frequency clines for chromosomal inversions in Drosophila subobscura
+talk D20SY32RT15:12R2
+
+Author(s): Pascual, M, Calabria, G, Dolgova, O, Balanyà, J, Santos, M
+
+Summary: 
+
+Climate change is already impacting the distribution and behavior of many species. Nonetheless, population genetic changes in response to global warming have been observed only for a few species. This is the case of Drosophila subobscura, a native Palearctic species that harbors a rich chromosomal inversion polymorphism with “warm climate” inversions increasing in frequency worldwide. However, the selective process that maintains inversions in populations is not clear yet. The two main hypotheses differ in how the genetic content of inversions varies along a geographical gradient; the local adaptation hypothesis states that an inversion will have the same genetic content in all populations, while the coadaptation model suggests that in each population the genetic content will be different. In order to elucidate which model is more suitable for D. subobscura, we have analyzed ten genes -six of them are candidates for thermal adaptation- located on the longest and inversion richest chromosome O of the species. The most frequent chromosome arrangements in two Spanish populations along a latitudinal gradient were analyzed. No within-inversion genetic differences were detected among populations, which suggest that the gene content along the gradient is rather constant for the various gene arrangements. Although gene flux between different inversions (either by gene conversion or double crossover) was detected, significant genetic differentiation among inversions for all genes mapped within the inverted fragments of the chromosome was found.
+
+Damiano Porcelli
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Local adaptation to climate change: a semi-natural study of the Drosophila subobscura model system
+poster D20SY32PS0819
+
+Author(s): Porcelli, D, Gaston, KJ, Butlin, RK, Snook, RR
+
+Summary: 
+
+Anthropogenic activities are accelerating the rate at which our environment is changing. Such rapid change threatens biodiversity as organisms struggle to cope with stressful environments, for example, increased temperature. To understand how species may adapt to human-driven climate change, we are studying the adaptive genetic responses to natural temperature changes in wild populations of the fruit fly, Drosophila subobscura. This species has a rich history in associating environmental gradients with clinal chromosomal inversion polymorphisms and clinal variations in morphological and physiological traits. To examine genes involved in local thermal adaptation, we used established outdoor enclosures of flies along a temperature (latitudinal) gradient at six European sites (from Sweden to Spain), spanning over 20 degrees of latitude. Flies were sampled under three natural thermal profiles relevant to each locations to investigate differentially expressed genes and changes in expressed allele frequencies between populations by using RNA-seq. The two extreme populations were reciprocally transplanted to distinguish plastic genetic responses from locally adaptive ones. Here we report our preliminary results on the identification of genetic loci potentially involved in the process of local climate adaptation. Such loci may represent genomic hotspots, including within chromosomal inversions, of selection in response to climate change.
+
+Johanna Hedlund
+Faculty of Life Sciences at Stockholm University
+Department of Zoology
+Sweden
+Long-term life-history responses to climate change in the Willow Warbler (Phylloscopus trochilus)
+talk D20SY32RT18:09R2
+
+Author(s): Hedlund, JSU, Jakobsson, S, Fransson, T, Kullberg, C
+
+Summary: 
+
+Birds, and especially long-distance migrants, are excellent indicators of climate-induced phenological change. Advanced spring arrival is a typical response reported in a great number of species. Earlier arrival can lead to e.g. earlier egg-laying and thus have potentially great fitness consequences. Studies have suggested that certain aspects of avian life-history can predict a likely response to climate change. However, some responses, e.g. autumn migration, may vary extensively between species and specific life-history traits may even differ between populations and individuals. Autumn migration have been largely neglected in studies on breeding populations and most studies that investigate phenological shifts have focused on ringing data of individuals of unknown breeding population. To disentangle which life-history traits that need species-specific considerations in climate change contexts temporal data on breeding individuals is required. We present a long-term study on the autumn migratory behaviour of the Willow Warbler over a 25-year period in relation to climatic indices. Specifically, the change in autumn departure of a breeding population of the Island of Gotland in Sweden is considered. We found that the median appearance of juveniles in low moult status, i.e. individuals hatched on the island, have advanced by ca 9 days in 20 years. Migrating individuals have advanced their autumn median passage date by ca 5 days. Spring arrival and egg-laying dates on the island have similarly advanced since the 1990s, indicating a shift in breeding period. The advanced peak appearance of local juveniles suggests that this species, a long-distance migrant able to rear secondary broods, has not extended the breeding period at this location, e.g. in order to have secondary broods, but kept breeding period constant and shifted it forward in time.
+
+Valérie Poncet
+Institut de Recherche pour le Développement
+UMR DIADE
+France
+Molecular data and ecological niche modeling reveal the evolutionary history of the New Caledonian relict Amborella trichopoda (Amborellaceae)
+talk D20SY32RT16:57R2
+
+Author(s): Poncet, V, Munoz, F, Munzinger, J, Pillon, Y, Gomez, C, Couderc, M, Tranchant-Dubreuil, C, Hamon, S, DeKochko, A
+
+Summary: 
+
+Amborella trichopoda Baill. is the sole living member of a lineage (Amborellaceae, Amborellales) that may be over 200 Million years old, long before the re-emergence of present New Caledonia. We investigated the biogeographic history of Amborella using a combined population genetics, species current distribution and palaeo distribution modelling approaches. We present here the first study carried out on Amborella trichopoda genetic and ecological variation in its natural distribution. We analyzed the pattern of genetic structure of 18 populations distributed throughout its geographical range. We found significant differentiation between any pair of locations, and four main well-differentiated, geographically distinct genetic groups were inferred using the Bayesian clustering algorithm in Structure software. To assess and understand the spatial distribution of genetic diversity in relation with habitat suitability, we modeled the ecological niche of Amborella trichopoda using Maxent both in the present-day and during the Last Glacial Maximum (LGM) climatic conditions. The model based on current climatic and environmental conditions (Topography, Rainfall, Temperature, Pedology) fitted well the actual distribution of the species. The southern genetic group appears partly separated from the rest of the populations by an ecological barrier of ultramafic land. For the other groups, we found the cumulated habitat distances to be correlated with geographic distances, so that there was no barrier in suitable habitat that could explain the genetic differentiation of the groups. This suggests other biogeographic constraints, while the genetic differentiation within each of the groups clearly follows the isolation by distance model. Indeed, the spatial delineation of the largest genetic groups is consistent with the forests having been isolated for multiple glacial-interglacial cycles, as predicted by the LGM modeling.
+
+Thadeu Souza
+Doctoral student - University of Campinas
+Genetic and Evolution Department
+Brazil
+Paleodistribution of altitudinal actinote (Lepidoptera: Nymphalidae) species in Brazilian Atlantic rainforest
+poster D20SY32PS1229
+
+Author(s): Souza, TS, Solferini, VNISAKA, Francini, RBASTOS
+
+Summary: 
+
+During the Pleistocene tropical forests passed through expansions and contraction cycles what has been explored for lowland Brazilian Atlantic Rainforest. On the other hand, little has been done on the consequences of climates cycle in the altitudinal environments of the Atlantic Forest. The aim of this work was simulate the effects of Pleistocene climate changes in altitudinal environments of Atlantic rainforest to generate hypothesis for further phylogeographic studies. We collected data on the distribution of Actinote conspícua and Actinote dalmeidai, two Nymphalidae (Insect: Lepidoptera) species of Atlantic Forest endemic of high altitudes along the south of Brazil. We used Maxent to model the actual distribution of this species using 20 variables from Worldclim Database, in 30 arc-seconds resolution. The same database provided the data to model the species distribution at 21kya (the Last Glacial Maximum) and 120-140kya (the Last Inter-Glacial period). In Maxent we used 5 replicates with 10 “random”, response curves and applied the Jackknife test for all variable estimates. The results showed that, compared to the current distribution, both species occupied a wider range at 21kya and a narrower one at 120-140kya. Next step will be a phylogeographic study to contribute to the understanding of the effects of Pleistocene climate fluctuations in high altitude species.
+
+Andres Cortes
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Patterns of gene flow and fine-scale genetic structure in phenological-isolated alpine populations of dwarf willow (Salix herbacea L.)
+talk D20SY32RT18:57R2
+
+Author(s): Cortes, AJ, Waeber, S, Sedlacek, J, Wheeler, J, Van Kleunen, M, Lexer, C, Karrenberg, S
+
+Summary: 
+
+Current threats to biodiversity, such as climate change, are thought to alter abiotic conditions and therefore intra-specific diversity within the highly heterogeneous alpine environments. Assessing the spatial organization and dynamics of genetic diversity present within species can help to predict the responses of organisms to environmental change. In this study, we evaluated whether snowmelt timing imposes restrictions for the gene flow between alpine microhabitats in the common long-lived alpine-artic key species Salix herbacea L. 273 genets across 12 snowbed and ridge localities in the Swiss Alps were surveyed for phenological variation during 2 years and for genetic variation using 7 SSR markers. Differences in snow cover accounted for phenological differentiation among microhabitats of one month on average. Unexpectedly, gene flow appeared to occur freely among microhabitats, elevations, and adjacent mountains suggesting long-distance seed dispersal. Interestingly, ridge sites, which are supposed to resemble future alpine conditions, tended to exhibit lower levels of diversity than snowbeds. Also, patterns of effective population size (Ne) and migration (Nem) among microhabitats were strongly asymmetric, with ridges acting as sources and snowbeds as sinks. Since no recent genetic bottlenecks were detected in the studied populations, these asymmetric patterns are likely to reflect the current meta-population dynamics of the species, rather than ancient recolonization after the last glacial period. We discuss the consequences of these patterns of diversity and gene flow in the light of the extent of local adaptation and the ability of populations to respond to environmental change.
+
+Kai Lohbeck
+GEOMAR Helmholtz Centre for Ocean Research Kiel
+Marine Ecology
+Germany
+Potential and constrains of adaptation to ocean acidification in the globally important marine phytoplankton species Emiliania huxleyi
+talk D20SY32IT10:30R2
+
+Author(s): Lohbeck, KT, Riebesell, U, Collins, S, Reusch, TBH
+
+Summary: 
+
+The biological impacts of climate change and the associated acidification of the surface ocean are intensely studied, with likely consequences for biodiversity and ecosystem functioning emerging as a consensus. However, evolutionary responses have only recently been considered. Marine microbes with short generation times and large population size are good candidates for testing the evolutionary potential to respond to ocean acidification. We used the globally important marine phytoplankton species Emiliania huxleyi for a 1000 generation selection experiment in elevated CO2 and found that adaptive evolution to ocean acidification is possible and likely fast enough to act on time scales relevant to climate change. Replicate populations selected under high CO2 consistently revealed higher fitness than control populations under ocean acidification conditions. To investigate whether such phenotypic convergence involves the same or different mutations, we exposed adapted populations to a novel environment where pleiotropic effects can serve as a proxy for divergent genetic bases of previous adaptation to high CO2. We identified divergent functional genetic bases in replicate high CO2 adapted but not in control populations. This indicates that many evolutionary trajectories to high CO2 adaptation are possible in E. huxleyi but also suggests that pleiotropy may constrain adaptation of natural E. huxleyi populations to ocean acidification. Our results highlight the urgent need to consider evolutionary processes when assessing the responses of marine microbes to future ocean conditions.
+
+Josefin Sundin
+Evolutionary Biology Centre, Uppsala University
+Ecology and Genetics/Animal Ecology
+Sweden
+Sex in murky waters: anthropogenic disturbance of sexual selection in the pipefish model system
+talk D20SY32RT14:24R2
+
+Author(s): Sundin, J, Rosenqvist, G, Aronsen, T, Berglund, A
+
+Summary: 
+
+Due to anthropogenic disturbance, both stable as well as naturally variable environments are becoming increasingly unpredictable. In order to persist, both opportunists and specialists need to respond to these changes. A variety of animal behaviours are thus affected by human induced environmental change, which in turn may alter species interactions, population dynamics and evolutionary processes. In marine ecosystems, overfishing, eutrophication, and ocean acidification is currently changing the aquatic environment at an unnatural speed. We use pipefish as our study organism, which is a family of highly specialized marine fish practicing male pregnancy. Through a series of controlled laboratory experiments we show that anthropogenic disturbance alter several aspects of reproduction, including the development of sexual ornaments, courtship behaviour, mate choice, mating propensity and reproductive success. We show that the way in which the environmental stressors alter reproductive behaviours may vary both between and within sexes, populations and species. Further, different environmental stressors, such as turbidity, hypoxia and altered pH levels, elicited different responses, sometimes in opposite directions. Thus our studies emphasises the complex way in which environmental change may alter reproductive behaviours. Given the increase in human disturbance on ecosystems, answering these questions is not only important to better understand how environmental fluctuations affect evolutionary processes, but also for conservation biology and studies of the resilience of organisms to anthropogenic induced environmental change.
+
+Claus Wedekind
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Sex-specific tolerance to a warmed-up environment distorts population sex ratio in a salmonid
+poster D20SY32PS1207
+
+Author(s): Wedekind, C, Von Siebenthal, BA, Pompini, M
+
+Summary: 
+
+Environmental changes can influence major demographic parameters by affecting individual behavior, growth, or survival. In some fishes, water temperature can even influence sex determination or may create sex-specific selection pressures. We tested both possibilities in a declining population of grayling (Thymallus thymallus, Salmonidae) that suffers from a marked shift in the operational sex ratio from on average 65% males in earlier years to around 85% males during the last 20 years. We raised embryos and larvae at various temperatures and found no effect of temperature on sex determination within ecologically relevant temperatures. In parallel, we raised about 15,000 grayling under benign and comparatively cool conditions through their first summer, marked and released them into the wild, and caught some of them back 4 and 5 years later at their natural spawning place. Our treatment significantly reduced the sex ratio skew. We conclude that female juveniles of our study population are more susceptible than males to some major stressors of a warmed-up environment. Such sex-specific susceptibilities can distort operational sex ratios and contribute to population declines.
+
+Philipp Krämer
+Carl von Ossietzky University Oldenburg
+Department of Biology and Environmental Sciences
+Germany
+The European brown crab (Cancer pagurus) as a model to study local adaptation in highly distributional marine decapods
+poster D20SY32PS1444
+
+Author(s): Krämer, P, Gerlach, G
+
+Summary: 
+
+In the past 50 years, surface temperature in the North Sea has risen in the range of 1.5-2.5°C and climate projections predict a further increase. Its impact on marine organisms is broad and their survival will depend on their resilience to cope with these changing conditions. In the brown crab (Cancer pagurus) we study how strongly stress tolerance towards temperature changes and associated pathogen stress is determined by phenotypic plasticity or limited by genetically based local adaptation. We analyze local populations originating from habitats along a latitudinal gradient from Southern Europe to the Sub-arctic. We link expression patterns from controlled experimental conditions on temperature with 454 ultra deep sequencing on transcriptomes to build a temperature-treatment specific EST library. Differently expressed genes together with genetic variations in ESTs in contrast to neutral microsattelite markers are used to differentiate between neutral genetic differences between populations and genetic adaptation. Our results give new insights in the source of local adaptation of a highly distributional marine species. In detail we analyze whether local populations can adapt to changed climate conditions, how genetic diversity influences their adaptation and whether future climate predictions may lead to distributional shifts for marine species such as Cancer pagurus.
+
+Nicole Henning
+Biodiversity and Climate Research Centre
+Ecology and Evolution
+Germany
+The evolutionary adaptive potential of Daphnia galeata in time and space
+talk D20SY32RT16:33R2
+
+Author(s): Henning, N, Cordellier, M, Streit, B, Schwenk, K
+
+Summary: 
+
+In the framework of global change research we aimed at estimating the impact of elevated water temperatures on an aquatic keystone species, the freshwater zooplankter Daphnia galeata. To quantify the evolutionary potential of the resident natural Daphnia populations, we performed experiments measuring variation in life-history traits under different temperatures. In a “resurrection ecology” approach, we sampled dormant egg banks of Daphnia galeata populations to obtain a representative sample of natural genetic diversity. We first compared locally adapted populations by sampling individuals from recent/superficial sediment layers, sampled along a latitudinal gradient from Norway to Italy. In a second experiment we used layers from different depths, comparing clones/populations from different time periods. After hatching and establishing clonal lineages in the laboratory, we performed common-garden experiments. D. galeata individuals from different time periods and latitudes were submitted to various water temperatures in flow-through-systems. In all experiments elevated water temperatures were shown to result in an increased somatic growth rate and accordingly an earlier age at maturity. In addition to the observed phenotypic plasticity, significant temperature x age interactions and temperature x origin interactions indicate thermal micro-evolution within last decades. With regard to these patterns of adaptation, we discuss the consequences of global warming on the fate of Daphnia populations and European freshwater biotas.
+
+Pedro Simões
+Faculdade de Ciências da Universidade de Lisboa
+Centro de Biologia Ambiental / Departamento de Biologia Animal
+Portugal
+The fate of chromosomal inversion polymorphism during adaptation to a novel environment
+poster D20SY32PS0339
+
+Author(s): Simões, P, Fragata, I, Lopes-Cunha, M, Lima, M, Kellen, B, Bárbaro, M, Santos, J, Santos, M, Matos, M
+
+Summary: 
+
+Chromosomal inversions are widespread in Drosophila with strong evidence supporting an adaptive cause for the evolution and maintenance of inversion polymorphisms. One emblematic example of the adaptive role associated with inversions is the repeatable clinal variation in inversions frequencies in different continents as happens in Drosophila subobscura. More recently, it has been found that these inversion polymorphisms are shifting as a response to global warming. Both local adaptation and gene flow may be involved, the latter possibly overcoming historical constraints. Nevertheless, it is still unclear what forces are important in shaping the evolution of inversion polymorphisms. An approach to this issue is to study the evolutionary dynamics of chromosomal inversions of populations initially differentiated along a cline, during adaptation to a novel, common environment in the absence of gene flow. We use this strategy analyzing laboratory adaptation in Drosophila subobscura founded from contrasting European latitudes. Will natural selection in the new environment overcome the initial historical differences, promoting convergence of inversion frequencies? During the first 25 generations of adaptation to a common environment we found that the polymorphism of chromosomal inversions was gradually reduced in all populations. We also found persistent differentiation between populations from contrasting latitudes, though these differences reduced with increasing generations in the new environment. While genetic drift seems to play an important role in inversion frequency changes, we also found consistent increase in frequency of specific inversions (initially in low frequencies) across replicate populations, which suggests that selection also played a role. Altogether this study indicates that, in the absence of gene flow, inversion polymorphism evolves under a balance of selection and genetic drift with historical constraints also playing an important role.
+
+Didier Aurelle
+Aix-Marseille Universite
+CNRS UMR 7263 IMBE
+France
+The puzzle of cnidarian adaptation: an integrative approach
+talk D20SY32RT11:42R2
+
+Author(s): Aurelle, D, Jeremie, V, Anne, H, Christoph, G, Didier, F, Eve, T, Guillaume, M
+
+Summary: 
+
+The ongoing climate change raises the question of the adaptability of species to heterogeneous and changing environment. This question is particularly important for long-lived and sessile species such as corals which may display low dispersal abilities. Studying adaptation and phenotypic plasticity in such species will help us understanding how they may produce adequate phenotypes allowing populations persistence or resilience. It is more and more clear today that studying these questions in these models requires considering all the partners of the coral considered as a complex meta-organism where several evolutionary units must be taken into account. Here we review the empirical evidences for diverse and interactive adaptive mechanisms playing in corals in the context of climate change. We report data generated at the community, population and individual levels and demonstrating how ecological conditions and life history of individuals influence adaptability. We also stress the putative role of acclimatization and epigenetic mechanisms in the response to stress and data concerning inter-individual variations suggesting the potential for genetic adaptation. We discuss the relative importance, time scales and interactions of these processes for the persistence of coral populations. Considering these different data and ensuing hypothesis, we propose here an experimental framework allowing to disentangle the role of these different processes and of the different partners of the coral holobiont in adaptive ability of corals confronted to global changes.
+
+Eoin Duffy
+Institute of Environmental Science, Jagiellonian University
+Environmental Scienes
+Poland
+The role of sexual selection during adaptation to a novel, stressful environment
+poster D20SY32PS0645
+
+Author(s): Duffy, E
+
+Summary: 
+
+The interplay between natural and sexual selection has been widely studied, and although Darwin invoked sexual selection to explain traits that were clearly not naturally selected, it is unclear whether sexual selection facilitates adaptation to novel environments or not. Here we examined whether sexual selection promotes adaptation to a novel environment using the powerful method of experimental evolution. Using a fully factorial design, we established replicate Drosophila simulans populations in both standard and novel temperature environments, both with and without sexual selection. We found that sexual selection did not promote adaptation to the novel environment and this does not appear to be due to intralocus conflict constraining the evolution of the sexes. These results therefore support the original view of sexual selection as a non-adaptive process. However after 30 generations of selection we did find significantly higher fecundity in females evolving under elevated sexual selection. We will discuss possible explanations for this finding.
+
+Francisco Mestres
+Universitat de Barcelona
+Genetica
+Spain
+Thermal adaptation genes: inversions, gene flux and selection
+poster D20SY32PS0267
+
+Author(s): Mestres, F, Pegueroles, C, Martí-Solano, M, Pascual, M
+
+Summary: 
+
+The patterns of genome organization can be influenced by recombination, which is an important evolutionary force. In general, presence of recombination is advantageous, as demonstrated by the evolution of sex in most of the complex organisms. However, recombination can be disadvantageous in some situations, breaking some adaptive combinations of genes. In the present study, we have focused on the study of six thermal candidate genes (Pif1A, Abi, Sqd, Yrt, Atpa and Fmr1) located across the O chromosome of D. subobscura, in relation to three adaptive arrangements (O3+4+1, O3+4+7 and O3+4) collected at Barcelona (Eastern Mediterranean) and Mt. Parnes, Greece (Eastern Mediterranean). Significant genetic differentiation using FST values was found between genes located within inversions (O1 and O7), which is consistent with reduced recombination between inversions. More strikingly, the significant genetic differentiation encountered for the Atpa gene, which is located outside these inversions, is due to fixed nonsynonymous changes between arrangement, and signs of positive selection were detected for the O3+4+7 arrangement. Selective sweeps associated to O1 and O7 inversions were dated in 0.04 and 0.06 Myr, respectively. The similarity of the ATPa protein sequences of O3+4 with that of D. madeirensis may reflect historic events. However, similarity at the protein level between O3+4+1 and O3+4+7 arrangements for the Atpa gene could be the consequence of independent substitutions arisen in the two lineages due to adaptation to similar environmental conditions.
+
+Tiago Jesus
+Faculty of Sciences of the University of Lisbon
+Center for Environmental Biology
+Portugal
+Transcriptome responses to thermal stress in two Iberian Squalius (Cyprinidae) species living in distinct river regimes
+poster D20SY32PS1253
+
+Author(s): Jesus, TF, Val, V, Coelho, MM
+
+Summary: 
+
+Environmental conditions shape the distribution of organisms in nature. Particularly, freshwater fish are quite sensitive when exposed to variations in environmental conditions, since they often cannot escape to more suitable locations. Temperature is a keynote environmental factor that poses substantial challenges to ectotherms' survival and therefore species must adapt or otherwise perish. Fish from the Iberian Peninsula are exposed to seasonal and daily variations in water temperature. Particularly, species inhabiting the southern Iberian regions are exposed to harsher conditions, with higher temperatures during the dry season. Aiming to discover and characterize a large set of genes involved in thermal stress, two congeneric species, Squalius carolitertii and Squalius torgalensis, were studied as representatives of the northern and southern regions, respectively. Both species were exposed to two treatments, a control (18ºC) and a stress (30ºC) condition, and transcriptome sequencing of three organs was performed for both species. By comparing libraries of RNA-seq in the two conditions, in each species, genes differently expressed were identified. The study of these genes is important to understand the potential of fish to endure the extreme events driven by climate changes in their native rivers.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

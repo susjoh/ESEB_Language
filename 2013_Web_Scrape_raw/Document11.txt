@@ -1,0 +1,251 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY11: Advances in quantitative approaches to recent evolutionary change in humans
+ Abstracts list Schedule Description
+View only talks or posters
+Mehmet Somel
+Faculty of Arts and Sciences, Middle East Technical University
+Biology
+Turkey
+A genome-wide scan for relaxation of constraints in the human lineage affecting specific functional processes
+talk D23SY11RT18:33R9
+
+Author(s): Somel, M, Wilson-Sayres, M, Jordan, G, Huerta-Sanchez, E, Fumagalli, M, Ferrer-Admetlla, A, Nielsen, R
+
+Summary: 
+
+Changes in the subsistence mode of a species can lead to adaptive evolution of new functions, while it can also cause relaxed negative selection in previously essential functions. While positive selection in humans has been intensely studied, functional processes subject to relaxed constraints in the human lineage remain largely unknown. Here we present a framework for detecting relaxation of selective constraints that affect a particular functional process specifically in one taxon. Jointly using human and chimpanzee population genomic data with mammalian comparative genomic data, we identify olfactory receptors and proteasome subunits as candidates of relaxed constraints in humans: both gene sets contain high frequency non-synonymous mutations in humans while having conserved amino-acid sequences across other mammals. We further discuss the possible underlying causes of this signal.
+
+José Álvarez-Castro
+University of Santiago de Compostela
+Department of Genetics
+Spain
+A quantitative genetics approach to equilibrium assessment and equilibrium fitness estimation; an application to study the polymorphism of the human ACP1 in Europe
+talk D23SY11RT18:57R9
+
+Author(s): Álvarez-Castro, JM
+
+Summary: 
+
+Studies of equilibrium and stability under selection are liable to further development. With multiple alleles, a tiny proportion of possible genotype frequencies are possible at polymorphic equilibria. I present a quantitative genetics (QG) method for checking whether a set of genotype frequencies are equilibrium frequencies that also provides estimates of the fitnesses of all genotypes. This method is here applied to a one-locus multiallelic system, but applications to multiple-locus systems with epistasis are also possible. Method Classical QG studies focused on directional selection on the phenotype. Considering instead that the trait is fitness enables tracking genotypic frequencies under other selection regimes. Thus, if the additive variance may be minimized to zero for a set of observed frequencies, then these are putative equilibrium frequencies and the corresponding fitnesses are estimates of the equilibrium fitnesses. Two exclusive properties of NOIA are crucial for performing such analysis: it generalizes previous models and it provides explicit expressions of variance components (Álvarez-Castro and Carlborg 2007, Álvarez-Castro and Yang 2011). The human ACP1 polymorphism in Europe Three alleles of ACP1 (A, B, C) coexist in human European populations and C was claimed to be deleterious using biallelic methods. The multiallelic method proposed here shows instead that the observed genotypic frequencies are consistent with a polymorphic equilibrium with fitnesses in accordance with physiological observations (AA affected by fetal macrosomia). NOIA reveals a fast rise of additive variance for slight fitness increases of AA (not published). This may actually be leading to fixation of A in European populations since fetal macrosomia--with the aid of pregnancy monitoring and reasonably safe caesarean sections--entails nowadays less of a problem than it did some decades ago. ALVAREZ-CASTRO & CARLBORG 2007 Genetics 176 ALVAREZ-CASTRO & YANG 2011 Genetica 139
+
+Katja Nowick
+University of Leipzig
+Computer Science
+Germany
+Evolution of a co-expression network involved in primate brain functions: clues to the evolution of human specific cognitive abilities
+poster D23SY11PS0802
+
+Author(s): Nowick, K, Berto, S
+
+Summary: 
+
+Cognitive abilities are among the most striking differences between humans and other primates. As cognition is a complex trait it is beneficial to analyze its evolution on multiple levels. Here we analyzed genome wide expression data of several human, chimpanzee, and rhesus macaque brains to identify molecular changes that may underlie the evolution of human-specific cognitive skills. Because transcription factors (TFs) are main players in regulating gene expression, we focused on TF changes that might drive expression pattern differences between the species. For each TF with a species-specific expression level we identified co-expressed genes, which are potential target genes or interaction partners of the respective TFs. Using this information we derived weighted topological overlap (wTO) networks in which the nodes are the TFs and the weighted links represent the commonality of the TFs’ co-expressed genes. We revealed: 1. The ancestral network, consisting only of links common to all three species, was involved in cognitive functions, such as forebrain development, synaptic plasticity, and learning, as inferred from the Gene Ontology (GO) terms enriched among the genes co-expressed with the most TFs in this network. 2. In the human network, TFs are more interconnected than in the chimpanzee and rhesus macaque network, indicating more complex regulation of genes involved in cognition in the human brain. 3. The TF sub-network constructed only from genes with a human-specific expression change was enriched for GO terms that point to changes in energy metabolism, learning and memory processes in the human brain. Moreover, only in this sub-network, but not in the sub-networks of the other species, we identified an excess of TFs implicated in mental disorders. Taken together, in a network of TFs that is predicted to regulate cognitive functions we identified evolutionary changes that are potentially involved in the evolution of human- specific cognitive abilities.
+
+Catharine Cross
+University of St Andrews
+School of Biology
+United Kingdom
+Experimental studies of human social learning strategies: exploring sex differences
+poster D23SY11PS0747
+
+Author(s): Cross, C, Brown, G, Morgan, T, Laland, K
+
+Summary: 
+
+Objectives Culture is an important driver of recent biological evolution in humans. The mechanisms by which information is transmitted between individuals can be studied at the population level – by cultural evolutionists, and at the individual level – by social psychologists. We combined methods from these two approaches to investigate how sex differences in confidence might lead to sex differences in the use of a copy-when-uncertain social learning strategy. Methods Participants (Study 1: N=97; Study 2: N=89) completed a series of two-alternative forced-choice puzzles and reported their confidence in each answer. They then saw the decisions of some previous participants before being asked again for their answer. Social information use was inferred when participants switched their answer to match that of the majority. We modelled the probability of social information use with participant sex, confidence in initial decision, and accuracy of initial decision as predictors. Results Across both studies, confidence had a large effect on social information use, indicative of a copy-when-uncertain strategy. Accuracy predicted confidence, indicating that this strategy is adaptive. Confidence also differed by sex: women reported lower confidence (independent of any small sex differences in accuracy), which in turn increased their probability of using social information. Conclusions Although both sexes appear to use a ‘copy-when-uncertain’ strategy, women are more likely to feel uncertain. This means that a strategy observed to be used in a population (e.g. copy-when-uncertain) can vary according to individual differences in psychological traits. Further integration of these two levels of explanation is therefore needed.
+
+Erik Postma
+University of Zurich
+Institute of Evolutionary Biology and Environmental Studies
+Switzerland
+Fitness meets fitness: taking an evolutionary approach to physical fitness in humans
+poster D23SY11PS0735
+
+Author(s): Postma, E
+
+Summary: 
+
+Evolutionary biologists are usually the first to emphasize that Darwinian fitness has little in common with the meaning that is commonly attached to fitness by the general public, that is physical fitness. However, recent studies in humans and non-human animals are suggestive of an important role for physical fitness in shaping variation in Darwinian fitness via natural and sexual selection, both in the past and in the present. Indeed, it has been argued that it is selection on physical performance that has made us who we are today. To gain a better understanding of variation in (physical) fitness, I use concepts and methods from evolutionary biology and life-history theory and apply these to data on human running performance. Specifically, using a large (longitudinal and cross-sectional) data set for running performance by both men and women over a wide range of distances, I test for sex differences, the effects of ageing and training, and for trade-offs between long- versus short-distance and generalists versus specialists. I will use these findings to infer the selective pressures acting on physical fitness in humans, and to argue that Darwinian and physical fitness may have more in common with each other than is often assumed.
+
+Anja Bürkli
+ETH Zurich & EAWAG
+Institute of Integrative Biology & Department of Aquatic Ecology
+Switzerland
+Genetic constraints underlying human reproductive timing in a pre-modern Swiss village
+poster D23SY11PS0257
+
+Author(s): Bürkli, A, Postma, E
+
+Summary: 
+
+The trade-off between reproductive investment in early versus late life is central to life-history theory. Despite abundant empirical evidence in support of different versions of this trade-off, the specific trade-off between age at first reproduction (AFR) and age at last reproduction (ALR) has received little attention, especially in long-lived species with a pronounced reproductive senescence such as humans. Using genealogical data for a 19th-century Swiss village, we (i) quantify natural selection on reproductive timing, (ii) estimate additive genetic (co)variances, and (iii) use these to predict evolutionary responses. Selection gradients were computed using multiple linear regressions, and the additive genetic variance-covariance matrix was estimated using a restricted maximum-likelihood animal model. We found strong selection for both an early AFR and a late ALR, which resulted from selection for an earlier and longer reproductive period (RP, i.e. ALR-AFR). Furthermore, postponing AFR shortened RP in both sexes, but twice as much in women. Finally, AFR and ALR were strongly and positively genetically correlated, which led to a considerable reduction in the predicted responses to selection, or even rendered them maladaptive. These results provide evidence for strong genetic constraints underlying reproductive timing in humans, which may have contributed to the evolution of menopause.
+
+Maarten Larmuseau
+KULeuven, Belgium
+Department of Pathology and Imaging
+Belgium
+Genetic genealogy comes of age: advances in the use of deep-rooted pedigrees in human evolutionary research
+talk D23SY11IT15:45R9
+
+Author(s): Larmuseau, MHD, Van Geystelen, A, Decorte, R
+
+Summary: 
+
+Research on the recent human evolution will benefit from the implementation of extended genetic genealogical data. The approach to combine deep-rooted pedigrees with genetic information advances the understanding of changes in the human population genetic structure during the last centuries. This recent advance is mainly based on the extensive growth of whole genome sequencing data and available genealogical data of high quality. Moreover, according to the latest genetic genealogical research the historical non-paternity rate in Western Europe is estimated around 1% per generation within the last four centuries, which means that the expected relationship between the legal genealogy and the genetics of DNA donors exists. Therefore, genetic genealogical data will help with three research aims of human evolutionary studies: (I) detecting signals of (past) population stratification and interpreting the population structure in a more objective manner, (II) obtaining the time scale and impact of particular detected gene flow events more accurately and (III) determining temporal genetic differentiation within a population by combining in-depth pedigree data with haploid markers. Each of these research aims will be discussed with examples of the human population in Flanders (Western Europe). At the end, we will discuss the advantages and pitfalls of using genetic genealogy within studies on human evolutionary genomics.
+
+Elisabeth Bolund
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+How has the genetic architecture of key life history traits responded to the demographic transition in a human population?
+talk D23SY11RT17:45R9
+
+Author(s): Bolund, E, Lummaa, V
+
+Summary: 
+
+A central issue in evolutionary biology concerns the long-term reliability of predictions of evolutionary change. Theory predicts that the genetic architecture of life history traits (summarised by the additive genetic variance-covariance matrix, G) will change over time and thus affect how traits respond to selection. However, studies have found support both for fast changes as well as for a great consistency in G over time. It thus remains unclear how rapidly and in what manner G itself changes in response to changes in selection pressures or environment.
+
+The demographic transition to low mortality and fertility rates in many recent human populations involves a drastic environmental change, but its consequences for the evolutionary potential of traits have rarely been addressed. We use genealogical data from 8 parishes in Finland, from natural high (5-6 offspring) to recent low (< 2 offspring) fertility over 350 years to address this question at the genetic level. We study four key life history traits; age at first and last reproduction, number of offspring and longevity, all of which show significant phenotypic changes during the time period. We use the animal model quantitative genetic approach to study whether and how the genetic architecture underlying these traits has also changed, by comparing the full G matrix in the periods before and after the demographic transition.
+
+First, we establish significant additive genetic variance and heritability for all traits during both time periods. Second, we present the genetic covariances and correlations between all four traits during both periods. Third, we compare the overall G matrix of the two periods to elucidate if and how G has changed during the demographic transition. The results provide a novel insight in how traits can respond to selection in contemporary human populations and whether the potential for such responses might have changed along with the recent demographic and societal changes.
+
+Wen-Ya Ko
+University of Porto
+Research Center of Biodiversity and Genetic Resources (CIBIO)
+Portugal
+Identifying recent Darwinian selection acting on different human APOL1 variants among diverse African populations in trypanosomiasis endemic areas
+talk D23SY11RT16:57R9
+
+Author(s): Ko, W, Rajan, P, Gomez, F, Schelinfeldt, L, Froment, A, Lema, G, Nyambo, TB, Omar, SA, Wambebe, C, Ranciaro, A, Hirbo, JB, Thompson, S, Tishkoff, SA
+
+Summary: 
+
+Disease susceptibility may arise as a consequence of adaptation to infectious disease. Recent findings have suggested that higher rates of chronic kidney disease (CKD) in individuals with recent African ancestry may be attributed to two APOL1 risk alleles (G1 and G2) at the SRA-interacting domain. These two alleles appear to have risen adaptively, possibly due to their protective effects against African trypanosomiasis (African sleeping sickness). In order to explore the distribution of potential functional variation at APOL1, we studied nucleotide variation in 187 individuals across ten geographically and genetically diverse African ethnic groups with differing levels of exposure to two subspecies of Trypanosoma brucei that cause African sleeping sickness. We observed unusually high levels of nonsynonymous polymorphism at the functional domains that are required to lyse parasites. Whereas allele frequencies of G2 are similar across all populations (3-8%), the G1 allele is only common in the Yoruba (39%). We further identified a previously unreported haplotype (termed G3) that contains a nonsynonymous mutation at the membrane-addressing domain of APOL1 and is present in all populations except for the Yoruba. Analyses of long-range patterns of LD indicate evidence for recent selection acting on the G3 haplotype in Fulani (cattle-herding population) from Cameroon that are endemic to Gambian trypanosomiasis, suggesting its possible protective effects against trypanosome infection. Our results indicate that the G1 and G2 variants are geographically restricted and that there are more candidate variants at other functional domains contributing to trypanosomiasis resistance and risk for CKD in African populations.
+
+Homa Papoli Yazdi
+Université de Montpellier II
+France
+Investigating the co-evolution between human lactase gene and dairy culture in Europe
+talk D23SY11RT16:33R9
+
+Author(s): Papoli Yazdi, H, Gautier, M, Vitalis, R
+
+Summary: 
+
+Genes that have undergone recent positive selection during human evolution can provide new insights into the evolutionary forces that have shaped our species. Human lactase gene LCT which encodes the enzyme responsible for hydrolysis of lactose, the milk sugar is under recent positive selection. The production of lactase is declined after the weaning period; however, in some individuals, lactase expression persists into adulthood. Lactase persistence is found at high frequency in northern and western European populations. Based on Principal Component Analysis (PCA) of genetic diversity of six markers in cattle milk protein genes, Beja-Pereira et al. (2003) proposed that since Neolithic times, there has been co-evolution between LCT in humans and cattle milk protein genes. To test this hypothesis, we used dense SNP datasets for human (441,845 SNPs) and cattle (44,706 SNPs) populations to investigate the signatures of positive selection at LCT and cattle milk protein genes in Europe. To this end, we used a new genome-scan method based on a diffusion approximation for the distribution of allele frequency at migration-selection-drift equilibrium (Vitalis et al, in prep). For LCT, we detected a north-south gradient for the intensity of positive selection. For the cattle data, we could not detect any signature of positive selection in cattle milk protein genes. Furthermore, PCA was performed using the markers surrounding cattle milk protein genes provided the same pattern of geographical variation as with the complete cattle genomic data, showing a north-south gradient of variation across Europe. The results of our study therefore provide no evidence for the co-evolution of lactase and cattle milk protein genes. We argue that the coincidence between the gradient in the selection intensity at LCT in humans and geographic variation in cattle genes simply reflect the migration history of both species during the Neolithic along the Danubian route.
+
+Ellen Leffler
+University of Chicago
+Human Genetics
+United States
+Multiple instances of ancient balancing selection shared between humans and chimpanzees
+poster D23SY11PS0905
+
+Author(s): Leffler, EM, Gao, Z, Pfeifer, S, Ségurel, L, Auton, A, Venn, O, Bowden, R, Bontrop, R, Wall, JD, Sella, G, Donnelly, P, McVean, G, Przeworski, M
+
+Summary: 
+
+Balancing selection, in which two or more alleles are maintained in a population by selection, is predicted to lead to high diversity and to haplotypes with deep coalescence times. Moreover, if selection pressures are older than species split times, species may share alleles identically by descent. Such balanced polymorphisms are thought to be extremely rare, with a few notable examples involved in host immunity, such as at the MHC in primates and R genes in plants. However, modeling suggests that the footprint of balancing selection may be difficult to detect. Using genome-wide sequence data for 10 Western chimpanzees from the PanMap project and 1000 Genomes Pilot 1 data, we undertook a genome-wide search for orthologous sites polymorphic for the same alleles in both chimpanzee and human. We found that SNPs are shared in excess of what is expected by chance after accounting for local variation in the mutation rate. While it is difficult to distinguish balanced polymorphism from recurrent mutation for a single SNP, the short ancestral segments on which a balanced polymorphism resides may contain additional shared ancestral polymorphisms. We therefore focused on cases of two or more shared SNPs in close proximity and with the same LD patterns in both species, a scenario that is unlikely to occur by recurrent mutation. Besides the MHC, we identified 125 candidate loci, only two of which overlap exons. Notably, nearby genes are enriched for membrane glycoproteins, which are often found at host-pathogen interfaces. For five of the loci, more than two pairs of SNPs are shared with the same LD pattern and a phylogenetic tree clusters by haplotype rather than by species, providing strong evidence that the polymorphisms are ancestral and pointing to new targets of selection. These results suggest that balancing selection has acted on regulatory variation in both humans and chimpanzees and that pathogens may be a common pressure leading to such long-term balancing selection.
+
+Chris Klingenberg
+University of Manchester
+Faculty of Life Sciences
+United Kingdom
+Quantitative genetic variation, selection and secular change of skull shape in humans
+talk D23SY11RT18:09R9
+
+Author(s): Klingenberg, C, Martínez-Abadías, N, Esparza, M, Sjøvold, T, Hernández, M
+
+Summary: 
+
+The combined use of geometric morphometrics and quantitative genetics provides a set of powerful tools for obtaining quantitative information that is crucial for many important questions concerning the evolution of shape. In particular, the demographic information that is available for human populations make humans a unique study system for studying the mechanisms of evolutionary change in morphological traits. We investigate skull shape in the population of Hallstatt (Austria), where a collection of human skulls with associated records offer a unique opportunity for such studies. We use an individual-based statistical model to estimate the genetic covariance matrix, and characterize selection using fitness estimates from demographic data. We find clear evidence for directional selection, but not for nonlinear selection (stabilizing or disruptive selection). The predicted response to this selection, computed with genetic parameters from the population, does not match the estimate of secular change over the 150-year range of the data. We discuss possible reasons for the mismatch.
+
+Brian Mautz
+University of Ottawa
+Department of Biology
+Canada
+Selection on penis size, body shape and height in humans: a simple multivariate method to quantify female preferences based on male physical attractiveness
+talk D24SY11RT11:42R4
+
+Author(s): Mautz, BS, Jennions, MD, Peters, RA, Wong, BBM
+
+Summary: 
+
+Compelling evidence from many animal taxa indicates that male genitalia are often under post-copulatory sexual selection for characteristics that increase a male’s relative fertilization success under sperm competition. There could, however, also be direct pre-copulatory female mate choice based on male genital traits. Before clothing, the non-retractable human penis would have been conspicuous to potential mates. This, in combination with claims that humans have a large penis for their body size compared to other primates, has generated suggestions that human penis size partly evolved due to female choice. We presented women with digitally projected fully life-size, computer-generated animations of male figures to quantify the (interactive) effects of penis size, body shape and height on female assessment of male sexual attractiveness. We generated 343 male figures that each had one of seven possible values for each of the three test traits (7x7x7 = 343). All seven test values per trait were within two standard deviations of the mean based on a representative sample of males. We calculate response (fitness) surfaces based on the average attractiveness rank each of the 343 male figure received. We also calculated individual response surfaces for 105 women (each women viewed 53 figures). Both methods yielded almost identical results. We discuss our finding in the context of previous studies that have taken a univariate approach to quantify female preferences. We discuss the hypothesis that pre-copulatory sexual selection might play a role in the evolution of genital traits.
+
+Thomas Pfeiffer
+Massey University
+NZ Institute for Advanced Study
+New Zealand
+The Value of Reputation
+poster D23SY11PS1367
+
+Author(s): Pfeiffer, T, Tran, L, Krumme, C, Rand, DG
+
+Summary: 
+
+Reputation plays an important role in fostering human cooperation. A distinctive feature of reputation-based mechanisms is their capability to maintain cooperation among strangers engaged in one-shot interactions. In evolutionary biology, reputation provides a fascinating alternative to direct reciprocity, group selection or interactions between relatives for explaining the evolution of altruistic behavior. In the social sciences, reputation is of interest because one-shot interactions in global and electronic markets are more and more replacing traditional, repeated interactions within long-lasting communities. Empirical and theoretical work from both fields indicates that a good reputation is valuable in that it increases one’s expected payoff in future interactions. Here we present laboratory experiments for quantifying the value that participants place on a good reputation. To do so, we couple a Prisoner’s Dilemma (PD) game where participants can earn a good reputation with a market where reputation can be bought and sold. We show that the more valuable a good reputation is in the PD game, the higher are the prices at which it is traded in the market, suggesting that participants can assess the value of a good reputation. We also find that in the presence of trading, cooperation is maintained at a lower level then in the absence of trading. This suggests that trading of reputation can have a detrimental effect on cooperation, perhaps through “crowding out” of the participants’ intrinsic motivation to cooperate. However, our experiments also demonstrate that trading of reputation can promote cooperation. When participants play a short fixed-length series of Prisoner’s Dilemmas, the opportunity to sell good reputation when exiting the game can mitigate end-game effects. Thus reputation markets could potentially create value and increase social welfare when applied in an appropriate context.
+
+Stephen Stearns
+Yale University
+Department of Ecology and Evolutionary Biology
+United States
+The demographic transition and the global burden of degenerative disease
+talk D24SY11IT10:30R4
+
+Author(s): Stearns, SC
+
+Summary: 
+
+I advance and support the hypothesis that the demographic transition uncovered previously minor costs of reproduction that now explain much of the global burden of degenerative disease. Prior to the demographic transition, alleles were selected that improved reproductive performance early in life at the cost of vulnerability to degenerative disease in the aged, a cost that was rarely realized when most died of infectious disease or in childbirth. When mortality rates dropped during and after the transition, more people started surviving to ages where these previously evolved vulnerabilities now make a difference. Available evidence suggests that some of our vulnerability to type 2 diabetes and cancer has this antagonistically pleiotropic property. We should be looking for more such evidence, for understanding the evolutionary origins of such diseases, including cardiovascular disease and dementia, is both interesting and potentially useful. Because antagonistic pleiotropy is a property culturally mimicked by education, here again is an issue where we need better understanding of how biological and cultural evolution interact to explain current patterns and processes.
+
+Alexandre Courtiol
+Leibniz Institute for Zoo and Wildlife Research
+Department of Evolutionary Genetics
+Germany
+The demographic transition influences variance in fitness and selection on height and BMI in rural Gambia
+poster D23SY11PS1097
+
+Author(s): Courtiol, A
+
+Summary: 
+
+Recent human history is marked by demographic transitions characterized by declines in mortality and fertility. By influencing the variance in those fitness components, demographic transitions can affect selection on other traits. Parallel to changes in selection triggered by demography per se, relationships between fitness and anthropometric traits are also expected to change due to modification of the environment. Here we explore for the first time these two main evolutionary consequences of demographic transitions using a unique data set containing survival, fertility, and anthropometric data for thousands of women in rural Gambia from 1956–2010. We show how the demographic transition influenced directional selection on height and body mass index (BMI). We observed a change in selection for both traits mediated by variation in fertility: selection initially favored short females with high BMI values but shifted across the demographic transition to favor tall females with low BMI values. We demonstrate that these differences resulted both from changes in fitness variance that shape the strength of selection and from shifts in selective pressures triggered by environmental changes. These results suggest that demographic and environmental trends encountered by current human populations worldwide are likely to modify, but not stop, natural selection in humans.
+
+Anneleen Van Geystelen
+Faculty of Science, KU Leuven
+Department of Biology
+Belgium
+Updating the Y-chromosomal phylogeny based on SNPs in available WGS data
+talk D24SY11RT11:18R4
+
+Author(s): Van Geystelen, A, Wenseleers, T, Decorte, R, Larmuseau, MHD
+
+Summary: 
+
+The sex-determining Y-chromosome is an interesting marker for many human evolutionary and population genetic studies, as it accurately tracks patrilineal descent. For these studies a high-resolution state-of-the-art Y-chromosomal phylogeny is essential to characterize Y-chromosomes. Due to the rapid progress in next generation sequencing technologies, an explosion of human whole genome sequencing (WGS) data has become available. WGS data is useful to verify, optimize and extend the current phylogeny for haploid markers such as single nucleotide polymorphisms in the Y-chromosome (Y-SNPs). We present two new open access software packages which analyse WGS data for Y-chromosomal phylogenetic applications. First, the AMY-tree software determines the haplogroup for a sample based on the Y-SNPs derived from WGS experiments and it also indicates ambiguities such as recurrent SNPs within the used tree. Because of these features AMY-tree is able to include all reported Y-SNPs within one phylogenetic framework. Second, the PENNY software detects new informative Y-SNPs from WGS data by in silico analysis to increase the resolution of the Y-chromosomal tree. The AMY-tree and PENNY software and all their capabilities were tested in detail on more than 750 male full genomes with different geographical origins. An analysis of these data provides a much more detailed tree than the last 'officially' published tree of the Y Chromosome Consortium (YCC) in 2008. On the other hand, further sequencing will still be required since currently full genomes of only a limited set of Y-chromosomal (sub-)haplogroups are available. Overall, these advances of the Y-chromosomal tree will provide many applications for research on recent human evolution.
+
+Barbara Fischer
+University of Oslo
+Department of Biosciences
+Norway
+Why is childbirth so hard in humans?
+poster D23SY11PS1202
+
+Author(s): Fischer, B
+
+Summary: 
+
+Compared to other primates, childbirth is remarkably difficult in humans, the reason being that the head of the human fetus is large in comparison to the birth-relevant dimensions of the human pelvis. Modern human pelvic morphology must serve more than one purpose: It is thought to have evolved as a compromise between being shaped for upright walking and giving birth to large-headed neonates. This “obstetric dilemma” arose as a consequence of bipedal humans evolving increasingly larger brains. Although anatomically modern humans have existed for at least 100,000 years, and although the selection pressure for evolving wider birth canals has probably been considerable throughout, we do not see any evolutionary response in birth-relevant pelvic dimensions. We hypothesize that this lack of response is due to evolutionary constraints that inhibit the evolution of wider birth canals in humans. In this study we try to identify allometric constraints using morphometric techniques on a human skeletal sample.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

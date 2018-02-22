@@ -1,0 +1,562 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY25: New directions in sex role research
+ Abstracts list Schedule Description
+View only talks or posters
+Eija Lönn
+University of Jyväskylä
+Finland
+A likely role for antagonistic selection in the maintenance of genetic variation at the arginine vasopressin receptors 1a
+poster D21SY25PS0861
+
+Author(s): Lönn, E, Koskela, E, Mappes, T, Mokkonen, M, Watts, PC
+
+Summary: 
+
+Vasopressin modulates a range of socio-reproductive behavior in mammals, largely through its interaction with expression of the arginine vasopressin receptor 1a (avpr1a). In microtine voles, the length of the microsatellite locus situated in the avpr1a promoter region regulates expression of this gene in certain regions of the brain and this has a concomitant effect upon a variety of male-associated behaviors. We quantified the effect of variation in the length of the microsatellite in the promoter regions of avpr1a upon reproductive success in semi-natural populations of bank voles (Myodes glareolus). After artificial breeding was used to create lines with contrasting microsatellite genotypes, we released animals into 0.25 ha enclosures in the field and measured survival and reproductive success over a breeding season. Our study revealed a sex-by-density interaction for avpr1a microsatellite length, such that males with longer- and females with shorter- avpr1a microsatellite alleles enjoyed greater reproductive success in low density populations; conversely, males with shorter- and females with longer- avpr1a alleles produced more offspring in high density populations. Both sexually antagonistic selection and density dependent selection are reasonable candidate mechanisms behind the maintenance of variation in microsatellite allelic diversity in avpr1a.
+
+Joanna Rutkowska
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+All eggs are made equal
+poster D21SY25PS0895
+
+Author(s): Rutkowska, J, Dubiec, A, Nakagawa, S
+
+Summary: 
+
+Maternal effects mediated by egg size may have profound effects on offspring fitness. Sex-biased resource allocation in birds gains increasing interest, but it is not known to what extent the egg sexual size dimorphism (SSD) is a wide-spread phenomenon in this group. To answer that question we performed meta-analysis of 33 published and 2 unpublished studies, which included information on egg SSD of 31 avian species. Many of those studies suggested adaptive explanation for the reported egg SSD, which helped us to formulate predictions for our analyses. In some species, egg SSD was suggested to promote future size differences between the adults. If that is the case, then across species, adult SSD should be a significant predictor of egg SSD. However, in other species, egg SSD was invoked as an adaptive means by which a female balances nestling mortality differences between sexes, therefore producing bigger eggs for the smaller sex. Based on these two hypotheses, we derived a general prediction that there should be a significant relationship between the magnitude of adult SSD and the magnitude of egg SSD irrespective of the direction of those differences. Our analyses found no support for either of those hypotheses. Across species, adult SSD does not predict egg SSD. More importantly, our meta-analysis revealed no heterogeneity, with the meta-analytic mean very close to 0. That is, the observed variation in effect sizes in our dataset was almost exclusively explained by sampling error and there was no difference in avian egg sizes between the sexes whatsoever. Although adult SSD is undoubtedly a prominent feature of avian species, we conclude that, in general, there is no evidence for egg SSD across bird species.
+
+Marija Savic Veselinovic
+Faculty of Biology of the University of Belgrade
+Chair Genetics and Evolution
+Serbia
+Can mutational load be reduced through selection on males?
+poster D21SY25PS1033
+
+Author(s): Savic Veselinovic, MN, Pavkovic-Lucic, S, Kurbalija Novicic, Z, Jelic, M, Tanaskovic, M, Andjelkovic, M
+
+Summary: 
+
+According to theoretical predictions sexual selection will purge mutational load and increase nonsexual fitness if most mutations are deleterious to both nonsexual fitness and condition-dependent traits affecting mating success. To test this hypothesis we manipulated the genetic quality of Drosophila subobscura males by inducing mutations with ionizing radiation and observed the effect of the obtained heterozygous mutations on mating behavior. We used the progeny of both groups (manipulated and non-manipulated) to test if sexual selection is efficient to reduce induced mutational load, by measuring nonsexual fitness. Within the non-manipulated and manipulated treatments we formed two groups with different opportunity for sexual selection, with presence or absence of female choice. Females mated more frequently with non-manipulated males and non-manipulated males courted females faster. Fecundity differences were obtained only in manipulated treatment. Group with the presence of female choice exhibited higher fecundity than group in which sexual selection was experimentally eliminated. There was no overall difference in egg-to-adult viability between different sexual selection regimes in any of the group. Our findings hint to an important role of sexual selection in purging deleterious mutations.
+
+Martin Vallon
+Faculty of Science of the University of Tübingen
+Department of Biology
+Germany
+Context-dependent plasticity of reproduction in the common goby (Pomatoschistus microps)
+talk D21SY25RT17:45R7
+
+Author(s): Vallon, M, Heubel, K
+
+Summary: 
+
+Reproduction in animals can be highly variable with characters like reproductive rates and reproductive success being affected by numerous abiotic and biotic factors. Different populations of one species usually experience different kinds of such external influences. Likewise, there are often temporal changes in the environment, e.g. in the course of the progressing breeding season. By differentially affecting reproduction in males and females this social and population ecological context can also determine the direction and strength of sexual selection. While most research on sexual selection thus far has ignored this background, this study is specifically addressing the interactions between reproduction, sexual selection and its natural context, using the common goby (Pomatoschistus microps) as a model species. This small marine fish has exclusive paternal care, a resource-based mating system and plastic sex roles. Additionally, it occurs throughout the Baltic Sea and its distribution thus naturally stretches over steep environmental gradients. In this study, we investigated how different seawater temperatures and adult sex ratios affect reproduction, the operational sex ratio and intra- and intersexual competition in a controlled laboratory experiment. We found that warmer water led to higher reproductive rates in both sexes. However, this increase was much higher in males. Other preliminary results show larger clutches and higher reproductive rates under female-biased conditions. This study thus helps to further our understanding of the context-dependency of reproduction and we will discuss how this ultimately affects sexual selection.
+
+Katja Heubel
+University of Tuebingen
+Animal Evolutionary Ecology
+Germany
+Context-dependent plasticity of sex-roles
+poster D21SY25PS0920
+
+Author(s): Heubel, K
+
+Summary: 
+
+Most research on sexual selection thus far has been carried out while ignoring the social and population ecological context. Here I address the question how sexual selection and its natural context interact in a small annual marine fish with exclusive paternal care, the common goby (Pomatoschistus microps). Specifically, field experiments were carried out to study interactions between operational sex ratio, reproductive rates, mate competition and nest availability and its impact on reproductive decisions. The results elucidate the seasonal plasticity of sex roles in populations with changing environmental contexts and highlight the importance of nest density. Insights in temporal dynamics of the mating system interacting with the natural context and its potential population level evolutionary consequences shall be discussed.
+
+Roland Schultheiß
+University of Turku
+Department of Biology
+Finland
+Deep RNA sequencing suggests a lack of global dosage compensation in threespine sticklebacks
+poster D21SY25PS0742
+
+Author(s): Schultheiß, R, Viitaniemi, HM, Sävilammi, T, Leder, EH
+
+Summary: 
+
+The establishment of non-recombining regions is a critical early step in the evolution of sex chromosomes. To compensate for the resulting difference in the expression of X-linked genes the heterogametic sex will increase the expression of X-linked genes or the homogametic sex will shut down one of the X chromosomes. This process is known as dosage compensation. It has recently been suggested that incomplete or imperfect dosage compensation may have a stronger influence on sex-biased expression than previously thought. We use the threespine stickleback (Gasterosteus aculeatus) as a model system to study the role of dosage compensation in the evolution and maintenance of sex-biased gene expression. Threespine sticklebacks constitute a particular interesting system in this respect because its chromosome group 19 are nascent sex chromosomes: Whereas there is still recombination between sexes in the region spanning the first 3 million bases on the chromosome, recombination is significantly reduced in the region from 3-12 million bases. The last 6 million bases are mostly deleted from the male Y-chromosome. We collected five specimens of each sex from a benthic and a limnetic population in four Alaskan lakes, respectively, and utilized deep RNA sequencing of brain tissue to study gene and transcript isoform expression differences between the sexes. Preliminary results from expression of genes corresponding to the missing region of the X chromosome suggest no dosage compensation as the expression pattern is indicative of a copy number variation biased towards females. In other areas of the genome, there is more varied sex-biased expression.
+
+Julie Collet
+University of Queensland
+School of Biological sciences
+Australia
+Dissecting the Bateman gradient: what it really tells us about sex roles
+talk D21SY25RT14:00R7
+
+Author(s): Collet, J, Dean, R, Worley, K, Richardson, DS, Pizzari, T
+
+Summary: 
+
+At the heart of the recent debate on sex roles lies the interpretation of the Bateman gradient, the slope of the regression of reproductive success (number of offspring, T) over mating success (number of mates, M). Typically, males are considered to have a steeper Bateman gradient, thus to undergo stronger sexual selection than females. Recent work challenges this paradigm by questioning the measurement and interpretation of Bateman gradients. In this study we combine an experimental approach with multivariate analyses to resolve the significance of male and female Bateman gradients in the red junglefowl, Gallus gallus. First, the male Bateman gradient is measured by deducing mating success from paternity of the offspring, without accounting for matings that fail to result in fertilisation. We demonstrated that inferring M from offspring parentage leads to a 50% overestimate of the male Bateman gradient compared to a regression using fine-grain mating behaviour. Second, while the male Bateman gradient is concerned with the causal relationship between M and T, we show that variation in other components of male reproductive success, namely female fecundity and paternity share, also cause the Bateman gradient to be overestimated of a further 69%. Finally, there is growing appreciation that female Bateman gradients can be steeper than originally thought. We show that females display a positive Bateman gradient, suggesting that they benefit by mating with multiple males. However, an experimental test shows no evidence that productivity increases with number of mates in females, suggesting that the female Bateman gradient emerges as spurious consequence of males preferentially mating with more fecund females. Our results demonstrate that the mechanisms underpinning Bateman gradients are more complex than currently appreciated, and that understanding the causal relationship of M and T and how it defines sex roles requires an integrated experimental approach.
+
+Isobel Booksmythe
+Evolutionary Biology Centre, Uppsala University
+Animal Ecology
+Sweden
+Exploring a female sexual signal
+poster D21SY25PS0821
+
+Author(s): Booksmythe, I, Rundle, H, Arnqvist, G
+
+Summary: 
+
+It is now well recognized that exaggerated sexual signalling traits occur in females across many taxa. However, it remains empirically true that such traits are less common in females than in males. Their relative rarity in females is attributed to more restrictive conditions under which they can evolve: theoretically, female investment into signals of mate quality should be restricted due to trade offs with investment into fecundity. The conditions necessary for the evolution and maintenance of exaggerated female traits are not fully understood and their exact signalling function is not always clear. We investigated the chemical signalling role of a conspicuous, female-limited trait in a beetle showing female courtship and male mate choice. Megabruchidius tonkineus females court males by repeatedly presenting their abdomen, which bears two large, dark, pore-enriched patches that the male probes and antennates before deciding whether to copulate. We manipulated female mating status, age, and size, measured male mating preferences and compared female chemical profiles to determine whether this exaggerated female trait functions to signal female fecundity.
+
+Yumi Nakadera
+VU University Amsterdam
+Animal Ecology
+Netherlands
+Extending sex role research to hermaphroditism: post-copulatory alteration of male and female functions via seminal fluid in a freshwater snail
+talk D21SY25RT18:33R7
+
+Author(s): Nakadera, Y, Hoffer, JNA, Swart, E, Den Boon, O, Ellers, J, Koene, JM
+
+Summary: 
+
+There are generally two sex roles that can be expressed separately (males and females) or simultaneously (hermaphrodites). Several fundamental differences in reproduction between these two sexual systems invoke interesting questions for generalization of sex role research. For instance, in contrast to separate sexes, a hermaphrodite theoretically has the unique possibility to alter its mating partner’s male as well as female functions to its own benefit. Here, we present the first study of such mate influencing in the great pond snail Lymnaea stagnalis. Previous work has shown that proteins in the seminal fluid delay egg mass production in sperm recipients, something that also becomes apparent from multiple mating experiments. We now report that this seems to be beneficial for sperm donors, as delayed egg mass production leads to more investment per egg. In addition, we found that recently-inseminated sperm donors transfer half the amount of sperm to mating partners, which is also caused by male accessory gland products. Crucially, we reveal that, as a consequence, these donors obtain less paternity success. This decrease, which reduces the male function of recipients, would be beneficial for donors if recipients invest more in their female reproductive output in response. In other words, they seem to invest less in their ejaculate and more in their eggs. These two functions of seminal fluid in a hermaphrodite suggest their unique post-copulatory opportunities, in contrast to gonochorists. It would be interesting for future research to test if these post-copulatory effects of seminal fluid proteins alter evolutionary trajectories under various sexual selection scenarios.
+
+Claudia Fricke
+Institute for Evolution and Biodiversity, University of Muenster
+Germany
+Female age dependent responses to a male signal can alter opportunities for sexual antagonistic co-evolution
+talk D21SY25RT18:09R7
+
+Author(s): Fricke, C, Green, D, Mills, WE, Chapman, T
+
+Summary: 
+
+Evolutionary explanations for ageing are based on the observation that the strength of selection often wanes with age. While this is well established for natural selection, data on the age-specific expression and benefits of sexually selected traits are lacking. Here we present work to address this omission. We report the responses of Drosophila melanogaster females of different ages to receipt of an ejaculate protein, the sex-peptide (SP) transferred to females during mating. SP can mediate sexual conflict as it can cause fitness costs in females, while simultaneously benefitting the males that transfer it. Virgin and mated females of all ages showed significantly reduced receptivity to further mating in response to SP. However increases in egg laying in response to receipt of SP were observed only in young virgin females. Hence there was a narrow demographic window in which males could maximise the fitness benefits gained by transfer of SP. The pattern of female responses to SP reversed with increasing female age, hence altering the opportunity for selection. The data reveal a new example of demographic variation in the strength of selection, with convergence and conflicts of interest between males and ageing females occurring over different facets of responses to a sexually antagonistic trait.
+
+Jarle Nordeide
+University of Nordland
+Faculty of Biosciences and Aquaculture
+Norway
+Female fineries revisited – are they correlated with offspring quality?
+talk D21SY25RT14:48R7
+
+Author(s): Nordeide, JT, Kekäläinen, J, Janhunen, M, Kortet, R
+
+Summary: 
+
+The evolution and signalling content of female ornamentation has remained an enduring challenge to evolutionary biologists. While females usually invest significant amounts of their resources, including carotenoids, in offspring, all the resources allocated to elaborate ornamentation reduce resources available for other purposes. This may in turn constrain female fitness leading to dishonest female signalling.
+
+We review the literature for empirical studies on mutually ornamented species with conventional sex roles, by focusing on the association between female ornaments and quality of their offspring.
+
+We find 43 papers where 33 (77 %) are bird-studies, 9 (21 %) are on fishes, and 1 (2 %) is a lizard-study. Nine of these report negative, 14 non-existing, and 20 positive associations between female ornament and offspring quality. Eighteen of the bird studies (55 %) show a positive association between the two traits investigated, whereas 5 (15 %) of the studies report a negative association. The number of fish studies, although few, is skewed in the opposite direction with 2 (22 %) and 4 (44 %) studies supporting positive and negative association, respectively. A minority of studies on carotenoids-based ornaments reports a positive association (4 of 18 studies, or 22 %) between the traits, which is low compared to studies on non-carotenoids-based ornaments (16 of 25 studies, or 64 %).
+
+The abovementioned relative large number of studies with negative association, especially common in studies on fishes and in carotenoids-based-ornaments, challenges the generality of the direct selection hypothesis to account for female fineries. This is important since this hypothesis seems to have strong support in the recent literature on the topic. In the present paper, we also propose possible explanations for the observed differences between taxa and suggest directions and ideas for the future research on the evolution of female ornamentation.
+
+Ally Harari
+The Volcani Center
+Department of Entomology
+Israel
+Female moths do it all: advertise, compete and choose
+poster D21SY25PS0624
+
+Author(s): Harari, A, Steinitz, HHS, Sadeh, AAS, Zahavi, TTZ
+
+Summary: 
+
+The concept of a male sex pheromone as a sexual trait that is used by females to evaluate males as mates is widely accepted. By contrast, the idea of a female sex pheromone as a secondary sexual trait is fairly new and evidence is scarce. In order to serve as an honest signal, sex pheromones, as other secondary traits that advertise condition, should bear a significant cost. Female sex pheromone, as opposed to male sex pheromone, is typically released in minute amounts. Nevertheless, accumulating evidence demonstrates an imposed cost on female produced pheromone. Male moths, at the other side of the sexual selection equation, are generally sperm limited and as such are expected to gain from choosing a mate. We will discuss the option of mutual mate choice and intrasexual competition among both, males and females in the context of operational sex ratio in monandrous and polyandrous females.
+
+Johanna Dunn
+University of Nottingham
+School of Biosciences
+United Kingdom
+Higher aggression towards closer relatives by soldier larvae in a polyembryonic wasp
+poster D21SY25PS1429
+
+Author(s): Dunn, J, Dunn, DW, Strand, MR, Hardy, ICW
+
+Summary: 
+
+In the polyembryonic wasp Copidosoma floridanum females commonly lay one male and one female egg in a lepidopteran host. Both sexes proliferate clonally within the growing host larvae. Distinct larval castes develop from each wasp egg: the majority being ‘reproductives’ plus some ‘soldiers’ which sacrifice reproduction and attack competitors. Maturing mixed sex broods are usually female biased, as expected when intra-brood mating is common. Pre-mating dispersal followed by outbreeding is expected to increase sexual conflict over brood sex ratios and result in greater soldier attack rates. Due to sexually asymmetric relatedness, intra-brood conflicts are expected to be resolved primarily via female soldier attack. We observed soldier behaviour in vitro to test whether lower intra-brood relatedness (manipulated by whether or not the father was from the maternal population) increased inter-sexual aggression by female as well as male soldiers. As found in prior studies, females were more aggressive than males but, contrary to expectations, soldiers of both sexes showed more aggression towards more closely related embryos. We speculate that lower intra-brood relatedness indicates maternal outbreeding and may suggest a rarity of mating opportunities for reproductives maturing from the current brood, which may thus enhance the value of opposite sex brood-mates.
+
+Karoline Fritzsche
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Homage to Bateman: sex roles predict sex differences in sexual selection
+talk D21SY25RT14:24R7
+
+Author(s): Fritzsche, K, Arnqvist, G
+
+Summary: 
+
+Classic sex role theory predicts that sexual selection should be stronger in males in taxa showing conventional sex roles and stronger in females in role reversed mating systems. I present the results of a study that tested this very central prediction and assessed the utility of different measures of sexual selection. We estimated sexual selection in both sexes in four seed beetle species with divergent sex roles using a novel experimental design. We found that sexual selection was sizeable in females, and that the strength of sexual selection in females and males varied with mating system and species. Residual selection formed a substantial component of net selection in both species. Further, we compared variance-based measures of sexual selection (the Bateman gradient and selection opportunities) with trait-based measures (selection differentials) in their ability to predict sexual dimorphism in reproductive behavior and morphology across species. Our results 1) highlight the importance of using assays that incorporate components of fitness manifested after mating, and 2) allow us to identify the generally most informative measure of the strength of sexual selection in comparisons across sexes and/or species.
+
+Kenyon Mobley
+Max Planck Institute for Evolutionary Biology
+Evolutionary Ecology
+Germany
+No evidence for size-assortative mating in the wild despite mutual mate choice in two species of sex-role-reversed pipefish
+poster D21SY25PS0106
+
+Author(s): Mobley, KB, Chakra, MABOU, Jones, AG
+
+Summary: 
+
+Size-assortative mating is expected to be common in species with mutual preferences for body size. In this study, we investigated whether there is direct evidence for assortative mating in two species of pipefishes, Syngnathus floridae and S. typhle, that share the characteristics of male pregnancy, sex-role reversal and a polygynandrous mating system. We take advantage of microsatellite-based ‘genetic-capture’ techniques to match wild caught females with female genotypes reconstructed from broods of pregnant males and use these data to explore patterns of size-assortative mating in these species. We also developed a simulation model to explore the conditions under which preferences for body size can lead to size-assortative mating. Contrary to expectations, we were unable to find any evidence of size-assortative mating in either species. Results from simulations demonstrate that strong size-assortative mating preferences are unlikely to explain the observed patterns of mating in the studied populations. Our study suggests that individual mating preferences, as ascertained by laboratory-based mating trials, can be decoupled from realized patterns of mating in nature.
+
+Hanna Kokko
+Australian National University
+Research School of Biology
+Australia
+Operational sex ratios, Bateman gradients, competition, care, and then some nasty interference from the deep evolutionary past
+talk D21SY25IT11:18R7
+
+Author(s): Kokko, H
+
+Summary: 
+
+Reviews of sexual selection often emphasize one of two concepts. Strong competition for mates is expected when the operational sex ratio (OSR) is biased towards the focal sex, or when the Bateman gradient is steep for the focal sex. Treatments rarely emphasize that not one but two conditions must be satisfied before one expects selection for a trait that enhances mate acquisition: mating multiply must be beneficial for fitness, and achieving this must be difficult without the trait. Because the former idea is captured by the Bateman gradient and the latter by the OSR, the two concepts are complementary, not competing or mutually exclusive. Combining their insights into a single metric can help understand sex roles, but we also need to know the origin of OSR biases. These biases are often related to the way parental duties are divided or shared. The evolution of care roles is an outcome of a mix of positive and negative feedbacks involving e.g. the population-wide adult sex ratio. Together with the fact that it is easier for a parent to provide further care if it is already associated with its young (e.g., a parent that must physically be present at birth is a more likely caregiver later too), this implies that care evolution can feature strong phylogenetic inertia and multiple stable states. This makes care evolution challenging to analyze, but also offers new avenues for understanding e.g. male-biased care in fishes.
+
+Jonathan Henshaw
+Australian National University
+Research School of Biology
+Australia
+Parent-gamete proximity and its consequences for the evolution of sex roles
+talk D21SY25RT15:45R7
+
+Author(s): Henshaw, JM, Kokko, H, Jennions, MD, Marshall, DJ
+
+Summary: 
+
+Why do some female marine animals release their eggs into the water to be fertilised, while others retain them on, or inside, their bodies? Why do terrestrial plants disperse pollen but not ovules, and why do most terrestrial animals hold onto both sperm and eggs until they find a mate? Sex role research has largely overlooked the significance of where gametes are located when fertilisation occurs. Parent-gamete proximity during fertilisation is not only a basic difference between the sexes in many species; it is also essential to the evolution of parental care and most forms of mate choice. I explore the evolutionary logic behind gamete release and retention using mathematical models. I focus particularly on marine invertebrates, in which evolutionary changes in these behaviours are common. Along the way, I provide a new explanation for why egg retention, small body size, and large egg size are correlated in sessile marine invertebrates. I also explain why there are no species in which males retain their gametes while females release them.
+
+Andrew Kahn
+Australian National University
+Evolution, Ecology & Genetics
+Australia
+Paternity, sex roles and fish: Who cares?
+talk D21SY25RT16:33R7
+
+Author(s): Kahn, AT, Schwanz, LE, Kokko, H
+
+Summary: 
+
+Female parental care predominates in most taxa because sperm competition and paternity uncertainty hamper the evolution of male care. What if fathers can, however, increase their share of paternity by providing parental care? Here we show that this provides an important modification to Dawkins and Carlisle’s (1976) cruel bind – the idea that whichever parent releases their gametes first can desert the other, who is left ‘holding the baby’. In our model, post-mating protection of paternity provides an extra incentive for males to stay with their young after gamete release. If offspring survive better when guarded, this paternity protection is enough to kick-start the evolution of male-only parental care from a no-care scenario. Our results help to explain the evolution of parental sex roles in fish, where male-only care (the norm) is associated with external fertilization, whilst female-only care almost always evolves after an initial transition to internal fertilization.
+
+Remi Charge
+CoE in Biological Interactions Research, University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Post-mating sexual selection and maintenance of colour polymorphism in an aposematic species
+poster D21SY25PS0492
+
+Author(s): Charge, R, Lindstedt, C, Hämäläinen, L, Övermark, E, Wedell, N, Mappes, J
+
+Summary: 
+
+Predation is assumed to select for signal uniformity and conspicuousness in aposematic species, but colour polymorphism is surprisingly common. Sexual selection can maintain colour polymorphism, but only a few studies have examined its role in the maintenance of polymorphism in aposematic species. Previous studies in the aposematic Wood Tiger moth, Parasemia plantaginis, suggest that the conspicuous yellow male morph is better defended against predators, whereas females seem to prefer to mate with the white morph offering one potential explanation for the maintenance of colour polymorphism. Here we test the possible direct benefits that female could gain by mating with white males by examining whether white males provide females with bigger spermatophores and more sperm and whether white males recover faster after mating than yellow males. Spermatophores of either white or yellow males were collected from recently mated females. To measure male recovery rate, the amount of fertile sperm stored in males’ reproductive tract was assessed in mated males over several days post-copulation. We found that white males transferred bigger spermatophores than yellow males, but this difference was found only in older males. No difference in the pattern of sperm recovery was observed between male morphs. Contrary to our prediction, we found slightly higher number of fertile sperm stored in the reproductive tract of yellow males compared to white males, regardless of the recovery period. One explanation is that white males invest more in sperm competition by producing more non-fertile sperm that may suppress female receptivity. This would result in bigger spermatophores but with reduced number of fertile sperm. White males might also transfer other compounds such as defensive chemicals into the spermatophore that may benefit females. Altogether our results suggest that fertilization benefits do not solely explain how colour polymorphism is maintained in P. plantaginis.
+
+Sigrunn Eliassen
+University of Bergen
+Department of Biology
+Norway
+Promiscuity and evolution of cooperative neighbourhoods
+poster D21SY25PS1275
+
+Author(s): Eliassen, S, Jørgensen, C
+
+Summary: 
+
+A striking but unexplained pattern in biology is the widespread promiscuity in socially monogamous species. Although females commonly solicit extra-pair copulations, the adaptive reason has been elusive. We use evolutionary modelling of breeding ecology to show that females benefit because extra-pair paternity incentivizes males to shift focus from a single brood towards the entire neighbourhood, as they are likely to have offspring there. Male-male cooperation towards public goods and dear enemy effects of reduced territorial aggression evolve from selfish interests, and lead to safer and more productive neighbourhoods. Using a set of theoretical simulation models, we predict sex-specific cooperative behaviours at breeding sites where males cooperate more towards public goods than females. The mechanism provides adaptive explanations for the common empirical observations that females solicit extra-pair copulations and that neighbours dominate as extra-pair sires. Derived from ecological mechanisms, these new perspectives point towards the evolution of sociality in birds, mammals, and primates, including humans.
+
+Miguel Machado
+Faculty of Science of University of Lisbon
+Department of Animal Biology
+Portugal
+Transcriptome characterization by SSH-seq and RNA-seq of specific tissues involved in sexual mechanisms in an endemic Iberian cyprinid fish
+poster D21SY25PS1428
+
+Author(s): Machado, MP, Inácio, Â, Pinho, J, Grosso, AR, Matos, I, Schartl, M, Coelho, MM
+
+Summary: 
+
+Genetic mechanisms of sex determination are unexpectedly diverse and change rapidly during evolution, special among fish, and the diversity of determination systems can include environmental, genetic or even both components. Although one would assume that such a basic aspect of development as sex determination would be highly stable in evolution, the opposite can be found. The main players involved in such processes can normally be identified by screening for sex reversal mutations, functional studies and gender-specific expression patterns. Making use of these specific expressions, together with the fact that gonadal fate decision is not final but has to be actively maintained throughout life, the study of gene expression during gonad phenotype maintenance could provide clues for the processes behind sexual determination mechanisms. Squalius pyrenaicus is a helpful model to study sexual determination and differentiation in an endanger Iberian Peninsula endemic species that lives in a highly variable environment, presenting a balanced sex ratio. Through transcriptome sequencing using two different types of libraries, one produced with the standard Illumina RNA-seq and another previously enriched by Suppressive Subtractive Hybridization (SSH) technique, an extensive characterization of adult female and male transcriptome of this species was preformed, using organs mainly involved in sexual processes (gonad and brain, but also liver in libraries enriched by SSH) in order to identify genes that could be potentially be involved in sexual landmarks. Since S. pyrenaicus is the maternal ancestor and a genetic material donor to the allopolyploid Squalius alburnoides complex, this characterization will provide information to assess the conservation of these mechanisms in a hybrid context that frequently brings ploidy and genomic shock, abruptly changing genetic cascades, compared to those found in parental species.
+
+Anna Harts
+Australian National University
+Research School of Biology
+Australia
+Understanding promiscuity: when is seeking additional mates better than guarding an already found one?
+poster D21SY25PS0305
+
+Author(s): Harts, AMF, Kokko, H
+
+Summary: 
+
+Male monogamy is expected when a male spends his entire time budget guarding one female rather than acquiring multiple mates. The consensus from theoretical work is that mate-guarding intensifies with an increasing male bias in the adult sex ratio (ASR). Given that both male and female biased ASRs are observed, why is it that promiscuity is more common than male monogamy? We address this question with a model that allows males to combine paternity protection from guarding with searching for additional females to maximize paternity, i.e. temporally limited guarding. In contrast to existing models we combine pre- and postcopulatory mate guarding in a single model. Our model confirms that the ASR is an important predictor for mate guarding duration. Guarding durations increase with the number of male competitors and decrease with a decrease in female availability. However, a male biased ASR alone does not select for male monogamy. We identify conditions for promiscuity, temporally limited guarding and monogamy. These confirm our suspicions that frequency-dependent payoffs explain the relative infrequent occurrence of male monogamy.
+
+Lucas Marie-Orleach
+University of Basel
+Zoological Institute
+Switzerland
+Quantifying pre- and post-copulatory episodes of sexual selection in a simultaneous hermaphrodite
+talk D21SY25RT18:57R7
+
+Author(s): Marie-Orleach, L, Janicke, T, Vizoso, DB, Schärer, L
+
+Summary: 
+
+Classical sex roles are often assumed to apply to all sexually reproducing organisms with males being typically more eager to mate whereas females being more choosy. For simultaneous hermaphrodites this implies that mating should be more beneficial for the male than for the female sex function, but empirical tests are scarce. Specifically, a high mating activity (mating success) is expected to lead to the successful transfer of numerous sperm cells (insemination success) and thus to the fertilization of numerous eggs (fertilization success), jointly leading to a high male reproductive success. These consecutive episodes of sexual selection are often challenging to quantify separately, especially given the generally cryptic nature of post-copulatory processes, usually occurring inside the sperm recipient. A recently established transgenic line in the transparent flatworm Macrostomum lignano expresses green fluorescent protein (GFP) in all cell types, including the spermatozoa, which enables us to observe the mating interactions, the number of sperm received from a GFP-expressing mating partner and the resulting offspring produced (as the GFP locus is a dominant marker). We created 72 groups of 5 individuals, including one focal GFP-expressing individual, and assessed the mating success, the insemination success and the male and female reproductive success of these focals, of which we also measured a suite of morphological traits (including testis and ovary size, as well as the morphology of the male copulatory organ and the sperm cells). We aim to quantify (1) how mating success affects male and female reproductive success, (2) how mating success, insemination success and fertilization success contribute to male reproductive success, and (3) how these episodes of selection are affected by specific morphological traits. To our knowledge, this is the first study that quantifies all of the above mentioned episodes of sexual selection in a same individual.
+
+Max Reuter
+University College London
+Research Department of Genetics, Evolution and Environment
+United Kingdom
+Rapid change in the genetic architecture of sex-specific fitness in laboratory populations of fruitflies
+poster D21SY25PS0976
+
+Author(s): Reuter, M, Collet, J, Fuentes, S, Fowler, K
+
+Summary: 
+
+Phenotypic plasticity requires the breakdown of genetic correlations between the phenotypes expressed in different environments. The same applies to sexual dimorphism, a conceptually related phenomenon where individuals express different phenotypes in response to the genetic environment provided by their sex-determining factors. While sexual dimorphism is ubiquitous, evidence is accumulating that its evolution is often incomplete. Thus, many populations harbour sexually antagonistic variation, alleles that increase the fitness of one sex at the expense of fitness of the other sex. This type of variation is evidence for genetic correlations between males and females constraining the evolution of dimorphism. While sexual antagonism has been documented in a growing range of animal and plant species, we know little about how adaptive conflicts between the sexes are resolved. Here, I present data on a change in the genetic architecture of fitness in laboratory populations of Drosophila melanogaster that is consistent with a resolution of sexual antagonism. We compared two populations that both descend from the outbred laboratory stock LHm in which sexual antagonism has been previously described. The populations have been separated for about 180 generations and maintained under highly standardised rearing conditions. Using estimates of genetic variances and covariances for male and female fitness in the two populations, we can show that the antagonism present in the ancestral LHm population has disappeared in one of the descendant populations. Thus, male and female fitness are no longer genetically correlated, despite the presence of genetic variation for fitness in both sexes and levels of variation at neutral genetic markers that are similar to those in the other population. Using genome-wide genotype data, we are currently investigating the genetic changes associated with this rapid change in the genetic architecture of fitness and resolution of sexual antagonism.
+
+Tim Janicke
+CNRS
+Centre for Functional and Evolutionary Ecology
+France
+Reassessment of Bateman’s principles: insights from a meta-analysis
+poster D21SY25PS0461
+
+Author(s): Janicke, T, Haederer, I, Anthes, N
+
+Summary: 
+
+Bateman’s principles have become a touchstone of sexual selection research by providing a catchy but highly controversial metaphor for the origin of evolutionary sex roles. Based on Bateman’s classic study on Drosophila and further theoretical work by Trivers, Arnold and others, males are usually considered to be under stronger sexual selection than females because they typically show (1) more variance in reproductive success (RS), (2) more variance in mating success (MS), and (3) a stronger relationship between reproductive success and mating success (i.e., a steeper Bateman gradient). However, recent empirical work questions the universality of these so-called Bateman’s principles. We take a meta-analytic approach to quantitatively test the hypotheses that the sexes differ in the variance in RS, the variance in MS, and the slope of the Bateman gradient across a broad range of plant and animal taxa. Furthermore, we explore how the behavioural mating system, the reproductive strategy, the type of fertilization and other factors modify the sex-difference in the three Bateman parameters, thus offering a life-history oriented understanding of the observed between-species variation.
+
+Larry Young
+Emory University
+Department of Psychiatry
+United States
+Sex Differences in the evolution and neural mechanisms of pair bonding in monogamous prairie voles
+talk D21SY25IT10:30R7
+
+Author(s): Young, LJ
+
+Summary: 
+
+Monogamous prairie voles (Microtus ochragaster) provide an excellent opportunity to investigate the neural mechanisms underlying pair bonding behavior, as well as the evolution of those mechanisms. Behavioral pharmacological studies have demonstrated that oxytocin, a neuropeptide involved in parturition, milk ejection during nursing, and the onset of maternal nurturing and mother-infant bonding, plays a critical role in the formation of the pair bond between the female to the male. By contrast, the related neuropeptide, vasopressin, a sexually dimorphic peptide involved in territorial aggression and scent marking, plays a critical role in pair bonding in male prairie voles. The neural distribution of oxytocin and vasopressin receptors in the brain is strikingly different between monogamous prairie vole and non-monogamous species, being concentrated in dopaminergic reward centers in the prairie vole brain. Thus neural mechanisms underlying pair bonding evolved through adaptation of systems involved in maternal nurturing and bonding in females, and through adaptation of systems involved in territorial behavior in males. I will discuss molecular mechanisms by which diversity in neuropeptide receptor expression patterns leads to diversity in pair bonding behaviors in a sex specific manner.
+
+Andres Quiñones
+University of Groningen
+Centre for Ecological and Evolutionary Studies
+Netherlands
+Sex ratios favour an evolutionary transition in social behaviour and life-history
+poster D21SY25PS0074
+
+Author(s): Quiñones, AE, Pen, I
+
+Summary: 
+
+The evolution of eusociality, where some individuals refrain from reproduction to help others to reproduce, remains one of the biggest challenges for evolutionary theory. From a Darwinian perspective individuals are expected to maximize their own reproduction rather than help others reproduce. Different theoretical frameworks have been developed to explain why individuals would be selected to have reproductive altruism. In particular, kin selection theory has made salient the relevance of sex determination systems and sex ratios in the evolution of altruism. However, beyond changes in social behaviour, the transition between solitary and eusocial life involves also changes in life-history traits that have not been explain theoretically. Here we show that the coevolution of sex ratios and helping behaviour causes not only the evolution of eusociality, but also a transition between bivoltine and a univoltine life history. Our model shows that the haplodiploidy genetic systems can favour the evolution of eusociality, however this depends on the type of life history under which selection takes place. This is the first theoretical explanation for a life history transition during the evolution of eusociality. It points out to the importance of life-history conditions on the evolution of sex ratios and social behaviour.
+
+Chiara Benvenuto
+University of Salford
+School of Environment & Life Sciences
+United Kingdom
+Sex roles in a demographic context: population consequences of individual fitness variance in sequential hermaphrodites
+poster D21SY25PS0987
+
+Author(s): Benvenuto, C, Coscia, I, Chopelet, J, Sala-Bozano, M, Mariani, S
+
+Summary: 
+
+When studying sex roles, we often focus on which is the most competitive or choosy sex and who is performing more parental care. In sequentially hermaphroditic fish the division of reproductive tasks is as fair as it can get, since each individual (with few exceptions) reproduce initially as one sex and then change into the other sex, from female to male in protogyny (PG) or vice versa in protandry (PA). In either case, the second sex is the larger sex and potentially more prone to be removed by size-selective fishing. Does the direction of sex change influence the overall demography of a population? Sex change has been mainly investigated from adaptive/ecological points of view, focusing on individual variations in fitness between the male and female phase of the life cycle. Moving from the individual to the population level, the overall variance in individual reproductive success (Vk) should influence the demographic trajectory of the population. To our knowledge, no studies have compared protandrous and protogynous animal species in a population genetic context. Indeed, PG and PA can be expected to lead to very different demographic scenarios. PG occurs when there is high potential for polygamy and results in strong social structures dominated by one large male. Since large males can monopolize multiple females in harems and small females tend to choose the larger males, Vk should be greater in PG than in PA; this is expected to reduce the effective population size (Ne), a key parameter in conservation biology. This trend is reinforced by the greater skew in sex-ratio typically observed in PG. Here we show that molecular and life-history-based estimates of Ne in several pairs of protogynous and protandrous fish lend support to the prediction that protogynous populations may have – based on comparable trait distributions – generally smaller effective size than protandrous ones, leading to valuable insights for conservation and management of marine resources.
+
+Alex Ball
+University of Bath
+Department of Biology and Biochemistry
+United Kingdom
+Sexual conflict predicts the evolution of sexual dimorphism in a diverse avian family, the Penduline tits (Remizidae)
+poster D21SY25PS1195
+
+Author(s): Ball, A, Van Dijk, RE, Dorus, S, Székely, T
+
+Summary: 
+
+Sexual selection is a potent evolutionary force that can cause the rapid diversification of morphological and behavioural traits. The Penduline tits (Remizidae) are a small passerine family distributed throughout Eurasia, Africa and North America which employ a diverse array of reproductive strategies. The European species (Remiz pendulinus) is highly promiscuous, with both males and females having up to 6 sequential mates in a single season. The pursuit of additional mating opportunities results in uni-parental care due to male and female nest desertion and, surprisingly common bi-parental desertion (up to 30%). The considerable variation in parental care conflict across this family led us to produce the first molecular phylogeny of the Remizidae family (13 species) so that the relationship between sexual dimorphism evolution and sexual conflict could be explored. As predicted by sexual selection theory we find that increased levels of conflict over care are associated with sexually dimorphic plumage traits. The relationship between parental investment and sexual selection is a key piller of sexual selection theory but the empirical examples of this in such closely related species are rare. To ascertain the drivers of this relationship is a key objective within evolutionary biology.
+
+Nathaniel Sharp
+University of Toronto
+Ecology and Evolutionary Biology
+Canada
+Sexual selection can reduce mutation load in Drosophila melanogaster
+poster D21SY25PS0411
+
+Author(s): Sharp, NP, Vincent, C, Agrawal, AF
+
+Summary: 
+
+The ‘cost of males’ reduces the fitness of sexuals relative to asexuals. Sex is common, implying that the existence of males may generate indirect fitness benefits. One proposal is that deleterious alleles may be subject to stronger selection in males than females, due to sexual selection. This would eliminate harmful mutations at the expense of males and reduce the mutation load of sexual females. We performed competitive fitness assays to estimate selection on male and female fruit flies bearing chromosomes that accumulated spontaneous mutations. We found that selection on males was 75% stronger than on females, suggesting that sexual selection can reduce mutation load. We then asked whether the presence of parasites can enhance this effect. To examine the interaction of mutations and parasites, we assessed the fitness of mutant and non-mutant males and females that were inoculated with either sterile media or an opportunistic insect pathogen. Infection seemed to cause selection to be stronger in males and weaker in females. This interaction could increase the benefits of sexual selection. However, the presence of males could also reduce female fitness if many alleles are subject to sexually-antagonistic selection. When sexually-antagonistic alleles are common, a large fraction of the genetic variance in reproductive fitness should be due to intermediate-frequency alleles rather than rare deleterious mutations. We compared the contribution of deleterious mutations to standing genetic variance in male and female reproductive fitness and juvenile viability. We found that the fraction of standing variance explained by mutation varied among traits, but there was little evidence for sexual antagonism. Our experiments suggest that sexual selection can have a net positive impact on population mean fitness, with the potential to offset the cost of males in sexual populations.
+
+Loïc Etienne
+Institut des Sciences de l'Evolution
+France
+Sexual selection of choosiness under direct benefits
+poster D21SY25PS0368
+
+Author(s): Etienne, L, Rousset, F, Godelle, B, Courtiol, A
+
+Summary: 
+
+Most theoretical research in sexual selection have studied the evolution of mate choice by indirect selection (i.e. when selection is only present on ornament and/or quality, but not directly on genes responsible for mate choice). However, empirical studies have not brought strong support to indirect selection. A less controversial finding is that choice is related to direct benefits and costs that exert a strong influence on the evolution of mate choice. We present an analytical model in which unilateral (female or male) choosiness evolves only according to such benefits and costs, i.e. only by direct sexual selection. We show that this simple model is sufficient to predict the evolution of all possible levels of choosiness when only four parameters are considered: the encounter rate, the lifetime and the length of unavailability after mating for males and females. This is because these parameters influence the trade-off between direct benefits in terms of the quality of mates and costs in terms of the quantity of mates. We further identify the sensitivity of the relative searching time (RST, i.e. the proportion of lifetime devoted to searching for mates) as a key variable allowing to predict the qualitative effect of any life history trait on the evolution of choosiness. Contrary to other predictors identified by previous models, the sensitivity of the RST encompasses the effect of all life history traits and constitutes an empirically accessible metric. The RST should allow a better understanding of the links between life history and mate choice in the future and thus provide new insights on the evolution of sex roles.
+
+Åsa Lankinen
+Plant Protection Biology
+Sweden
+Sexual selection, sexual conflict and functional mechanisms of pollen-pistil interactions
+talk D21SY25RT16:09R7
+
+Author(s): Lankinen, Å, Strandh, M, Larsson, MC, Walker III, WB, Madjidian, JA, Andersson, S, Hersh, E
+
+Summary: 
+
+Despite theoretical and empirical evidence, sexual selection in plants has remained controversial for the past 30 years. Few plant studies have considered sexual conflict, even though this development of sexual selection has flourished in recent years. In our study species, the hermaphroditic annual Collinsia heterophylla, our experiments suggest a sexual conflict over timing of stigma receptivity. Delaying timing of stigma receptivity is advantageous for the female function in terms of enhanced pollen competition leading to increased offspring quantity and quality. However, early fertilization would benefit the male function as competition with later arriving pollen is avoided. Interestingly, our recent results indicate that male and female conflict traits may be interrelated within an individual plant, possibly suggesting trade-offs in sex allocation or a co-dependence between genes causing these effects. In other species, studies on pollen-pistil signalling mechanisms have mainly focused on incompatibility reactions between or within species or pollen tube growth and guidance in the pistil, rather than on sexual conflict/sexual selection. We are currently aiming to understand more about functional mechanisms of pollen-pistil interactions related to sexual conflict by analysing the transcriptomes (RNA-seq) at different stages of pistil and pollen interactions.
+
+Gustavo Requena
+Yale University
+Ecology and Evolutionary Biology
+United States
+Should males invest more because they are fathers? Or are they fathers because they have invested more? The effect of male allocation in parental and reproductive efforts on paternity
+talk D21SY25RT15:12R7
+
+Author(s): Requena, GS, Alonzo, SH
+
+Summary: 
+
+Although it has long been argued that males should adjust their parental behavior in response to female promiscuity level, empirical data does not support a general pattern of males behaviorally decreasing their parental effort in response to decreases in certainty of paternity. Here, we propose an alternative explanation, considering that male parental investment may have, in fact, played a more decisive role modulating paternity level over evolutionary time. In this sense, we predict that males experiencing high costs associated to care have been under stronger selective pressures favoring the evolution of post-copulatory processes that bias paternity towards parental males, in comparison to males that invest little in parental care. Although several game theoretical models evaluated the trade-off between pre-copulatory competition for mates and sperm competition, the additional component of male parental care has been largely neglected. Therefore, focusing in species with male-only care, in which females usually mate multiply and sperm transference is required by males prior to oviposition, we ask how males should allocate energy between mating effort, sperm expenditure and parental care. We extend previous sperm competition models and report the results of new theory investigating specifically: (a) whether the evolutionarily stable sperm allocation pattern can also explain the positive correlation between paternity and paternal effort predicted by classical theory; and (b) how female choice affects male allocation patterns.
+
+Freya Harrison
+University of Nottingham
+School of Molecular Medical Sciences, Centre for Biomolecular Science
+United Kingdom
+Social role specialisation promotes cooperation
+talk D21SY25RT16:57R7
+
+Author(s): Harrison, F, Székely, T, Liker, A, Barta, Z
+
+Summary: 
+
+Understanding the evolution of cooperation is crucial for understanding the evolution of breeding systems. An assumption implicit in almost all cooperation research is that cooperative behaviour in one specific ecological task evolves independently of other such tasks; however, this is often unlikely to be true. We use an individual-based simulation to relax this assumption, using biparental care as a model of cooperative behaviour. We show that synergistic costs of investing in two distinct care tasks, or a negligible sex-based asymmetry in their costs, select for sex-based task specialisation and stabilise cooperation between parents. Cooperation persists in spite of intense sexual selection and sex-biased mortality. Remarkably, with increased levels of cooperation, population size is also increased. We therefore show that ignoring the multivariate tasks animals face in nature leads to restrictive predictions of the ecological and demographic conditions under which biparental care in particular, and cooperation in general, are maintained.
+
+Javier DelBarco-Trillo
+CSIC
+Museo Natural de Ciencias Naturales
+Spain
+The composition of the sperm membrane across mammals is affected by mass-specifc metabolic rate and the level of sperm competition
+poster D21SY25PS0198
+
+Author(s): DelBarco-Trillo, J, Roldan, E
+
+Summary: 
+
+Cellular membranes are key structures affecting cell function. Their characteristics and performance are strongly determined by the fatty-acid composition of the membrane phospholipids. Since higher levels of polyunsaturated fatty acids (PUFAs) are coupled with more metabolically active membranes, the "membrane pacemaker theory of metabolism" proposes that a high content in membrane PUFAs is positively correlated with high mass-specific metabolic rate (MSMR). This theory holds in many somatic cell types investigated so far. Spermatozoa are highly specialized and differentiated cells that undergo a long series of processes in the male and female reproductive tracts until they reach the site of fertilization. During this transit, they are prone to damage such as lipid peroxidation. We hypothesized that, in order to avoid such damage, and the ensuing impairment of sperm function, sperm cells exhibit a negative relationship between PUFA content and MSMR, since PUFAs are prone to lipid peroxidation, and more lipid peroxidation is likely to occur as metabolism increases. Given that high levels of sperm competition can lead to increased ATP production to fuel higher sperm velocities, we also hypothesized that higher levels of sperm competition would lead to a reduction in the proportion of sperm PUFAs. We performed two comparative studies on mammals (one literature-based, the other being experimental and comparing 4 Mus species that differ in their levels of sperm competition). We found that high MSMR and high levels of sperm competition both promote a decrease in the proportion of PUFAs that are more prone to lipid peroxidation. Our study indicates that the fatty-acid composition of membranes in sperm cells differs from that found in all other cell types, due to unique processes affecting the life of spermatozoa.
+
+Renske Gudde
+University of Reading
+School of Biological Sciences
+United Kingdom
+The effect of sexual selection on sexual size dimorphism in mammals
+poster D21SY25PS0631
+
+Author(s): Gudde, RM, Venditti, CD
+
+Summary: 
+
+Rensch’s well-known allometric law seeks to explain sexual size dimorphism across large groups of animal species. Rensch’s rule states that, when males are the larger sex, the disparity between male and female body mass becomes greater as body mass increases. In a large scale study of birds Dale et al. (2007) revealed mating system as an important predictive factor in explaining size allometry. This suggests that Rensch's rule is driven by a correlated evolutionary response in one sex to stronger size selection in the other sex. Here, we investigate the influence of mating system on size allometry and Rensch’s rule across the mammalian radiation. Across all mammals we find evidence for Rensch’s rule only in polygynous species. This pattern is not recapitulated uniformly within the mammalian orders suggesting varying taxonomic responses to size selection. Using recently developed methods for detecting varying rates of phenotypic evolution we were also able to reveal how the specific evolutionary trajectory of body mass evolution differs between male and female mammalian species. Surprisingly, across all mammals we found that the rate of evolution was higher in females compared to males. This might reflect the idea by Lindenfors (2002) that sexual and fecundity selection can act as antagonistic selection pressures on body size in female mammals. However, this pattern is also variable at inspection of lower taxonomic groups.
+
+Ana Afonso
+Centre for Functional Ecology - University of Coimbra
+Department of Life Sciences
+Portugal
+The evolution of sexual segregation within inflorescences: the role of resource competition by flowers
+poster D21SY25PS0969
+
+Author(s): Afonso, A, Castro, S, Méndez, M, Gómez, J, Anderberg, AA, Torices, R
+
+Summary: 
+
+Spatial segregation of sexual functions within inflorescences has been explained as a mechanism of avoiding self-fertilization reducing the negative effects of inbreeding. However, many species with sexual functions separated in different flowers also have self-incompatibility systems making difficult generalizations of this hypothesis. An alternative hypothesis for this pattern is that flowers within inflorescences compete by resources, and that the sequential development of flowers and architectural constraints lead to a gradient on resource availability. For instance, fruit size also follows a positional pattern within inflorescences supporting this resource gradient. This variation on resource availability produces distinct optima for sex allocation accordingly with the position of the flower within an inflorescence, potentially driving the evolution of sexual specialization on separated flowers. Using as a model the largest family of flowering plants, Asteraceae, we explored whether floral specialization in sex functions (either male or female unisexual flowers) within inflorescences was related with higher levels of floral aggregation and therefore with higher resource competition between different flowers within the inflorescence. We measured number of flowers and capitulum size to estimate flower density in 101 species with different levels of sexual specialization: hermaphroditic (only bisexual flowers), gynomonoecious (bisexual and female flowers) and monoecious species (female and male flowers), using herbarium specimens from Swedish Natural History Museum and Coimbra University Herbarium. Statistical differences were assessed with phylogenetic generalized least squared models. Flower number and flower density at inflorescence level was correlated with the specialization degree on floral gender, suggesting that the increase of floral competition might favor sex specialization of male and female functions on different flowers within inflorescences.
+
+Cornelia Gessner
+University of Otago
+Department of Anatomy
+New Zealand
+The genetic basis of cryptic female choice in Chinook salmon (Oncorhynchus tshawytscha)
+poster D21SY25PS1002
+
+Author(s): Gessner, C, Rosengrave, P, Zavodna, M, Wing, J, Gemmell, NJ
+
+Summary: 
+
+Cryptic female choice, a post-copulatory version of sexual selection little studied in external fertilisers, enables females to favour sperm of one conspecific male over another. In Chinook salmon, we have previously shown that female ovarian fluid differentially affects the sperm velocity of males in a female-dependent fashion, and thus that females may exert cryptic control of male reproductive success. Here we investigate whether this apparent form of cryptic female choice is 1) based on Major Histocompatibility Complex (MHC) dependent sperm selection or 2) influenced by overall genetic relatedness. MHC dependent mate choice is thought to have two main roles: i) to promote offspring with MHC allele combinations that increase immunological competence and/or ii) as a mechanism for differentiating kin, either to avoid inbreeding, or to preserve local adaptations. To reveal whether MHC compatibility is a contributor to the female-dependent sperm performance, we conducted paired-male competitive fertilisation trials with males of different sperm velocity in the focal female’s ovarian fluid. After assessing the fertilisation success of each male via microsatellite based parentage assignment, we sequenced the parental MHC class I a and class II ß loci and examined general relatedness of the parents with 9 microsatellites and a 6000 SNP Chinook salmon array (Clarke, unpublished). We show that sperm velocity is a key determinant for fertilisation success in Chinook salmon and is positively correlated with relatedness between mating pairs when the microsatellite data is considered. While preliminary at this stage, parental MHC genotypic distance, measured by nucleotide difference, does not strongly predict sperm velocity or fertilisation outcomes, but ongoing tests of associations to MHC amino-acid divergence, allelic counts and genome wide relatedness via SNP data might reveal more subtle patterns in cryptic female choice.
+
+Janette Boughman
+Michigan State University
+Zoology
+United States
+The landscape of sexual selection
+poster D21SY25PS1139
+
+Author(s): Boughman, JW, Keagy, J, Lettieri, L
+
+Summary: 
+
+Rugged fitness landscapes are thought to promote speciation, as they provide multiple adaptive peaks for populations to occupy. However, they have been rarely characterized, especially for sexual selection. Sexually selected fitness landscapes play a critical role in divergence of mating traits that underpins sexual isolation. We characterized the fitness landscape generated by sexual selection through male competition in stickleback fish. We capitalized on the highly variable genotypic and phenotypic combinations generated in an F2 mapping population to fully characterize the fitness landscape. This approach also allows us to experimentally tease apart selection on multiple traits. We measured fitness through male competition in naturalized habitats, assessing ability of males to acquire territories and defend nests, both of which are essential for access to females. We also measured male mating success. The species we study mate at different densities, which are expected to affect the strength of sexual selection. Thus, we manipulated density to ask whether fitness landscapes at low and high density differ, altering the direction of selection or the trait combinations favored. We then compared these fitness landscapes to naturally occurring phenotypic distributions to assess how sexual selection would affect evolutionary divergence in natural populations, leading to reproductive isolation and speciation. We thus fill a critical gap in our understanding of speciation.
+
+Christian Jørgensen
+Uni Research
+Uni Computing
+Norway
+The role of extra-pair mating and cooperative behaviours for the evolution of avian mating systems
+poster D21SY25PS1269
+
+Author(s): Jørgensen, C, Mangel, M, Eliassen, S
+
+Summary: 
+
+There is a range of bird mating systems and sex roles, from true genetic monogamy, via social monogamy with extra-pair mating, lekking, and through to group breeding. We explain this continuum from ecological factors using evolutionary simulation models with typical reproductive trade-offs. The key mechanism is that extra-pair mating may trigger male-male cooperation, because extra-pair males benefit from diverting their behavioural efforts towards the neighbourhood where they potentially have offspring rather than monopolizing it towards their domestic nest. For species with high mortality, extra-pair mating and cooperative behaviours dominate, and where extra-pair mating is very high the model’s predicted mating system resembles group breeding. For long-lived species there are two clusters of viable mating systems: lekking is predicted if females can raise the brood alone, whereas genetic monogamy is predicted where single parenting is unable to raise viable offspring, as in many seabirds. The prospect of predictively relating ecological factors to emergent breeding systems may have transferable value also for other taxa.
+
+David Duneau
+University of Cornell
+Department of Entomology
+United States
+The role of host sex in parasite evolution
+poster D21SY25PS1320
+
+Author(s): Duneau, D, Ebert, D, Lazzaro, B
+
+Summary: 
+
+The most extreme inter-individual differences within species are often those between sexes. In populations of sexual species, these intersexual differences often include strong dimorphism in parasite prevalence, disease symptoms and virulence. These effects of host sex have traditionally been attributed to sex-specific differences in host properties such as behavior, immune responses, hormone balances and resource allocation. However, these profound differences between males and females may act as alternative “environments” for infectious parasites and may result in parasite lineages that are differently adapted to each host sex. Here, I will present different conceptual scenarios in which host sex can affect parasite evolution, illustrated with my empirical studies of bacteria evolving naturally in Daphnia or experimentally in Drosophila. A better understanding of specific adaptation of parasites to the host sexes will help us to understand sexual dimorphism in disease responses. Moreover, it will allow us to investigate how parasitism could favor the evolution of sexual dimorphism by reducing the probability that parasites could evolve optimal fitness across both host sexes.
+
+Elizabeth Herridge
+University of Stirling
+Biological and Environmental Sciences
+United Kingdom
+The role of mating behaviour and reproductive physiology in mating system evolution among dance flies
+poster D21SY25PS0766
+
+Author(s): Herridge, EJ, Murray, RL, Kröger, SB, Bussière, LF
+
+Summary: 
+
+What explains diversity among mating systems is complex and controversial. One important determinant of sex differences in the reproductive behaviour (sex roles) is mating competition, influenced by the relative number of males and females available to mate (the operational sex ratio, OSR). The OSR is the result of sex differences in life history and can be influenced by the adult sex ratio (ASR) and mating latency. However, theory suggests that individuals with short periods of mating latency will be selected to mate more frequently regardless of OSR, and a biased OSR will not always drive a competitive response. There are few empirical studies that assess the relative importance of these factors for predicting transitions in mating system. Dance flies have highly diverse mating systems; with females of closely related species showing strikingly varied levels of sexually selected ornamentation. Adult females in many dance fly species receive all their dietary protein from “nuptial gifts” provided by males during mating. It is thought that competition for male donations has caused sex-role reversal in several lineages. I will present data suggesting that the OSR covaries with sex roles imperfectly in dance flies, and that time away from mating swarms is not the sole driver of sexual differences. Our capture-mark-recapture data reveal sex differences in swarm attendance in several dance fly species and suggest that while females from ornamented species visited mating swarms more frequently than those from unornamented species, male swarm visitation did not differ across mating systems. Finally, I consider the combined effect of ASR, swarm visitation frequency, mating frequency and some key characteristics of ovarian physiology on the OSR and mating system in several dance fly taxa. These data suggest a complex and inconsistent role for reproductive characters on the evolution of sex roles.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

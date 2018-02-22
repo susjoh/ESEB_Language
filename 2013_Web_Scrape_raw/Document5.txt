@@ -1,0 +1,1272 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY05: Phenotypic plasticity: mechanisms, ecology and evolution
+ Abstracts list Schedule Description
+View only talks or posters
+Anna-Lisa Wrange
+University of Gothenburg
+Department of Biology and Environmental Sciences
+Sweden
+A common garden test of local adaptation in barnacle populations along a salinity gradient
+poster D20SY05PS0946
+
+Author(s): Wrange, A, André, C, Jonsson, P, Havenhand, J
+
+Summary: 
+
+Environmental gradients may select for locally adapted populations. The barnacle Balanus (Amphibalanus) improvisus is found across a broad range of salinities and has during the past 150 years invaded the Baltic Sea with its gradient from fresh water to near marine salinity. This system may serve as a model of how marine organisms may respond to rapid environmental changes, e.g. climate change which is expected to reduce salinity in many coastal areas. We tested the hypothesis that local adaptations to low salinity have evolved during the past 150 years along the stable salinity gradient in the Baltic Sea. Common-garden experiments were performed to characterize physiological plasticity and possible local adaptations. Newly settled barnacles from each of three different geographical areas along the North Sea-Baltic Sea salinity gradient were exposed to different salinities (6 psu, 15 psu, 30 psu), and phenotypic traits including survival, growth, shell strength, condition index and reproductive maturity were recorded. The study showed that B. improvisus is a plastic and highly euryhaline species performing best at intermediate salinities, both in terms of maximum shell size and reproductive maturity. However, the results also indicate that low salinity has sub-lethal effects on fitness-related traits including slower initial growth and weaker shells. Overall, there were weak differences between populations in most measured traits, indicating little local adaptation to specific salinity conditions. However, some traits showed population-specific responses, e.g. that populations from high salinities obtained stronger shells in their native salinity compared to the other populations, possibly indicating local adaptation to different predation pressures. These results show that B. improvisus may be a rare example of a true brackish-water species, and that plastic responses are more likely than evolutionary tracking in coping with future changes in coastal salinity.
+
+Erik Ragsdale
+Max Planck Institute for Developmental Biology
+Department of Evolutionary Biology
+Germany
+A developmental switch gene for a feeding dimorphism in Pristionchus nematodes is coupled to micro- and macroevolution of plasticity
+talk D21SY05RT15:12R1
+
+Author(s): Ragsdale, EJ, Müller, MR, Sommer, RJ
+
+Summary: 
+
+The mechanistic study of ecologically relevant traits is essential for understanding how ecology and development interact in the evolution of novel phenotypes. The nematode model Pristionchus pacificus shows plasticity in its teeth-like feeding structures, which are a novelty that enable predation of other nematodes. The plasticity consists of two discrete forms, stenostomatous (St) and eurystomatous (Eu), the latter bearing a claw-like dorsal tooth and an opposing subventral tooth. To study the genetic basis of the dimorphism, we used forward genetics to isolate Eu-form-defective (eud) mutants. A mutant with dominant alleles, eud-1, is haploinsufficient and was rescued by genetic transformation with a wild-type allele. Extra copies of this X-linked gene also drive highly St males to be Eu, indicating a role for EUD-1 in sexual dimorphism. Overexpression of eud-1 results in saturation of the Eu form and therefore acts as a dose-dependent master switch for the dimorphism. Further experiments revealed that EUD-1 is not only necessary and sufficient for the mouth-form decision in mutants but also represents a key determinant of micro- and macroevolutionary diversification. A survey of over 100 wild populations of P. pacificus gave a population genetics context, revealing natural variation in mouth-form phenotypes. Variation correlated with eud-1 expression, and genetic transformation of highly St strains confirmed the role of EUD-1 as a dimorphism switch. Thus, a gene identified by laboratory genetics can be a key player in natural history. Recent discovery of a sister species to P. pacificus, P. exspectatus, allows tests across species boundaries by the success of hybrid crosses, and transformation by this technique showed maintenance of the EUD-1 switch in macroevolution. By integrating genetics analysis, phylogenetics, and natural history, studies in this system ultimately aim to test the role of phenotypic plasticity in the evolution of novelty.
+
+Jacintha Ellers
+VU University Amsterdam
+Dept of Ecological Sciences
+Netherlands
+A new perspective on phenotypic plasticity: taking into account physiological mechanisms challenges classic plasticity theory
+talk D20SY05IT10:30R1
+
+Author(s): Ellers, J
+
+Summary: 
+
+Phenotypic plasticity is ubiquitous but we have poor knowledge about the underlying mechanisms. The reason for this is that classical studies of phenotypic plasticity developed and tested theory only for organismal traits, such as morphology or life history. However, a new and upcoming perspective on plasticity encompasses also transcriptional and physiological flexibility in an effort to study the underlying mechanisms of phenotypic plasticity. This raises the question how plasticity at different organisational levels interacts to produce the optimal phenotype in different environments. Here, I will focus on the evolution of temperature-induced plasticity as a case study to show that greater phenotypic plasticity at one organisational level is associated with environmental canalization (lack of plasticity) at the other level. More specifically, my work shows that strong physiological flexibility in response to temperature correlates with low sensitivity to temperature for fitness traits. In this context, I will discuss costs of plasticity and the evolution of plasticity as a means of adaptation to changing thermal conditions. I will also identify candidate physiological pathways underlying variation in thermal response. Ultimately, taking into account the mechanism underlying plasticity will challenge the classical dichotomy between phenotypic plasticity and environmental canalization. Instead, the key question is at what level of biological organization phenotypic plasticity will evolve.
+
+Gonzalo Machado-Schiaffino
+University of Konstanz
+Deparment of Biology
+Germany
+Adaptive phenotypic plasticity in an ecologically relevant foraging trait
+poster D20SY05PS0827
+
+Author(s): Machado-Schiaffino, G, Henning, F, Meyer, A
+
+Summary: 
+
+The spectacular species richness of cichlid fishes and their famous diversity in morphology, coloration, and behaviour have made them a well-known textbook model for the study of speciation and adaptive evolution. In their natural environment, hypertrophic lip cichlids forage predominantly in rocky crevices. It has been hypothesized that this foraging behaviour associated with mechanical stress caused by friction could result in larger lips through phenotypic plasticity. In order to test how strongly phenotypic plasticity can influence the size and development of lips, we conducted a split design experiment in Nicaraguan cichlids and a series of breeding experiments on both Nicaraguan and African cichlids. Two months old full-sibs of A. labiatus (thick-lipped) and A. citrinellus (thin-lipped) were randomly assigned into two feeding groups, a control group (C) where food was released into the water column and a treatment group (T) fed with the same amount and type of food, but fixed to substrates in order to induce mechanical stress on lips. Treatment fish in the thick-lipped species had highly significant larger lips. Interestingly, no differentiation was found between treatment and control groups for the thin-lipped species. The thick-lipped species developed hypertrophic lips in both groups and these were significantly larger in both groups when compared to the thin-lipped species demonstrating a genetic component. The genetic component was further investigated by analyzing the phenotypic segregation in F1 and F2 fish obtained from a cross of thick- and thin-lipped species. F1 of both African and Nicaraguan crosses had intermediate lips and F2s exhibited large phenotypic variance, consistent with a polygenic basis. These results show that not only a genetic, but also a plastic component is involved in the development of hypertrophic lips in cichlids and opens the exciting possibility that plasticity is selected for in recent thick-lipped species.
+
+Rafael Duarte
+University of São Paulo
+Centre for Marine Biology
+Brazil
+Adult conspecific cues affect molting rate, survival and claw morphology of early recruits of the shore crab Carcinus maenas
+poster D20SY05PS0221
+
+Author(s): Duarte, RC, Ré, A, Flores, AAV, Queiroga, H
+
+Summary: 
+
+Besides signaling adequate benthic habitat, conspecific cues often shorten development time to metamorphosis and affect both survival and growth of early juvenile stages. However, aggregation of juvenile cohorts in preferred habitat, usually biogenic substrates holding intricate physical structure and high food supply, may lead to strong intraspecific competition and cannibalistic interactions. Using a simple laboratory experiment and the crab species Carcinus maenas as a biological model, we investigated the effects of cues released by adults on intermolt time, growth, and survival of conspecific megalop larvae and juveniles. Using geometric morphometric analyses, we also compared the size and shape of the carapace and claw of stimulated (St) and control (C) juveniles at both the 1st (J1) and 5th (J5) benthic stages. Results obtained showed that conspecific cues can reduce significantly intermoult time and survival, but these differences are restricted to some specific stages. Neither the size nor the increment at molt differed between treatments. There were no differences of carapace characteristics, but conspecific cues affected claw size and shape of J1 and J5 individuals, respectively. For J1 crabs, claws of St individuals were larger than those of C ones, showing an initial size effect. In the case of J5 juveniles, there were no size differences but evident morphological differences suggest that St crabs bear stronger chelae. By the J5 stage, both St and C juveniles exhibit initial heterochely which precedes the prevailing adult pattern. In spite of reducing survival rate, we conclude that overall effects of conspecific cues are positive. Stimulated juveniles may attain a size-refuge from cannibalism earlier than C individuals, and are likely to more efficiently use valuable feeding resources demanding crushing power, such as mollusk prey, in habitat patches characterized by high density of benthic consumers where competitive interactions are very likely.
+
+Boris Krasnov
+Ben-Gurion University of the Negev
+Desert Ecology
+Israel
+Between-host phylogenetic distance and performance of haematophagous ectoparasites
+poster D20SY05PS0047
+
+Author(s): Krasnov, B, Khokhlova, I, Fileden, L
+
+Summary: 
+
+Parasites vary in their abundance among host species. The host used by the majority of parasite individuals is considered the principal host, while the remaining host species are referred to as auxiliary hosts. Variation in parasite abundance among auxiliary hosts reflects the degree of phylogenetic proximity between the principal host and the auxiliary hosts it used. The mechanism underlying this pattern is expected to be related to differential performance (feeding and reproductive) of parasites in auxiliary hosts that differ in their phylogenetic distance from the principal host. We tested this hypothesis using fleas parasitic on small mammals. Although feeding performance (blood meal size, energy expenditure for digestion and time of digestion) of parasites differed among different hosts, (1) they did not always perform better on a principal host than on an auxiliary host; and (2) their performance on an auxiliary host was not negatively correlated with phylogenetic distance of this host from the principal host. In accordance with our hypothesis, reproductive performance of parasites (egg and/or new imago production) in an auxiliary host decreased significantly with an increase in phylogenetic distance between an auxiliary and the principal host. However, this was true only for auxiliary hosts belonging to the same family as the principal host. One of the proximate causes for lower reproductive performance and subsequent lower abundance of parasites on auxiliary hosts appeared to be the higher energy cost of egg production in the latter. However, in some parasite species, lower offspring number in an auxiliary host was compensated to some extent by offspring size, although this compensation might also compromise parasites’ future reproduction via decreased survival. In other words, reproductive strategy implied during exploitation of low profitable (i.e., auxiliary) hosts may differ between parasite species.
+
+Juliet Blum
+University of Bern
+Institute of Plant Sciences
+Switzerland
+Biodiversity affects phenotypic plasticity in subtropical trees
+poster D20SY05PS1167
+
+Author(s): Blum, JA, Allan, E, Durka, W, Fischer, M
+
+Summary: 
+
+Plasticity allows plants to respond to environmental changes through changing phenotypes during their lifetime and this may be especially important for long lived species such as trees. Biodiversity loss could affect the expression of phenotypic plasticity of growth related traits and this could in turn affect the ability of species to respond to environmental changes. It is therefore important to understand what effects biodiversity has on phenotypic plasticity and we might expect two possible outcomes: firstly, more species rich communities might be more structurally diverse forcing plants to also express higher trait variation in diverse communities. Alternatively in low diversity communities niche space for individual species might be larger allowing niche expansion through an increased variation in growth traits between individuals. To test these ideas we studied plasticity of trees in a large biodiversity experiment in China "BEF China". In this experiment large scale experimental communities were established on an area of 24ha. A total of 60, 000 seed family replicates of thirteen subtropical tree species were grown in plots comprising 1, 2, 4, 8, 16 and 24 species. We measured total height, crown height, crown volume, stem diameter and herbivore damage in twelve species, across the diversity gradient. We calculated plasticity as the variance in growth traits between individuals of the same seed family within a plot. Our results show a significant and consistent decrease of growth trait variation with increasing species diversity. They indicate that biodiversity can influence the expression of phenotypic plasticity and they support the hypothesis that reduced interspecific competition causes increased trait variation. Trees in low diversity communities therefore seem to expand their niches by increasing trait variation.
+
+Vincent Foray
+University Catholic of Louvain
+Earth & Life Institute
+Belgium
+Can we predict the effect of thermal fluctuations on specialist and generalist reaction norms?
+talk D20SY05RT11:18R1
+
+Author(s): Foray, V, Desouhant, E, Gibert, P
+
+Summary: 
+
+Reaction norms depict the environmental effects on phenotypic traits and are used to predict the global change consequences on organisms. However, studies performed at constant temperatures have limited ecological significance because expressed phenotypes depend on the range and frequency of environmental states. By using the Jensen’s Inequality (a mathematical property of nonlinear functions), we predict that the effect of thermal fluctuations on the phenotype depends on the shape of the reaction norm: a negative effect of the thermal fluctuations when the reaction norm is convex and a positive effect when the reaction norm is concave. This study measures the impact of diel fluctuations in developmental temperature on phenotypic expression of traits related to fitness and energetic resources in two strains of the parasitoid wasp Venturia canescens differing in their thermal sensitivity. In a first experiment, we compare the effect of a constant versus a fluctuating thermal regime having the same means (20, 25 and 30 °C) on reaction norms of life history traits and of energetic reserves. In a second experiment, we examine the effects of a natural thermoperiod in field on these traits. As predicted, our results show that the shape of the reaction norm defines the phenotypic changes induced by the development under fluctuating thermal conditions. Moreover, our results emphasize the significance of taking into account several phenotypic life history traits to study the adaptive value of phenotypic plasticity. We also show that the level of energetic resources depends on the mean developmental temperature and not on the thermal regime. Finally, the field experiment confirms that the phenotype of these parasitoids depends on the temperature variation. This is the first experimental study demonstrating that Jensen’s Inequality can quantitatively predict the effect of thermal fluctuations on life-history traits of an ectotherm species.
+
+Ewan Harney
+Institut Universitaire Européen de la Mer
+Laboratoire des Sciences de l’Environnement Marin
+France
+Causes and consequences of developmental plasticity in Daphnia maturation
+talk D21SY05RT14:24R1
+
+Author(s): Harney, ED, Van Dooren, TJM, Paterson, S, Plaistow, SJ
+
+Summary: 
+
+Maturation is a key life history transition, due to the importance of age and size at maturity in determining fitness. Understanding how maturation phenotypes evolve requires an appreciation of the underlying ontogenetic mechanisms, including the maturation threshold, which determines when an individual ‘decides’ to mature. Maturation thresholds are poorly understood, and little is known about how phenotypically plastic or genetically variable they are, but the parthenogenetic crustacean Daphnia is the ideal organism in which to study their evolution. Statistically modelling the maturation process shows that the maturation threshold is a developmentally plastic trait in response to variable resource availability, and more closely resembles a process with a rate than a discrete switch. The idea that the threshold is better thought of as a rate than a switch is further supported by gene expression changes during maturation. The maturation threshold also differs between genotypes and species of Daphnia, and clone-specific maternal effects in the development and growth rate interact to produce phenotypically plastic adult phenotypes. Furthermore, experiments studying the fitness consequences of maturation variation showed that Daphnia magna genotypes initiating maturation at smaller sizes had a higher intrinsic rate of population increase, but this size did not correlate well with competitive success when five clones were directly competed with each other, suggesting that interactions with other factors were influencing fitness. Maturation thresholds in Daphnia do not appear to be based on a single fixed state, but are responsive to environmental variation. The presence of heritable variation and transgenerational effects in these developmentally plastic traits suggests that they have an important role in the evolution of age and size at maturity.
+
+Emanuela Dattolo
+Stazione Zoologica Anton Dohrn
+Functional and Evolutionary Ecology Lab
+Italy
+Circadian fluctuation of gene expression along a bathymetrical cline in the marine angiosperm Posidonia oceanica
+poster D20SY05PS1230
+
+Author(s): Dattolo, E, D'Esposito, D, Lauritano, C, Ruocco, M, Procaccini, G
+
+Summary: 
+
+Plants develop mechanisms of adaptations at multiple levels to track and cope with fluctuations in the light environment. At molecular level, the correct matching of circadian variation of gene expression with environmental rhythms allows plants to optimize the utilization of environmental light and to prevent damages due to light excess. Several studies highlighted that a correct matching of endogenous rhythms and external rhythms increases organismal fitness over a board geographic range. Indeed, latitudinal clines in circadian clock gene expression levels (and polymorphism in clock genes) were found in plants, suggesting that natural variation in clock parameters are required to synchronize organisms with their specific environment. Understanding the genetic and physiological mechanisms that plants develop for the seasonal and daily response to environmental conditions, could allow to predict their response to unexpected changes in environmental conditions that could happen in the future due to anthropogenic and climatic changes. Here we explore variations existing, in the daily phase, along a bathymetrical cline in the marine angiosperm Posidonia oceanica (L.) Delile, a key species in costal Mediterranean ecosystems. To do that, we measured modulation of genes expression, by RT-qPCR, at six time points during the day, in several genes related to photosynthesis and circadian rhythms regulation in plants growing at three target depths during the daily cycle along a bathymetrical cline (5 to 30 meter depth). Sampling was performed in a continuous meadow located in the Bay of Calvi, Corsica (thanks to the ESF Cost Action 0906). We analyze the effects of the distinct environmental light conditions on the circadian fluctuation of gene expression. Further, we assess the phenotypic variation among and between genotypes and we discuss its potential adaptive relevance on P. oceanica fitness and survival.
+
+Gwénaëlle Bontonou
+CNRS
+Laboratoire Evolution Génome et Spéciation
+France
+Contributions of a novel population to the understanding of the role of male hydrocarbon polymorphism in Drosophila melanogaster
+poster D20SY05PS0582
+
+Author(s): Bontonou, G, Denis, B, Wicker-Thomas, C
+
+Summary: 
+
+In Drosophila, female hydrocarbons are known to be involved in premating isolation between different species and pheromonal races. However, the role of male-specific hydrocarbon polymorphism is not as well documented. The dominant cuticular hydrocarbon (CHC) in male D. melanogaster is usually 7-tricosene (7-T; C23:1), with the exception of central African populations, in which 7-pentacosene (7-P; C25:1) is dominant. Here, we describe a novel population from Comoro Island (Com) that includes males with sex pheromone profiles ranging from high 7-T to high 7-P. We maintained Com flies at different temperatures, without selection. After 18 months, flies reared at 21°C had a 7-T hydrocarbon profile and flies reared at 25°C had an intermediary to 7-P profile. We specifically selected for high 7-T, high 7-P, or intermediate hydrocarbon profiles. We showed that the 7-P/7-T ratio depended on temperature in Com with generally more 7-P at higher temperatures. There was partial reproductive isolation between flies with clear-cut phenotypes (7-T and 7-P). These results show that the dominant male pheromones are under environmental selection due to heat/desiccation stress.
+
+Bruno Buzatto
+University of Western Australia
+School of Animal Biology
+Australia
+Correlated evolution of sexual dimorphism and male dimorphism in a lineage of Neotropical harvestmen
+poster D20SY05PS0696
+
+Author(s): Buzatto, BA, Tomkins, JL, Simmons, LW, Machado, G
+
+Summary: 
+
+Secondary sexual traits (ornaments and weapons) increase male fitness, but are generally maladaptive when expressed in females, generating intralocus sexual conflict that is ameliorated through the evolution of sexual dimorphism. Intense sexual selection on males can also favor the evolution of male dimorphism, where alternative phenotypes that avoid expenditure in secondary sexual traits achieve copulations using ‘alternative mating tactics’ (AMTs). Secondary sexual traits can thus increase or decrease fitness in males, depending on which AMT they employ, generating a conflict within males that can be ameliorated by the evolution of male dimorphism. Thus, the phenotypic optima of females and small males are similar in terms of including the suppression of such secondary sexual traits. Male dimorphism could hence coevolve with sexual dimorphism, due to the evolutionary forces acting against both intralocus sexual conflict and conflict between males employing different AMTs. Here we tested this hypothesis by investigating the evolution of sexual and male dimorphism for two secondary sexual traits in 48 species of Neotropical harvestmen (Arachnida: Opiliones). Using a Bayesian approach with reversible-jump Markov chain Monte Carlo, we demonstrate that the two types of dimorphism present strongly correlated evolution, and that sexual dimorphism consistently precedes male dimorphism in this major arachnid group. Our findings were consistent for two different traits, and are robust to phylogenetic uncertainty. We propose that sexual dimorphism evolves earlier than male dimorphism because the genetic architecture for sex specific expression is already present even in sexually monomorphic species, due to sex chromosomes. The same is not true in the case for male dimorphism. We suggest that if a sexual trait arises first in an autosome and is expressed in all individuals, its suppression in females evolves more readily than its suppression in small males that adopt AMTs.
+
+Pierre Bize
+University of Lausanne
+Department of Ecology & Evolution
+Switzerland
+Deciphering the importance of genetics and environment in shaping the phenotype of low and high altitude vole populations: countergradient effect and cryptic evolution
+poster D20SY05PS0763
+
+Author(s): Bize, P, Lehto, M, Figeat, L
+
+Summary: 
+
+Phenotypic variance along altitudinal gradients is determined by the influenced of both genetic and environment, and counter-gradient selection occurs when genetic and environment influences on phenotype oppose one another. Although we have previously found that high-altitude common voles (Microtus arvalis) are growing at slower rates and are lighter than low-altitude voles under standardized ‘common garden’ conditions (25°C), field based observations report no difference in body mass between high- and low-altitude populations. The heat dissipation theory has recently pointed out that cold ambient temperatures allow endotherms to increase their metabolic ceiling, and in turn favour for instance female lactation and offspring growth rates. Hence, one hypothesis is that genetically based differences in growth and body mass at adulthood between high- and low-altitude vole populations are masked in the wild by the cooler environments encounter by high-altitude voles, which might increase their metabolic ceiling and growth rates. To address this issue, Wild derived offspring (F1) of low and high altitude parents (F0) were reproduced at 10°C and 25°C in order to examine the influence of genetic (high vs. low altitude) and temperature on the growth of their pups (F2). We found that voles from high-altitude populations were growing at slower rates than those from low-altitude populations, but cool ambient temperatures allowed high-altitude voles to catch-up in size with low-altitude voles. Our study highlights the occurrence of coutergradient effect, and in turn cryptic evolution, on the phenotype of an endotherm in response to temperature change.
+
+Sergio Mascolino
+University College Dublin
+School of Biology and Environmental Science
+Ireland
+Demographic and behavioural landscape of damselfish reproductive success
+poster D20SY05PS0956
+
+Author(s): Mascolino, S, Sacchi, C, Boufana, B, Gubili, C, Woodward, S, Mariani, S
+
+Summary: 
+
+Alternative reproductive strategies are common features in sexually reproducing organisms. For instance, in territorial species dominant males (having primary access to females) can be observed alongside other males adopting different strategies, such as parasitic fertilisation. In order for the alternative strategy to persist in a population, it has to hold some degree of reproductive success. In the case of the Mediterranean damselfish (Chromis chromis), during the reproductive season, only territorial males colonise nest on the bottom of rocky reefs, and compete for females in order to receive egg deposition. Sneaker males float above the nesting area waiting for the right moment to parasitically spawn in the nests of territorial males. In this context, the success of sneakers is expected to be negatively affected by the ability of territorial males to recognise the rivals and chase them away. Variance in individual behavioural traits of nesting males as well as population-level factors, such as density can both affect the contribution of parasitic spawners to the next generation. Here we combine behavioural observation in the field with molecular analyses, using bi-parentally and maternally inherited markers to investigate the contribution of both individual chasing behaviour and population density on the relative reproductive success of nest-guarding males and sneakers.
+
+Celia Schunter
+University of Barcelona
+Genetics
+Spain
+Differential gene expression in a non-model fish species with alternative mating tactics
+talk D21SY05RT18:09R1
+
+Author(s): Schunter, CM, Vollmer, S, Macpherson, E, Pascual, M
+
+Summary: 
+
+Social dominance is important for the reproductive success of males in many species. In fish with external fertilization, it is not as apparent which traits are necessary to become dominant or territorial and what benefits the socially dominant individual. In the black-faced blenny (Tripterygion delaisi) during the reproductive season, some males change color and invest in nest making and defense, whereas sneaker males do not change color and ‘sneak’ reproductions when females lay their eggs. Using RNAseq, we profiled differential gene expression between the brains of territorial males, sneaker males, and females to study the molecular signatures of male dimorphism. Despite several studies reporting high levels of genetic differentiation between sexes, we found that more genes were differentially expressed between the two male phenotypes than between males and females. This suggests that phenotypic plasticity is a more important factor in differential gene expression than sexual dimorphism during the reproductive period. For the dominant male, expression was higher in genes mainly related to cytoskeletal rearrangement indicating the drastic change in behavior and phenotype. We also identified novel genes which are differentially expressed in the brain tissue between the two male mating types in Tripterygion delaisi, which can be further investigated in other fish species with similar mating tactics.
+
+Allison Churcher
+Centre of Marine Sciences, University of Algarve
+Portugal
+Differential gene expression in the olfactory epithelium of the European eel Anguilla anguilla at different life stages
+poster D20SY05PS0793
+
+Author(s): Churcher, AM, Hubbard, PC, Huertas, M, Canario, AVM
+
+Summary: 
+
+The European eel Anguilla anguilla has a complex lifecycle that includes both freshwater and seawater stages and transoceanic migrations. Its ancestral line is believed to have split from the rest of the teleost lineage 225-325 million years ago. Although behavioral investigations have shown that olfaction plays a vital role in eel biology, little is known about the role of olfaction in the transition from fresh to sea water. Furthermore, the genes involved in eel olfaction have not yet been characterized. The first goal of this survey was to sequence and assemble the transcriptome of the olfactory epithelium (OE) of A. anguilla. Using 406 million paired-end reads, we assembled 417 669 contigs (306 Mb in length, mean contig length=732, N50=1281). A Blast search revealed that 89 631 of the assembly contigs have hits in Swiss-Prot. Among these are orthologs of type 1 and 2 vomeronasal receptors (V1Rs and V2Rs), trace amine-associated receptors (TAARs) and odorant receptors (ORs). The second goal was to look for differential gene expression in freshwater, seawater and sexually mature males. Our results show that eels make use of specific sets of genes at each of these three stages. Furthermore, the most drastic changes in gene expression occur in the OE of sexually mature males and include a large number of genes that are expressed at lower levels in this group. Though many genes are down-regulated in sexually mature males, we identified a number of receptors (e.g. V2Rs, TAARs and ORs) that are expressed at higher levels in sexually mature males and therefore maybe involved in reproduction (e.g. pheromonal communication). The results of this study will provide a thorough characterization of the genes involved in eel olfaction and will help to understand how changes in media influence changes at the molecular level in the OE. This research was supported by the Portuguese Fundação para a Ciência e a Tecnologia (PTDC/MAR/113608/2009).
+
+Pablo Cortes
+Universidad Austral de Chile
+Instituto de Ciencias Ambientales y Evolutivas
+Chile
+Discovering the genetic basis of torpor in a Chilean marsupial
+talk D21SY05RT14:48R1
+
+Author(s): Cortes, PA, Bacigalupe, LL, Contreras, CCI, Varas, VV, Kemeid, VV, Blier, PPU, Opazo, JJC
+
+Summary: 
+
+Torpor is the physiologically controlled reduction of metabolic rate and body temperature experienced by small endotherms when facing periods of low temperature and/or food resources. This phenotype is characterized by an almost complete suppression of all expensive physiological processes with the aim of reducing energy expenditure. Nevertheless, some processes continue to operate at lower levels of activity, as they are critical for survival. The high demand of energy required during rewarming, to reach normothermy, represents an important constraint. Torpor and arousal from torpor involves a complex physiological reorganization at different organizational levels, underpinned by changes in genes expression. Accordingly in this study we investigated the reaction norm of (1) gene expression and (2) mitochondrial performance along different stages of torpor bout (deep torpor, arousal and normothermy) in the Chilean marsupial Thylamys elegans. More specifically we (1) performed a large-scale gene expression screening (RNA-seq) and (2) examined mitochondrial oxygen consumption and different enzymes of the electron transport system associated with torpor in liver. The gene expression profiles revealed a modest level of transcriptional changes along different stages of torpor bout. Functional analysis shows that genes involved in pathways associated to lipid metabolism are increased, whereas those involved in protein biosynthesis and detoxification are decreased during torpor and rewarming. For mitochondrial performance, high level of phenotypic flexibility was observed during the different stages of torpor. Taken together, these findings revealed important metabolic process those are critical during torpor in marsupials.
+
+Rolf Kuemmerli
+University of Zurich
+Institute of Plant Biology
+Switzerland
+Division of labour through phenotypic heterogeneity in clonal bacterial populations
+talk D20SY05RT14:48R1
+
+Author(s): Kuemmerli, R, Schiessl, K, Bigosch, C, Ackermann, M
+
+Summary: 
+
+Individual bacteria in clonal populations often vary considerably in the expression of certain traits, even under uniform environmental conditions. At the proximate level, such phenotypic heterogeneity is generally attributed to stochastic processes that generate noise in gene expression. At the ultimate level, it remains often unclear whether phenotypic heterogeneity is beneficial and can be selected for. Here, we tested this possibility by studying between-individual variation in the production of a cooperative public good in the bacterium Pseudomonas aeruginosa. We show that phenotypic heterogeneity can provide benefits because it allows bacteria to realise an efficient form of division of labour. Specifically, we found that the production of public good followed an economy of scale: for the individual cell, the cost per public good molecule decreased with higher production rates. Accordingly, population-level costs of public good investment are minimized when only a fraction of the cells produces most of the public good, whilst benefits are equally shared among all individuals in the population. However, our data also indicate that the degree of division of labour is constrained by both the genetic architecture of the trait, and the overall need for the public good, which in turn depends on prevailing environmental conditions. Taken together, our data suggest a form of adaptive phenotypic plasticity, where individuals adjust their phenotype not only in response to environmental changes, but also in response to the population-level costs associated with the expression of a cooperative behaviour.
+
+Leanne Faulks
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Eco-evolutionary dynamics of freshwater water fish communities in post glacial lakes
+poster D20SY05PS0152
+
+Author(s): Faulks, L, Östman, Ö, Svanbäck, R
+
+Summary: 
+
+The processes facilitating the diversification of life on earth have intrigued scientists for centuries. Inter-species competition for resources and optimal utilisation of niche space are thought to be large contributors to diversification. Resource polymorphism is a common consequence of this process – where specialisation on particular resources results in diversification within a species. This has been demonstrated to be a common phenomenon in post-glacial lakes, with fish populations typically specialising on either littoral or pelagic resources. Here we investigate the environmental, community and population-level factors contributing to the degree of resource polymorphism observed in two common and phenotypically plastic freshwater fish, perch (Perca fluviatilis) and roach (Rutilus rutilus). We find that the potential for niche expansion and release from inter-species competition are important variables leading to the presence of resource polymorphism. In addition, we demonstrate that the phenotypic plasticity observed in these species is facilitated by a lack of assortative mating, and fluctuating selection due to population instability over time, particularly for perch. This study system provides support for the importance of phenotypic plasticity in diversification and the interaction of ecological and evolutionary processes.
+
+Chris Knight
+University of Manchester
+Faculty of Life Sciences
+United Kingdom
+Environmental cues and growth responses in wild yeast
+poster D20SY05PS1425
+
+Author(s): Knight, CG, Rash, B, Robinson, H, Houseley, J
+
+Summary: 
+
+Particular genotypes of wild yeast vary quantitatively in their ability to grow in particular environments in the laboratory. This basic form of phenotypic plasticity is modified by environmental cues, potentially interpreted in an ‘anticipatory’ way (e.g. an environmental factor activating a stress response that gives a phenotypic change resulting in better survival or growth under future stress). We have looked systematically for specific environmental cue – growth response relationships in sister species of wild yeast taken from the same environment (Saccharomyces cerevisiae YPS128 and S. paradoxus YPS138). In each case we constructed a cue-response network involving 98 stressors and metabolic substrates. Both species show intricate cue-response behaviour, differentiating between at least 50 environments. These networks have evolved substantially between the strains, far more than the evolution of their ability to grow in particular environments. The greatest changes involve galactose metabolism, where we identify transcriptional changes and a candidate genetic mechanism. Looking across the cue-response networks we find that broad network properties have also evolved. Contrary to a simplistic specialist/generalist distinction, the complete network in S. cerevisiae (a species known from many environments) is less complex than that in S. paradoxus (a woodland specialist). This raises questions about the evolutionary relationship between such behavioural plasticity and ecology, which we are now addressing in a wider variety of strains and species.
+
+Luis-Miguel Chevin
+CNRS
+Centre for Functional and Evolutionary Ecologu=y
+France
+Evolution of discrete phenotypes from continuous norms of reaction
+talk D21SY05RT14:00R1
+
+Author(s): Chevin, L, Lande, R
+
+Summary: 
+
+Discrete phenotypic variation often involves threshold expression of a trait with polygenic inheritance. How such discrete polyphenisms evolve starting from continuously varying phenotypes has received little theoretical attention. We model the evolution of sigmoid norms of reaction in response to variation in an underlying trait, or in a continuous environment, to identify conditions for the evolution of discontinuity. For traits with expression depending on a randomly varying underlying factor such as developmental noise, polyphenism is unstable under constant phenotypic selection for two selective peaks, and reaction norm evolution results in a phenotypic distribution concentrated at only one peak. But with frequency-dependent selection between two adaptive peaks, a steep threshold maintaining polyphenism generally evolves. For inducible plastic traits with expression conditioned on an environmental variable that also affects phenotypic selection, the steepness of the evolved reaction norm depends both on the differentiation of the environment in time or space, and on its predictability between development and selection, while bimodality of the environment has little effect per se. Together with recent measurements of genetic variance of threshold steepness, these predictions suggest that quasi-discrete phenotypic variation may often evolve from continuous norms of reactions, rather than being an intrinsic property of development.
+
+Peter Sandner
+Instituto Gulbenkian de Ciência
+Portugal
+Evolution of phenotypic plasticity in Caenorhabditis elegans populations
+poster D20SY05PS1369
+
+Author(s): Sandner, P, Proulx, SR, Teotónio, H
+
+Summary: 
+
+Theoretical models generally predict that phenotypic plasticity will evolve and be maintained if environments change across generations. C. elegans are known to tradeoff their ability to survive and reproduce under osmotic stress with progeny survival when the latter face anoxic stress. We used this paradigm to evaluate the importance of environmental stochasticity in the evolution of phenotypic plasticity. Specifically, populations adapted to osmotic stress were exposed to alternating or randomly fluctuating anoxic environments for 40 generations. Results for the experimental evolution of maternal effects on progeny survival under anoxia and normoxia will be presented.
+
+Helen Leggett
+University of Oxford
+Department of Zoology
+United Kingdom
+Experimental evolution of plasticity in a virus
+talk D20SY05RT14:24R1
+
+Author(s): Leggett, H, Buckling, A
+
+Summary: 
+
+Coinfection of parasite genotypes can select for various changes in parasite life history strategies, with consequences for disease dynamics and severity. Here we show adaptive phenotypic plasticity evolving in real time in response to coinfection under conditions in which both single infections and coinfections are common. We experimentally evolved an obligate-killing virus under conditions of single virus infections (single lines) or a mix of single infections and coinfections (mixed lines) and found mixed lines to evolve a plastic lysis time: they killed host cells more rapidly when coinfecting than when infecting alone. This behaviour resulted in high fitness under both infection conditions. We also discuss how population structure and the importance of within-patch prudence affects the fitness and virulence of populations of these viruses. Such plasticity and prudence has important consequences for the epidemiology of infectious diseases and the evolution of cooperation.
+
+Michelle Taylor
+University of Exeter
+Biosciences
+United Kingdom
+Females play it cool: plasticity of polyandry in North American Drosophila
+poster D20SY05PS0031
+
+Author(s): Taylor, ML, Price, T, Wedell, N
+
+Summary: 
+
+Some females mate once in their lives, others with a large number of males, and the reasons for this intraspecific variation in polyandry are not clear. Temperature is a potentially important environmental variable that can influence polyandry in populations occupying different environments. This is due to the fundamental relationship between temperature and biological reactions governing growth and development in juveniles and physiological stress in adults. Since polyandry plays a key role in regulating population fitness, it is essential to address how a major environmental variable affects plasticity of polyandry. We examined plasticity of polyandry over four temperature environments using 26 genotypes of the fruit fly Drosophila pseudoobscura from locations across the USA. Genetic variation proved the strongest driver of intraspecific patterns of polyandry. We also found that females were more polyandrous when exposed to cooler temperatures during mating trials than when exposed to warmer temperatures. Despite this, we found no evidence for genetic variation in plasticity of polyandry as all genotypes responded to temperature in a comparable way. Temperature experienced by females as larvae had no effect on subsequent adult mating behaviour. These results clearly indicate that only the current temperature experienced by females promotes plasticity of polyandry and that the major explanation behind intraspecific variation in mating behaviour is genetic. This suggests that polyandry is maintained under localised selection and challenges the notion that fitness benefits of polyandry are temperature-dependent. This is an important step towards determining how behavioural plasticity contributes towards overall population fitness, and ultimately how the relationship between genetic and environmental heterogeneity can influence species distribution patterns.
+
+Katja Pulkkinen
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Fish farms select for increased phenotypic plasticity in growth and virulence in a fish pathogen
+talk D20SY05RT15:12R1
+
+Author(s): Pulkkinen, K, Ketola, T, Laakso, J, Mappes, J, Sundberg, L
+
+Summary: 
+
+Opportunistic pathogens generally face two vastly different environments - within the host and outside host. One mechanism allowing for adaptation to alternating environments is switching between phenotypes (phenotypic plasticity). The opportunistic fish pathogen Flavobacterium columnare can be found from natural waters and from fish farms and it exhibits two reversible colony morphologies; a non-virulent “rough” and a virulent “rhizoid” morphology. As compared to natural waters, fish farms can be considered as extreme environments in terms of available host resources, but also in terms of stress caused by chemical and antibiotic treatments. Fish farms could thus be expected to impose higher selection pressures for coping between the within and outside host environment, and to select for increased phenotypic plasticity. To test these ideas we measured growth parameters of rhizoid and rough colony morphotypes of F. columnare isolates both from natural waters and from disease outbreaks at fish farms in different resource concentrations and temperatures, and tested their virulence with a zebrafish challenge model. We found that the non-virulent “rough” morphotypes had a higher growth rate and lower virulence than the “rhizoid” morphotypes, but only if the isolate was originating from the fish farms. This suggests that phenotypic plasticity between two morphotypes of opportunistic pathogen and their characteristic traits is clearly selected for in fish farms rather than in the natural environment.
+
+Juan Galarza
+University of Jyväskylä
+Centre of Excellence in Biological Interactions
+Finland
+Fitness effects of warning signals through different life-stages and phenotypes
+poster D20SY05PS0322
+
+Author(s): Galarza, JA, Suisto, KH, Mappes, J
+
+Summary: 
+
+Many plants and animals advertise their unpalatability through warning signals in the form of colour and shape. A trade-off is inevitably faced to either allocate resources to signal efficiency or to other processes such as thermoregulation (i.e. melanin production). In the case where organisms undergo different phenotypes throughout their lifespan, such as Lepidopterans, it is unclear if allocating resources to warning signals in one phenotype can transfer fitness advantages to the next phenotype. Here we address this question by rearing full-sib tiger moth larvae (Parasemia plantaginis) in high and low temperature conditions and follow their warning signal development until adulthood. Subsequently, we tested for fitness differences as measured by survival and adult heating and metabolic rates. Our analyses showed that larvae reared at low temperatures had higher survival rate and decreased their signal size along its development, producing more melanised body segments. However, adults reared in higher temperatures had higher amount of melanin in their thorax. No clear differences were observed in the amount of melanin in the fore and hind wings between treatments. Adults reared at high temperature had a faster heating rate. On the other hand, adults reared at low temperature needed longer heating time, but had higher body temperature when flying was engaged. No differences were found between metabolic rates between adults of both treatments. Overall, our results suggest that allocating resources to maximise fitness during one life phase or phenotypic stage, does not necessarily translates into higher fitness in the following stages.
+
+Thomas Tully
+Ecole Normale Supérieure
+Laboratoire Ecologie et Evolution
+France
+From individuals to populations: linking thermal reaction norms to population dynamics in microcosms
+poster D20SY05PS1216
+
+Author(s): Tully, T, Mallard, F, Le Bourlot, V
+
+Summary: 
+
+Long term studies of natural populations have shown that environmental changes can lead to shifts in life history traits (1) that can be difficult to predict due to complex ecological and evolutionary processes (2). Temperature is known to influence traits such as age or size at maturity, as represented by the temperature-size rule (3). The predictability of these modifications is still largely discussed (4,5). Indeed, individual level reaction norms can be overruled by ecological processes such as density dependence. Using the Collembola Folsomia candida, we described the reaction norms of maturation, growth and asymptotic size under a large range of temperature (6 to 26°C) and examined the structure and dynamics of populations reared under the same temperatures for three years. We used reaction norms to understand and predict variation of adult sizes and growth rates measured in the populations. The population dynamics and structure are shaped by temperature: a high temperature accelerates the life cycle and induces a change of the perceived food provisioning in the populations that alters the competition for the resource. But growth rate and body size in populations were found to be mainly determined by density rather than by the temperature itself. Under specific temperature, competition can trigger growth which leads to reduced population density. This underlines the need to untangle the complex interaction between environement and demography to help predicting how climate change impacts population dynamics. 1. A. Ozgul, S. Tuljapurkar, T. G. Benton, J. M. Pemberton, et al., Science 325, 464-7 (2009). 2. H. Kokko, A. Lopez-Sepulcre, Ecology Letters 10, 773-82 (2007). 3. M. J. Angilletta, Thermal adaptation: a theoretical and empirical synthesis (2009). 4. J. L. Gardner, A. Peters, M. R. Kearney, L. Joseph, R. Heinsohn, Trends Ecol Evol 26, 285-91 (2011). 5. J. A. Sheridan, D. Bickford, Nature Climate Change 1, 401-6 (2011).
+
+Claire Morandin
+Helsinki University
+Department of Biosciences
+Finland
+Gene expression differences among castes and life stages in the ant Formica exsecta, a transcriptome study
+poster D20SY05PS0072
+
+Author(s): Morandin, C, Wheat, CW, Dhaygude, K, Paviala, J, Trontti, K, Helanterä, H
+
+Summary: 
+
+Understanding how the interaction of genotypes and environment produces distinct phenotypes from similar sets of genes is a crucial topic in evolutionary biology. The queen and worker castes of social insects are a striking example of such polyphenism. In social Hymenoptera both the workers and reproductive queens are females, and develop from diploid eggs. In ants, caste polyphenism is characterized by extensive phenotypic differences, with queens that specialise in reproduction being usually much larger than workers who carry out brood care, foraging, nest maintenance and defence. Because the phenotypically distinct individuals develop from the same set of genes, these morphological, physiological and behavioural differences found between worker and queen must be due to variation in gene expression. However, little is known about qualitative and quantative variation in caste specific gene expression patterns across life stages. Because expression patterns of genes partly determine the strength of natural selection on them, separation of gene expression differences in developing and adult individual is crucial for understanding both the causes and consequences of caste differences. Specifically, it is crucial for strength of natural selection whether there are genes that are exclusive to one caste, or whether the same genes are expressed in both castes, but at different points in time. We used Formica exsecta, a monogynous ant species, as our model species for this study. We assessed queen and worker gene expression levels at three different life stages (pupae, emerging adult and adult) by sequencing their transcriptome. Samples were collected in Finland during Spring 2011 and two sets of cDNA library were made. As phenotypic plasticity mediated by gene expression differences is the foundation of social insect evolution, we believe that this novel study will bring further knowledge on understanding the molecular basics of phenotypic evolution.
+
+Szymon Sniegula
+Institute of Nature Conservation PAS
+Department of Ecosystem Conservation
+Poland
+Genetic and phenotypic variation in developmental rate across geographic regions: a photoperiod driven latitude compensating mechanism?
+poster D20SY05PS0150
+
+Author(s): Sniegula, S, Johansson, F, Drobniak, SM, Golab, MJ
+
+Summary: 
+
+Genetic and phenotypic variation in developmental and growth rates along latitudinal gradients may benefit our understanding of the evolution of latitudinal compensating mechanisms. I explored compensatory developmental mecha¬nisms with respect to photoperiod in central, northern and northernmost peripheral populations of a damselfly Lestes sponsa. In addition, genetic variance in developmental and growth rate was evaluated across the populations. L. sponsa is strictly univoltine with egg overwintering throughout its geographic distribution. The role of photoperiod on the expression of larval development was evaluated under controlled laboratory conditions. Larvae from each region were grown in both high and low latitude photoperiod. All three populations shortened development time and accelerated growth as a response to high latitude photoperiod (phenotypic plasticity present). The slopes of reaction norms differed between populations. There was a genetic differentiation between populations and this resulted in a genotype-by-environment interaction in development time and growth rate. Genetic variance (Vg) in development time was significant, however it did not differ across populations. Vg in growth rate was non-significant. Reaction norms in development time and growth rate also showed non-significant Vg. Results supported the presence of countergradient variation in development time and growth rate as seasonally more time stressed populations took shorter time for development and grew faster than less time stressed populations. Slopes of reaction norms indicated that the latitude compensating mechanism was mediated by photoperiod. While growth rate seems to be genetically constrained for further evolution, development time has a potential to evolve, though, at a similar rate across study regions. Reaction norms seem to be canalized with respect to photoperiod.
+
+Nathan Morehouse
+University of Pittsburgh
+Department of Biological Sciences
+United States
+Gifts, colors and the vagina dentata: phenotypic plasticity, honest signaling and sexual conflict in a gift-giving butterfly
+poster D20SY05PS0594
+
+Author(s): Morehouse, NI, Bartoch, CM, Luna, EN, Roberts, NS, Saleh, NW
+
+Summary: 
+
+Considerable recent effort has been devoted to understanding the roles of conflict and cooperation in sexual interactions. Gift-giving insects such as crickets and katydids have proven tractable systems for exploring these issues, with recent research emphasizing nuptial gifts as a source of conflict. In the Lepidoptera, males often transfer large nutrient-rich packages called spermatophores internally to females during mating. In contrast to work in other systems, researchers have typically characterized these nuptial gifts as cooperative contributions of mutual benefit to both partners. Male spermatophores provide essential nutrients that increase female lifespan and reproductive output. In turn, males benefit by delaying female remating and thus increasing their paternity share. However, males of many butterfly species, in an attempt to monopolize female reproductive output, package their spermatophores in tough chitinous envelopes. Females have, in response, evolved toothed structures in their reproductive tracts called signa, which serve to “chew” their way through the outer spermatophore coating to access the nutrients within. As a preliminary step in understanding the co-evolutionary dynamics in this system, we explored phenotypic variation in both male spermatophore quality and female signa morphology in the gift-giving butterfly Pieris rapae. We find that males honestly indicate the size and protein content of their spermatophores using sexually-selected wing color ornamentation. This relationship appears independent of larval access to dietary protein, suggesting that these two traits (coloration and spermatophore quality) abide by similar resource allocation rules. Female signa size and morphology was highly variable, scaled allometrically with body size, was independent of larval protein, and exhibited high narrow-sense heritability. We discuss these results in the context of sexual conflict and co-evolutionary dynamics.
+
+Marta Vidal-Garcia
+The Australian National University
+Research School of Biology
+Australia
+Habitat use and body shape evolution in all Australian frogs
+poster D20SY05PS0447
+
+Author(s): Vidal-Garcia, M, Byrne, PG, Roberts, JDALE, Keogh, JSCOTT
+
+Summary: 
+
+The body shape of anurans is predicted to differ among species for functional reasons and in relation to environmental niche. We quantified morphological differences in shape and size among 239 species of the three main Australian frog families (Myobatrachidae, Hylidae and Microhylidae, all genera and more than 98% of the species represented) in order to test the prediction that habitat type predicts morphological variation. We tested this prediction at two levels – across all genera and within the most species-rich genera. Thirty-four external measurements were taken on 1184 museum specimens. Data for seven key environmental variables relevant to anurans also was assembled for all Australian-distributed species based on species’ distributions and 10x10 km2 absence/presence locality records. All three Australian frog families showed high diversity in adult body size, ranging from minute (11 mm in microhylids, 15 mm in myobatrachids and 15 mm in hylids) to large species (45 mm in microhylids, 92 mm in myobatrachids and 104 mm in hylids). They also displayed conspicuous differences in body shape, particularly in relative limb length. The environmental niche defined three different groups: 1) species in wet habitats with relatively long limbs, 2) species in arid environments with relatively short-limbs (many of which are forward or backward burrowers), and 3) habitat generalist species with a conservative body shape. These patterns were not repeated within the most species-rich genera: each displayed a highly conservative anuran body shape yet individual species within each genus are distributed across the full spectrum of Australian environments. The patterns of variation likely reflect both phylogenetic history and adaptive pressure imposed by climate and habitats related to the life history of each species.
+
+Cláudia Mendes
+Instituto Gulbenkian de Ciência
+Portugal
+How does developmental plasticity contribute to phenotypic evolution?
+poster D20SY05PS1141
+
+Author(s): Mendes, CCA, Sucena, É, Mirth, C
+
+Summary: 
+
+The insect ovary consists of parallel repetitive units called the ovarioles, which are assembly lines for the production of eggs. The number of ovarioles is positively correlated with egg production rate and therefore is a morphological trait closely related to fitness. Interestingly, ovariole number exhibits both developmental plasticity and interspecific variation among Drosophila species. These two features of ovariole number provide an opportunity to investigate the contribution of developmental plasticity in evolutionary processes. To address this challenge, our approach is to compare the developmental mechanisms underlying the plastic response with those underlying genetic differences between related species. Here, we discuss how plasticity in ovariole number is regulated in Drosophila melanogaster. Since ovariole number is determined during larval development, we first described how nutrition affects this reproductive trait in carefully staged larvae. Our analysis revealed that early third instar larvae fed on sucrose alone show a stronger reduction in ovariole number than later stages, suggesting an early nutrition-dependent mechanism for ovariole formation. Further, we found that larvae fed on sucrose alone early in the third instar had ovaries with a reduced number of dividing somatic cells. Moreover, they show a delay in the onset of differentiation of the terminal filament cells, which serve as the starting point for ovariole formation. Currently, we are manipulating insulin and ecdysone signalling in the terminal filament precursors to determine the role of each in regulating the proliferation and differentiation of these cells to generate plasticity in ovariole number. This powerful approach will shape our understanding of how the environment creates phenotypic variation through changes in development and ultimately how environmentally-induced variation impacts evolutionary diversification.
+
+Malgorzata Lagisz
+Division of Sciences, University of Otago
+New Zealand
+How maternal caloric restriction during pregnancy affects appetite of the offspring in laboratory mammals: a meta-analysis
+poster D20SY05PS0233
+
+Author(s): Lagisz, M, Blair, H, Kenyon, P, Uller, T, Raubenheimer, D, Nakagawa, S
+
+Summary: 
+
+Development of the mammalian foetus is strongly affected by maternal nutrition. Maternal under-nutrition can result in significant alterations to postnatal phenotypes. Such alterations can be expressed, for example, as changes in body size and behavioural differences. Altered feeding behaviour in the offspring of food-deprived mothers may underpin increased weight gain and fat accumulation leading to obesity and other adverse long-term health effects. We aimed to explore the link between maternal diet during pregnancy and an offspring appetite via meta-analysis using experimental data from laboratory mammals.. We collected 89 effect sizes from 35 studies, together with relevant moderators. Initial analysis revealed higher food intake per unit of body mass in the offspring of the calorically restricted mothers than in the offspring of the control mothers. Surprisingly, the level of maternal caloric restriction was not related to the magnitude of changes in offspring appetite. Instead, it was the proportion of protein in the maternal diet that influenced the relative food intake of the offspring. This effect appeared to be female-specific, suggesting that female offspring are more sensitive than males to maternal diet composition.
+
+Thomas Houslay
+University of Stirling
+Biological and Environmental Sciences
+United Kingdom
+How plasticity in sexual advertisement affects signal reliability and genetic variation for sexually selected traits
+poster D20SY05PS0941
+
+Author(s): Houslay, TM, Hunt, J, Tinsley, MC, Bussière, LF
+
+Summary: 
+
+Exaggerated sexual traits can provide information to females about male performance, even if the precise alleles that confer high performance change along with environmental conditions. This plasticity in signalling may help to preserve genetic variation that would otherwise be eroded by strong mate choice, but it can also compromise signal reliability if environmental conditions change during development. We manipulated resource acquisition by altering the diet quality of inbred lines of decorated crickets (Gryllodes sigillatus) at both juvenile and adult stages. This allowed us to study both the effect of diet quality and a change in environment during development on trait expression. We measured a number of sexually and naturally selected traits in both sexes, revealing striking differences across diets in the expression of morphological and behavioural traits. We then assessed the reliability with which various traits signalled resource acquisition by assessing their genetic variance, as well as the covariance between traits and across environments. Our results show that traits such as body weight and calling effort, the male sexual advertisement trait, are more sensitive to environmental effects than morphological traits that are fixed at eclosion. We also show that there is positive genetic covariance between environments for calling effort, and high genetic correlations between the expression of calling effort in different environments. Substantial heritability exists for sexual advertisement such that it is a reliable indicator of the ability to acquire resources, for both stable and changing environmental conditions. The lack of evidence for genotype-by-environment interactions is inconsistent with a strong role for environmental diet quality in maintaining genetic variation required to sustain good-genes mate choice.
+
+Yimen Araya-Ajoy
+Max Planck Institute for Ornithology
+Germany
+Individual variation in behavioral plasticity and social environments
+talk D21SY05RT11:18R1
+
+Author(s): Araya-Ajoy, YG, Dingemanse, NJ
+
+Summary: 
+
+Over the last few decades, it has become evident that between-individual variation in behavior characterize a many animal taxa. There is also increasing evidence that individuals differ in their plastic response to the environment. Various adaptive hypotheses have been suggested, and empirically tested, for why natural selection might favor between individual differences in average behavior and also between individual differences in plasticity. One key hypothesis predicts that differences between-individuals in their average behavior, as well as individual differences in behavioral plasticity are favored because social interactions lead to a diverse array of social niches. The social niche hypothesis, predicts that in high competitive environments, there will be select for high behavioral differentiation between individuals and high consistency in behavioral expression (lower plasticity), in order to reduce competition. To empirically test whether patterns of between individual variation (average behavior) and within individual variation (plasticity) support the predictions of the social niche hypothesis, we studied 12 Great tit nest box populations in Southern Germany. To study the patterns of variation between-individuals and within-individuals in the different populations, we quantified aggressiveness four times during their breeding season for 610 great tit breeding attempts in a period of three years (n=2246 tests). The populations differ in average density, but also within populations density varied across years. We used this spatial and temporal variation in social environment characteristics to test whether patterns of variation between and within individuals are indeed a function of social environment characteristics. We further studied the evolutionary consequences of behavioral variation at these two levels by quantifying how the interaction between average behavior, and plastic response to the social environment affects the fitness of individuals.
+
+Francesca Santostefano
+Max Planck Institute for Ornithology
+Germany
+Interacting phenotypes and the maintenance of behavioural phenotypic variation in Field crickets
+poster D20SY05PS1310
+
+Author(s): Santostefano, F, Dingemanse, NJ
+
+Summary: 
+
+Among the behaviours studied in the growing field of animal personality is aggression, and despite this trait being a product of an interaction between conspecifics, the effect of social partners on the focal individual has often been neglected. Since these ‚interacting phenotypes‘ are simultaneously environments and evolving traits, social interactions may play a key role for maintenance of behavioural variation that is overlooked when considering the focal individual only. Here we investigate the extent to which the observed variance in behavioural phenotypes is due to social interactions using the field cricket gryllus campestri s. Male field crickets engage in agonistic contests with escalating stereotypical fighting sequences. We repeatedly measure aggressiveness of wild caught adult males in staged fights, where all individuals within a group encounter each other in dyads. We also take morphological measurements of traits known to affect contest behavior and outcome. We analyze aggressiveness in a behavioural reaction norm framework, which allows the integration of consistent differences in behaviours among individuals (personality) and their responsiveness to environmental variation (plasticity). By measuring behavioural and morphological traits in both the opponent and the focal individual, we also gain insight on the specific mechanisms influencing behaviours in a social context.
+
+Roland Schultheiß
+University of Turku
+Department of Biology
+Finland
+Intraspecific and intersexual differences in UV stress response of neighboring freshwater copepod populations
+poster D20SY05PS1178
+
+Author(s): Schultheiß, R, Sereda, S, Wilke, T
+
+Summary: 
+
+The role of phenotypic plasticity in local adaptation and thus speciation is controversial. On one hand, it may dampen the impact of disruptive or directional selection by producing adapted phenotypes without a heritable change in the genotype. On the other hand, it may facilitate population divergence because it enables an instant response to environmental change. Whereas theoretical studies have addressed this discrepancy, crucial aspects of the role of phenotypic plasticity during local adaptation have not been tested yet experimentally. We studied two neighboring populations of the copepod Acanthodiaptomus denticornis from the French lakes Lac Pavin (LP) and Lac de Montcineyre (LM), examining differences in carotenoid expression in response to UV stress. The populations were kept in climate chambers at standardized culture conditions. We found no genetic differences between the two populations at the mitochondrial COI locus. However, they differed significantly in their behavioral and physiological response to the stressor. LP males increased carotenoid expression from ~2 up to ~10 µg Astaxanthin per mg dry weight over a period of 14 days with regular exposure to UV radiation. LP females and LM specimens of both sexes, in contrast, maintained a concentration of ~0.4 µg Astaxanthin per mg dry weight under the same conditions. Moreover, the populations differed in their behavioral response to UV stress. While LM specimens showed no statistically significant movement in the water column after UV cue, LP specimens exhibit a pronounced downward movement. We hypothesize that lake-specific differences in water clarity and predation regime (presence of fish and insect larvae) in concert with sexual conflict drive the observed population divergence. We furthermore argue that the observed plasticity in carotenoid expression and the tightly coupled diverging anti-predations strategies constitute a critical early step in an ongoing speciation process of A. denticornis.
+
+Franziska Brunner
+GEOMAR Hemholtz Center for Ocean Research
+FB3
+Germany
+Introducing diversity? Variable strategies in new environments and consequences for infection dynamics
+poster D20SY05PS0559
+
+Author(s): Brunner, FS, Heckwolf, M, Eizaguirre, C
+
+Summary: 
+
+Invasion of new habitats is an important natural process known to require phenotypic plasticity of migrating individuals to cope with their new environments. It is poorly understood though how the potential for plasticity among individuals changes during an invasion. Increased trait variation among phenotypes of individuals experiencing a new environment could indicate the use of different strategies for coping with stress and a disruption of previously adaptive patterns. On the other hand, more uniform patterns in groups subjected to environmental changes would suggest a homogenizing effect of high stress levels. We investigate this question with a particular focus on immunity and immune related genes. The three-spined stickleback (Gasterosteus aculeatus) is known for its repeated and parallel invasion of different freshwater habitats from marine environments throughout the Northern hemisphere. In a lab-based study, we mimic transition from brackish water to freshwater and vice versa. Taking into account multiple biological levels as well as standing genetic variation and phenotypic plasticity, we explore the effects and patterns of variation caused by habitat invasion. Furthermore, we subject fish to experimental infection with the monogenean parasite Gyrodactylus gasterosteus and investigate differences in parasite susceptibility entailed by the mimicked invasion.
+
+Pablo Burraco
+Doñana Biological Station
+Wetland Ecology
+Spain
+Is predator-induced phenotypic plasticity regulated by DNA-methylation in tadpoles?
+talk D21SY05RT17:45R1
+
+Author(s): Burraco, P, Arribas Ramos, R, Gomez-Mestre, I
+
+Summary: 
+
+Phenotypic plasticity is the ability of a genotype to modify its phenotype in response to reliable environmental cues. The knowledge of the mechanisms involved in plasticity is the key to understand its ecological, developmental and evolutionary consequences. In the last decade, epigenetic changes have been pointed out as explanations for several phenotypically plastic changes. In particular, DNA methylation has been linked to phenotypic plasticity and evidence is quickly accumulating across different taxa. Here we tested if the predator-induced phenotype observed in many amphibian larvae was the consequence of changes in gene expression derived from changes in the pattern of DNA methylation. Tadpoles produce anti-predator phenotypes that include a conspicuous increase in relative tail depth and a reduction of activity rate. To test if these plastic responses are epigenetically regulated, we exposed Pelobates cultripes tadpoles to the presence or absence of chemical cues from predators, while previously treating or not tadpoles with 5-azacytidine, a DNA methylation inhibitor, in a 2x2 factorial experiment. Our experimental treatments were: control (clean water), predator cues (dragonfly nymphs, Anax imperator), 5-azacytidine, and 5-azacytidine plus predator cues. Tadpoles exposed to predator cues showed the expected antipredator morphology, whereas tadpoles exposed to predator cues but earlier treated with 5-azacytidine showed an intermediate phenotype between the control and predator exposed tadpoles. They also showed a substantial decrease in activity rate as compared to control tadpoles and even to predator-exposed tadpoles. We are currently undertaking a molecular analysis with methylation-sensitive amplified length polymorphism (MSAPs), to quantify the changes in epigenetic marks. In view of these results, it seems like epigenetic regulation of predator-induced phenotypic changes in Pelobates tadpoles may be at least partially driven by DNA-methylation.
+
+Balint Preiszner
+University of Pannonia
+Department of Limnology
+Hungary
+Is social status influenced by individual problem-solving success in House Sparrows (Passer domesticus)?
+poster D20SY05PS0883
+
+Author(s): Preiszner, B, Papp, S, Vincze, E, Seress, G, Bókony, V, Liker, A
+
+Summary: 
+
+In group-living animals, group-members can benefit from having an innovative group-mate by scrounging or social learning. Therefore it may pay off for individuals to take group-mates’ problem-solving abilities into account in social interactions such as aggressive competition and spatial association. We tested whether house sparrows’ social status is related to their innovative skills in 15 small captive flocks. First we measured the birds’ actual problem-solving success in food-extracting tasks. Then we manipulated their apparent problem-solving success while a new group-member (focal individual) had the opportunity to witness their performance. Later in group cages we observed aggressive interactions and spatial associations of the focal individuals with their group-mates. During the manipulation sessions, focal individuals paid more attention towards group-mates that spent more time on problem-solving attempts. Neither dominance rank nor spatial associations were related to either actual or manipulated problem-solving performance. However, focal individuals attacked more frequently those group-mates that had higher actual (non-manipulated) problem-solving success. This relationship depended on the focal bird’s own performance, as less successful birds attacked their more successful group-mates consistently while more successful birds’ aggression was context-dependent. These results suggest that house sparrows are able to assess their group-mates’ problem-solving abilities; although they may use different phenotypic cues than those we manipulated. They may take this information into account in certain social situations, e.g. it may be advantageous for less successful individuals to scrounge aggressively from group-mates with better problem-solving skills.
+
+Johan Ahlgren
+Faculty of science Lund University
+Department of Biology
+Sweden
+Jack of all traits, adapted to all: the highly plastic freshwater snail Radix balthica also show plasticity in mantle pigmentation
+poster D20SY05PS0338
+
+Author(s): Ahlgren, J, Yang, X, Hansson, L, Brönmark, C
+
+Summary: 
+
+By having phenotypically plastic traits, such as morphology, behaviour and life history, many organisms optimise their fitness in response to fluctuating threats. Freshwater snails with translucent shells, e.g. snails from the Radix genus, differ considerably in their mantle pigmentation patterns, with snails from the same water body ranging from completely dark pigmented to only a few dark spots. These pigmentation differences have previously been suggested to be genetically fixed, but we suggest that this polymorphism is due to phenotypic plasticity in response to a fluctuating environment. Hence, we here aimed at assessing if common stressors, including ultraviolet radiation (UVR) and predation, induce a plastic response in mantle pigmentation patterns of Radix balthica. We show, in contrast to previous studies, that snails are plastic in their expression of mantle pigmentation in response to changes in UVR and predator threats, i.e. differences among species or populations are not genetically fixed. When exposed to cues from visually hunting fish, R. balthica increased the proportion of their dark pigmentation but without compromising the complexity of these pigmented spots, suggesting a crypsis strategy. Snails increased their pigmentation even further in response to UVR, but this also lead to reduced complexity of the patterns. Furthermore, when exposed to UVR and fish, snails responded in the same way as in the UVR treatment, suggesting a trade-off between photoprotection and crypsis.
+
+Nuria Polo-Cavia
+Universidad Aútónoma de Madrid
+Biología
+Spain
+Learned predator recognition allows activation of defensive behaviour and enhances survival against alien predators
+poster D20SY05PS0230
+
+Author(s): Polo-Cavia, N, Gomez-Mestre, I
+
+Summary: 
+
+Alien predators are one of the major causes of rapid decline and extinction of native species, because they often create novel ecological contexts in which the antipredatory responses of native organisms are no longer adaptive. The red swamp crayfish, Procambarus clarkii, is a harmful invasive species in aquatic systems worldwide that is causing great ecological impact on native amphibian populations through intense predation of eggs and tadpoles. Larval amphibians are often capable of innately responding to the presence of chemical cues from local predators through changes in morphology and behaviour. Nonetheless, naïve tadpoles are often incapable of recognising alien predators with whom they have no shared evolutionary history. For this reason, amphibian species are especially vulnerable to the introduction of new predators. However, given enough time, native populations might acquire, by means of rapid adaptation or the evolution of phenotypic plasticity, the ability to escape from alien predators. Here we show that naïve tadpoles of the western spadefoot toad, Pelobates cultripes, cannot innately recognise water-borne cues from P. clarkii. Nevertheless, we also show that P. cultripes tadpoles can learn to recognise the cues of this alien predator as a threat when they are exposed to predator cues combined with conspecific alarm cues. Furthermore, we show that tadpoles that learned to recognise the new predator experienced higher survival during staged predation trials with invasive crayfish. This cognitive ability of tadpoles might be critical for amphibian populations to trigger inducible defences against alien predators, thus tempering the immediate impact of invasions through behavioural plasticity and persist long enough for genetic variants to appear and respond to selection.
+
+Jennifer Sanderson
+University of Exeter (Cornwall Campus)
+Centre for Ecology and Conservation
+United Kingdom
+Lifetime patterns of cooperation and competition: behavioural syndromes through time and across contexts
+poster D20SY05PS0749
+
+Author(s): Sanderson, JL, Hodge, SJ, Young, AJ, Cant, MA
+
+Summary: 
+
+Individual differences in cooperative investment can be consistent and persist after life-history variation has been controlled for. This suggests that plasticity of cooperative behaviours may be limited, and individuals may be constrained to different behavioural trajectories or behavioural roles within animal societies. We use long-term observations of cooperative offspring care and mate-guarding behaviours in a wild population of banded mongooses (Mungos mungo) to investigate lifetime patterns of behavioural consistency in a social context. Moreover, we examine patterns of consistent individual differences through time and across contexts to investigate what selection pressures may be driving consistent individual differences in this system. We find evidence for consistent individual differences in both cooperative and competitive behaviours, though the patterns of consistency are different for each behaviour. We suggest that changes in the costs of offspring care and the availability of mates that occur through time may drive variation in behavioural consistency seen between different age ranks. Individual differences in two forms of pup care are correlated, suggesting that individuals are not specialised to different cooperative activities, rather they may be specialised as helpful and selfish individuals. We find no evidence of correlation between individual differences in investment in offspring care and mate-guarding behaviours, suggesting that individuals do not show life time specialisations to roles as carers and breeders. This is one of the first studies to test lifetime consistency of behaviours in the wild, and may be the first to investigate consistencies in cooperative and competitive behaviours concurrently. Evidence for lifetime consistency of individual differences is suggestive of lifetime behavioural trajectories and advocates further study into early-life effects to determine the factors that lead to different individual trajectories.
+
+Tiit Teder
+Institute of Ecology and Earth Sciences, University of Tartu
+Department of Zoology
+Estonia
+Linking phenotypic plasticity in development times to evolutionary origins of protandry: a meta-analysis in insects
+poster D20SY05PS1223
+
+Author(s): Teder, T
+
+Summary: 
+
+Protandry is a widespread life-history phenomenon whereby males attain reproductive maturity before females. The explanations of the evolutionary origins of protandry fall into two broad classes. First, selection may favour earlier maturation of males per se, i.e. a sex difference in the timing of maturation may result from selective pressures on males and females to emerge at different times in relation to each other (direct selection hypothesis). Alternatively, the earlier maturation of males could be an incidental by-product of selection on some other sexually dimorphic trait, such as differential selection on body size of females and males (indirect selection hypothesis). In insects, protandry has been shown to be under direct selection in a few species, mostly in butterflies, while a more general understanding of the prevalence of direct vs. indirect selection on protandrous emergence remains unknown. One way to test between the two alternative hypotheses is to analyse the variation in the degree of protandry within species. It has been proposed that, for protandry to be directly selected, the degree of protandry should be insensitive to environmental conditions experienced during juvenile growth. This is because the optimal amount of protandry should be determined by adult life-histories, not by juvenile life-histories. Here I will present the results of a meta-analysis on intraspecific, environmentally-induced variation in the degree of protandry with the aim to test between the direct and indirect selection scenarios of protandry. The analysis is based on a comprehensive literature-derived database on over 100 insect species, for which data on sex-specific development times and body sizes allowed to derive the response of protandry to environmental conditions.
+
+Philipp Lehmann
+Faculty of Mathematics and Science
+Department of Biological and Environmental Science
+Finland
+Loss of diapause related behavioral plasticity during northwards range expansion in the invasive Colorado potato beetle Leptinotarsa decemlineata* (Say) in Europe
+talk D20SY05RT18:33R1
+
+Author(s): Lehmann, P, Lyytinen, A, Piiroinen, S, Lindström, L
+
+Summary: 
+
+The photoperiod is an important environmental trigger of plastic life-history decisions in many organisms living in seasonal environments. In animals undergoing rapid latitudinal range expansion, a change in the timing of photoperiodic triggering of overwintering behavior is often required for establishment and persistence at novel latitudes. Successful overwintering requires a synchronization of behavior with many physiological traits. While several cases of rapid photoperiodic adaptation have been documented, less attention has been given to flexibility in the overwintering behavior itself and some studies indeed suggest that flexibility in behavior could offset the need for physiological photoperiodic adaptation, through stress avoidance or buffering. This could be one reason behind the success of several invasive species.
+
+We studied overwintering behavior and physiology of Colorado potato beetles from three populations in Europe along a latitudinal axis, and show adaptive variation in critical photoperiod (when 50% of adults burrow). However, we also found that burrowing behavior itself is flexible, meaning that beetles can burrow and remain so for prolonged periods even though physiologically unprepared for overwintering. The association between overwintering behavior and underlying physiological traits was stronger in the northern than the southern populations, indicating that selection has reduced variation in burrowing behavior during the invasion progress, possibly due to harsher winters. Our results indicate that flexible behavior alone, without physiological adjustments, is not sufficient for persistence in novel high latitudes, even though it might facilitate range expansion in more benign environments. Thus phenotypic plasticity, in our study the response to the photoperiod by either producing an overwintering or reproducing phenotype is not clear cut, but depends on trait associations between behavior and physiology in a latitude dependent manner.
+
+Matthieu Bruneaux
+University of Turku
+Department of Biology - Genetics
+Finland
+Metabolism and energy storage strategies differ in nine-spined stickleback (Pungitius pungitius) populations from contrasting thermal environments
+poster D20SY05PS0787
+
+Author(s): Bruneaux, M, Vasemägi, A, Primmer, C
+
+Summary: 
+
+Metabolic thermal adaptation is crucial for maintaining the necessary energy balance for survival in the face of seasonal temperature fluctuations. The plasticity of the thermal response and its potential for evolutionary adaptation are expected to differ between populations exposed to different thermal regimes. To understand how metabolic thermal responses differ in recently (< 11,000 years) isolated populations, we studied 4 populations of the nine-spined stickleback (Pungitius pungitius) from marine locations and spring-fed ponds from the Baltic region. We hypothesized that populations from cold, thermally stable ponds and from marine, thermally more variable locations would differ in their metabolic compensation thermal response. We acclimated wild-caught fish to 6, 11 and 19°C in the lab under constant photoperiod and measured their resting and active metabolic rates in order to determine their aerobic scope. Liver weight was used as a proxy for energy reserves. The fish from the coldest and most stable pond population exhibited complete temperature compensation for their aerobic scope while the marine populations underwent metabolic depression in the cold. Aerobic scopes were identical between all populations at 19°C. Marine populations had larger hepatosomatic index at all temperatures, with cold acclimation accentuating this effect. Our results suggest that differential energy storage and metabolism adaptations occurred in those populations, with the marine populations developing a winter-tolerance strategy while the cold pond population could potentially have a winter-exploitation strategy. This work demonstrates the metabolic versatility of the nine-spined stickleback and provide a potential energetic framework for the previously observed adaptations in energy-dependent traits in other nine-spined stickleback populations.
+
+Wade Hazel
+DePauw University
+Biology
+United States
+Modeling plastic and canalized phenotypic expression by the process of genetic accommodation
+poster D20SY05PS0095
+
+Author(s): Hazel, WN, Smock, RC, Steffen, BT
+
+Summary: 
+
+The evolution of polyphenism, in which a single genotype produces alternative discrete phenotypes in response to environmental cues, and the evolution of a novel canalized phenotype, in which a genotype produces a novel, invariant phenotype in spite of environmental differences, represent different end points in the process of genetic accommodation. Genetic accommodation is hypothesized to begin when heritable variation in developmental switch points and environmental variation conspire to trigger the expression of a novel phenotype, thus exposing the underlying genetic variation to selection. We model genetic accommodation using a threshold model. Using simulations, we illustrate the model by application to the evolution of both the environmentally induced expression of a novel defensive phenotype and the evolution of the canalized expression of a defensive phenotype. We show that, given the appropriate ecological and genetic conditions, genetic accommodation can occur rapidly, resulting in the evolution of either polyphenism or a novel canalized phenotype.
+
+Kinya Nishimura
+Hokkaido University
+Graduate School of Fisheries Sciences
+Japan
+Modularity of polyphenic developmental reaction norm
+poster D20SY05PS0703
+
+Author(s): Nishimura, K
+
+Summary: 
+
+Whole boy of organism is the integrated entity, and it is an aggregation of multiple parts that have a certain level of independence and are functionally coordinated. The organismic integration recently becomes recognized as the heading of modularity. The integration moves ahead in the epigenetic developmental processes. Polyphenic developmental reaction norm makes distinct shapes among individuals, and it is a focus in evolutionary developmental biology and evolutionary ecology. It has been reported that larvae of salamander, Hynobius retardatus, exhibit a polyphenic developmental reaction norm within and among populations of high-low rearing densities. Above all, in high density, large-jaw cannibal-morphs are induced and they prey on the rest of the non-cannibal morphs. I investigated development of shapes, and the property of modularity in the shapes of the polypehnic reaction norm. I analyzed the shapes of hatchings (innate-morphs), low-density reared larvae (solitary-morphs), and high-density reared larvae (cannibal- and non-cannibal-morphs) according to the theory of landmark based Geometric Morphometrics. The Relative Warp Analysis and the thin-plate-spline shape presentations uncovered shape characteristics of each morphotype, some of which imply adaptive function. I found that all the samples coming form any of the ecological categories, i.e., innate-, solitary, cannibal, and non-cannibal, were completely discriminated on the shape-space that is defined by the Canonical Variates Analysis. Partial Least Squares Analysis indicated that the forward and the backward parts of body were separate modules in the innate-morphs and the solitary-morphs, on the other hand, the tow modules were integrated in the cannibal and the non-cannibal-morphs. This implies that a facultative modularity controls the polyphonic reaction norm.
+
+Asano Ishikawa
+National Institute of Genetics
+Ecological Genetics Laboratory
+Japan
+Molecular and genetic mechanisms underlying variation in phenotypic plasticity in Sticklebacks
+talk D21SY05RT16:09R1
+
+Author(s): Ishikawa, A, Kitano, J
+
+Summary: 
+
+Phenotypic plasticity plays important roles in adaptation to changing environments. However, organisms tend to lose the capacity for phenotypic plasticity under stable environments. Although variation in phenotypic plasticity has been found throughout the animal kingdom, molecular and genetic mechanisms underlying such variation remain elusive. We are addressing this question by using threespine stickleback (Gasterosteus aculeatus), because they have a variety of ecotypes that show different levels of phenotypic plasticity. After the last glacial recession, ancestral marine sticklebacks colonized newly formed freshwater habitats, resulting in extensive phenotypic diversification. In this study, we report that whole transcriptome analysis revealed that marine sticklebacks exhibited significant photoperiodic response of expression levels of thyroid hormone-stimulating hormone beta 2 (TSHß2) gene, whereas such response was lost in freshwater sticklebacks. Loss of TSHß2 response independently occurred in both North American and Japanese freshwater populations. Further analyses of TSHß2 response in F1 hybrids demonstrated that loss of TSHß2 response has different genetic basis between Japanese and North American populations. Genome sequencing further revealed several ecotype-specific SNPs at the cis-regulatory region of TSHß locus in North America freshwater populations. We are currently conducting luciferase-reporter assays in vitro to investigate the cis-regulatory mechanisms of TSHß2 response. Furthermore, we are making TALEN-induced knockout sticklebacks to understand the roles of TSHß2 in vivo. Thus, further studies on the variation in TSHß2 response will lead to a better understanding of the genetic mechanisms underlying convergent loss of phenotypic plasticity.
+
+Anthony Zera
+University of Nebraska
+School of Biological Sciences
+United States
+Morph-specific circadian plasticity and G X E for juvenile hormone and gene expression in a wing-polymorphic cricket
+talk D21SY05IT10:30R1
+
+Author(s): Zera, AJ, Brisson, JA, Nanoth Vellichirammal, N
+
+Summary: 
+
+The endocrine basis of phenotypic plasticity in insects has been the subject of considerable study and speculation for decades. Yet, detailed information on endocrine mechanisms is still uncommon, and many “classic” examples of endocrine plasticity are, in fact, only weakly supported by experimental data. Furthermore, an important aspect of plasticity, circadian plasticity, has remained virtually unstudied. During the past decade, the Zera laboratory has undertaken detailed studies of morph-specific JH titer variation in the wing-polymorphic cricket, Gryllus firmus. This species exhibits a classic life history trade-off consisting of a dispersing morph (LW; long-winged) that delays reproduction and a flightless morph (SW; short-winged) that exhibits enhanced early-age fecundity. An unanticipated and dramatic genotype (morph) x environment (time-of-day) interaction for the blood JH titer (i.e. genetic variation for circadian plasticity) was identified in this species. In the LW morph the JH titer rises and falls 20-100 fold within a few hours before and after lights-off in the laboratory or sunset in the field. Failure to take this rhythm into account can result in substantial errors in interpreting the role of JH in morph adaptation. The morph-specific JH titer rhythm appears to be common in cricket species; the JH cycle likely regulates some aspect of flight, which only occurs in the dispersing morph at night. A recent transcriptome study identified a morph-specific circadian rhythm with respect to global gene expression. Daily change in transcript abundance occurs for a greater number of genes in the LW than in the SW morph, and is more prominent than differences in expression between LW and SW morphs at the same time of day. Circadian plasticity and G X E are potentially common, important, but largely unstudied aspects of phenotypic plasticity and life history adaptation. Supported by NSF award IOS – 1122075 to AJZ
+
+Kati Saarinen
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Nine bacterial species can’t be wrong: fluctuating temperature leads to asymmetric changes in thermal tolerance
+poster D20SY05PS0870
+
+Author(s): Saarinen, K, Laakso, J, Lindström, L, Ketola, T
+
+Summary: 
+
+Fluctuating temperature is predicted to select for generalist genotypes that are capable of performing well across a wide range of temperatures. Although theories particularly predict fast fluctuations in selecting for thermal generalists, such experiments are scarce. Our aim was to find out whether fluctuating temperature selects for temperature generalists and test how uniform the temperature induced evolutionary changes are across different bacterial species. We set up a factorial experiment where ten replicate populations of nine different bacterial species were propagated separately either in a constant temperature (30 ºC) or in a rapidly fluctuating temperature (2 h 20 ºC - 2 h 30 ºC - 2 h 40 ºC, mean 30 ºC). After 2.5 months we isolated altogether 720 bacterial clones from experimental populations and measured growth rate and yield (growth efficiency) in three constant temperatures (20, 30 and 40 ºC). Meta-analysis of all of the species over all of the temperatures indicated that clones from the fluctuating temperature treatment had higher overall growth efficiency compared to clones from the constant environment. Moreover, the selection was found to be asymmetric, selecting more profoundly the tolerance of hottest temperatures. Generality of the results across studied species gives a strong support for the theories of evolution of thermal generalism but also indicates that evolutionary consequence of fluctuating temperature is especially strong in hot temperatures where the fitness consequences of increased or decreased heat are much more profound than in cold temperatures.
+
+Helen Gunter
+University of Konstanz
+Department of BIology
+Germany
+No strain no gain: genetic investigation of adaptive phenotypic plasticity in teleost jaws
+talk D21SY05RT16:57R1
+
+Author(s): Gunter, HM, Fan, S, Xiong, F, Schneider, RF, Franchini, P, Fruciano, C, Meyer, A
+
+Summary: 
+
+Through incorporating environmental signals into ontogenetic pathways, phenotypically plastic species can fine-tune their phenotypes to precisely match local environmental conditions. In spite of its importance in the generation of adaptive phenotypes, the molecular basis of phenotypic plasticity remains poorly characterised. We are establishing a new molecular model for phenotypic plasticity research: the East African cichlid fish, Astatoreochromis alluaudi, which has been the subject of morphological studies of plasticity for 50 years. In response to a hard diet, its Lower Pharyngeal Jaw (LPJ) develops a ‘molariform’ morphology, with molar-like teeth set in an enlarged, dense jaw, compared with the smaller, finer ‘papilliform’ morphology which represents the ground state for this species. We performed a common garden experiment where siblings were fed either whole snails (hard diet), or finely minced snails (soft diet) and analysed the resulting morphological and transcriptional phenotypes. Genome-wide transcriptome analysis was performed on the LPJs of molariform and papilliform morphs that resulted from the diet treatments, shedding light on the environmentally sensitive pathways that modulate LPJ morphology. Numerous genes of mechanically responsive pathways (such as fos and jun) were upregulated in the molariform LPJs, indicating that mechanical strain intersects with bone developmental pathways that shape the molariform morphology. Intriguingly we also observe the down-regulation of various inflammatory factors and redox pathway members, suggesting that microenvironmental changes within the LPJ medullary cavity may alter cellular differentiation and proliferation. Through identifying numerous pathways involved with plasticity in the LPJ of A. alluaudi, our research opens the door to assess the role of phenotypic plasticity in generating morphological novelties amongst the explosive radiation of East African cichlid fishes.
+
+Manuel Pompini
+Faculty of Biology and Medicine of the University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Pathogen-induced hatching and population-specific life-history response to waterborne cues in brown trout (Salmo trutta)
+poster D20SY05PS0412
+
+Author(s): Pompini, M, Clark, ES, Wedekind, C
+
+Summary: 
+
+Hatching is an important niche shift, and embryos in a wide range of taxa can either accelerate or delay this life-history switch in order to avoid stage-specific risks. Such behavior can occur in response to stress itself and to chemical cues that allow anticipation of stress. We studied the genetic organization of this phenotypic plasticity and tested whether there are differences among populations and across environments in order to learn more about the evolutionary potential of stress-induced hatching. As a study species, we chose the brown trout (Salmo trutta; Salmonidae). Gametes were collected from five natural populations (within one river network) and used for full-factorial in vitro fertilizations. The resulting embryos were either directly infected with Pseudomonas fluorescens or were exposed to waterborne cues from P. fluorescens-infected conspecifics. We found that direct inoculation with P. fluorescens increased embryonic mortality and induced hatching in all host populations. Exposure to waterborne cues revealed population-specific responses. We found significant additive genetic variation for hatching time, and genetic variation in trait plasticity. In conclusion, hatching is induced in response to infection and can be affected by waterborne cues of infection, but populations and families differ in their reaction to the latter.
+
+Farley Silva
+Universidade Federal de Viçosa
+Department of Entomology
+Brazil
+Phenotypic adjustments and prophylaxis in Anticarsia gemmatalis larvae are triggered by the presence of conspecifics
+poster D20SY05PS0433
+
+Author(s): Silva, F, Viol, DL, Faria, SV, Lima, E, Valicente, FH, Elliot, SL
+
+Summary: 
+
+Defence from parasites and pathogens involves a cost. Thus, it is expected that organisms use this only at high population densities, where the risk of pathogen transmission may be high, as proposed by the "density-dependent prophylaxis" (DDP) hypothesis. These predictions have been tested in a wide range of insects, both in comparative and experimental studies. We think it pertinent to consider a continuum between solitarious and gregarious living insects, wherein: (1) solitarious insects are those that are constitutively solitary and do not express any phenotypic plasticity, (2) the middle of the continuum is represented by insects that are subject to fluctuations in local density and show a range of facultative and plastic changes; and (3) constitutively gregarious forms live gregariously and show the gregarious phenotype even in the absence of crowding stimuli. We aimed to chart some of the intermediary continuum with an insect that presents solitarious aspects, but that is subject to fluctuations in density. Thus, Anticarsia gemmatalis (Lepidoptera: Noctuidae) larvae reared at higher densities showed changes in coloration, a greater degree of encapsulation, had higher hemocyte densities and were more resistant to Baculovirus anticarsia, but not to Bacillus thuringiensis. Meanwhile, with increased rearing density there was reduced capsule melanization. Hemocyte density was the only variable that did not vary according to larval phenotype. The observed responses were not a continuous function of larval density, but an all-or-nothing response to the presence of a conspecific. As A. gemmatalis is not known for gregarious living, yet shows these density-dependent changes, it thus seems that this plastic phenotypic adjustment may be a broader phenomenon than previously thought
+
+Marjo Saastamoinen
+University of Helsinki
+Department of Biosciences
+Finland
+Phenotypic and genetic responses of life-history traits to predictable and unpredictable developmental conditions in a seasonal butterfly
+talk D21SY05RT16:33R1
+
+Author(s): Saastamoinen, M, Brakefield, PM, Brommer, J, Oostra, V, Wheat, CW, Zwaan, BJ
+
+Summary: 
+
+Environmental conditions experienced during development are known to influence the phenotype but also the different components of heritability, including genetic variance (VG). Here, phenotypic as well as genetic responses of life-history traits to two different developmental conditions, temperature and food limitation were assessed. The former represents an environment that defines seasonal polyphenism in our study organism, the tropical butterfly Bicyclus anynana, whereas the latter represents a more unpredictable environment. While development time, pupal mass, and resting metabolic rate showed no genotype-by-environment interaction for genetic variation, for thorax ratio and fat percentage the VG increased under the cool temperature, dry season environment. Additionally, for fat percentage, VG increased under food limitation. Hence, the traits most intimately related to the polyphenism in B. anynana show the most environmental specific genetic variance as well as some indication of cross-environmental genetic correlations. I will relate these results and the observed phenotypic responses to temperature (season) and food limitation to our recent RNA-Seq analyses on 72 individuals from the same families. We find substantial genetic variation for gene expression variation, affecting 1225 genes significantly (FDR<5%), while seasonal and food conditions affected much fewer genes. Interestingly, we also identified a number of genes whose expression was affected by the interaction between developmental conditions and genetic background, indicating genetic variation for environmental responses.
+
+Carlos Garcia de Leaniz
+Swansea University
+BioSciences
+United Kingdom
+Phenotypic convergence in sea bass (Dicentrarchus labrax) escaping from fish farms: the effects of feralization?
+poster D20SY05PS0851
+
+Author(s): Garcia de Leaniz, C, Toledo, K, Brito, A
+
+Summary: 
+
+The impact of fish escaping from fish farms may depend on the extent to which escapees adapt to the natural environment, resemble wild conspecifics and become feral. Yet, little is known about the process of feralization in marine fish. We examined phenotypic changes in body shape, body condition and scale growth profiles of sea bass escaping from fish farms in the Canary Islands (where the species is rare or absent) and quantified the extent to which escapees had diverged from farmed conspecifics. Most feral sea bass had sizes that overlapped with those of farmed fish, indicating that they had escaped throughout the production cycle. However, 29% of escapees were larger than the maximum harvest size, suggesting that they had been at liberty for some time and had grown in the wild. Analysis of scale growth profiles showed that escapees grew at more variable rates than farmed fish in cages, but that some feral seabass were capable of growing in the wild as fast as farmed fish did. Feral sea bass tended to converge towards a similar body shape, having more streamlined bodies, lower body condition, and lower hepatosomatic indices than fish in cages. Although our study cannot discriminate between phenotypic plasticity and differential mortality of escapees, we interpret phenotypic convergence in feral sea bass as the likely result of a period of initial starvation, phenotypic plasticity, and selection against maladapted phenotypes. Our results suggest that plasticity may aid in the feralization process by allowing escapees to adapt quickly to natural conditions, and warn against the risks of rearing sea bass in open-net cages, particularly in areas where the species is not naturally found.
+
+Ivan Gomez-Mestre
+Donana Biological Station, CSIC
+Wetland Ecology
+Spain
+Phenotypic divergence among spadefoot toad species reflects accommodation of mechanisms underlying developmental plasticity
+talk D20SY05RT14:00R1
+
+Author(s): Gomez-Mestre, I, Kulkarni, S, Buchholz, DR
+
+Summary: 
+
+Selection in heterogeneous environments favours plasticity as it allows organisms to adapt to rapidly changing conditions. Developmental plasticity allows populations to withstand rapid environmental changes and confers an overall faster rate of adaptation. Conversely, if plasticity costs are high and the environment stabilises, selection results in genetic assimilation, which could result in trait divergence and species diversification. Current evolutionary theory contemplates that phenotypic divergence between species may initiate as environmentally-induced expression of alternative phenotypes. Descendant lineages of a plastic ancestor evolving in stable divergent environments may lose plasticity over time, their development becoming specialised to produce fixed phenotypes matching each environment. In that case, we would expect ancestral plasticity to mirror differences among taxa and that the same mechanism allowing ancestral plasticity was also the main mechanism explainig species divergences. In that light, we are studying mechanisms of plasticity behind the evolutionary divergence of spadefoot toads. Old World species (Pelobates) breed in long lasting ponds and have long but plastic larval periods, whereas New World species (Scaphiopus) have specialised in ephemeral ponds and have evolved very short larval periods. We hypothesise that Scaphiopus has undergone genetic accommodation of ancestral plasticity, which has resulted in canalised short larval periods. To test this hypothesis we have studied the mechanisms underlying developmental acceleration in response to pond drying and compared it across species. We have found that Pelobates tadpoles, which reflect the ancestral state of the group, increase their metabolic rate, and thyroid hormone and corticosterone concentrations in response to decreased water levels. All these parameters, however, seem to have been canalised in Scaphiopus, lending support to the hypothesis of genetic accommodation.
+
+Anne-Sophie Philippe
+CNRS
+Laboratoire Evolution Genome et Speciation
+France
+Phenotypic plasticity of social behavioural response in a spatial cognitive tasks
+talk D21SY05RT11:42R1
+
+Author(s): Philippe, A, Foucaud, J, Moreno, C, Mery, F
+
+Summary: 
+
+Phenotypic plasticity enables animals to cope with environmental variations. According to the conditions, animals can use different kind of informations which enable them to adapt their behaviour to the environmental conditions. First, they can use informations from their environment like visuals cues. Second, they can use social informations by observing others individuals’ behaviours or interacting with them. Differential use of personal versus social informations may depend on their relative costs in differents conditions. Here we focused on this phenotypic plasticity of the use of information. Using Drosophila melanogaster as biological model, we took an interest in the effects of some genetics and social environment variations on the plasticity of informations use during spatial learning task. Based on the existence of natural genetic polymorphism at the foraging gene (known to affect some behaviours), our experiments consisted in analysing variations in the use of informations depending on the genetic nature of one individual or a group and the interaction between each other. In order to manipulate visuals and social cues, we used a device similar to the Morris Water Maze. In this device, Drosophila could use wall visual pattern cues or observation of other individuals’ behaviours to find and memorize the location of a cold spot to escape from the hot ground of the arena. The results revealed that genetic variation at the foraging locus is related to variation in the use of social information during spatial learning. While both allelic variants were able to use the different kind of informations during the training trials, a probe trial showed that individuals carrying Sitter allele use more social informations than those carrying Rover allele. These results suggest that rover and sitter individuals don’t cope with their environment in the same way but they can switch from one kind of information to another according to the environmental variations.
+
+Amanda Bretman
+University of Leeds
+School of Biology
+United Kingdom
+Plastic mating strategies: transcriptomics of male responses to mating rivals in Drosophila melanogaster
+talk D20SY05RT17:45R1
+
+Author(s): Bretman, A, Mohorianu, I, Dalmay, T, Chapman, T
+
+Summary: 
+
+Behavioural plasticity is an important strategy that enables animals to respond to short term fluctuations in the environment. The socio-sexual environment can vary rapidly, dictating the level of mating opportunities and competition an individual encounters. Males of many species show plasticity in response to this variation. For example, in Drosophila melanogaster, males show a sophisticated and consistent response to the threat of mating competition as signalled by the presence of rivals. Following exposure to a rival male, focal males mate for significantly longer than their counterparts held alone. This results in a significant increase in male fitness in both competitive and non-competitive matings. Males use a complex set of cues to assess the presence of rivals. However, there are also costs, and individuals that maintain responses to rivals throughout life show reduced lifespan and mating success in older life. Plastic responses to rivals are highly flexible and associated with variation in the transfer of ejaculate proteins into females during mating. In this study, we investigated the underlying transcriptomic changes that characterise responses to rivals, using a global mRNAseq approach. We analysed gene expression changes according to the length of exposure to rivals and within different tissue types (the head and thorax versus abdomen). This enabled us to identify highly differentially expressed candidate genes associated with sensing rivals, with temporal changes in behaviour and with manipulating ejaculate content in response to exposure to rivals. These data allow us to investigate the phenotypic role of these transcriptional changes and explore how such a response is regulated. The work is important for understanding how sophisticated and flexible behavioural plasticity can evolve.
+
+Emily Clark
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Plastic traits of whitefish dependent on the interaction of pathogens, host developmental stage, and genetics
+talk D20SY05RT16:09R1
+
+Author(s): Clark, ES, Pompini, M, Marques da Cunha, L, Wedekind, C
+
+Summary: 
+
+Phenotypic plasticity may evolve in response to environmental changes in populations with sufficient genetic variation for the reaction norms. We used the whitefish Coregonus palaea to experimentally study the interplay of ecology, genetics, and development on the evolutionary potential of plastic traits. In order to disentangle maternal from paternal contributions, and the likely effects of developmental stage from ecological effects, we sampled a natural population, used gametes for full-factorial in vitro fertilizations, raised the resulting offspring singly at controlled conditions, and exposed them at one of several points during development to the opportunistic pathogen, Pseudomonas fluorescens. Inoculation with the bacterium increased embryonic mortality and resulted in delayed hatching of smaller, less developed larvae. Vulnerability to infection increased distinctly over embryo development. This change coincided with a shift in the importance of maternal to additive genetic effects on survival. Timing of exposure also affected whether there was genetic variability for trait plasticity, and whether traits were correlated across environments. Our results demonstrate that additive genetic effects on plastic traits and of trait plasticities critically depend on developmental stage and hence on the timing of a stressful event.
+
+Fredrik Sundström
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Plasticity and salmon growth: genetic determinism versus social competition
+poster D20SY05PS0320
+
+Author(s): Sundström, F
+
+Summary: 
+
+Individual growth rate in salmon is highly plastic with the literature reporting strong effects of both genetic and environmental factors. One environmental factor with documented effects is social environment, with large dominant fish typically reducing the growth of smaller subordinates. At the same time, others report on compensatory or catch-up growth with small fish being able to grow faster than normal after falling behind in size due to starvation. I examined the growth responses of starved Atlantic salmon of various sizes when reared together with continuously fed fish under socially stable conditions. I found that the starved fish, that lost growth due to starvation, were able to grow faster than now same-sized continuously fed individuals, but were not growing faster than previously (i.e. prior to starvation) same-sized individuals. The relative size among starved fish (i.e. both small and large starved fish) did not influence their ability to grow faster than their similar-sized fed conspecifics. This indicates that in a stable environment, a small fish is small not because it is outcompeted by larger individuals, but likely because it has a weaker genetic drive acting through the production of growth promoting hormones and peptides.
+
+Mauricio Carter
+University of Exeter
+Bioscience
+United Kingdom
+Plasticity in signalling behaviour reflects genetics as well as relative size in burying beetles (Nicrophorus vespilloides)
+talk D20SY05RT18:09R1
+
+Author(s): Carter, MJ, Head, ML, Moore, AJ, Royle, NJ
+
+Summary: 
+
+In animals with intra-sexual competition for mates signalling strategies to attract reproductive partners often vary between individuals. How much of this variation is conditional and adopted when an individual is likely to be at a competitive disadvantage and how much is genetically based is a difficult question to address, as there can be strong pleiotropy between the conditions (e.g., social status or size) and the likelihood of adopting a given strategy. To tease apart the contributions of genetics and competitive status of males here we compare the likelihood of adopting a resource-based or satellite signalling behaviour in populations of burying beetles that have experienced 14 generations of artificial bi-directional selection for mating rate. We hypothesized that if signalling behaviour is genetically influenced, males selected for high mating frequency would exhibit more persistent signalling behaviour when on a resource required for reproduction (mouse carcass) than males selected for low mating frequency. Alternatively, if signalling tactics are conditional, we predicted that relative size would influence signalling behaviour more than which selection line males were from. We found that the extent of signalling on a carcass reflected the focal males relative size more than selection history. However, the extent of “sneaking” behaviour (signalling off the carcass) reflected both selection regime and relative size. Thus, we find that genetics and conditional influences make different contributions to alternative mating strategies.
+
+Ana Vuleta
+Institute for Biological Research Siniša Stankovic, University of Belgrade
+Department of Evolutionary Biology
+Serbia
+Plasticity of antioxidant defence responses to abiotic stress in natural populations of Iris pumila
+poster D20SY05PS0737
+
+Author(s): Vuleta, A, Manitaševic Jovanovic, S, Tucic, B
+
+Summary: 
+
+For plants, sunlight is not only the major source of energy for photosynthesis, but also a powerful evolutionary force that shapes the evolutionary trajectories of many traits. The aim of this study was to examine seasonal- and habitat-dependent variations in the specific activities of different antioxidants in the leaves of Iris pumila clones expressed under contrasting light conditions in the wild. Two populations were selected in the Deliblato Sands: one experiencing full sunlight and one from a woodland understory. Leaf samples were collected in spring, summer and autumn from the same clones in each population. The specific activities of the antioxidative enzymes, SOD, APX, CAT, GR and POD, and the contents of non-enzymatic antioxidants, anthocyanins and phenolics, were determined. All of the examined antioxidants were observed to be upregulated in summer-harvested leaves when compared to their spring or autumn counterparts. This suggests that reinforcement of the antioxidants might be the key mechanism for acclimatization of I. pumila leaves to seasonal variations in light intensity. In both populations, the antioxidative enzymes SOD, GR and POD expressed a greater mean seasonal plasticity than the other antioxidants. However, the between-population difference was significant only for POD. To elucidate whether variations in antioxidants reflect adaptations to local environments, a reciprocal transplant experiment was conducted in the wild. The higher activities of antioxidative enzymes were accompanied by increased contents of non-enzymatic antioxidants in both populations in the open habitat in comparison to clones in the shaded habitat. This could be a reflection of adaptive plasticity to the synergistic effect of strong light and high temperature. In contrast to seasonal plasticity, habitat-dependent plasticity peaked for APX and CAT in both populations. Apart from the phenolic content, a significant between-population difference was not observed.
+
+Sandra Stålhandske
+Stockholm University
+Department of Zoology
+Sweden
+Population differentiation in phenology of the orange tip butterfly in Sweden and the UK
+poster D20SY05PS1209
+
+Author(s): Stålhandske, SK, Gotthard, K, Leimar, O
+
+Summary: 
+
+Variation in environmental suitability for growth and reproduction throughout the year at temperate latitudes has given rise to intricate adaptations in the timing of life history events of flora and fauna in order to keep the life cycle in phase with the changing season. Phenological traits are often important for fitness, as they affect the biotic and abiotic environment an individual encounters and can vary geographically because of local adaptation as well as via phenotypic plasticity. Disentangling environmental effects (phenotypic plasticity) and genetic effects (local adaptation, genetic drift) behind phenotypic geographic variation of a species may aid in predicting ecological responses to changing environments. The spatiotemporal pattern of covariation of phenology and temperature in the orange tip, Anthocharis cardamines, was studied in order to partition the contribution of local adaptation and phenotypic plasticity to the specific traits. The butterfly shows geographic variation in its relation of phenology to temperature variation in the United Kingdom as well as in Sweden. This discrepancy in population differentiation may be driven by host plant phenology and availability, emphasizing the ecological importance of the temporal aspects of host plant-herbivore interactions.
+
+Cintia Santos
+USP
+Department of Biology
+Brazil
+Quantitative genetics breeding design of the wing size and shape of cactophilic Drosophila species in different environment
+poster D20SY05PS1061
+
+Author(s): Santos, CG, Manfrin, MH
+
+Summary: 
+
+The interaction among insects and their host plants represent an important study model of genetic basics on phenotypic variation of quantitative traits regarding environmental change. This variation expressed by different environmental conditions can alter both the magnitude of environmental and genetics components of the phenotypical variation and the evolutive potential of a population, which is determined by the amount of genetic variability expressed by characteristics under selection. This study used a quantitative genetics breeding design in order to evaluate how a population of cactophilic Drosophila species (D. buzzatii cluster, repleta group) responds to a host cactus shift. This Drosophila-cactus association is required during larvae feeding and development and some studies have shown plastic response in life history and morphological traits, considering different hosts. Data setting of 160 families (320 parents, 5760 offspring) from a full-sib analysis have estimated the heritability and genetic variance/covariance of wing size and shape regarding an ancestral and a new cactus. Results have shown the genetic correlation among traits was greater for the ancestral cactus; the additive genetic variance increased when larvae had been grown in a new environment, which could be explained by the expression of new genes that had not been subject to selection on the ancestral environment. Therefore, breeding Drosophila in a different host cactus imposes different selective pressures towards current genetic variation as well as relevant consequences for larvae development and adult morphology.
+
+Milan Vrtilek
+Faculty of Sciences of Masaryk University
+Czech Republic
+Ration dependent allocation to growth and reproduction in an annual killifish
+poster D20SY05PS0319
+
+Author(s): Vrtilek, M, Reichard, M
+
+Summary: 
+
+Animals with indeterminate growth experience a life history trade-off in resource allocation between reproduction and growth throughout their lives. Adaptations to erratic conditions of temporal pools in African savannas make annual killifish Nothobranchius furzeri (Cyprinodontiformes) a species with an extremely rapid growth. We tested hypothesis that their resource allocation is also very plastic. Specifically, we studied their ability to track resource abundance by allocation of resources between the growth and reproduction. We experimentally manipulated the diet ration at six treatment groups. Two groups received the same ration throughout the experiment (low-low, high-high). The ration of other two groups was switched in the middle of the experiment (low-high, high-low). Finally, another two groups (low-†, high-†) were sacrificed during the ration switch to enable control for size and fecundity with respect to age and size differences among groups. Female size and fecundity were significantly different between the two rations already in the first part of the experiment and remained different throughout the experiment. In the treatments with the switched ration, growth cessation (high to low ration) and growth acceleration (low to high) were observed. The low-high treatment fish fully compensated the size difference of fish fed high ration throughout the experiment and no decrease in fecundity as a cost of compensatory growth was detected. Overall, only current ration affected female allocation to reproduction, the initial ration had no effect. This demonstrates that growth rate and fecundity of N. furzeri females rapidly track changes in resource availability. A decreased growth rate when resource availability is low can be readily compensated when conditions are improved, with no long-term effect on their reproductive potential. Such adaptation is advantageous in the erratic environments with highly variable level of resource availability and competition.
+
+Helen Vellau
+Institute of Ecology and Earth Sciences
+Department of Zoology
+Estonia
+Reaction norms for size and time at maturity in insects: phenotypic plasticity versus constraints
+poster D20SY05PS0022
+
+Author(s): Vellau, H, Tammaru, T, Teder, T
+
+Summary: 
+
+Explaining the shape of reaction norms for size and time at maturation is one of the major questions of the theory of life history evolution. Classical models predict negative correlation between final body size and development time across different environmental conditions: it takes little time to grow large when conditions are good, whereas it takes longer to grow but size remains smaller when conditions are poor. Nevertheless, recent theoretical developments suggest that, under specific circumstances, a wide array of possible shapes of the size vs. time reaction norms could be optimal, including reaction norms with a positive slope. Empirical evaluation of these predictions has remained insufficient so far. Here we present a review of nearly 200 published case studies on insects where the shape of the time vs. size reaction norm could be derived. We found that the "classical" negative slopes clearly predominate when the environmental gradient is based on resource quality but there are meaningful exceptions. Additionally, we report results of original case studies on reaction norms of body size determination in several lepidopteran species. We point at similarities of unrelated species which could indicate the presence of constraints stemming from the evolutionarily conservative developmental physiology of insect larvae, and caution against a pan-adaptationistic interpretation of respective reaction norms.
+
+Lumir Gvozdik
+Institute of Vertebrate Biology, AS CR
+Czech Republic
+Role of behavior and phenotypic plasticity in thermal strategies
+poster D20SY05PS0255
+
+Author(s): Gvozdik, L
+
+Summary: 
+
+Ectotherms cope with the heterogeneity of a thermal environment using the unique combination of behavioral thermoregulation, thermally-induced plasticity, and evolutionary adaptation. Because of its immediate and reversible response, behavioral thermoregulation has been considered as a filter reducing the variation in body temperatures, and thus the selection pressure on thermal physiology traits. I examined this issue using a non-traditional model in thermal biology, the Alpine newt. Results showed that newts combine various behavioral and physiological components in their thermal strategy, proving their suitability for testing predictions of current theories. Newt response to changing thermal conditions represents not only behavioral adjustments but its combination with thermally-induced plasticity. The relative buffering efficacy of both components is determined by their costs under a given combination of biotic and abiotic factors. These facts should be incorporated into future co-adaptation models of thermal biology.
+
+Andreas Vilcinskas
+Institute of Phytopathology and Applied Zoology, University of Giessen
+Applied Entomology
+Germany
+Seasonal phenotype specific gene expression during metamorphosis of the European Map Butterfly Araschnia levana
+poster D20SY05PS0950
+
+Author(s): Vilcinskas, A, Vogel, H
+
+Summary: 
+
+The European Map Butterfly Araschnia levana represents the classic textbook example for seasonal polyphenism. This phenomenon occurs in species that respond to seasonally changing environmental parameters by formation of distinct phenotypes. A. levana occurs in two strikingly distinct seasonal phenotypes, the spring generation flying from April to June is reddish with black spots on the dorsal surface whereas that of the summer generation flying from July to August is dark-brown and labeled with a white band. Given that exposure of A. levana caterpillars to different light regimes decides whether metamorphosis results in pupae which are prepared for diapause and overwintering or not, we screened the transcriptomes of last instar larvae kept either under short or long day conditions for differentially expressed genes. Our results elucidate how environmental stimuli induce transcriptomic shifts which ultimately result in development of distinct phenotypes.
+
+Steven Ramm
+Bielefeld University
+Evolutionary Biology
+Germany
+Sex allocation plasticity on a transcriptome scale
+talk D21SY05RT18:33R1
+
+Author(s): Ramm, SA, Arbore, R, Lengerer, B, Pjeta, R, Ladurner, P, Berezikov, E, Schärer, L
+
+Summary: 
+
+Predicting an organism’s optimal sex allocation has long been a central concern of evolutionary biology research. In simultaneous hermaphrodites, the question concerns the balance of investment into the male versus the female sex function. Theory predicts that individuals should bias investment more towards the male function as the number of available mates increases, and this is indeed a well-documented phenotypically plastic response in the free-living flatworm Macrostomum lignano. However, the details of how sex allocation plasticity is achieved at a molecular level are currently unknown. To address this, we performed an RNA-Seq experiment on worms raised in different social environments (i.e. in isolation, in pairs or in octets), known to lead to different optimal sex allocations, and investigate how these worms respond on a transcriptome scale. We demonstrate that up to 10% of all known transcripts are differentially expressed between different social environments, with this figure rising to >30% for gonad-specific genes that are presumably directly involved in the switch away from oogenesis towards spermatogenesis under increased mating group size. As predicted, most differentially expressed testis-specific genes are upregulated in larger groups, and most differentially expressed ovary-specific genes are downregulated in larger groups (although there are some notable exceptions to this general pattern). Moreover, we identify many tail-specific genes that are upregulated in larger groups, many of which are prostate-specific genes involved in seminal fluid production, a previously unquantified aspect of male allocation. Our data provide a rich repertoire of candidate genes for functional characterization in the context of the control of gametogenesis and sex allocation (which we can now investigate using RNAi and other tools available in this system), and offer broad insights into the molecular underpinnings of phenotypic plasticity.
+
+Oliver Mitesser
+University of Wuerzburg
+Field Station Fabrikschleichach
+Germany
+The evolution of pollinator emergence timing: modeling the influence of environmental variance, intraspecific competition, and longevity
+poster D20SY05PS0224
+
+Author(s): Mitesser, O, Keller, A, Poethke, H
+
+Summary: 
+
+The timing of interannual phenologies like flowering in plants or emergence in insects fundamentally effects the fitness of individuals. Particularly in times of globally changing climatic conditions a deeper understanding of the evolutionary mechanisms shaping phenologies is a prerequisite for scientifically based risk assessment. We analyze the evolution of emergence timing in a population of pollinators. Specifically, we are interested in the influence of longevity, intra-specific competition, and inter-annual fluctuations in season length on the temporal distribution of emergence. In our model we assume that individual phenotypes are characterized by a time of emergence that is under stabilizing selection with respect to an optimal value that fluctuates between years. At the genotypic level individuals are characterized by their offspring distribution with heritable genetic variation for the mean and variance. We use an analytical model and individual-based simulations to show that for short lived organisms intraspecific competition promotes an ideal free distribution of emergence times whereas bet-hedging in a variable environment can lead both to diverse phenotypes due to risk spreading and to a small range of phenotypes by risk-avoiding strategies. The different selective forces thus lead to a compromise between synchronising with the environment and increasing the variability in timing, dependent of the external circumstances and stimuli. It is particularly interesting to note that the observed evolution of genetically distinct emergence times may cause assortative mating and form a basis for sympatric speciation.
+
+Oskar Brattstrom
+Cambridge University
+Zoology Department
+United Kingdom
+The fate of seasonal plasticity under relaxed selection
+poster D20SY05PS1414
+
+Author(s): Brattstrom, O, Oostra, V, Brakefield, PM, Hiltemann, Y, Zwaan, BJ
+
+Summary: 
+
+Phenotypic plasticity of wing patterns is a widespread phenomenon among butterflies. Species occurring in seasonal habitats, where larval food plants dry out for an extended part of the year, often have a distinct dry season morph that is sedentary and delay reproduction until fresh plants are available. The dry season morph has a cryptic wing pattern to avoid detection by predators, while the wet season morph instead have conspicuous eyespots to deflect predator attacks.
+
+The butterfly Bicyclus anynana is a model system for studies of phenotypic plasticity. In this species the plasticity affects more than just wing pattern so that the wet season morph allocates more of its available resources for quick reproduction. Wing pattern polyphenism is found in most Bicyclus species, but has not been well studied in species from less seasonal habitats.
+
+We studied the phenotypic responses to different rearing conditions in the rainforest species B. martius and compared them to B. anayana. The wing pattern responses were similar despite the fact that true dry season conditions never occur in the forest habitat. Other traits showed limited response, suggesting that B. martius is adapted for continuous breeding. Surprisingly, the relative reproductive investment from the larval resources was smaller than in wet season morphs of B. anynana. Knowing that B. martius is a long-lived butterfly this can be seen as an adaption for spreading investments over time while maintaining an optimal fat load for flight performance.
+
+Phenotypic responses are known to be under developmental hormonal control and it is thought that changes in hormone levels control a whole suite of correlated traits. In B. martius the life history traits seem uncoupled from the wing pattern polyphenism that still remains despite the presumed relaxed selection. This might be due to a relatively low fitness cost of expressing the wrong phenotype in a constant wet season environment.
+
+Roberto Garcia
+Université Laval
+Sicences du bois et de la forêt
+Canada
+The nutritional unbalance on forest pest performance
+poster D20SY05PS0659
+
+Author(s): Garcia, RQ, Bauce, É
+
+Summary: 
+
+The spruce budworm is a major pest in the boreal forest of North America; this native insect exhibits eruptive behavior in approximately 30-year cycles. There is no explanation of what causes the populations in the forest to rise and fall; it could be due to coevolution processes. The continuous attack on host affects directly the nutritional balance of the buds, specially nitrogen and sugars. Under these conditions the insect’s performance is affected so they are forced to go into an ecological evolution process. To avoid environmental variability, budworms were reared for tree generation on laboratory conditions and two artificial diets; a witness and an unbalance diet of N: C. We estimated heritability by parent-offspring regression analysis of the following traits: fecundity, developmental time, pupal mass weight, and the phenotypic frequencies of those traits. Results indicate that the population maintains substantial additive variance in life-history traits like other groups of Lepidoptera, and low heritability in pupal mass weight; more females presented higher percentage of fecundity on the unbalance diet in the last generation. This suggests that natural selection on spruce budworm is probably higher during the winter period so the high fecundities have to be maintained. This information is very useful in predicting the adaptation of this forest pest under epidemic conditions.
+
+Jelle Zandveld
+Wageningen University
+Plant Sciences Group
+Netherlands
+The role of Drosophila insulin-like peptides in nutrient-dependent lifespan and reproduction
+poster D20SY05PS1215
+
+Author(s): Zandveld, J, Van den Heuvel, J, Zwaan, BJ, Piper, MDW
+
+Summary: 
+
+Dietary restriction (DR), a reduction in food intake without malnutrition, is a well-studied topic in ageing research. However, knowledge about mechanisms mediating this response is scarce. We know the Insulin-IGF Signalling (IIS) pathway is involved in ageing in many organisms. In Drosophila, insulin-like peptides (DILPs), upstream components of IIS, respond to different food conditions and a dilp2-3,5 knockout extends lifespan. This suggests that dilps can have a role in mediating the DR response. We investigated the role of dilps in nutrient-altered ageing by determining lifespan, fecundity and brain-dilp expression of the long-lived dilp2-3,5 knockout mutant (d235?)and its genetic control (wDah) on a range of food types that differed in sugar and yeast concentration. We showed that d235? flies had an increased lifespan and decreased reproduction on all food types compared to wDah flies. There was still a nutrient-dependent lifespan and reproduction response for d235? flies, but the effect of the highest sugar and yeast concentrations was reduced for both lifespan and fecundity. For gene expression, in wDah flies dilp2 and -3 expression increased on high yeast and lower sugar concentrations, dilp5 expression increased on high yeast concentrations and dilp6 expression did not change on different sugar or yeast concentrations. Interestingly, in d235? flies dilp6 expression increased on high yeast concentrations. This data shows that dilp2, 3 and 5 may have a role but are not the key in mediating the DR response. We hypothesize that dilp6 expression may take over expression of dilp2, -3 and -5 in the d235? flies, but not sufficient to maintain the same lifespan and reproduction on every food type.
+
+Ingrid Sassenhagen
+Faculty of Science at Lund University, Sweden
+Department of Biology
+Sweden
+The role of local adaptation and phenotypic plasticity in the population establishment and divergence of a freshwater protist
+poster D20SY05PS0519
+
+Author(s): Sassenhagen, I, Rengefors, KE
+
+Summary: 
+
+Most microalgal species consist like all evolutionary higher organisms of many genetically distinct populations, which inhabit a large variety of habitats. The divergence of different populations is in conflict with the high dispersal ability and assumed continuous gene flow of microorganisms. As many recent publications emphasize the enormous intraspecific diversity in microalgae, this study aims at understanding the phenotypic diversity that it represents. Local adaptation might act as a dispersal barrier and play a role in population divergence. We studied phenotypic plasticity and potential of local adaptation in the unicellular, nuisance freshwater microalgae Gonyostomum semen. This species originates from very acid, brown water swamp lakes, but after extensive spreading in Scandinavia over the last decades it can be found also in clear water lakes with neutral pH. Such a fast invasion together with successful establishment as several genetically distinct populations in so many different habitats requires extensive plasticity and high ability for adaptation. In the present study we performed controlled laboratory experiments to test whether strains from several lakes respond differently in gradients of pH and light. We measured the growth rate of 12 genetically different strains from 5 lakes at 5 distinct pHs and varying light levels. The observed ability to grow over a wide range of pH and light levels helps to explain the successful spreading of G. semen. The additional strain specific preferences suggest adaptation to local environmental conditions, which might yield a competitive advantage over later invaders. Furthermore, these phenotypic differences might be an important driver for the genetic divergence into distinct populations.
+
+Alexander Schäpers
+Stockholm University
+Department of Zoology
+Sweden
+The role of olfactory cues for the search behavior of a specialist and generalist butterfly
+poster D20SY05PS0723
+
+Author(s): Schäpers, A, Carlsson, MA, Gamberale-Stille, G, Janz, N
+
+Summary: 
+
+Searching for resources is often a challenging task, especially for small organisms such as insects. To facilitate plastic and flexible responses complex stimuli have to be extracted from the environment, and the way different sensory modalities are integrated and translated into a relevant behavioral output is largely unknown. In order to entangle this processing, a first step is to investigate the relative roles of the different senses during search for various resources. While the role of olfaction is well documented in nocturnal moths, the olfactory abilities of the closely related diurnal, butterflies are poorly explored, even though physiological studies have revealed a well-developed olfactory system. Hence, in this study we tested two nymphalid butterfly species with divergent host plant range in a two-choice olfactometer. Results show that both the monophagous Aglais urticae and the polyphagous Polygonia c-album could navigate towards an invisible odor source, but behavioral variation was plastic and depended on task and intrinsic state. Unmated females of both species did not follow host plant cues, but mating shifted the behavioral response towards a preference for host plants. Floral scents could only be tracked by the nectar feeder A. urticae. Furthermore, the generalist P. c-album seemed to pay a cost for its higher plasticity in host use, by not to being able to make fine-tuned decisions between different combinations of host plants. We conclude that olfactory cues are important for the tested butterflies to navigate towards targets. We discuss possible limitations in processing capabilities of sensory input, underlining the need of synergistic effects between sensory modalities to facilitate and sharpen the search process.
+
+Jacco Van Rijssel
+Institute of Biology Leiden
+Integrative Zoology
+Netherlands
+The role of phenotypic plasticity in fast adaptive responses under natural conditions in Lake Victoria cichlids
+poster D20SY05PS0532
+
+Author(s): Van Rijssel, JC, Witte, F
+
+Summary: 
+
+Fast morphological changes in response to a changing environment are a common phenomenon in species that show adaptive radiation (e.g. Darwin finches, Anolis lizards). Most of these changes are attributed to directional selection rather than phenotypic plasticity. Lately, phenotypic plasticity and its role in adaptive radiation has attracted the attention of evolutionary biologists. The dramatic ecological changes in Lake Victoria during the past three decades provide a unique opportunity to study environmental effects on cichlid morphology. The environmental stressors are known to induce plastic responses in the lab but the mechanism behind adaptive responses under natural conditions remains obscure. The ecological changes in the lake include the upsurge of the predatory Nile perch, an increase of water turbidity, a decrease of dissolved oxygen (DO) levels and a diet shift of zooplanktivorous cichlids towards larger and more robust prey. We used ecological and morphological data collected in the past 30 years (at three year time intervals) to see how the environment has affected the morphology of the haplochromine cichlids. We found fast adaptive responses in four different haplochromines. In response to predation we found that the head-tail ratio decreased, probably to increase burst swimming speed. Unexpectedly, the eye size and double cone density decreased but the cone size remained unchanged. In response to the low DO levels, the gill surface increased. The cheek depth and premaxilla changed in a way that facilitates the manipulation of larger and more robust prey. In case of the latter, the changes found are of such proportion that they even cross subgenus boundaries. The found morphological changes reveal high similarity with changes found in plasticity experiments. We discuss the probability of phenotypic plasticity contributing to the morphological changes under natural conditions and the implications for the role of phenotypic plasticity in speciation.
+
+Irène Till-Bottraud
+Université Joseph Fourier Grenoble 1 / CNRS
+Laboratoire d'Ecologie Alpine
+France
+The role of phenotypic plasticity in the response of species to environmental change: a reciprocal transplantation of five grasses species along an altitudinal gradient
+talk D20SY05RT16:57R1
+
+Author(s): Till-Bottraud, I, Grassein, F, Lavorel, S
+
+Summary: 
+
+Alpine environments are particularly susceptible to environmental changes associated to global warming. The response of species to such environmental changes depends on the relative importance of adaptive variation and phenotypic plasticity. We describe here a reciprocal transplantation experiment of five species across two elevation sets. We measured the response to transplantation and the effect of the surrounding vegetation on survival and biomass as a proxy for plant fitness. Survival and biomass varied according to the elevation of transplantation and to the presence (or absence) of surrounding vegetation, indicating high phenotypic plasticity. On the other hand, although we detected significant differentiation between populations in several species, we found no indication of local adaptation of plants to their population of origin suggesting that phenotypic plasticity is high enough to allow individuals to occupy different environmental conditions. The presence of surrounding vegetation facilitated the survival in stressful conditions while we observed competition for growth at more favorable sites (low elevation). The large response of species in our experiment, together with similar results from other experiments in the same environment, indicates that phenotypic plasticity is an important component of plant adaptation along an altitudinal gradient and is an important component of the response to environmental changes for plants that remain in the same sites as well as an advantage for colonizing new favorable habitats.
+
+Toomas Tammaru
+University of Tartu
+Institute of Ecology and Earth Sciences
+Estonia
+The use of indirect cues in adaptive colour polyphenism in moth larvae
+poster D20SY05PS0863
+
+Author(s): Tammaru, T, Sandre, S, Kaasik, A, Eulitz, U
+
+Summary: 
+
+Cues used to elicit adaptive plastic responses may be classified as direct and indirect. When a direct cue is used, phenotypes are adjusted in response to a factor which is an element of the selective environment. In the case of an indirect cue, the link between the cue and selective factor is less straightforward: the cue is used just to predict the occurrence of the actual selective factor. While direct responses can well be adaptive in novel environments, effective use of an indirect cue should imply that the cue and the selective factor must have co-occurred frequently enough in the evolutionary past of the species. We have shown that plastic responses in body colouration and patterning are based on combined use of direct and indirect cues in the larvae of a geometrid moth, Ematurga atomaria. The indirect character of some of the responses was revealed in an experiment in which larval colouration was shown to be adjusted to the appearance of the host plant also in absolute darkness; the cues are likely to be tactile. Such a response was unexpected because E. atomaria is a generalist herbivore not likely to have evolved specific responses to particular host plant species. The larvae of E. atomaria originating from geographic populations using different host plants showed analogous plastic responses which indicates that the link between the indirect cue and visual appearance of the host is, indeed, not limited to a particular host plant species. This case shows that the use of indirect cues for adaptive plastic responses needs not to be specific to a particular ecological interaction: E. atomaria appears to have evolved to associate rough surface of the host plant with ‘patterned’ environment at a quite general level.
+
+Masatoshi Matsunami
+Graduate School of Environmental Science, Hokkaido University
+Japan
+Transcriptome analysis of predator- and prey-induced phenotypic plasticity in the Hokkaido Salamander (Hynobius retardatus)
+talk D21SY05RT18:57R1
+
+Author(s): Matsunami, M, Kishida, O, Kitano, J, Michimae, H, Miura, T, Nishimura, K
+
+Summary: 
+
+Larvae of the Hokkaido salamander (Hynobius retardatus) exhibit two distinct morphs, "attack morphs" and "defense morphs", as a result of inducible phenotypic response to preys and predators, respectively. The existence of preys, Rana pirica tadpoles, leads to the induction of attack morphs, which have broad heads likely suitable for catching tadpoles. The existence of predators, dragonfly larvae (Aeshna nigroflava), induces them to become defense morphs, which have enlarged external gills and high tails suitable for avoiding the predatory attacks. However, molecular mechanisms underlying this phenotypic plasticity have yet to be elucidated. To reveal the developmental and physiological mechanisms of this phenotypic plasticity, we carried out de novo transcriptome analysis of the Hokkaido salamanders. First, we collected eggs in the wild and then hatched them in laboratory. The larvae were exposed to either predators or preys to induce different morphs. Morph induction was completed about 7 days after the start of exposure. RNAs were extracted from 4 tissues (brain, head, external gill and tail) and 3 time points (0 hour, 12 hours, and 7 days after the exposure onset) and sequenced. Obtained reads and contigs of treatment samples were compared with those of control samples (i.e. no exposure) to identify differentially expressed genes. Approximately 2,000 genes were identified as differentially expressed genes at each time point and in each tissue. These genes include hormone related functional genes, such as COL2A1, HBA2, and NR2C1. RNA processing/splicing was found as an enriched functions in the Gene Ontology database, suggesting that the phenotypic plasticity of Hokkaido salamanders may be linked to regulation of alternative splicing.
+
+Etsuko Nonaka
+Umeå University
+Department of Ecology and Env. Science
+Sweden
+Sexual selection can impede the evolution of phenotypic plasticity
+poster D20SY05PS1409
+
+Author(s): Nonaka, E
+
+Summary: 
+
+Phenotypic plasticity, the ability to adjust phenotype to the exposed environment, is an advantageous strategy for organisms to survive and reproduce. Although highly plastic organisms are rare, many previous studies reported small costs of phenotypic plasticity in various species. These studies argue for ecological costs, underlying direct genetic or physiological limits, or selection eliminating plasticity with high costs. Here we propose that sexual selection by assortative mating can impede the evolution of phenotypic plasticity in a plastic magic trait. We found that, when individuals plastically adapted to distinct habitats can mate and choose mates based on similarity in an ecologically diverging plastic trait (e.g., body size or foraging behavior), phenotypic plasticity can remain low even in the absence of physiological or genetic cost. This effect is likely to occur particularly at intermediate, empirically plausible strengths of assortative mating. This is because males with lower plasticity are more favored in mating between individuals adapted to distinct habitats, leading to stabilizing sexual selection that is sufficiently strong to counteract disruptive natural selection. Our finding suggests that research on the evolution of phenotypic plasticity should consider not only direct costs and limits but also how mating preference and phenotypic plasticity may mediate the directions and strengths of sexual and natural selection acting on the plastic trait.
+
+Ana Rita Mateus
+Instituto Gulbenkian de Ciência
+Portugal
+Spatio-temporal compartmentalization of ecdysteroid effects on post-growth patterning
+talk D21SY05RT15:45R1
+
+Author(s): Mateus, AA, Marques-Pita, M, Oostra, V, Lafuente, E, Brakefield, P, Zwaan, B, Beldade, P
+
+Summary: 
+
+Developmental plasticity is a phenomenon whereby a single genotype produces distinct phenotypes depending on environmental conditions experienced during development. This process is regulated by changes in endocrine physiology, and has one of its most compelling examples in butterfly wing patterns that differ dramatically across seasons. In the butter?y Bicyclus anynana, larvae that develop during the wet season produce adults with conspicuous wing patterns, while those that develop during the dry season produce adults with cryptic patterns. The temperature regulation of the alternative adult phenotypes is mediated by changes in the internal ecdysteroid hormone dynamics. Manipulation of hormone titers copy the effects of temperature. However, little is known about hormonal sensitivities in relation to different external temperatures, to when the manipulations are done in terms of developmental timing, and to how different regions of the same tissue respond. Our aim was to investigate the compartmentalization of the effects of manipulations of systemic hormone levels during pupal development on adult wing patterns. We manipulated external temperatures (representing the natural extremes and an intermediate temperature) and internal levels of 20-hydroxyecdysone (via hormone injections at different developmental time points), and analyzed phenotypic effects on different wings, wing surfaces, color pattern elements, repeated elements of the same type, and groups of cells of the same repeat. Our results show that the effects of hormone manipulations depend on temperature and time point, and is highly compartmentalized in space: with specific epidermal cells responding in specified ways. We also show that this compartmentalization does not reflect compartmentalization of expression of hormone receptor. It remains to be seen whether the spatial compartmentalization of hormone effects is determined upstream or downstream of the binding of the hormone to its receptor.
+
+Sandrine Maurice
+Université Montpellier 2
+Institut des sciences de l'évolution
+France
+Stability of sex expression in the gynomonoecious-gynodioecious plant Silene italica
+poster D20SY05PS0068
+
+Author(s): Maurice, S
+
+Summary: 
+
+Gynomonoecious individuals are individuals that bear both perfect and female flowers. There are sometimes found in gynodioecious species, namely together with female and hermaphroditic individuals. This kind of reproductive system allows variations of floral sex ratio within individuals and could thus be interpreted as a mean to vary sex allocation. Change in sex according to the internal conditions of the plant (e.g., size) or to environmental conditions can be adaptive if male and female functions respond differently to these conditions and if these conditions change though time. Sex instability can also be non-adaptive and a consequence of sex determination mechanisms. In Silene italica L., a gynodioecious species with gynomonoecious individuals, we examined how the sex of individuals, defined as their proportion female flowers, varied with age, size or environment. We also checked if the female flowers of gynomonoecious individuals occurred at the beginning of the season or on specific positions within the plant. These data were use to test if sex change in this species fits the “adaptive hypothesis” or is rather in accordance with the “developmental noise hypothesis”.
+
+Ruth Flatscher
+University of Innsbruck
+Institute of Botany
+Austria
+Symmetric and asymmetric variation on different hierarchical levels: plasticity of petal shape in Heliosperma (Caryophyllaceae)
+poster D20SY05PS1397
+
+Author(s): Flatscher, R, Frajman, B, Klingenberg, C
+
+Summary: 
+
+Plants usually have a modular body plan, which consists of a number of building blocks (or modules). As sessile organisms, they are often confronted with spatially heterogeneous environmental conditions. Plastic responses may thus contribute to variation on several hierarchically organized levels: among parts within a module, among modules within an individual, among individuals within populations or species, and among populations or species. Flowers are particularly interesting, since most of them are composite modules consisting of several, repeated subunits, and within-flower variation can manifest itself as asymmetry. To assess the plastic component in flower shape variation, we examine whether directional environmental influences such as sun radiation and gravity produce a directional plastic response in morphometric traits. We compare several species of Heliosperma with 5-merous, radially symmetric flowers. Plants were grown in common garden, representative photographs of several flowers per individual were taken together with orientation and inclination data of each flower, and flat preparations of petals were made. Geometric morphometrics was used to characterize shape variation and asymmetry. Correlations of asymmetry with orientation and inclination of single flowers were evaluated and related to possible ecological functions and selective advantages. Furthermore, we quantified the amounts of variation associated with different levels – among and within species, among flowers within individuals, and between petals of one single flower. We discuss the role of plasticity for floral asymmetry, subindividual and higher-level variation.
+
+Till Czypionka
+Max Planck Institute for Evolutionary Biology
+Evolutionary Genetics
+Germany
+Temperature dependent gene expression and the invasion of new thermal environments in Cottus
+poster D20SY05PS0231
+
+Author(s): Czypionka, T, Nolte, AW
+
+Summary: 
+
+Phenotypic plasticity is considered to play an important role as a source of phenotypic novelty and changes in plastic traits may contribute to evolutionary change. Here, we test if the modification of pre-existing plastic responses contributed to the acclimatization and adaptation to different temperature regimes in freshwater sculpins of the genus Cottus. This is relevant to ectothermic fishes because water temperature is a fundamental ecological parameter that structures ecosystems along a river and critically determines physiological processes. While Cottus are typically known as stenotopic inhabitants of cold water bodies, a young invasive lineage of hybrid origin is currently colonizing summer-warm habitats. We have thus analyzed gene expression responses to changes in water temperature. Temperature specific expression profiles of four populations of the ancestral species and one population of the invasive lineage were assessed over a temperature range from 14°C to 25°C. This range was chosen to reflect a possible range of summer conditions in the originally occupied and newly invaded habitats. Contrary to our expectation that invasive Cottus show a marked response to raised water temperatures, the clearest expression profile differentiation between parent species and invasive Cottus was observed at temperatures < 21°C that are common in both habitats. Comparative analysis of population specific gene expression changes over temperature revealed plastic responses that are shared by all Cottus as well as changes in thermal plasticity between the ancestral species and the invasive lineage. In particular the increased plasticity of a mitochondrion related phenotype in the invasive lineage contributes to the functional differentiation from its ancestors. Our results demonstrate that an increase in plasticity of an already existing plastic phenotype played a role in phenotypic differentiation and diversification in Cottus.
+
+Saija Piiroinen
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Temperature stress of preceding generations modifies the response to insecticide stress in the invasive Colorado potato beetle
+talk D20SY05RT18:57R1
+
+Author(s): Piiroinen, S, Lyytinen, A, Lindström, L
+
+Summary: 
+
+Environmental stress is considered to play a significant role in species invasions. As invasive species expand their range to new areas they have to tolerate and adapt to various stressors such as changes in temperature and stress imposed by human action. It has been hypothesized that phenotypic plasticity may facilitate adaptations by providing broad stress tolerance or inducing adaptive responses when organisms face novel environments. Thus far, only few experimental studies have experimentally investigated the short-term responses of organisms to stressors and how these responses can affect their invasion potential. The influence of cross-generational stress effects on species invasions has received even less attention. We studied whether parental temperature stress affects tolerance to insecticide in the insecticide resistant Colorado potato beetle (Leptinotarsa decemlineata) population. We results show that beetles were in general tolerant to stress. The parental temperature stress alone affected beetles positively (increased adult body mass) but it impaired their tolerance to insecticide exposure. In contrast, offspring from the favourable temperature regime showed compensatory weight gain in response to insecticide exposure. Our study show that exposure to stress can involve various responses which can differ in the degree and direction (beneficial, harmful) depending on whether preceding generations have experienced temperature stress. Our study emphasizes the importance of evolution as well as plastic responses in the invasion of species to novel environments.
+
+Martin Lind
+Uppsala University
+Animal Ecology
+Sweden
+Temperature-plasticity of a seed beetle - a size-fecundity relationship?
+poster D20SY05PS1455
+
+Author(s): Lind, M
+
+Summary: 
+
+The temperature-size rule states that organisms get smaller in warmer environments, and although the idea was originally developed for endotherms, the same pattern generally holds true also for ectotherms. Recent theory suggests that temperature-size rule for ectotherms may be explained by temperature-dependent size-fecundity relationships, so that individuals get larger in the temperature where the positive relationship between fecundity and size is steepest. We investigated this in 73 iso-female lines (originating from two African populations) of the seed beetle Callosobruchus maculatus, which is a capital breeder and adult size is dependent upon juvenile conditions. We subjected the larvae to two temperatures, 29°C (the temperature they are adapted to) and 36°C (close to the upper thermal limit). We found plasticity in size at emergence, such that individuals reared in 36° were larger than those reared at 29°C. Remarkably, the degree of plasticity was larger in individuals that were small at 29°C, indicating an optimum size at warm temperatures. In one population, we found that the positive relationship between size of males (the smaller sex) and was steeper at 36°C, with a similar trend in females, supporting the role of the size-fecundity relationship for the temperature size-rule in ectotherms. However, in the other population, no such relationship was found. This suggests that size-fecundity relationships could be driving the temperature-size rule in ectotherms, but that population-specific factor, such as desiccation resistance, could also influence these patterns.
+
+Adam Hayward
+University of Sheffield
+Department of Animal and Plan Sciences
+United Kingdom
+Testing evolutionary predictions of the Predictive Adaptive Response hypothesis in a pre-industrial human population
+poster D20SY05PS1196
+
+Author(s): Hayward, AD, Rickard, IJ, Lummaa, V
+
+Summary: 
+
+Environmental conditions during development can affect later-life health, but the evolutionary mechanisms underpinning these observations remain debated. The silver spoon (SS) hypothesis proposes that poor developmental conditions adversely affect development, leading to lower survival and fertility and increased metabolic disease risk, independent of later-life conditions. Meanwhile, the predictive adaptive response (PAR) hypothesis proposes that metabolic disease results from selection for development which is plastic with regard to environmental conditions, under which survival and fertility are maximised where conditions match in later life. If conditions change, metabolic disease results, but because the benefits of developmental plasticity exceed the costs, metabolic disease is not selected against. The observation that humans conceived during famine but raised in affluent conditions show later health problems is consistent with this idea. However, the proposed evolutionary mechanisms for putative developmental plasticity have rarely been empirically tested in humans. In particular, there are few studies examining the fitness consequences of conditions during development in varying later-life conditions. We tested the effects of early-life environmental conditions on later survival and fertility using data collected from several pre-industrial Finnish populations. We tested effects of early-life conditions on fitness during (i) varying later-life conditions, and (ii) adverse environmental conditions (a severe famine). Our results suggest that adverse early conditions decrease later fitness irrespective of later-life conditions, and that individuals born in poor conditions have lower survival and fertility during later-life famine. Our results do not support the PAR hypothesis, but are consistent with predictions of the SS hypothesis, which suggests that the early environmental conditions influence development in a manner which may persist into later life.
+
+Nina Hafer
+Max Planck Institute for Evolutionary Biology
+Department of Evolutionary Ecology
+Germany
+The effect of resource availability on host manipulation in the complex life cycle parasite Schistocephalus solidus – is manipulation costly?
+poster D20SY05PS1086
+
+Author(s): Hafer, N, Benesh, DP
+
+Summary: 
+
+Parasites with complex life cycles have to pass from one host to the next. They are often able to manipulate their host in a way that enhances transmission to the next host at the proper time point. It is largely unknown to what extent such manipulation might entail energetic costs for the parasite. If such costs exist, a parasite’s ability to invest into manipulation might depend on resource availability. The tapeworm Schistocephalus solidus reduces the activity of its first intermediate host, a copepod, to lower predation risk before the parasite is ready to infect the next host, the three-spined stickleback. After becoming infective, S. solidus increases copepod activity to enhance predation and thereby facilitate transmission to sticklebacks. Using S. solidus and its copepod intermediate host, we investigated whether host manipulation is affected by the amount of resources available to the host. We subjected experimentally infected copepods to two feeding regimes and recorded their behavior (i.e. activity before and after a simulated predation attack). Additionally, we measured several unequivocal fitness-relevant traits for individual parasites, including growth and development in copepods as well as infection success in and exploitation of sticklebacks. We will present our results on the influence of resource availability on host manipulation and how manipulation might affect parasite performance in its next host. This could give an indication of whether host manipulation by parasites is influenced by the host environment, potentially mediated by energetic costs of host manipulation.
+
+Karl Gotthard
+Stockholm University
+Department of Zoology
+Sweden
+The evolution of alternative developmental pathways in a butterfly: local adaptation in developmental thresholds and footprints of relaxed selection on life history plasticity
+talk D20SY05RT16:33R1
+
+Author(s): Gotthard, K
+
+Summary: 
+
+The ability of many temperate insects to have more than one generation per year is due to the plastic induction of alternative developmental pathways - leading to either direct development during summer or diapause development during winter. Typically, the number of generations produced within a population decrease with increasing latitude and the developmental threshold determining which pathway to follow is predicted to show a latitudinal cline due to local adaptation to season length. Consequently, when moving north along a latitudinal cline, populations will ultimately become univoltine and only produce one generation per year, which always enter diapause development. In such locations where only the diapause developmental pathway is expressed, selection on developmental regulation of the direct pathway will be relaxed. I will present results showing how the photoperiodic threshold determining the pathway decision in the butterfly Pararge aegeria is locally adapted to season length. Moreover, I will explore footprints of relaxed selection on the developmental regulation of life history traits and sexual dimorphism when expressed in the direct development pathway. The results suggest that populations experiencing relaxed selection on the direct pathway show less pronounced differences between pathways in several life history phenotypes. In particular, relaxed selection on direct development was associated with a disruption of protandry (earlier emergence of adult males) expressed as sexual dimorphism in larval development time and growth rate. This suggests that relaxed selection on the direct pathway has allowed life history traits to drift towards trait values associated with lower fitness, and that ongoing selection is necessary for upholding this type of “fine tuning” of alternative developmental regulation.
+
+Aleksandra Patenkovic
+Institute for Biological Research “Siniša Stankovic”, University of Belgrade
+Department of Genetics of Populations and Ecogenotoxicology
+Serbia
+Variation of Drosophila subobscura wing morphometric traits induced by 25 µT electromagnetic field
+poster D20SY05PS0809
+
+Author(s): Patenkovic, A, Savic, T, Kurbalija Novicic, Z, Andelkovic, M
+
+Summary: 
+
+Human activities lead to extensive changes in ecosystems, with both ecological and evolutionary consequences. Electromagnetic fields of different frequencies are one of the most common and rapidly increasing environmental factors, but it is still unclear how organisms respond and/or adapt to such environmental changes. In an attempt to determine influence of every-day commonly used electromagnetic field (25 µT, 50 Hz) on morphometric traits, we analyze the direction and range of changes in wing size and shape in Drosophila subobscura. Wing development in Drosophila is well understood, and the wing vein network is excellent model system to investigate the effects of stressful environmental factors. The analysis was conducted using eight highly inbreed lines where one set of lines were reared in electromagnetic field, while another set of lines were reared in control conditions, over the three generations. We used method of landmark-based geometric morphometrics, which allows separating the shape and size effects, traits with different genetic properties and different response to the same environmental factors. Our data suggest that presence of extra low frequency electromagnetic field over extended period of time may reduce the stability of wing morphology and consequently reduce the fitness of exposed individuals. Therefore, specific stress that persists over multiple generations could increase the probabilities for extinction of populations composed of sensitive individuals.
+
+Banu Onder
+Hacettepe University, Faculty of Science
+Department of Biology
+Turkey
+Variation of life span under different environmental conditions in Drosophila melanogaster collected along an altitudinal gradient
+poster D20SY05PS1180
+
+Author(s): Onder, BS, Güler, P, Ayhan, N
+
+Summary: 
+
+Geographical variations occur along latitude and altitude in diverse group of animals and plants. Latitudinal populations have received much attention, whereas altitudinal populations remain largely unexplored. We study with populations derived from 6 different altituds vary between 35 m and 2173 m with a short distance of 40 km between these two elevations point in Firtina Valley-Turkey. We test for a clinal trend in longevity under experimental conditions in order to test for geographical and/or environmental variation. Additionally we use nutrition and temperature stress for compare the degree of phenotypic variation relative to manipulated enviromental conditions. Our results point out that, decrease of yeast concentration not extend life span in recently collected natural population from wild. However, as its known temperature is a important selective agent of longevity. Phenotypic variation varies between population for all experimental conditions and there was a significant interaction between temperature and population. Negative significant corellation occure between mean life span and altitude (r= - 0.143; p<0.0001) and nutrition (r= - 0.115; p<0.004) in extreme temperature (29°C), also in standart temperature the significant and negative corellation did not chang for nutrition (r= - 0.117; p<0.004), but the significant correlation between altitude and life span changes (r= -0.071; p=0.055) in 25°C. Longevity seems to be population specific but not correlated with geographical origin in standard conditions. Populations under stressful temperature introduce a response correlated with geographical origin. Population longevity seems therefore to be independent from the experienced environments under standard conditions and indicating that this trait and its plasticity is population specific but not related to the geographical origin unless confronted with stressful condition.
+
+Marilou Sison-Mangus
+Zoology Institute, University of Basel
+Switzerland
+Water fleas require microbiota for survival, growth and reproduction
+poster D20SY05PS0690
+
+Author(s): Sison-Mangus, MP, Mushegian, A, Ebert, D
+
+Summary: 
+
+It is now generally accepted that microbiota play a major role in the proper functioning of their hosts. The use of model organisms and their bacteria has expedited the learning of these important roles by comparing conventionalized host-bacteria association with the bacteria-free host. In the model crustacean Daphnia, barely any knowledge exists as to the influence of microbiota on their physiology. We assessed if microbiota play a role in the fitness of D. magna by experimentally depriving them of their microbiota and compared their growth, survival and fecundity to that of their bacteria-bearing counterparts. We showed that bacteria-free hosts are smaller, less fecund, and have higher mortality than those with microbiota. We carried out these experiments on Daphnia coming from both a lab-reared parthenogenic clone and field-collected resting eggs (sexual eggs), demonstrating effects within and across host genotypes.
+
+Phillip Gienapp
+Netherlands Institute of Ecology (NIOO-KNAW)
+Department of Animal Ecology
+Netherlands
+When does environmental change lead to selection on phenotypic plasticity?
+poster D20SY05PS0744
+
+Author(s): Gienapp, P, Reed, TE
+
+Summary: 
+
+Continuous environmental change can lead to selection on the reaction norm slope if it alters the relationship between the optimal phenotype and environmental cues that determine the actual phenotype. For example, breeding time in small insectivorous birds, as e.g. great tits or flycatchers, is determined by temperatures in early spring while their reproductive success depends on insect phenology determined by temperatures in late spring. Differential changes of these two temperatures could alter the relationship between the cues used by the birds and the insect phenology and lead to selection on the slope of the birds’ breeding time reaction norm. There are however a number of factors that could additionally affect the strength of this selection: It has been argued that in long-lived organisms plasticity would be more adaptive than in short-lived organisms because long-lived organisms experience a larger range of environments. Another relevant factor is temporal autocorrelation of environments: positive or negative autocorrelation will lead to environments experienced by an individual being more or less similar, which would affect the strength of selection on plasticity. The correlation between cues and optimal phenotypes also affects the strength of selection on plasticity as a low ‘cue reliability’ would select for less plasticity. Using simulation models we explored these effects in a scenario of a directionally changing environment focusing on phenological traits under climate change. Phenological traits are heritable but most genetic variation is present in the intercept of the reaction norm rather than the slope. Since the evolutionary potential of plasticity hence seems to be limited, strong selection on it would have negative demographic consequences. Consequently, it is important to know whether and how strongly environmental change would lead to selection on plasticity to better assess potential extinction risk caused by environmental change.
+
+Mary Compton
+Faculty of Science of Carleton University
+Department of Biology
+Canada
+When in doubt, hedge your bets. Diversification and phenotypic plasticity in Spirodela polyrhiza (L.) (Greater duckweed)
+talk D20SY05RT11:42R1
+
+Author(s): Compton, ME, Simons, AM
+
+Summary: 
+
+Reliable environmental cues may lead to the evolution of adaptive phenotypic plasticity. However, when cues are unreliable and the environment is thus unpredictable, so-called “bet hedging” is expected to evolve. Bet hedging characters decrease variance in fitness, and short-term success (i.e. expected fitness) is sacrificed for success over generations. Empirical support for bet hedging is limited, but this mode of response is increasingly being recognized as an important response to environmental variance. Here, the phenology of turion formation in greater duckweed (Spirodela polyrhiza (L.)) is used to study bet hedging and phenotypic plasticity in the field. Turions are heavy, non-vegetative fronds that sink into the sediment, allowing this free-floating hydrophyte to persist through unfavourable conditions. Mean days to turion formation was found to differ among pond environments-fronds from ponds of greater unpredictability had greater variability in the timing of turion formation. In a field transplant study, fronds from the more predictable pond environment demonstrated plasticity in turion formation when subjected to an environment of greater environmental variability. The success of S. polyrhiza may be attributed to evolved strategies, which are dependent on the availability of dependable cues. This study provides evidence of the occurrence of both bet hedging and plasticity in fluctuating pond environments.
+
+Alexandre Peluffo
+Ecole Normale Supérieure
+Biologie
+France
+When to shrink? Understanding the evolution of negative growth in ectotherms
+talk D20SY05RT15:45R1
+
+Author(s): Peluffo, A, Mallard, F, Tully, T
+
+Summary: 
+
+Body size is a key trait linked to the main determinants of fitness: fecundity and mortality (1). For many ectotherms, adult body size is plastic and follows the temperature size rule: individuals grow smaller at higher temperatures (2). Adapting the body size to the environmental condition is crucial and species with continuous growth such as fish and ametabolous hexapods benefit from their ability to adjust their size throughout life (3). But growing larger is in general considered to be the only option for theses organisms whereas shrinking could be advantageous especially if the organism has to cope with a temperature increase. We experimentally demonstrate that such shrinking occurs in the Collembola Folsomia candida - an ametabolous hexapode which continues moulting during its whole life - when they undergo a temperature increase. Comparing multiple clonal strains, we demonstrate genetic variability for this ability to shrink suggesting that negative growth can evolve under natural selection. Using a theoretical model fitted to the collembolans life cycle, we found that for predictable temperature variation, shrinking evolves for environmental temperature variations happening at a time scale close to the individual’s lifetime. For stochastic temperature variation, negative growth can also be selected, as a way for large individuals to escape high mortality following a temperature increase and therefore avoid being stuck in a so called “size ratchet”. ?1. Kingsolver JG, Huey RB. Size, temperature, and fitness: Three rules. Evolutionary Ecology Research 2008;10(2):251-68. 2. Atkinson D, Sibly RM. Why are organisms usually bigger in colder environments? Making sense of a life history puzzle. Trends Ecol Evol 1997;12(6):235-9. 3. Charnov EL. Size and temperature in the evolution of fish life histories. Integr Comp Biol 2004, Dec;44(6):494-7.
+
+Marcin Wojewodzic
+University of Oslo
+Department of Biosciences
+Norway
+Will kids be what grandparents ate? Transgenerational effects of different food quality revealed by Daphnia
+poster D20SY05PS1467
+
+Author(s): Wojewodzic, MW
+
+Summary: 
+
+Daphnia are well known for their developmental plasticity, with phenotype modified as a consequence of parental environment, and this can be inherited through multiple generations despite clonal propagation. We examined whether multigenerational exposure of cladocerans to phosphorus (P) limitation alters the responses of the two next generations. Two clonal isolates, D.magna and D.pulex, were fed two standardized food quality (high and low carbon: phosphorus ratio) over 20 generations, resulting in four distinct lines. In reciprocal transplant experiment, we analysed a number of fitness-related traits for both daughters and grand-daughters of these lines. We focused on somatic growth rate, body RNA concentration (body growth rate marker), and the activity of alkaline phosphatase (phosphorus acquisition mechanism). As predicted by the Growth Rate Hypothesis, P-limitation had a strong negative effect on somatic growth rate, irrespectively of the species and line history. Here, we present evidence that food quality may have induced the transgenerational effects on somatic growth rate for one of the species used. The line origin for D.magna was highly significant for the diet response. Moreover, we found a significant interaction between diet type and line, which provides strong support for transgenerational effect. The responses were strong for D.magna but not for D.pulex, reflecting their different susceptibility to P-limitation. We also found a significant decrease in alkaline phosphatase activity related to multigenerational P-limitation stress. Currently RNA sequencing is performed to reveal the transcriptomic response underlying the observed responses.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

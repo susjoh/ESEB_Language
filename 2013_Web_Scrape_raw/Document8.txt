@@ -1,0 +1,188 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY08: Evolutionary significance of epigenetic variation
+ Abstracts list Schedule Description
+View only talks or posters
+Irene Hernando Herráez
+University Pompeu Fabra
+Experimental Sciences
+Spain
+A genome-wide comparative study of DNA methylation in great apes
+poster D23SY08PS1383
+
+Author(s): Hernando Herráez, I, Prado-Martínez, J, Garg, P, Fernandez-Callejo, M, Heyn, H, Hvilsom, C, Navarro, A, Esteller, M, Sharp, AJ, Marques-Bonet, T
+
+Summary: 
+
+It has been hypothesized that differences between humans and their closet relatives may be explained by changes in gene regulation rather in primary genome sequence. Epigenetic alterations are involved in many biological processes and have been under-explored in comparative genomics. Specifically, DNA methylation is still poorly understood in the context of recent human evolution. In this study, we performed a comparative analysis of CpG methylation patterns between 9 humans and 23 primates including all four species of great apes (chimpanzee, bonobo, gorilla and orangutan) using Illumina Methylation450 bead arrays. Using this approach, we were able to study the dynamics of DNA methylation and to identify regions showing species-specific methylation pattern among the great apes, including ~130 genes with a pattern unique to human. We also identified a significant positive relationship between the rate of coding variation and alterations of methylation at the promoter level, indicative of co-occurrence between evolution of protein sequence and gene regulation.
+
+Tom Van Dooren
+Ecole Normale Supérieure
+UMR7625 Ecology and Evolution
+France
+Adaptive dynamics modelling with evolving epigenetics
+talk D24SY08RT11:18R6
+
+Author(s): Van Dooren, TJM
+
+Summary: 
+
+The term epigenetics is used to cover both the development of phenotypes from genotypes and the existence of alternative epigenetic birth states for a given genotype. If we define genotype-phenotype maps very broadly as the phenotypes and phenotype distributions a genotype can produce, then we can use these to model how an evolutionary dynamics depends on underlying traits and genotypic variation which control apparent phenotype distributions. Such models can then investigate different epigenetic mechanisms simultaneously evolving.
+
+A long-term perspective on fitness and evolutionary dynamics is essential to understand whether an epigenetic architecture is adaptive. I propose to use invasion fitness of mutants and adaptive dynamics approximations to investigate this. For such approximations in models with apparent and underlying traits of individual phenotypes and alleles, expressions for fitness gradients and evolutionary stability criteria are derived. I complement these with tools to investigate models where the apparent traits are life history fitness components such as stage-specific survival probabilities, and probabilities that gametes switch from the epigenetic states of their parental alleles at a certain locus into another. It is shown that a per-generation perspective on the dynamics of populations of mutants is essential to get good insight in the evolutionary dynamics of alternative epigenetic birth states.
+
+A specific example with evolving plastic epigenetic switching and evolving juvenile survival probabilities is worked out to discuss how trans-generational effects of parental birth state could evolve in a given ecological setting. I pay particular attention to the existence of alternative evolutionary outcomes for the same ecology, and to whether randomizing or plastic epigenetic switching strategies are most adaptive.
+
+Johan Bélteky
+Institute of Technology at Linköping University
+The Department of Physics, Chemistry and Biology
+Sweden
+Behavioural epigenetics and the effects of domestication in the chicken
+poster D23SY08PS1027
+
+Author(s): Bélteky, J, Jensen, P
+
+Summary: 
+
+Environmental changes and selection puts pressure on an organism’s ability to adapt to new settings. An example where accelerated evolution in a short time-span has generated a large variety of phenotypes is seen in domestication, where artificial selection for desired traits have driven diversity not just from the founding origin but also in a range of different directions. Among the proposed explanations for this rapid change in phenotypes are epigenetic mechanisms. These are not only more frequent and flexible than genomic mutations, but their potential to shape individuals as well as their offspring make them viable targets for investigating the effects of environmental conditions or stimuli on an organism. With the chicken (Gallus gallus) as our model organism, we have been attempting to not only characterize behavioural differences between domestic chickens and their wild ancestors, but also specify genetic and epigenetic changes by looking at mutations, gene expression and epigenetic markers such as DNA methylation. Besides clear behaviour differences, we have found correlational changes between methylation patterns and gene expression, along with an enrichment of methylation in domestic chicken promoters. The genomic and epigenomic background, along with behavioural aspects, are currently being investigated in several projects including the effects of early stress, and an artificial selection line. Our hope is that the information generated from our experiments will give us insight in the stability and transmission of epigenetic markers, and let us expand the field of behavioural epigenetics. With knowledge about epigenetic changes in domestic animals, our understanding of their susceptibility to environmental changes such as stress or nutrition may help us in increasing animal welfare for both poultry and livestock.
+
+Ruth Flatscher
+University of Innsbruck
+Institute of Botany
+Austria
+Can epigenetic differentiation cause the formation of ecotypes? Insights from stable altitudinal variants in the mountain plant Heliosperma pusillum (Caryophyllaceae)
+poster D23SY08PS1396
+
+Author(s): Flatscher, R, Schönswetter, P, Paun, O, Frajman, B
+
+Summary: 
+
+Adaptation is a process which continuously moves populations towards better fit phenotypes. In its widest sense, it involves short-term effects such as mechanisms of short-term transcription regulation, and long term-effects which result from natural selection acting on different kinds of heritable variation (i.e. segregating [epi-]allelic variants). Variations in biotic and abiotic conditions thus often lead to the formation of “ecotypes”, i.e. distinct populations adapted to their specific habitat. If gene flow is limited, initial inter-fertility with other conspecific ecotypes may change into increasing divergence and incompatibility over time, and eventually result in speciation. An interesting example for multiple, independent origins of ecotypes is found in the mountain plant Heliosperma pusillum s.l., which comprises a widespread alpine ecotype inhabiting mountain creek banks and moist calcareous screes (H. pusillum s. str.), as well as a lowland ecotype with disjunct and locally limited distribution growing in gorges and under overhanging cliffs (H. veselskyi). AFLP fingerprints as well as non-coding chloroplast and nuclear sequences consistently indicate that there is no genome-wide genetic differentiation between these altitudinal variants which would mirror the conspicuous morphological and ecological differences. Nevertheless, morphology of the two types remains stable for at least one generation in offspring grown from seeds of high- and low altitude accessions in a common garden. We use methylation sensitive amplified polymorphism (MSAP) to test for genome-wide differences in DNA methylation in six pairs of high- and low altitude ecotypes from the Eastern Alps. We discuss the correlation of methylation patterns with evident phenotypic differences and the possible role of epigenetics in the initial phase of divergent evolution of ecotypes.
+
+Carlos Herrera
+Estacion Biologica de Doñana, CSIC
+Evolutionary Ecology
+Spain
+Ecological epigenetics of non-model plants: exploring the evolutionary relevance of epigenetic variation in natural plant populations
+talk D23SY08IT17:45R6
+
+Author(s): Herrera, CM, Medrano, M, Bazaga, P
+
+Summary: 
+
+Epigenetic variation is often an important source of phenotypic variation across species and conspecific individuals of wild plants. In addition, intraspecific epigenetic variation frequently is spatially structured and correlated with biotic and abiotic environmental factors. The evolutionary relevance of natural epigenetic variation is, however, contingent on its being transgenerationally heritable and largely autonomous from genetic differences. It is therefore crucial to investigate these two key issues on wild plant populations. Fingerprinting phenotypically distinct individuals from different populations using both molecular epigenetic and conventional genetic markers may allow to determine whether genetic and epigenetic variation are coupled across sites and individuals or tend instead to be independent of each other. The alternation of generations characteristic of higher plants, whereby a succession of diploid sporophytes and haploid gametophytes take place in populations, allows to evaluate the extent to which molecular epigenetic markers are robust or not to epigenetic checkpoints operating at gametogenesis. The application of this research programme to wild populations of the perennial herb Helleborus foetidus in southern Spain revealed that variation across individuals in genetic (SSR and AFLP) and epigenetic (MSAP; methylation-sensitive amplified fragment polymorphism) markers were largely decoupled. Although the strong epigenetic differentiation between populations was in large part caused by MSAP markers that were reset at gametogenesis, there was still a sizeable proportion of markers robust to gametogenesis whose variation contributed significantly to epigenetic differentiation of populations. Epigenetic differentiation of H. foetidus populations seems to reflect local adaptation to the variable environment mediated by an epigenetic inheritance system.
+
+Celine Cosseau
+Ecologie et Evolution des interactions - CNRS / University of Perpignan
+UMR5244
+France
+Environmentally induced epigenetic plasticity in the human parasite Schistosoma mansoni
+talk D23SY08RT18:57R6
+
+Author(s): Cosseau, C, Lepesant, JMJ, Roquis, D, Arancibia, N, Grunau, C
+
+Summary: 
+
+Adaptation to environmental changes is based on the perpetual generation of new phenotypes. We know that phenotypic variability generating mechanisms have not only a genetic but also an epigenetic component, and their relative importance in adaptive evolution is an open question. Variability generating mechanisms are particularly important in host-parasite interaction models in which selective pressures are high and evolution is fast. Epigenetics has been proposed to be the language that is used to communicate between genome and environment. We present here data for a metazoan parasite/host system. The digenetic trematode Schistosoma mansoni is a human parasite that uses the mollusc Biomphalaria glabrata as intermediate host and humans as definitive host. We exposed S. mansoni populations to a stressful but ecological realistic environment: the interaction with an allopatric B. glabrata host in which the parasite develops into the human-infecting cercaria. We then studied phenotypic traits, epigenetic and transcriptional changes that the parasite engages in response to this stressful environment. ChIP-seq studies were performed with antibodies that recognize euchromatic and heterochromatic marks on cercariae released either from the allopatric or sympatric hosts. Differences in chromatin structures were found in roughly 0.1% of the epigenome (excluding repetitive sequences). RNA-seq studies performed on the same stages allowed the identification of about 200 differentially expressed genes between the stressful and normal conditions. Among those we indentified a histone-methyltransferase, providing a potential functional link between stress induced transcriptional and epigenetic modifications. More importantly, our data suggest that chromatin structure changes during the development of the cercariae are inherited by the subsequently formed adult stage.
+
+Thomas Svennungsen
+University of Oslo
+Norway
+Epigenetic inheritance in invasive species
+talk D23SY08RT16:33R6
+
+Author(s): Svennungsen, TO, Holen, ØH
+
+Summary: 
+
+Epigenetic variation is one causal mechanism for phenotypic variation, and epigenetic rearrangements are thought to be involved in many cases of adaptive phenotypic plasticity. In environments that are temporally autocorrelated the phenotype of successfully reproducing individuals, and thus their epigenetic state, is predictive of the selective environment that will face their offspring. Some degree of epigenetic inheritance may therefore be beneficial in variable environments. Assuming that transmission of epigenetic markers is under genetic control we develop a model to explore the patterns of epigenetic inheritance in an organism that invades previously uncolonized and spatially variable areas. We find that the optimal degree of epigenetic inheritance does indeed vary across the invasion front: epigenetic transmission tends to be less faithful at the front than in areas that have been colonized for longer, where more stable epialleles may be the norm. We relate our results to the spatial structure of the environment and the dispersal kernel of the organism.
+
+Christina Richards
+University of South Florida
+Integrative Biology
+United States
+Epigenetic response to novel and changing environments
+talk D23SY08IT15:45R6
+
+Author(s): Richards, CL
+
+Summary: 
+
+An essential component of deciphering the impact and long-term consequences of changing climatic conditions is understanding how organisms are able to respond to the environment. While studies interested in adaptation have focused on DNA sequence variation, and the assumption that trait variation is based on sequence variation, there is now pressing need to explore the role of epigenetic processes. Epigenetic effects can result in heritable, novel phenotypes even without variation in DNA sequence and could therefore provide an unappreciated source of response. The implications of epigenetic effects for the evolution of traits are just beginning to be explored, but epigenetic variation may expand the ecological and evolutionary options species in the face of rapid climate change. My lab group is exploring the potential role of epigenetic processes in natural and controlled studies of native, invasive and model plant species. Combined these studies should enhance our understanding of how epigenetic variation may be shaped by environment and contribute to adaptation.
+
+Oana Carja
+Stanford University
+Biology
+United States
+Evolution with stochastic epigenetic variation: a role for recombination
+talk D24SY08RT11:42R6
+
+Author(s): Carja, O, Feldman, M
+
+Summary: 
+
+Phenotypic adaptation to fluctuating environments has been an important focus in the population genetic literature. Previous studies have shown that evolution under temporal variation is determined not only by expected fitness in a given generation, but also by the degree of variation in fitness over generations; in an uncertain environment, alleles that increase the geometric mean fitness can invade a randomly mating population at equilibrium. This geometric mean principle governs the evolutionary interplay of genes controlling mean phenotype and genes controlling phenotypic variation, such as genetic regulators of the epigenetic machinery. Thus, it establishes an important role for stochastic epigenetic variation in adaptation to fluctuating environments: by modifying the geometric mean fitness, variance-modifying genes can change the course of evolution and determine the long-term trajectory of the evolving system. The role of phenotypic variance has previously been studied in systems in which the only driving force is natural selection, and there is no recombination between mean- and variance-modifying genes. We have developed a population genetic model to investigate the effect of recombination between mean- and variance-modifiers of phenotype on the geometric mean principle under different environmental regimes and fitness landscapes. We show that interactions of recombination with stochastic epigenetic variation and environmental fluctuations can give rise to complex evolutionary dynamics that differ from those in systems with no recombination.
+
+Ilkka Kronholm
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Investigating the contribution of epimutations to long-term adaptation using models and experiments
+talk D23SY08RT16:57R6
+
+Author(s): Kronholm, I, Collins, S
+
+Summary: 
+
+There is more to heredity than DNA sequence alone. Epigenetic changes are defined as changes in gene expression due to chromatin modifications without changes in DNA sequence. We know that some epigenetic changes can be transmitted between generations. Epimutations can be encoded by variety of mechanisms including histone modifications, changes in methylation patterns, or even small RNAs. However, investigations of how transgenerational epigenetic inheritance may affect adaptation are only just beginning. We use a combination of modeling and experimental microbial evolution to investigate how transgenerational epigenetic inheritance affects adaptive walks, where fitness increases in a population by the sequential fixation of novel beneficial genetic mutations (or novel beneficial epimutations as well).
+
+In our model, we address how different assumptions about how the epigenetic system works affect its role in adaptation. In particular, we contrast the evolutionary effects of heritable epigenetic changes that are genetically-encoded responses to environmental change (adaptive plastic responses that can be transmitted) with epigenetic variation is sequence independent and random with respect to fitness (pure epigenetic variation). We find that epimutations can contribute to adaptation alongside genetic mutations if they are reasonably stable, and outline cases where epimutations can speed up adaptation relative to an equal mutational supply of genetic mutations, and cases where genetic assimilation is likely (or unlikely) to happen. We test the predictions of our model using experimental evolution with the unicellular algae Chlamydomonas reinhardtii. By using different selective environments and manipulating the epigenetic system both chemically and genetically, we show how differences in epimutation supply affect fitness gain over approximately 150 generations.
+
+Frank Johannes
+University of Groningen
+Groningen Bioinformatics Centre
+Netherlands
+Mapping the transgenerational epigenetic basis of complex traits in Arabidopsis
+talk D24SY08IT10:30R6
+
+Author(s): Johannes, F
+
+Summary: 
+
+Quantifying the impact of heritable epigenetic variation on complex traits is an emerging challenge in population biology. Here we analyzed a panel of nearly isogenic Arabidopsis lines which segregate experimentally induced DNA methylation changes genome-wide. We provide compelling evidence that a small number of transgenerationally stable differentially methylated regions (DMRs) act as bone fide epigenetic quantitative trait loci (QTL^epi) in this population, accounting for 60-90% of the observed heritability underlying two complex traits, flowering time and root length. We show that these QTL^epi are reproducible and can be subjected to artificial selection. Over 75% of the putative causal DMRs within the QTL interval are also variable in wild populations of this species and are not significantly associated with cis or trans acting SNPs. These sequence-independent DMRs may be an important source of phenotypic diversity in ecological settings and thus provide a basis for Darwinian evolution.
+
+Per Jensen
+Linköping University
+IFM Biology
+Sweden
+Selection on epigenetic variation may have been important in domestication of chickens
+talk D23SY08RT18:33R6
+
+Author(s): Jensen, P, Nätt, D, Jonsson, M, Beltéky, J, Wright, D
+
+Summary: 
+
+Epigenetic variation may cause broad phenotypic effects in animals. However, it has been debated to what extent expression variation and epigenetic modifications, such as patterns of DNA methylation, are transferred across generations, and therefore it is uncertain what role epigenetic variation may play in evolutionary processes. We compared gene expression and methylation profiles in thalamus/hypothalamus in Red Junglefowl, the ancestor of domestic chickens, and a domesticated egg laying breed (White Leghorn, WL). There were significant differeces in gene expression as well as methylation, which were largely maintained in the offspring, demonstrating reliable inheritance of epigenetic variation. More than 70% of the differentially methylated loci were hypermethylated in WL, indicating that methylations have accumulated during domestication. Furthermore, there was an over-representation of differentially expressed and methylated genes in selective sweep regions, previously shown to be associated with chicken domestication. The results show that epigenetic variation is inherited in chickens, and we suggest that selection of favourable epigenomes, may have been an important aspect of chicken domestication. This could have happened either by selection of genotypes affecting epigenetic states, or by selection of methylation states which are inherited independently of sequence differences. The relationship between specific epigenetic variants and phenotype remains to be investigated.
+
+Christelle Leung
+Université de Montréal
+Sciences biologiques
+Canada
+The environment as a source of epigenetic variations
+poster D23SY08PS0694
+
+Author(s): Leung, C, Breton, S, Angers, B
+
+Summary: 
+
+Asexual lineages may have a widespread distribution in absence of genetic variation. Epigenetic processes have been proposed as a mechanism enabling such a response to environmental heterogeneity and thus represent an alternative mechanism to explain the ecological success of genetically identical organisms. This study aims to determine whether epigenetics reflect how asexual organisms deal with environment heterogeneity. We compared epigenetic profiles of sympatric lineages of the clonal fish Chrosomus eos-neogaeus from lakes of the north-eastern North America. While individual epigenetic differences represent 20% of the observed variation, individuals of a given lineage within a lake cluster together. Sympatric lineages share numerous epigenetic modifications and “lake effect” account for more than 40% of the variation, suggesting similar response to environment. Similarly, a given lineage from different environments displays numerous epigenetic differences. Finally, genetic differences also contribute to an important part of variation. This may be explained by two non exclusive hypotheses: response to environment differs according to lineage and/or sympatric lineages coexist in different ecological niches. Altogether, theses results suggest a strong role of epigenetics when dealing with different environments in absence of genetic variation.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

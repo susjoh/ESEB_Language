@@ -1,0 +1,516 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY18: Evolutionary demography
+ Abstracts list Schedule Description
+View only talks or posters
+Mireia Esparza
+Faculty of Biology of the Universitat de Barcelona
+Department of Animal Biology (Anthropology)
+Spain
+A comparison between heritabilities of life history and morphological traits in human populations
+poster D23SY18PS0728
+
+Author(s): Esparza, M, Martínez-Abadías, N, Sjovold, T, González-José, R, Hernández, M
+
+Summary: 
+
+According to Fisher's fundamental theorem of natural selection, the amount of additive genetic variance in a trait, and hence its heritability, should decrease as the strength of selection on this trait increases. Supporting this idea, many authors have reported lower heritability values in life history traits than in morphological and physiological traits for different species. But there are no studies comparing the evolvability of different types of traits in human populations. The pedigree collection of decorated skulls from the historical population of Hallstatt (Austria) offers an exceptional opportunity to compare the heritabilities of life history and morphological traits in humans. In this study we first used church records to reconstruct the pedigrees and to obtain the values of individual life history traits, such as fertility, age at first and at last child, mean interbirth interval, adult lifespan and lifetime reproductive success). Second, we measured a sample of 353 complete adult skulls falling into the pedigreesusing a 3D Microscribe digitizer. A set of 50 landmarks were measured on each skull and from the 3D landmarks coordinates we estimated several size and shape variables reflecting the complex and modular structure of the human skull. We estimated the heritabilities of the life-history and morphological traits using a Restricted Maximum Likelihood method and statistically compared the resulting heritability values. On average, our results show lower heritabilities for life history traits than for morphological ones, confirming the initial hypothesis.
+
+Stéphane Chantepie
+Museum national d'histoire naturelle
+UMR 7204 Centre des sciences de la conservation
+France
+Actuarial senescence increases the risk of extinction of mammal populations
+talk D24SY18RT11:18R5
+
+Author(s): Chantepie, S, Téplitsky, C, Sarrazin, F, Robert, A
+
+Summary: 
+
+Despite recent general acknowledgement that senescence has significant negative demographic manifestations in natural environments across a wide range of animal species, we still do not know if it can significantly impact the dynamics and viability of wild populations. Focusing on actuarial senescence (i.e., the decline of survival probabilities at old ages), we use specific demographic information to project the dynamics and extinction risk of wild populations of 58 species of mammals in the presence or absence of senescence. Our projections reveal major negative effects of ageing on population dynamics and viability, with a 27% decrease of the time to extinction on average and a potential deterioration of the species projected conservation status in 10% of the cases. The magnitude of the senescence cost is relatively homogenous among mammal orders at the exception of primates, which are disproportionally affected, due to their slow pace of life. Senescence is associated with particularly strong increases of the extinction risk in species with high annual survival probabilities of young adults and long intervals between litters, independently of their place in the phylogeny, indicating that the pace of life history can be used to forecast the detrimental effects of ageing on the viability of species.
+
+Hannah Dugdale
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Age-specific breeding success in a wild mammalian population: selection, constraint, restraint and senescence
+poster D20SY18PS0509
+
+Author(s): Dugdale, HL, Lisa, PC, Newman, C, Macdonald, DW, Burke, T
+
+Summary: 
+
+The Selection, Constraint, Restraint, and Senescence Hypotheses predict how breeding success should vary with age. The Selection Hypothesis predicts between-individual variation arising from quality differences; the other hypotheses predict within-individual variation due to differing skills or physiological condition (Constraint), residual reproductive lifespan (Restraint), or somatic and reproductive investment (Senescence). Studies tend to focus on either the initial increase in breeding success or later decrease; however, both require consideration when unravelling the underlying evolutionary processes. Additionally, few studies present genetic fitness measures, and rarely for both sexes. We therefore test these four hypotheses, which are not mutually exclusive, in a high-density population of European badgers Meles meles. Using an 18-year dataset (including 22 microsatellite loci) we show an initial improvement in breeding success with age, followed by a later and steeper rate of reproductive senescence in males than in females. Breeding success was skewed within age-classes indicating the influence of factors other than age-class. This was partly attributable to selective appearance and disappearance of badgers (Selection Hypothesis). Individuals with a late age of last breeding showed a concave down relationship between breeding success and experience (Constraint Hypothesis). There was no evidence of abrupt terminal effects; rather, individuals showed a concave down relationship between breeding success and residual reproductive lifespan (Restraint Hypothesis), with an interaction with age of first breeding only in females. Our results demonstrate the importance of investigating a comprehensive suite of factors in age-specific breeding success analyses, in both sexes, in order to fully understand evolutionary and population dynamics.
+
+Ulrich Steiner
+Max-Planck Odense Centre on the Biodemography of Aging
+University of Southern Denmark, Insitute of Biology
+Denmark
+AgeGuess crowdsourcing human aging research
+poster D23SY18PS0046
+
+Author(s): Steiner, U, Misevic, D
+
+Summary: 
+
+Human lifespan increases by 2.5 years every decade. This unprecedented change in life histories poses fundamental challenges for evolutionary theories. Some evidence indicates that this change is due to a delay in aging rather than a change in the rate of aging. AgeGuess is a citizen science project and online game that investigates the differences between perceived age (how old you look to other people) and chronological age (how old you actually are) and their potential power as an aging biomarker. Is the increased life expectancy reflected in how old one looks, i.e. are the new 60’s the old 50’s? Are people who look older than they are more likely to die early? Does the rate of looking older differ among individuals or some individuals just looking older all their lives, i.e. does the difference between estimated and real age change over time? Is the difference between perceived and real age heritable? Are there periods in life when one ages faster? The project aims at such questions by a simple on-line game in which you can post your photos, have other people guess your age, as well as guess the age of other users. Curious? Please visit AgeGuess.org
+
+Jenni Pettay
+University of Turku
+Section of Ecology
+Finland
+Cooperation and conflict in humans in traditional large joint families
+poster D23SY18PS0860
+
+Author(s): Pettay, JE, Lahdenperä, M, Lummaa, V
+
+Summary: 
+
+Group living can be associated with cooperation and even cooperative breeding whereby non-reproductive individuals help to raise offspring that are not their own. However, it can also lead to evolutionary conflict, which is a less studied phenomenon. Humans are considered to be cooperative breeders, since mothers commonly gain help in raising offspring from other (usually related) group members, such as grandmothers and siblings. Nevertheless, simultaneous breeding in the same household among reproductive-aged females, such as mothers-in-law and daughters-in-law, has also been linked with reduced success. The importance of cooperation and conflict is likely to vary according to ecology and social structure of populations, leading to differential selection pressures on dispersal patterns. We used life-history data on humans collected from church book records from 19th century Eastern Finland where joint-families were traditionally common. In joint families several adult offspring, usually sons, stayed in their natal farm with their families. This creates a situation where reproductive-aged women are not related to other women in the family, leading to possible conflict over resources and lowered fitness, but cooperation between women is also possible. We analyse mother’s fecundity and survival of her offspring in relation to the presence and reproductive history of other reproductive-aged women in the family by event history analysis, whist controlling for potential confounders such as presence of other family members and temporal variation in mortality and fertility rates. Preliminary analysis suggest that living in larger joint families was beneficial for women’s fitness, both in terms of fecundity and offspring survival, compared to smaller nuclear families. These results suggest that in this population cooperation between family members was more important than conflict, potentially favouring reduced dispersal among adult siblings
+
+Gordon Fox
+University of South Florida
+Department of Integrative Biology
+United States
+Demographic heterogeneity, selection, and population response
+talk D23SY18RT17:45R5
+
+Author(s): Fox, GA, Kendall, BE
+
+Summary: 
+
+Demographic heterogeneity (unmodeled variation in traits underlying vital rates) has attracted much attention in recent years. Empirical studies show substantial heterogeneity in many populations. Theory shows that it can have strong impact on demographic variance (and by inference, extinction risk); some kinds of demographic heterogeneity can also have large effects on the mean population growth rate.
+
+Our studies of heterogeneity point to a strong connection with natural selection, and provide new insights on how changes in phenotype distributions can occur in structured populations. The key is an understanding of the within-population phenotypic correlation structure. Correlations can occur within individuals over time, between individuals at a given time, and between individuals at different times.
+
+In matrix models allowing persistent heterogeneity, survival heterogeneity increases the mean population growth rate, and the population becomes dominated by "good survivors" even if the parent-offspring correlation is zero or negative. By contrast, the effect of fertility heterogeneity depends on the sign of the parent-offspring correlation. This is because information transmission across time depends (for reproduction) entirely on the parent-offspring correlation, but for survival information is also transmitted by changes in the population's phenotype structure.
+
+With overlapping generations, then, selection on survival and on reproduction can cause different responses. The demographic response (change in stable phenotype distribution) occurs because of the non-genetic correlation structure of the population. For survival, this response occurs regardless of the parent-offspring correlation, but for reproduction, the response depends strongly on the parent-offspring correlation. This suggests that selection on survival may often lead to larger responses and faster changes than is the case for selection on reproduction.
+
+François Mallard
+Laboratoire Ecologie et Evolution
+Ecole Normale Supérieure
+France
+Disposable springtails: highly plastic ageing patterns are explained by resource allocation trade-offs in Folsomia candida
+poster D23SY18PS1237
+
+Author(s): Mallard, F, Tully, T
+
+Summary: 
+
+Although often neglected, the evidences of senescence occurring in the wild are accumulating (1) and there is a growing interest towards a clarification of how the mortality trajectories have been shaped by the ecological conditions (2). The challenge now lies in understanding the diversity of ageing patterns in the light of evolutionary theory (3). We developed an experimental system in the laboratory to assess these questions on the small and long-living Collembola Folsomia candida (4,5). We performed long term microcosms experiments to question how mortality trajectories have been shaped on the short- and long-term by trade-offs between traits. We found that within species genetic differences in ageing patterns can be explained with differences in growth and reproductive strategies: comparison of different lineages showed that initial mortality rate and age at onset of senescence are negatively correlated - a result coherent with recent predictions based on the 'disposable soma' theory of ageing (6). We also demonstrate that plastic adjustments of major life history traits triggered by changes in resource availability even late in life lead cohorts to shift from constant mortality trajectories (negligible senescence) to accelerated senescence. Our results emphasises the need for a more integrated ecological comprehension of the effects of environment and its fluctuations to understand how natural selection shapes ageing patterns. 1. D. H. Nussey et al., Ageing Research Reviews 12, 214-25 (2013). 2. A. Baudisch, J. W. Vaupel, Science 338, 618-9 (2012). 3. M. Bronikowski et al., Science 331, 1325-8 (2011). 4. T. Tully, R. Ferrière, PLoS One 3, e3207 (2008). 5. T. Tully, A. Lambert, Evolution 65, 3013-20 (2011). 6. M. J. Wensink et al. Biogerontology 13, 197-201 (2012).
+
+Hannah Mumby
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Effects of climate on survival of Asian elephants
+poster D23SY18PS1142
+
+Author(s): Mumby, HS, Courtiol, A, Mar, KU, Lummaa, V
+
+Summary: 
+
+Climate change has intensified interest in understanding how climatic variability affects animal life histories. Despite this, little is known of their effect on survival in those species. Asian elephants (Elephas maximus) are endangered across their natural distribution, and inhabit regions often characterised by high seasonality of both temperature and rainfall. We investigated the effects of monthly climatic variation on survival and causes of death in Asian elephants of all ages and both sexes, using a unique demographic dataset of 839 semi-captive longitudinally monitored elephants from four sites in Myanmar between 1965 and 2000. Temperature had a pronounced effect on survival, with the lowest predicted survival during the hottest and coldest months in both sexes across all ages. Because during a year the elephants spent twice as long in temperatures higher than their optimum (24?C) rather than temperatures below it, most deaths occurred during the “too hot” rather than the “too cold” period. Decreased survival at higher temperatures resulted partially from increased deaths from heat stroke and infectious disease, whilst the lower survival in the coldest months is associated with an increase in non-infectious diseases or poor health in general. Variation in survival was also related to rainfall with the highest survival rates during the wettest months. Our results show that even the normal-range monsoon variation in climate can exert large impact on elephant survival in Myanmar leading to large absolute differences in mortality, particularly among the youngest age classes. The persistence of a long-term trend towards higher global temperatures combined with the possibility of higher variation in temperature between seasons may pose a growing challenge to the survival of species such as the endangered Asian elephants.
+
+Thomas Kvalnes
+Norwegian University of Science and Technology
+Department of Biology
+Norway
+Estimating fluctuating selection in age-structured populations
+talk D23SY18RT18:33R5
+
+Author(s): Kvalnes, T, Engen, S, Sæther, B, Jensen, H
+
+Summary: 
+
+In age-structured populations, viability and fecundity selection of varying strength may occur in different age classes. On the basis of an original idea by Fisher of weighting individuals by their reproductive value, we show that the combined effect of selection on traits at different ages acts through the individual reproductive value defined as the stochastic contribution of an individual to the total reproductive value of the population the following year. The selection differential is a weighted sum of age-specific differentials that are the covariances between the phenotype and the age-specific relative fitness defined by the individual reproductive value. This enables estimation of weak selection on a multivariate quantitative character in populations with no density regulation by combinations of age-specific linear regressions of individual reproductive values on the traits. Demographic stochasticity produces random variation in fitness components in finite samples of individuals and affects the statistical inference of the temporal average directional selection as well as the magnitude of fluctuating selection. Uncertainties in parameter estimates and test power depend strongly on the demographic stochasticity. Large demographic variance results in large uncertainties in yearly estimates of selection that complicates detection of significant fluctuating selection. The method is illustrated by an analysis of age-specific selection in house sparrows on a fitness-related two-dimensional morphological trait, tarsus length and body mass of fledglings.
+
+Olivier Cotto
+Université de Montpellier 2
+Institut des sciences de l'evolution
+France
+Evolution of senescence in heterogeneous landscapes
+talk D23SY18RT14:48R5
+
+Author(s): Cotto, O, Ronce, O
+
+Summary: 
+
+The current theory of senescence is developed in a very simple ecological and demographic context, with a unique population at equilibrium in a homogeneous habitat. In the wild, species live in a variable environment in space and time, where the assumption of equilibrium is often transgressed. In this study, we use models of quantitative genetics in structured populations in order to investigate the evolution of senescence in a variable environment. Adaptation to local environment depends on phenotypic traits which expression varies with age. We study different scenarios where the environment changes abruptly, gradually or cyclically with time and where the environment is heterogeneous in space with different populations connected by migration. The strength of selection decreases with age, which predicts slower adaptation of traits expressed late in the life cycle, potentially generating stronger senescence in habitats where selection changes in space or in time. This prediction is however complicated by the fact that the genetic variance also increases with age. With numerical calculations, we found that in most cases the rate of senescence is enhanced when the environment varies. Especially, migration between different habitats is a durable source of senescence in heterogeneous landscapes. We also show that the rate of senescence can sometime decrease transiently, when the population is not at equilibrium, with possible implications in experimental evolution and in the study of invasive species. Our results highlight the need to study age-specific adaptation, as a changing environment can impact differently each age-class with different consequences on demography.
+
+Domenico D'Alelio
+Stazione Zoologica Anton Dohrn
+Ecology and Evolution of Plankton
+Italy
+Evolutionary demography of microbes: growth, sex and death in a marine planktonic diatom
+poster D23SY18PS1222
+
+Author(s): D'Alelio, D, Scalco, E, Ribera d'Alcalà, M, Montresor, M
+
+Summary: 
+
+Populations of unicellular microalgae are orders of magnitude larger than those of multicellular organisms. They reproduce clonally by binary fission producing massive and, at times, periodical blooms. They cope with dramatic loss factors, such as primary consumers, parasite or viral infections. A sexual phase has been also reported for many species. Sex has a high cost in short-term, since cells have to stop division and invest energy in meiosis. Nonetheless, sex has been conserved in many microalgae, since it allows clonal populations to escape extinction, thus reducing its evolutionary cost in the long-term. Among unicellular microalgae, diatoms are key-players in marine ecosystems. Their landmark is represented by the rigid box-shaped siliceous cell-wall that imposes a progressive decrease in the average cell size of the cell population undergoing mitotic divisions. Larger cell size is generally restituted by sexual reproduction that, in diatoms, combines genetic recombination with the production of ‘young’ large cells. We have chosen the diatom Pseudo-nitzschia multistriata as a model to explore the application of a demographic approach to a planktonic microalga at the LTER station in the Gulf of Naples. The approach included in-situ monitoring of cell abundance and cell size, in-vitro experimentation on the factors that induce the transition between clonal reproduction and the onset of the sexual phase, and modeling simulations. We could follow the birth, maturation, and disappearance of various ‘age classes’ in the natural environment where large-sized cells - indicative of sexual reproduction events - were detected every two years. Our data suggest a collective behavior, apparently fostered by quorum sensing mechanisms, that shapes the periodic alternation between asexual and short-term sexual phases. Finally, our study corroborates the possibility to apply an evolutionary demographic approach to the study of unicellular organisms.
+
+Florencia Camus
+Monash University
+School of Biological Sciences
+Australia
+Examining the link between genotype and phentype: mitochondrial gene expression levels across distinct haplotypes, sexes, and ages
+talk D23SY18RT16:33R5
+
+Author(s): Camus, F, Wolf, JBW, Morrow, EH, Dowling, DK
+
+Summary: 
+
+Mitochondria are key components of cellular metabolic processing, providing most of the cellular energy required for survival. The small set of genes located within the mitochondria has recently been the subject of much attention by evolutionary biologists, as a groundswell of studies have documented that allelic variance within the mitochondrial DNA (mtDNA) often confers modifications to the phenotype. Mitochondria have been shown to play an active role in the process of ageing, as already proposed by Harman in 1972, and recent studies suggest that some of this allelic variance is even male-specific. Here we use the fruitfly Drosophila melanogaster as a model to advance our understanding of the link between the mitochondrial genotype and phenotype. We sequenced full mitochondrial genomes 13 lines and examine genotype-specific transcriptional profiles of 10 (out of 13) mitochondrial key genes on an isogenic nuclear background. Gene expression patterns are specifically examined for males and females and across age classes. Our goal is to understand the elusive mechanisms that mediate mitochondrially-encoded effects on the phenotype, and to home in on the candidate mutations that cause these effects.
+
+Katharina Wyschetzki
+Faculty of Biology of University of Regensburg
+Institute of Zoology
+Germany
+Exploring variation in longevity: transcriptomic studies in long-lived ant queens
+poster D23SY18PS0360
+
+Author(s): Wyschetzki, K
+
+Summary: 
+
+Senescence occurs in all multicellular and unicellular organisms. It is generally assumed that lifespan is genetically determined. Several candidate genes are suspected to be responsible for a gradual deterioration of physical function. These findings mainly arise from experiments with rather short-lived organisms (flies, worms, mice). However, the enormous intraspecific variation in longevity is often disregarded. Social insects with their different castes (queens, workers, males) have plastic life history traits which also include different aging rates. Ant queens are famous due to their exceptional long life spans compared to workers and males, making them a good model for the study of aging. The myrmecine tramp ant Cardiocondyla obscurior lacks the "reproductive senescence" which is normally present in other organisms (Heinze & Schrempf 2012). In addition, female-male co-evolution determines the lifespan of the queen (Schrempf et al. 2005, Schrempf & Heinze 2008, Schrempf et al. 2011). However, even queens mated with a sterilized male live considerably longer and start to lay eggs earlier than virgin females. In order to gain insights into lifespan-mediating mechanisms of mating, we conducted RNAseq of gene expression of old queens that were subjected to different mating. By comparing old queens mated to a fertile or a sterile male with virgin queens, we aim to find genes involved in the regulation of queen longevity.
+
+Stefano Giaimo
+Max Planck Institute for Demographic Research
+Germany
+Group formation and individual mortality
+poster D23SY18PS0185
+
+Author(s): Giaimo, S, Baudisch, A
+
+Summary: 
+
+In some species, organisms perform key activities in groups. This is the case, for example, when nesting or foraging is communal. The evolutionary advantage of this sort of social behaviour is that group members gain access to vital resources in an amount greater than that accessible through individual effort. In this paper, we explore the relationship between group formation and individual mortality in social species. We make two realistic assumptions: (i) there is a time lag between group formation and the moment in which group members enjoy the result of group activities (i.e. laborious construction of the communal nest, human agriculture); (ii) one or more group members may die during this time interval, and remaining members benefit from this event (i.e. the result of group activities is divided among fewer individuals). Two different situations are considered. First, mortality is independent of age, initially. We examine whether changes in individual mortality may have an impact on fitness when grouping is random. Second, mortality increases with age; i.e. ageing. In this situation, the strategy of choosing older individuals as group mates is selectively superior to random grouping. However, selection on “go-for-the-old” appears to be frequency dependent. Finally, we discuss the potential advantages of “segregate-by-age”, a behaviour that has been observed in some species.
+
+Alexandra Schrempf
+University of Regensburg
+Institute for Zoology
+Germany
+Growth, maintenance and reproduction in ant colonies
+talk D23SY18RT16:09R5
+
+Author(s): Schrempf, A, Kramer, B, Klein, A, Scheuerlein, A, Gampe, J, Heinze, J
+
+Summary: 
+
+Organisms have to allocate their available resources into growth, maintenance and reproduction throughout their life, and several life-history studies have documented a trade-off between growth and reproduction. However, the invested energy and costs for maintenance are usually difficult to evaluate in individual organisms. In this study, we monitor single-queen ant colonies of the species Cardiocondyla obscurior throughout their whole life. With this model organism, it is possible to not just measure the allocation of resources into colony growth/maintenance and into sexual reproduction but to gain insights in the time-dependent resolution of the allocation patterns throughout the complete life cycle of a large number of colonies and the consequences on colony fitness and queen lifespan. Specifically, we focus on investment into maintenance, which cannot be measured in whole organisms, and its consequences for subsequent colony survival.
+
+Rebecca Sear
+London School of Hygiene and Tropical Medicine
+United Kingdom
+Human evolutionary demography: illustrated with reference to the importance of kin for human reproductive success
+talk D23SY18IT14:00R5
+
+Author(s): Sear, R
+
+Summary: 
+
+Evolutionary demographers working on our own species are fortunate: data on humans abounds, both from the real world (including large-scale national datasets collected by demographers and economists and data on small-scale traditional societies collected by demographers), and from the lab (psychological and medical). We also have access to the substantial amount of research done in the social and medical sciences on how to collect, analyse and think about such data. In this talk I will summarise the benefits of the cross-disciplinary approach of human evolutionary demography, which combines data, methods and insights from the social sciences with the theoretical framework of evolutionary biology. I will do this with particular reference to my research on kin influences on demographic outcomes, including child survival and fertility rates. As a social species, interactions with other individuals are important for human fitness. The ‘cooperative breeding’ and ‘pooled energy budget’ models of human social organisation suggest, in fact, that such interactions are essential for human reproductive success. Here I will present results from a comparative project which is investigating the empirical evidence that kin do matter for women’s fitness across a wide range of human populations, including: the analysis of nationally representative datasets from both high and low income countries; a comparative analysis of datasets from traditional, subsistence societies contributed by anthropologists; and psychological experiments. This evidence demonstrates that the presence of kin is often correlated with higher reproductive success, but also that interactions between kin are not always necessarily cooperative. There is also some evidence for local resource competition between kin, and conflicts of interest between affinal kin (those related by marriage).
+
+Maarten Wensink
+Max Planck Institute for Demographic Research
+Germany
+Indicators of selection pressure, and changes in vital rates at multiple ages: a general method
+talk D23SY18RT18:57R5
+
+Author(s): Wensink, M, Wrycza, T, Baudisch, A
+
+Summary: 
+
+Hamilton's (1966) indicators of selection pressure on age-specific additive changes in mortality and fecundity have provided evolutionary biology with the key to study evolutionary effects of age-specific changes in vital rates. However, other indicators of ‘selection pressure’, the sensitivity of fitness to some standardized perturbation of a vital rate, have been proposed and advocated, involving non-additive changes in vital rates (Baudisch 2005), or changes that involve multiple ages (Hamilton 1966, Abrams 1991). In addition, it may be wearisome to obtain an indicator of selection pressure on more complex patterns of change across ages. Realizing that any eventual effect on fitness results not only from selection pressure, but also from the force of perturbation of the vital rates, we develop the calculus to evaluate the effect on fitness of the combination of selection pressure with a perturbation function. We apply this calculus to: 1) show that other indicators of selection pressure can be derived from Hamilton’s ‘elementary’ indicators on additive perturbations; 2) show that choosing an indicator of selection pressure and the appropriate perturbation function is merely a matter of parameterization, rather than a true conceptual difference; 3) propose to use Hamilton’s indicators of additive change for all analyses, since in this way all the biological variation is contained in the perturbation function; and 4) investigate in what direction a resident phenotype may evolve under some given life-history trade-off that produces change in age-patterns of fecundity and/or mortality. Under 4), the central idea is that life-history trade-offs can be presented as perturbation functions that lead to a different perturbation (different magnitude and direction) at different ages. Implications for the evolutionary theory of aging are discussed.
+
+Roser Pratdesaba
+Faculty of Biology of the University of Barcelona
+Department of Genetics
+Spain
+Inference of the demographic history of Drosophila subobscura using Approximate Bayesian Computation: a multilocus analysis along chromosome J
+poster D23SY18PS0757
+
+Author(s): Pratdesaba, R, Segarra, C, Aguadé, M
+
+Summary: 
+
+Understanding the forces that control genetic variation in natural populations has been a major challenge for evolutionary biologists. Drosophila subobscura is a member of the obscura group that is widely distributed in the Paleartic region and presents a rich chromosomal polymorphism. Although this species has been extensively studied in relation to chromosomal inversion polymorphism, little is known about its demographic history. Multilocus studies provide an excellent opportunity to determine whether demographic factors have shaped the genetic variation observable in natural populations. In order to infer the demographic history of D. subobscura from the Paleartic area through Approximate Bayesian Computation (ABC), we sequenced and analyzed 16 non-coding regions distributed along the J chromosome in regions not affected by chromosomal inversions. In the 16 regions, the frequency spectrum was shifted towards an excess of low frequency variants, which led us to explore different simple scenarios including a final population expansion. Even if scarce, existing information on climatic changes as well as on recombination rates in the species under study was used to establish prior distributions for those parameters defining each model. Contrasting the different models through ABC analysis will provide new insides into the evolutionary history of D. subobscura based on an ample dataset of independently evolving loci not affected by chromosomal polymorphism.
+
+Robert Griffin
+Uppsala University
+Department of Ecology and Genetics: Evolutionary Biology
+Sweden
+Is the X-chromosome a hotspot for genes affecting sex differences in lifespan and ageing?
+poster D23SY18PS0089
+
+Author(s): Griffin, RM, Friberg, U
+
+Summary: 
+
+This project (currently ongoing) aims to estimate the individual contributions of the X-chromosome and major autosomes to variance and sex differences in lifespan of Drosophila melanogaster. We test the hypothesis that the X-chromosome should be a hotspot for genetic variation causing sex differences, in particular we test the contribution of the X and autosomes to sexual dimorphism and sex specific variance in lifespan and ageing. Further to this we are also testing contributions of the Y chromosome to variance in male lifespan and ageing.
+
+Stewart Plaistow
+University of Liverpool
+Institute of Integrative Biology
+United Kingdom
+Maternal-age effects on rates of senescence differ between clones of the water flea, Daphnia pulex: causes and consequences
+talk D23SY18RT15:12R5
+
+Author(s): Plaistow, SJ, Shirley, C, Harney, ED, Collin, H
+
+Summary: 
+
+Senescence is widely believed to be the evolved consequence of life-history strategies that are themselves shaped by extrinsic mortality. Consequently, evolutionary explanations of senescence are static. But recent studies investigating lifespan extension, genetic intervention and dietary restriction suggest that rates of senescence are plastic and may be regulated by the same mechanisms that underpin life-history plasticity. The Lansing effect refers specifically to plasticity in lifespan that are derived from maternal age effects: offspring from older mothers often senesce at faster rates. Lansing demonstrated this effect in rotifers over 60 years ago, and Lansing effects have now been observed in a broad range of taxa. However, there is still no evolutionary framework for the Lansing effect, or a mechanism explaining how maternal age effects are transmitted and alter offspring life-histories. We repeated Lansing's experiments in D. pulex. Using offspring from the first clutch to set up young maternal lines, and offspring from the fifth clutch to set up old maternal lines, we reared three clones for three generations. Offspring development, life-history and rates of senescence were then compared in the fourth generation. Lansing Effects were observed irrespective of the measure of senescence used, and varied in strength between clones. Offspring from old maternal lines were born larger, grew more, initiated maturation at larger sizes, and had increased early lifetime reproductive effort. However, differences in the growth and maturation decisions of offspring from young and old maternal lines were size-independent, supporting Lansing's assertion that older mothers transmit a non-genetic "ageing factor" to their offspring that alters their life-histories. We propose a novel adaptive explanation for the Lansing effect, and discuss the implications that an interaction between genetic and non-genetic inheritance have life-history evolution and population demography.
+
+Will Nash
+The University of East Anglia
+School of Biology
+United Kingdom
+Mismatching the Medfly: demographic effects of dietary carbohydrates in Ceratitis capitata
+poster D23SY18PS1454
+
+Author(s): Nash, WJ, Chapman, T
+
+Summary: 
+
+When environments vary over time and space individuals can be ‘mismatched’ - in an environment to which they are not adapted. In the short term, individuals may show plastic responses, which can buffer deleterious effects. Given sufficient evolutionary time and selection, organisms will also adapt genetically.
+
+The thrifty phenotype hypothesis considers plasticity to the prevailing environment. During development, the likely quality of the environment into which the individual will emerge is ‘assessed’. Thus metabolic traits such as insulin sensitivity are plastic and can be ‘set’ during development. However, if the environment changes rapidly, the organism is set for the wrong environment, with deleterious consequences.
+
+This study considers the response to rapid changes in environmental quality using the widely successful polyphage Ceratitis capitata, the Mediterranean fruit fly. By altering the content of carbohydrate in the larval and adult diet, we created a mismatch scenario in order to test the impact of this rapid change on longevity as well as overall male and female fitness. The results of this study are discussed in terms of their relevance to the generalist nature of this species, as well as their consequences in terms of adaptation and sexual selection.
+
+Claudio Quilodran
+University of Geneva
+Department of Genetics and Evolution
+Switzerland
+Modeling demographic risk due to distant interspecific hybridization
+poster D23SY18PS0589
+
+Author(s): Quilodran, CS, Currat, M, Montoya-Burgos, JI
+
+Summary: 
+
+Interspecific hybridization is frequent in nature and may deeply impact species evolution. This process may be enhanced by human activities, such as translocation of invasive species or habitat modification, and may consequently threaten species persistence. Hybridization between distantly related species often leads to infertile hybrids or fertile hybrids without chromosomal recombination during gametogenesis. Here, we present an original model describing those types of hybridization, which also considers density-dependent competition, assortative mating and dominance/recessive inheritance. Using our model, we assessed the demographic risk due to interspecific hybridization in two case studies. We first model the asymmetrical reproductive success between Atlantic salmon (Salmo salar) and brown trout (Salmo trutta), whose hybridization has been increased recently due to releases of domestic fishes in the wild. Second, we study the impact of the invasive frog Pelophylax ridibundus on two western European endemic waterfrogs, Pelophylax lessonae and Pelophylax esculentus, when introduced from different geographical origins having singular hybridogenetic properties. The results of our studies give the conditions under which interspecific hybridization can lead to population extinction. In both examples, the threat is demographically mediated, either through wasted mating potential or through demographic displacement of species. Our results highlight why distant hybridization should be considered in conservation assessments, and provide clues for conservation actions
+
+Maciej Danko
+Max Planck Institute for Demographic Research
+Germany
+Modeling stem cell dynamics to understand negligible senescence in Hydra
+poster D23SY18PS0547
+
+Author(s): Danko, MJ, Kozlowski, J, Schaible, R
+
+Summary: 
+
+Unlike other metazoans, Hydra do not undergo the distinctive rise in mortality with age known as senescence, resulting from an increasing imbalance between damage and repair. We propose that Hydra control their damage accumulation mainly by damage-dependent cell death and cell sloughing. We examine our hypothesis with a model that combines cellular damage with stem cell renewal, differentiation and elimination. Hydra individual can be considered as a large single pool of three types of stem cells with some features of differentiated cells. This large stem cells community prevents “cellular damage drift”, which is inevitable in complex conglomerate (differentiated) metazoans with numerous and generally isolated pools of stem cells.The process of cellular damage drift, similarly to the process of genetic drift, is based on changes in distribution of damage among cells due to random events. In the model events that are sources of randomness include: budding, damage caused by cellular death, and undergoing and repairing cellular damage. Results favor the view that non-senescence is possible only in simple Hydra-like organisms characterized by high proportion and number of stem cells, high cell division rate, an effective cell selection mechanism, and having stem cells with the ability to take some roles of differentiated cells.
+
+Andrzej Galbarczyk
+Jagiellonian University Medical College
+Department of Environmental Health
+Poland
+Mother-daughter contract and age at menopause
+poster D23SY18PS0670
+
+Author(s): Galbarczyk, A, Jasienska, G
+
+Summary: 
+
+Age at natural menopause is characterised by significant variability, but the factors responsible for this variation are still not well recognised. Humans are cooperative breeders and non-reproducing females play important roles in raising children. Human females exhibit an extraordinarily low level of generational reproductive overlap, much lower than is the case for females of other primates, to minimize reproductive competition between generations over resources. We propose an evolutionary “mother-daughter contract” hypothesis that suggests that the oldest daughter helps her mother to raise younger siblings but, in return, expects her mother to cease reproduction, shifting energy and time once her daughter's children are born.
+
+Data were collected by a questionnaire from 914 Polish postmenopausal women. 506 women, 44 to 98 years old, who had at least one child and who went through a natural menopause were included in the analysis. A woman’s age at menopause was sensitive to the age at which she had her first daughter. The age of giving birth to the first daughter, even when she was not her first child, positively correlated with the age of the mother’s menopause (N=332, P<0.02), while the age of giving birth to a first son did not have a statistically significant effect (N=332, p=0.36).
+
+Results of our study suggest that research on the menopausal transition should take into account mother-daughter relationships as potentially important determinants of the timing of menopause. The existence of the proposed mother-daughter contract is supported by research indicating an important role of older daughters and non-reproducing maternal grandmothers in raising children. We predict that even stronger correlation would be present between a woman’s age at menopause and the age when her oldest daughter starts her own reproduction.
+
+Paul Dunn
+University of Southern Denmark
+Institute of Biology
+Denmark
+Ontogenescence and the Barnacle: an experimental examination of early life mortality in the estuarine barnacle Amphibalanus improvisus
+talk D23SY18RT16:57R5
+
+Author(s): Dunn, PH, Levitis, DA
+
+Summary: 
+
+Ontogenescence, the decrease in mortality rate experienced during early life, is a nearly universal life-history trait. Among aquatic organisms this high and declining early mortality is generally attributed to extrinsic risks to which developing individuals gradually become more robust through increasing size and speed (Acquisition of Robustness). We examined the stage-specific mortality patterns of larval estuarine barnacle Amphibalanus improvisus in the laboratory, and found that in the absence of the usual environmental risks (predation, washing away, rapid environmental changes), early mortality was still high and generally declining, but was focused around developmental transitions. We further found that even though individuals of these transitional stages are more likely to encounter certain environmental stressors (temperature and salinity shocks), these stages exhibited the lowest tolerance to these stressors. Our results, while not refuting the Acquisition of Robustness hypothesis, lend support to the Transitional Timing Hypothesis, which states that ontogenescence arises because biological transitions are dangerous, and are concentrated early in life. Our data illustrate several ways in which mortality can be concentrated around early-life transitions.
+
+Barbara Pietrzak
+Max Planck Institute for Demographic Research
+Germany
+Perceived predation risk accelerates aging in water fleas
+poster D23SY18PS1413
+
+Author(s): Pietrzak, B, Dawidowicz, P, Predki, P, Danko, MJ
+
+Summary: 
+
+Exposure to chemical cues of fish triggers adaptive response in water flea life history, leading to increased early reproduction. This has a cost, as lifespan in the environment free of such cues of predation is 20% longer. The aim of this study was to establish the biodemographic basis of phenotypic differences in water flea lifespan that are induced by the cues of fish predation, and to test for the change in the rate of aging, in particular. We examined mortality using large heterogeneous cohorts of two cladoceran species, Daphnia longispina and Diaphanosoma brachyurum, and found that the exposure to these chemical cues increase the Gompertzian rate of mortality acceleration. The phenotypic response is comparable to previously shown genetically based differences between Daphnia from habitats of different predation risk. The cue of extrinsic mortality risk from fish predation – a key factor shaping cladoceran life histories in the wild – is one of the few interventions shown so far to induce a plastic change in the rate of aging.
+
+Jennifer Lohr
+University of Fribourg, Switzerland
+Biology
+Switzerland
+Reduced lifespan and increased ageing driven by genetic drift in small populations
+talk D24SY18RT11:42R5
+
+Author(s): Lohr, JN, David, P, Haag, C
+
+Summary: 
+
+Despite recent progress in determining the genetic basis of ageing1-2, explaining the strong variation in lifespan among organisms remains one of the biggest challenges in evolutionary biology. Most previous work has concentrated on differences in selection regimes and selection pressures3-4, but evolutionary theories hold that ageing may evolve due to an accumulation of mutations with late-life deleterious effects via genetic drift5-6. As genetic drift also reduces genetic diversity within populations, a positive correlation between genetic diversity and lifespan is expected. Here we develop a model to formalize this idea. We then show that there indeed exists a strong positive relationship between lifespan and genetic diversity among populations of Daphnia magna and that ageing is accelerated in populations with relatively low genetic diversity (small populations). An experimental test provides compelling evidence that this correlation is due to increased drift in small populations rather than due to adaptation to environments that favour faster life histories: Inter-population crosses between small populations result in rescue phenotypes with lifespans as high as in large populations. Such rescue phenotypes are expected only if the short lifespans in small populations are maladaptive. Further confirmation comes from data on other life-history traits, which demonstrate a general increase in genetic load in small populations and clearly contradict the evolution of faster life histories. These results suggest that organismal lifespan and ageing can be strongly affected by genetic drift and can thus be maladaptive, especially in small populations where selection is less efficient.
+
+Ilona Nenko
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Reproduction and lifespan: only age at last reproduction matters
+poster D23SY18PS0336
+
+Author(s): Nenko, I, Jasienska, G
+
+Summary: 
+
+Reproduction is costly for mothers due to energetic and physiological requirements during pregnancy, lactation and childcare. Fathers are usually neglected by the studies since they do not pay direct costs of reproduction. However, including fathers in analysis is crucial, since it could suggests explanations about the mechanisms responsible for the relationships observed for mothers. Our study investigated how reproductive history is related to parental lifespan. We present results from historical Polish population belonging to the area of Mogielica Human Ecology Study Site. Demographic data for marriages that occurred from the year 1782 to 1882, collected from parish records were used. Relationship between number of children born, age at first reproduction and last reproduction, mean interbirth interval and parental longevity was analyzed controlling for year of birth, spouse’s longevity and first birth interval (as an indicator of energetic status at the beginning of reproduction for women). Moreover, sex of the last child was included in the model to control for maternal condition at the end of reproduction (since sons are more costly than daughters). In separate models, number of children that survived to adulthood was analyzed. Both maternal and paternal lifespans were affected only by the age at last reproduction. The later the last child was born the longer lives parents had (mothers: HR=0.96; CI=0.93-0.99 and fathers: HR=0.95; CI=0.92-0.98). Similar relationships were found when number of children who survived to adulthood was analyzed (mothers: HR=0.96; CI=0.94-0.98 and fathers: HR=0.95; CI=0.93-0.97). The results suggest that in studied population there are no trade-offs between costs of reproduction and lifespan. Only the age at last reproduction is significant predictor of length of life. However, the fact that the same relationship is observed for fathers suggests importance of social rather than biological factors.
+
+Aida Nitsch
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Should I stay or should my siblings go? Sibship effects on dispersal behaviour
+talk D23SY18RT18:09R5
+
+Author(s): Nitsch, A, Faurie, C, Lummaa, V
+
+Summary: 
+
+Understanding dispersal behaviour and its determinants is critical for studies on life history maximising strategies. Though many previous studies have investigated the causes of dispersal, very few have focused on the importance of sibship, especially in humans. Using a large demographic historical dataset (n=4000), we investigate the influence of sibling competition and cooperation on dispersal behaviour. Specifically, we test whether the probability, the timing and the range of dispersal depend on the presence of same-sex or opposite-sex siblings and on their reproductive status. This study is the first to investigate in detail the importance of siblings’ interactions for dispersal behaviour in humans and has important implications for the understanding of the evolution of family dynamics and fitness maximising strategies in humans and in other species.
+
+Aasis Vinayak
+Faculty of Engineering and Physical Sciences (FEPS), University of Surrey
+Department of Computing
+United Kingdom
+Studying the emergence and evolution of apoptosis using Evolutionary Game Theory and Agent Based Modelling
+poster D23SY18PS1254
+
+Author(s): Vinayak, A, Grüning, A
+
+Summary: 
+
+Both antagonistic pleiotropy and disposable soma theory have predicted senescence (and in turn apoptosis) to be a `side effect'. Although the altruistic benefit of apoptosis has been suggested before, we are attempting to show that in a resource restricted environment, apoptosis can be a strategic choice. To demonstrate this, we employ a theoretical model based on Game Theory (GT) and computer simulations using Agent Based Modelling (ABM). It has been found that genetic mutations can transform the cells in a healthy tissue into a population of individualistic tumour cells. From a theoretical point of view, non-apoptotic cells can also become apoptotic. This allows us to start with a population of non-apoptotic cells and allow some of the cells to randomly mutate and evolve an apoptosis machinery. All these cells age, which will affect the cell's fitness, and may die due to environmental causes. We use a GT model to govern the strategies and payoffs. Initially the cells and the nutrients are randomly placed in the lattice and the cells are allowed to migrate to nearby lattice spaces by paying the cost of migration. The cells compete for food, which is then allocated according to the GT model. Once a cell secures enough nutrients, it replicates and the newborn is added to the population. After each time-step the nutrients are replenished. The non-apoptotic cells have a choice to become apoptotic and vice versa. The simulation is repeated over many time-steps and by varying parameter values. We find that switching to apoptotic mode gives the cell an advantage over non-apoptotic cells in a resource restricted environment. Analysis using Evolutionary GT indicates that apoptosis is an Evolutionary Stable Strategy (ESS) as long as the conditions remain the same. We also demonstrate how the model could potentially improve the disposable soma theory in relation to chronological lifespan. The proposed model has some features that may be of interest to mathematical oncology.
+
+Devin Arbuthnott
+University of Ottawa
+Department of Biology
+Canada
+The ecology of sexual conflict: parallel evolution of male harm and female resistance in experimental populations of Drosophila melanogaster
+poster D23SY18PS0158
+
+Author(s): Arbuthnott, D, Dutton, E, Agrawal, AF, Rundle, H
+
+Summary: 
+
+Sexual conflict arises when divergent reproductive strategies of males and females generate sexually antagonistic selection that can have large impacts on mortality and reproductive output of both sexes. Sexually antagonistic selection is also recognized as an important driver of divergence and speciation, as male-female arms races may escalate in different phenotypic dimensions in separate populations, even in the absence of environmental differences. However, ecology can have large impacts on the evolution of sexual traits, and can even promote their parallel evolution. Environmental selection may therefore constrain the pathways of sexually antagonistic coevolution, although ecology has not previously been considered in investigations of sexual conflict. We provide some of the first evidence illustrating the importance of environmental selection on sexual conflict, using experimental populations of Drosophila melanogaster adapted to two different environments. Contrary to previous theory, we find no evidence that females have highest resistance to the harm of coevolved males. However, we do find evidence for parallel evolution of male harm and female resistance to male harm, as measured through female lifespan and senescence rates, associated with adaptation to these alternative environments, suggesting that sexual conflict may be predictable based on ecology. Ecologically-induced parallel evolution of traits under sexual conflict may have large impacts on how populations adapt to new environments, and how new species are formed, and ecology must therefore be integrated into considerations of sexually antagonistic coevolution.
+
+Mikael Mokkonen
+University of Jyväskylä
+Finland
+The impact of age-related changes in fertility: implications for sexual conflict
+poster D23SY18PS1068
+
+Author(s): Mokkonen, M, Koskela, E, Mappes, T, Schroderus, E
+
+Summary: 
+
+The impact of age on evolutionary processes is a relatively under-appreciated consideration in biology, despite differential effects on reproductive physiology between females and males. It is not expected that fertility will decline evenly between the sexes, since different traits determine fertility in each sex. Using a large, pedigreed laboratory population, we conducted a quantitative genetic study of fertility in a common European rodent, the bank vole (Myodes glareolus), to explore how senescent changes affect coevolution between the sexes. Our results indicate that reproductive success, as measured by litter size in females and offspring sired in males, differentially declined according to sex, with females experiencing a sharper decline in their fertility than males. The genetic correlation between the sexes for fertility was not significant for younger individuals, but became significantly negative for older individuals that reproduced. The age-dependent expression of fitness-related genes results in a divergence of reproductive interests between the sexes. Furthermore, the additive genetic variance for female fertility increased with age, consistent with the process of relaxed selection in older age. These results will be discussed in the broader context of sexual conflict theory.
+
+Brian Mautz
+University of Ottawa
+Department of Biology
+Canada
+The influence of nutrient type on longevity and reproductive senescence in wild and laboratory populations of the Antler Fly (Protopiophila litigata)
+talk D23SY18RT15:45R5
+
+Author(s): Mautz, BS, Bonduriansky, R, Rundle, HD
+
+Summary: 
+
+Senescence has rarely been shown in systems with high rates of extrinsic (age-independent) mortality such as in wild insects. What is known about senescence is generally based on laboratory model organisms (i.e. exclude extrinsic mortality) or based on studies of wild populations that have not examined senescence experimentally. Thus, we have little information on the extent to which studies in the laboratory correspond to senescence in the wild. The observed patterns of ageing in these systems will be influenced by resource acquisition and allocation to various life-history traits. Theory predicts more rapid ageing in individuals with higher initial mating rates stemming from a trade-off in reproduction vs. somatic maintenance and repair. In turn, the proportion of various energy sources in food, or restriction thereof, may shift the balance in this life history trade-off through their influence on physiological state and condition. Moreover, high-profile effects of caloric restriction in increasing lifespan come from lab populations. Diet manipulations may have much more complex and sex-dependent effects, especially in the wild. Here we take advantage of an extraordinary system - Antler Flies – where extreme site fidelity of males permits estimates of both lifespan and lifetime mating success. We extend previous work demonstrating aging in wild males to address the effects of a diet manipulation and to compare estimates conducted under lab vs. field conditions. Using a factorial design, we estimated senescence in mating rates and probability of survival for males treated with protein, carbohydrates, or water in both lab and field environments. We will discuss the extent to which these resources differentially influence life span, reproductive ageing, and the shape of survival curves. Our results have direct implications for the evolution of demographic patterns and senescence.
+
+Andrei Papkou
+CAU Kiel
+Zoological Institute
+Germany
+The influence of population size on host-parasite coevolution
+poster D23SY18PS0282
+
+Author(s): Papkou, A, Schalkowski, R, Barg, MC, Schulenburg, H
+
+Summary: 
+
+Host-parasite interactions are ubiquitous in nature and have a strong impact on species evolution. The signatures of this impact have been identified in genomes, natural communities and on a phylogenetic level. It is not surprising that many aspects of host-parasite relationships have received particular attention from evolutionary biologists. Paradoxically, one indispensible and basic property of host-parasite interaction, population size oscillations, has been overlooked as a factor in host-parasite coevolution. Parasites, by reducing host fecundity and survival, strongly affect population size of the host, which very often is their only ecological niche. Already in the 1920s Lotka and Volterra showed that antagonistic interactions between species would lead to interdependent oscillations in their population size. However, most of the current models of host-parasite coevolution ignore population size changes or use a deterministic approach which cannot realistically imitate the finite nature of real populations. Similarly, in most experimental studies on host-parasite coevolution the population size is kept constant as a matter of good practice. To enhance a more realistic understanding of the coevolutionary dynamics, we performed laboratory-controlled evolution experiments with the model nematode host Caenorhabditis elegans and its microparasite Bacillus thuringiensis and specifically varied the factor population size. Here, we will show our results on temporal changes in host fitness and parasite virulence under different population size regimes.
+
+Ryan Germain
+University of British Columbia
+Department of Forest & Conservation Sciences
+Canada
+Uncoupling individual intrinsic quality from habitat preference and quality in a territorial songbird
+poster D23SY18PS0639
+
+Author(s): Germain, R, Arcese, P
+
+Summary: 
+
+Theory predicts that animals breeding in heterogeneous landscapes will preferentially occupy habitats that maximize individual fitness, but identifying those habitats is problematic. Many studies develop metrics of habitat quality, but few identify the independent effects of individual animal ‘intrinsic quality’ on fitness from the effects due to the quality of the habitats they occupy. Several population processes also exist which may limit the degree to which individual and habitat quality are positively related in nature. We show that in an insular population of song sparrows (Melospiza melodia), females nested preferentially in breeding sites with high mean reproductive output over 35 years of study. Variation in site-specific reproductive output was positively related to female intrinsic quality, measured here as relative lifetime reproductive success (LRS). Vegetation characteristics predicted breeding site preference but were not closely linked to site-specific variation in annual reproductive output. Our results suggests that although females with high relative LRS exhibited no pattern in their occupation of more- and less-preferred habitats, the quality of individual females accounted for a large fraction of observed variation in the reproductive output of individual breeding sites. Thus, the intrinsic attributes of individual females influenced our estimates of what constituted ‘higher-quality habitat’. Our results imply that estimates of the genetic and permanent environmental effects on individuals may be necessary to reliably assess habitat quality independent of its occupants, and avoid misrepresenting the potential effects of different habitats on animal fitness.
+
+Tim Coulson
+University of Oxford
+Department of Zoology
+United Kingdom
+Using evolutionary demography to link evolution and ecology
+talk D24SY18IT10:30R5
+
+Author(s): Coulson, T
+
+Summary: 
+
+Tracking the dynamics of character distributions allows phenotypic evolution, life history evolution and the population ecology of a species to be studied simultaneously. In this presentation I will describe recent developments and applications of models that track such dynamics, and show how they have helped understand why rapid phenotypic and population change is so prevalent.
+
+Dora Huszar
+Faculty of Science, University of Copenhagen
+Department of Biology
+Denmark
+Variation in colony type drives demography in a red ant
+poster D23SY18PS0919
+
+Author(s): Huszar, DB, Carlsen, S, Larsen, RS, Pedersen, JS
+
+Summary: 
+
+The demography of a population depends on the life history of individuals: when they reproduce, how many offspring they have, and how the offspring disperse. However, ants live in colonies and important life-history decisions are made at the colony level. It is known that the social organization of colonies influences the demography of ant colonies, e.g. the life of colonies headed by a single queen follows the lifespan of the queen while supercolonies (headed by an extremely high number of queens) can in principle live forever due to queen replacement. Here we studied the effect of different social environments on life-history traits at the individual, colony and population level in a single population of the common red ant (Myrmica rubra). We sampled ant workers and reproductives from 42 nests inside and outside a supercolony, respectively, for morphological and population genetic studies to compare important life-history characteristics such as body size, dispersal ability, resource allocation and developmental stability. Local density of ants around the nests was also measured. Our results show that very high density, extremely high effective queen number (>100) and moderately high inbreeding (F = 0.166) characterize nests in the supercolony. Surprisingly, virgin queens were produced exclusively in nests outside the supercolony having few queens (1.22), low inbreeding (F = 0.082) and low local density. In contrast, nests outside the supercolony that did not produce virgin queens were highly inbred (F = 0.39) and had high, but not extreme queen numbers (14.9). We hypothesize that inbreeding affects the future of diploid virgin queens but not haploid males, so that colony sex ratio may correlate with inbreeding. These findings together with our further morphological and molecular studies shed light on how large and long-lived ant supercolonies might evolve and are maintained in interaction with small but queen-producing colonies of the same population.
+
+Margo Adler
+University of New South Wales
+School of BEES
+Australia
+Why do the well-fed die young? An eco-evolutionary perspective on the effects of dietary restriction
+poster D23SY18PS0127
+
+Author(s): Adler, MI, Bonduriansky, R
+
+Summary: 
+
+The phylogenetically conserved life-history responses to dietary restriction (DR) – lifespan extension and reduced fecundity – have long been thought to reflect an adaptive survival mode whereby resources are redirected from reproduction to somatic maintenance and repair, enabling organisms to weather periods of resource scarcity. We argue that this interpretation of DR’s effects is both inconsistent with recent experimental evidence and at odds with the ecology of natural populations. Laboratory studies have shown that high nutrient intake stimulates nutrient-sensing pathways that enhance reproduction as well as the ability to respond to environmental challenges, but impose latent costs -- increased rates of cellular damage and aging – that reduce survival in the lab. However, relative to laboratory organisms, natural populations subject to high extrinsic mortality rates are far less likely to reap the survival benefits associated with DR, or to pay the fitness costs associated with full-feeding. We suggest that DR’s effects are best understood as the corollary of an ancient and highly-conserved strategy that allows organisms to take advantage of periods of resource abundance.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

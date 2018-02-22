@@ -1,0 +1,255 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY26: The genomic architecture of adaptive traits: do QTNS generally exist?
+ Abstracts list Schedule Description
+View only talks or posters
+Dominic Wright
+Linköping University
+IFM Dept of Biology
+Sweden
+A sexual ornament in chickens is determined by large-effect pleiotropic alleles at HAO1 and BMP2, selected during domestication
+talk D20SY26RT17:45R7
+
+Author(s): Wright, D, Johnsson, M, Andersson, L, Jensen, P
+
+Summary: 
+
+The genetic analysis of phenotypes and the identification of the causative underlying genes remains central to molecular and evolutionary biology. By utilizing the domestication process it is possible to exploit the large differences between domesticated animals and their wild counterparts to study both this and the mechanism of domestication itself. Domestication itself is characterized by strong directional selection, which can leave putative signatures of this selection present in the genome in the form of reduced heterozygosity (referred to as selective sweeps). We have generated multiple intercrosses and advanced intercrosses based on wild-derived and domestic chickens to fine-map genomic regions (or QTL) affecting a sexual ornament (one to less than 400kb in size). These regions have been over-laid with putative selective sweeps identified in domestic chickens (each approximately 40kb in length), and found to be significantly associated with them. By using expression QTL analysis, we show that two genes in the 400kb region, HAO1 and BMP2, are controlling multiple aspects of the domestication phenotype, from a sexual ornament to multiple life-history traits. Resequencing of these animals reveals four differentially-fixed polymorphisms between the parental lines exist in strongly conserved regions within the selective sweep present within this region, which are candidate causative QTN. This study demonstrates the potential for large-effect mutations in domestication, as well as the use of selective sweeps to identify putative QTN in such instances.
+
+Craig Primmer
+University of Turku
+Department of Biology
+Finland
+Annotated genes and non-annotated genomes: use of model organism gene annotation information for understanding the molecular basis of traits of ecological and evolutionary importance
+poster D20SY26PS0496
+
+Author(s): Primmer, CR, Papakostas, S, Leder, EH, Davis, MJ, Ragan, MA
+
+Summary: 
+
+Recent advances in molecular technologies have opened up unprecedented opportunities for evolutionary biologists and ecologists to better understand the molecular basis of traits of ecological and evolutionary importance in almost any organism. Nevertheless, reliable and systematic inference of functionally relevant information from these masses of data remains challenging. In my poster, I will highlight how the Gene Ontology (GO) database can be of use in meeting this challenge. The GO provides a largely species-neutral source of information on the molecular function, biological role and cellular location of tens of thousands of gene products. As it is designed to be species neutral, the GO is well suited for cross-species use i.e. functional annotation derived from model organisms can be transferred to inferred orthologs in newly sequenced species. In other words, the GO can provide gene annotation information for species with non-annotated genomes. I will highlight the both the strengths and the current weaknesses of using GO for enhancing the understanding of molecular function in ecologically relevant species and present some examples of its use for evolutionary contexts
+
+Luisa Pallares
+Max Plank Institute for Evolutionary Biology
+Department of Evolutionary Genetics
+Germany
+Finding QTNs in genes affecting craniofacial morphology in wild house mice
+talk D20SY26RT14:24R7
+
+Author(s): Pallares, LF, Harr, B, Turner, LM, Tautz, D
+
+Summary: 
+
+The understanding of the evolution of complex phenotypes, as for example, biological shape, depends on the identification of the genetic variants responsible for between-individual variation, being this the variation over which natural selection would act. For that reason, we used a natural-occurring hybrid system with the aim of identify genetic variants involved in craniofacial bone morphology. Hybrid mice from the Bavarian contact zone between Mus musculus musculus and M.m.domesticus were used in this study. Skull and mandible shape were measured with 3D landmarks and analyzed using Geometric morphometrics. The shape coordinates were reduced to principal component (PC) scores, which were used as phenotypes for the genome wide association mapping. With the aim of detect genes affecting specific regions of the bones, which are not detected by the complex shape changes represented by principal components, 3D pairwise distances between landmarks were also included in the mapping. 14 genetic regions, containing 24 genes were associated with PC axis and 11 regions with 32 genes were associated with pairwise distances. Several of the genes identified are known to be involved in bone morphogenesis suggesting that the association mapping recovers credible candidate regions. One region was identified as having general (association with PC1-16.5%) as well as specific effects in skull shape. We are now associating allelic differences in the candidate regions with shape differences across the hybrid zone to identify QTN candidates. Our results not only identified new genes possibly involved in skull morphogenesis, but also indicate that they are responsible for some of the morphological differences between two closely related species, and therefore are relevant for understanding the evolution of morphological divergence. Besides, we show that performing association studies with wild populations from a hybrid zone is a very promising tool for studying complex phenotypes.
+
+Sverre Lundemo
+Uppsala university
+Department of ecology and genetics
+Sweden
+Genetic basis of leaf trichome density in natural populations of Arabidopsis thaliana
+poster D20SY26PS0717
+
+Author(s): Lundemo, S, Breed, MF, Ågren, J
+
+Summary: 
+
+Trichomes are hair-like epidermal structures on plant surfaces that may contribute to herbivore deterrence, UV protection, and tolerance to drought. In the annual plant Arabidopsis thaliana, leaf trichome density varies considerably among populations. We examined the genetic basis of differences in trichome density between two populations located close to the northern (Sweden) and southern (Italy) margin of the native range. We planted parental lines and 400 recombinant inbred lines (RILs) derived from a cross between the two populations at the sites of both source populations. Seedlings were planted at the time of natural seedling establishment in the autumn, and trichome density was scored on leaves before flowering in spring. We mapped QTL for trichome density using a linkage map based on 360 SNPs spaced at ca. 1 cM intervals. We asked how many QTL contribute to differences in trichome density and what is the magnitude of their effects? Do QTL for trichome density co-locate with candidate genes known to influence trichome density? Can QTL effects be linked to mutations in these genes? Preliminary analyses detected 11 QTL influencing trichome density. Of these, one QTL on chromosome 2 was consistently detected across years and at both study sites, and explained between 19% and 44% of the variation in RIL means. This QTL was located in a genomic region harbouring two genes known to influence trichome density: ETC2 and TCL1. Sequence differences between the two parental lines in these two candidate genes corresponded to four and one amino acid, respectively. We will present an analysis of the functional significance of the sequence differences detected and of their geographic distribution. In ongoing work, we explore the adaptive significance of trichome density by connecting variation in trichome density to variation in other putatively adaptive traits and to fitness in the field.
+
+Pawel Rosikiewicz
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Genetic exchange in a multigenomic fungus; Rhisophagus irregularis
+poster D20SY26PS0493
+
+Author(s): Rosikiewicz, P, Sanders, IR
+
+Summary: 
+
+Rhizophagus irregularis is a model species of an arbuscular mycorrhizal fungi (AMF). The AMF forms symbiotic relationship with roots of land plants, improving plant growth and protecting plants against parasites. R. irregularis is a particularly important species of AMF because it colonizes roots of most of crop plants such as rice, potato and wheat. However, different isolates of this fungus can affect plant phenotype differently. Moreover, it recently has been shown that two isolates of AMF can exchange genetic material, a process that can alter both, plant and fungal phenotypes. R. irregularis, is a coenocytic organism, which means that many nuclei coexist and can move in the common cytoplasm. The genetic exchange between two AMF isolates occurs via vegetative hyphal fusion. However, unlike in most fungi AMF produces multinucleate spores and it has been shown that each isolate of R. irregularis carries genetically different nuclei, which are maintained in successive AMF generations. What is unknown is the fate of parental nuclei after the genetic exchange, how many parental nuclei are exchanged and whether the mix of nuclei is random. In addition the nuclei are exchange with the surrounding cytoplasm. This lead to a question whether mitochondria from both parental isolates are transmitted to the offspring and how can it influence the fungal and plant phenotypes.
+
+Stéphanie Thépot
+UMR de génétique végétale
+France
+Genome-wide analysis of the genetic architecture of flowering time and fitness in wheat experimental populations
+poster D20SY26PS0647
+
+Author(s): Thépot, S, Goldringer, I, Mackay, I, Enjalbert, J
+
+Summary: 
+
+Flowering time is a major adaptive trait, as it allows plants to synchronize their vegetative cycle with optimal environmental conditions and thus to maximize their fitness. This trait has been studied over 20 generations in different experimental wheat populations, relying on three gene pools: two selfing pools obtained by pyramid crosses of two sets of 16 parents. The third is an outcrossing pool obtained by random crossing of 61 parents by the use of male sterility. These three pools have been dispatched over 12 sites in France, and then cultivated year after year in isolation, without migration or human selection. Fast evolution, both over time and in space, was noticed for flowering time. Using both shifts in allelic, or association genetics, these adaptations were in part explained by polymorphisms at key genes controlling vernalisation or photoperiod sensitivity (Rhoné et al. 2008, 2010). We recently developed an extended study of the outcrossing population, genotyping about 400 SSD lines with a 9k SNPs array (Chao et al. 2010), and performing an extended phenotyping of flowering time, under contrasted environmental conditions (variations in vernalization and photoperiod). With this highly recombinant and highly diverse population we describe the distribution of effects over detected QTNs, the major QTNs corresponding to previously described candidate genes. The detected QTNs x environment interactions highlight the genetics of local adaptation. Comparing major genes handled by plant breeders, and results obtained on wheat experimental populations, we will show how the genetic architecture of flowering time and its strong interaction with environment can explain the genetic architecture of fitness traits in natural populations.
+
+William Cresko
+University of Oregon
+Department of Biology
+United States
+Genomic architecture facilitates and frustrates the identification of adaptive mutations in stickleback
+talk D20SY26IT16:33R7
+
+Author(s): Cresko, WA
+
+Summary: 
+
+Is adaptive evolution defined by numerous small mutations, few large mutations, or some combination of both? This deceptively simple question has bedeviled geneticists for years. A simple model is the sequential fixation of adaptive mutations in a single population subject to directional selection. Adaptive evolution is in reality a complex and dynamic process. Populations are structured geographically, and mutations are often subject to gene flow as well as temporally and spatially variable selection. Under such a mutation-migration-selection schema a variety of mutation types can occur, such as single nucleotide changes, insertion-deletions, and large chromosomal rearrangements. Thus, both the genetic and genomic architecture of traits can evolve in a metapopulation context. A consequence is that the present effect sizes of adaptive alleles are the outcome of an evolutionary process, not a description of the entire path. More practically, the genomic localization of large effect loci may be enhanced at the expense of understanding the order of mutational changes. Only recently have we acquired the requisite genomic tools to fully tackle this problem in natural populations. I will discuss our recent findings of the genetic and genomic architecture of adaptive mutations in threespine stickleback, including recent discoveries of significant structural variation and its role in very recent (<60 year) and rapid parallel evolution. I will show how this genomic architecture can facilitate the hunt for adaptive loci using GWAS in natural polymorphic populations, but then pose significant challenges for the identification of the evolutionary history of the precise mutational changes. Lastly, I will argue that fully understanding the genetic basis of adaptation would require a complete description of the entire adaptive process, and the answer to ‘what are the sizes of mutational changes’ may often be ‘all of the above’.
+
+Mateusz Konczal
+Faculty of Biology and Earth Sciences, Jagiellonian University in Krakow
+Institute of Environmental Sciences
+Poland
+Genomic pattern of selection for ecologically important trait - transcriptome analyses of the bank vole artificial selection experiment
+talk D20SY26RT15:45R7
+
+Author(s): Konczal, MS, Babik, W, Orlowska, P, Radwan, J, Rudolf, A, Sadowska, ET, Koteja, P
+
+Summary: 
+
+Although, a response to selection at the genomic level has been investigated for some traits, little is known about the genomics of adaptation in ecologically important traits in vertebrates. Here we compared transcriptomes of the bank voles (Myodes glareolus) selected for high swim-induced aerobic metabolism (A) with unselected controls (C). In 13th generation of selection, voles from 4 replicate A lines achieved 48% higher max rates of oxygen consumption than those from 4 C lines (means±SD; A:5.32±0.64, C:3.59±0.57 mlO2/min) and differed in several other morphophysiological and behavioral traits. Our aim was to characterize the differences in allele frequencies and the differences in expression level between A and C lines, and thus pinpoint genes contributing to phenotypic diversification. Using Illumina paired-end sequencing and de novo transcriptome assembling we constructed reference liver and heart transcriptomes. Sequences obtained for each line from pools of liver and heart RNA were mapped to the reference transcriptomes to detect SNPs and measure the expression level. On average 33.5 and 29.3 mln 100 bp reads per line were obtained for liver and heart respectively, which allowed reliable polymorphism detection in over 7 000 genes resulting in more than 80 000 SNPs. About 1 600 of these SNPs showed allele frequency ranges which did not overlap between A and C lines, about 15% more than obtained from simulations assuming the differentiation purely by drift. However, the average differences in frequencies were similar for simulations and the experiment. We also identified a modest number (10 in heart and 45 in liver) of genes that showed more than two-fold differences in expression between A and C lines. Our results show that the rapid phenotypic diversification is accompanied by only minor changes in allele frequencies or expression level making the presence of genes of large effect unlikely and indicating a highly polygenic basis of the selected trait.
+
+Mathieu Joron
+Muséum National d'Histoire Naturelle
+CNRS UMR 7205, Institut Systématique Evolution et Biodiversité
+France
+Inversions, supergenes and the genomic evolution of loci of large effect
+talk D20SY26RT16:09R7
+
+Author(s): Joron, M
+
+Summary: 
+
+Supergenes are defined as clusters of genetic elements maintaining fitness-related traits maintained in high linkage disequilibrium in response to selection for specific combinations of those traits. Recent studies have uncovered that supergenes may be maintained by structural variation presumed to help avoid recombination and the deleterious effects of maladaptive trait combinations. Chromosomal inversions are well-known for their suppressing effect on recombination, and can lock together multiple beneficial gene variants controlling specific trait combinations. There are historical examples, as well as numerous new cases of structural variation associated with the maintenance of well-differentiated morphotypes, ecotypes, or species in sympatry in diverse taxa. Chromosomal rearrangements are therefore important mechanisms of genomic architecture evolution, which merge the control of multiple beneficial traits under a simple inheritance. Thus they provide a way of building up loci of large phenotypic effect, often found to be associated with adaptive variation and radiations. But exactly how multiple beneficial traits become recruited within inversions at the population level is still unclear. In this talk, I will discuss the origins of rearrangement-associated adaptations from plant and animal taxa. I will highlight the role of the ecology of each individual trait and their different combinations, the role of the selection regimes underlying the fitness benefits of tight linkage, and the role of introgression. A continuum of genomic architectures underlies adaptive variation from stable polymorphisms within populations to ecotypes and to ecological speciation. Inversions and supergenes are therefore excellent genomic microcosms to improve our understanding of the process of adaptation and the ecology and tempo of the build-up of linkage disequilibrium between multiple traits.
+
+Matt Rockman
+New York University
+Department of Biology
+United States
+QTNs of no effect
+talk D20SY26IT14:48R7
+
+Author(s): Rockman, M
+
+Summary: 
+
+The effect-size distribution of QTNs is at the heart of much debate in the evolutionary genetics community. An important complication is that effect sizes are not intrinsic properties of alleles. They depend on environment and genetic background in complicated ways. Using C. elegans as a model, we have found that populations harbor extensive genetic variation with no effect on phenotype under ordinary conditions but with life-or-death consequences in perturbed conditions. Alleles with no phenotypic effect at all may contribute to adaptive evolution when background or environment changes. Given that alleles of all effect sizes clearly contribute to evolution, our research program should shift to identifying the biological circumstances that favor adaptation by specific genetic architectures.
+
+Thomas Mitchell-Olds
+Duke University
+Department of Biology
+United States
+Selection on the genes that control complex traits
+talk D20SY26IT18:33R7
+
+Author(s): Mitchell-Olds, T, Olson-Manning, C, Anderson, J, Lee, C, Prasad, K, Song, B
+
+Summary: 
+
+How does environmental heterogeneity influence growth, reproduction, and fitness in genetically variable plant populations? In Boechera, a wild relative of Arabidopsis, we used genome-wide markers to quantify selection coefficients at polymorphic loci throughout the life cycle, across multiple sites and years. We found strong natural selection that varied among environments, with stronger selection on reproduction than on survival components of fitness.
+
+Next, we cloned a QTL that controls defensive chemistry, damage by herbivores, and fitness in nature. This gene encodes the first enzyme in the glucosinolate biosynthetic pathway, causing variation in chemical defense and herbivore damage, with subsequent effects on fitness. These ecological effects are driven by functional changes following gene duplication, and by two selectively favored amino acid changes in the proteins that they encode. These changes cause a gain of novel enzyme function, modulated by allelic differences in catalytic rate and gene copy number, which control survival and reproduction in nature.
+
+Finally, to understand biochemical control of complex trait variation, we examined the relationship between pathway flux and protein polymorphism in the enzymes responsible for glucosinolate biosynthesis. We perturbed the enzymes in the glucosinolate pathway, and showed that flux control is focused in the first enzymatic step, and that flux control of these defensive phenotypes is robust across environmental treatments. Furthermore, signatures of selection showed that this enzyme is the only one in the pathway that shows evidence of selection. Our results support the hypothesis that natural selection preferentially acts on enzymes with high control over flux and phenotype.
+
+Floriane Chardonnet
+CNRS
+Laboratoire Evolution, Génome et Spéciation
+France
+Single gene polymorphism alters the foraging activity of a pest Lepidoptera
+poster D20SY26PS0738
+
+Author(s): Chardonnet, F, Capdevielle-Dulac, C, Chouquet, B, Joly, N, Harry, M, Le Ru, B, Silvain, J, Kaiser, L
+
+Summary: 
+
+The extension of agriculture areas, needed to meet the food needs of a growing world population, subjects the environment to important anthropic pressures and rapid changes. However, some phytophagous insect species from the wild habitats have taken advantage of these abundant and nutritious cultivated hosts, where they establish and become pests. A representative of a major insect pest family, the Noctuidae, is Sesamia nonagrioides moth, well known for its economical losses on maize in African and Mediterranean countries. This species shows two populations distinct by their ecological preferences: one is a pest found in maize fields, while the other is exclusively found on wild herbaceous host-plants. The qualitative and quantitative differences between wild and cultivated resources should involve the expression and the selection of different foraging strategies. Because foraging (for) is a candidate gene and a major modulator of foraging strategies in a variety of invertebrate species, it could be involved in the adaptation of phytophagous insects to cultivated plants. Following an integrative approach, we compared the crop and the wild populations of S. nonagrioides. We found that they differ in their foraging activity by measuring their tendency to change of food patches. We identified two allelic variants of the for gene respectively associated with specific gene expression rates. One of the variant was harboured by the wild population and the other was predominant in the crop population. Activating the encoded cGMP-dependent PKG by a pharmacological compound increased the foraging activity of larvae, which suggests a causal link between for genotypes and the identified behavioural phenotypes. To understand if the evolution of the for gene would be a factor of the adaptation of S. nonagrioides to cultivated host-plant, analysis of neutral markers and for polymorphism over the geographic and ecological range of the species is in progress.
+
+Rebecca Dean
+University of Uppsala
+Department of Evolutionary Biology
+Sweden
+The X Factor: the genomic distribution of eQTNs that regulate sexual dimorphism
+poster D20SY26PS0835
+
+Author(s): Dean, RF, Stocks, M, Rogell, B, Friberg, U
+
+Summary: 
+
+How can sex differences arise from a largely shared genome? Theory predicts sex chromosome linkage is crucial: by reducing the intersexual genetic correlation, sex chromosomes allow males and females to evolve separately and reach their phenotypic optima. However, studies on the role of sex chromosomes and sexual dimorphism find mixed results: whereas sex chromosomes tend to harbor sex biased genes, the association between sexually dimorphic phenotypes and sex chromosomes is more tentative. We approach this question from a different perspective by examining the role of the X chromosome in the regulation of sexually dimorphic gene expression.
+
+Using the Drosophila Genetic Reference Panel we perform a genome-wide study to find SNPs that associate with variation in sexually dimorphic gene expression. First, we find the X chromosome is a hotspot for SNPs that associate with variation in sexually dimorphic expression, particularly when SNPs are located between genes. Furthermore, we show the far reach of the X chromosome - trans-regulating SNPs that associate with variation in sexual dimorphism are more common on the X chromosome. Finally, we look in fine detail at the genomic regions with dense dimorphism-associated SNPs to see whether we can identify individual SNPs as general regulators of sexual dimorphism.
+
+Taken together, these results suggest the X chromosome is a master regulator of sexual dimorphism and give more general insights into the genomic basis of complex phenotypes.
+
+Jenny Armstrong
+University of Sheffield
+Animal & Plant Sciences
+United Kingdom
+The genetic architecture of a reproductive trait in a wild bird population
+poster D20SY26PS0406
+
+Author(s): Armstrong, JC
+
+Summary: 
+
+The timing of egg-laying (lay date) in wild birds is a key determinant of overall reproductive success, with some species timing their breeding events to coincide with peaks in the abundances of key prey species. Mistimed breeding events can result in trophic mismatches and subsequently lower chick survival and fledging success. A phenotypic shift to earlier laying has been observed in a population of great tits (Parus major) in response to the earlier emergence of their winter moth larvae prey, itself the result of climate warming. Lay date has been found to have a small but significant heritable component. This study combines several genetic analysis tools, including QTL mapping and Genome Wide Association Study (GWAS) techniques, to describe the genetic architecture of lay date. Variation in this trait appears to have a polygenic basis.
+
+Jie Cheng
+Max Planck Institute for Evolutionary Biology
+Evolutionary Genetics
+Germany
+The genetic architecture of skin prickling and body shape in hybridizing sculpins (Cottus)
+poster D20SY26PS1066
+
+Author(s): Cheng, J, Nolte, AW
+
+Summary: 
+
+European freshwater sculpins, Cottus rhenanus and Cottus perifretum, have formed hybrid lineages (invasive Cottus) in the Lower River Rhine. The hybrid Cottus particularly resembles one of its ancestral species, C. perifretum, in phenotypic features. This contrasts with the expectation of hybrid intermediacy, which is suggested by the fact that the invasive genome is thoroughly admixed. Among these traits, the scale-like skin prickling and body shape represent a common source of variation among a number of Cottus species. The Ectodysplasin (EDA) signaling pathway provides promising candidates to investigate the genetic basis of prickling because it is known to affect the development of dermal bones and scales in fishes. We identified and mapped Cottus EDA signaling pathway components and performed quantitative trait loci (QTL) mapping for prickling and body shape in Cottus. A single highly significant QTL that affects prickling in all F2 mapping families was detected in an interval that contains the EDA receptor (Edar) with the maximum LOD score on Cottus linkage group 3 but none of the other EDA pathway genes. The same QTL region also shows effects on body shape. An investigation of gene structure from 6 individuals suggests that the genomic architecture of the Edar gene makes it a more likely contributor to evolutionary changes than other components in this pathway. An analysis of ancestral allele frequencies within EDA pathway gene regions in the invasive gene pool shows that Edar genomic ancestry is biased towards C. perifretum (85%-96%), which is correlated with the phenotypic similarity of invasive Cottus with that species. The Edar carrying QTL is currently the best candidate that strongly determines phenotypic variation of hybrid Cottus in the River Rhine. EDA signaling constitutes a key adaptive trait in stickleback and our results suggest that the same pathway may contribute to conspicuous phenotypic variation in Cottus as well.
+
+Carmelo Fruciano
+University of Konstanz
+Department of Biology
+Germany
+The genetic bases of body shape architecture of two sympatric Mesoamerican cichlid species: a RAD-QTL approach
+talk D20SY26RT18:09R7
+
+Author(s): Fruciano, C, Franchini, P, Jones, JC, Spreitzer, ML, Elmer, KR, Henning, F, Meyer, A
+
+Summary: 
+
+Determining the genetic bases of phenotypic adaptation and ultimately speciation is one of the major quests in evolutionary biology. Cichlid fish species flocks are a prime example of recent rapid radiations often associated with adaptive phenotypic divergence from a common ancestor in a short period of time. In these fishes divergence in eco-morphological traits, including body shape, colour, lips and jaws, are thought to underpin their diversification. The Midas cichlid species complex (Amphilophus) of Nicaragua provides one of the few known examples of sympatric speciation, where species have rapidly evolved different eco-morphologies in young crater lakes. In this study we use SNP marker genotypes generated using ddRAD sequencing and a combination of morphometric analyses to identify significant QTLs in ecologically divergent cichlid species with different body morphs: an elongated limnetic species (A. zaliosus) and a high-bodied benthic species (A. astorquii) inhabiting lake Apoyo. A total of 453 informative RAD markers were identified in 240 F2 hybrids. These markers were used to construct a genetic map for which 25 linkage groups were resolved. We found 27 segregating SNPs linked to QTLs. The QTL-linked genomic regions were annotated to identify genes that likely contribute to divergence in body shape in benthic and limnetic Midas cichlid sympatric species. These results underline the effectiveness of RAD-Seq as a tool for rapid and efficient generation of QTL-targeted and genome-wide marker data and a promising method for investigating the genomic bases of divergence in ecologically relevant traits.
+
+Froukje Postma
+Uppsala University
+Department of Plant Ecology and Evolution
+Sweden
+The genomic architecture of adaptive differentiation in seed dormancy and germination timing between two natural populations of Arabidopsis thaliana
+poster D20SY26PS0655
+
+Author(s): Postma, FM, Ågren, J
+
+Summary: 
+
+Timing of germination is expected to influence plant fitness strongly, because it determines not only the environmental conditions for the emerging seedling but also sets the context for all subsequent life stages. We studied the genomic architecture and adaptive significance of differentiation in seed dormancy and germination timing between two natural populations of the annual herb Arabidopsis thaliana located close to the geographic limits of the native range (northern Sweden and central Italy). With recombinant inbred lines (RILs) derived from a cross between the two focal populations, we mapped QTL for germination traits. First, seed dormancy was estimated for more than 400 RILs and the two parental lines using seeds that had matured in the greenhouse. Second, the timing of germination at the Swedish field site and seedling establishment at both field sites were documented for 220 RILs and the two parental lines using seeds matured at the respective field site and planted at the time of seed dispersal in spring. The Italian genotype produced seeds with a markedly stronger dormancy and germinated later at the Swedish field site than did the Swedish genotype. At both field sites, the local genotype outperformed the non-local genotype in terms of seedling establishment. In Italy, seed dormancy was positively correlated with RIL establishment success, while in Sweden this relationship was negative. Of the 11 QTL identified, one affected all three germination traits (dormancy, timing, establishment). This QTL had a huge effect size compared to the other detected QTL, and co-locates with the known dormancy gene DOG1. The results demonstrate that genetically based differences in seed dormancy are associated with differences in timing of germination and successful seedling establishment at the sites of the source populations, and thereby contribute to adaptive differentiation among natural populations of A. thaliana.
+
+Anna Santure
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+The genomic architecture of morphological, life history and fitness traits in two long term wild populations of great tits (Parus major) - can we find evidence for genes of major effect?
+talk D20SY26RT14:00R7
+
+Author(s): Santure, A, DeCauwer, I, Poissant, J, Robinson, MR, Visser, ME, VanOers, K, Groenen, MAM, Sheldon, BC, Slate, J
+
+Summary: 
+
+Currently there is much debate, yet relatively little empirical data, on the nature of genetic architecture of quantitative traits in wild populations. Where is additive genetic variation located in the genome? Is trait variation influenced by many genes of small effect distributed throughout the genome, or by a few genes of major effect? Do the same loci cause phenotypic variation in different populations? Great tits (Parus major) have been studied extensively in long-term studies across Europe, and are consequently considered an ecological 'model organism'. Recently, a large number of genomic resources have been developed for the great tit, including a genetic linkage map with 5,500 SNPs. In this study, we use three different marker-based approaches (partitioning of additive genetic variance across genomic regions, pedigree-based quantitative trait locus mapping and genome wide association scans) to investigate the genetic architecture of morphological, life history and fitness traits in two long-term study populations of great tit - one in The Netherlands, and the other in the United Kingdom. We demonstrate that for most quantitative traits there is little evidence of genes of major effect, and that the two populations share very similar genomic architectures.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

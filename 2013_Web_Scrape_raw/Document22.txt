@@ -1,0 +1,451 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY22: The evolution and genetics of drug resistance
+ Abstracts list Schedule Description
+View only talks or posters
+Nichola Hawkins
+Rothamsted Research
+Biological Chemistry and Crop Protection
+United Kingdom
+CYP51 Paralogues and Azole Sensitivity in Rhynchosporium commune
+poster D20SY22PS0552
+
+Author(s): Hawkins, NJ, Cools, HJ, Fraaije, BA
+
+Summary: 
+
+The azoles, inhibiting sterol 14-a demethylase encoded by CYP51, are widely used both as clinical antifungal drugs and as agricultural fungicides. In contrast to some fungicide classes, no single mutation has arisen that confers broad, qualitative resistance to all azoles, but quantitative sensitivity shifts have arisen through a range of mechanisms. In some cases, sensitivity shifts may be due to enhanced efflux of the drug, or altered sterol metabolism, but other mechanisms involve the fungicide target site: CYP51 mutations confer reduced sensitivity in the clinical pathogen Candida albicans and the wheat pathogen Mycosphaerella graminicola, and CYP51 over-expression confers reduced sensitivity in the fruit pathogen Venturia inaequalis. Genome sequencing has revealed that some filamentous ascomycetes possess multiple CYP51 paralogues, with CYP51B present in all sequenced species, CYP51A in around half, and CYP51C only in Fusarium species. Presence of CYP51A reduces intrinsic azole sensitivity, with CYP51A mutations and over-expression resulting in further reductions in sensitivity in clinical isolates of Aspergillus fumigatus. However, in the barley pathogen Rhynchosporium commune, CYP51A is only present in some isolates, and acquired reductions in azole sensitivity in the last fifteen years are linked to the re-emergence of CYP51A in the R. commune population. Historical and functional studies provide evidence for the role of CYP51A in reduced azole sensitivity in R. commune.
+
+Frédéric Chevalier
+Texas Biomedical Research Institute
+Department of Genetics
+United States
+Accurate exome sequencing in a microscopic invertebrate
+poster D20SY22PS0687
+
+Author(s): Chevalier, FD, LoVerde, PT, Anderson, TJC
+
+Summary: 
+
+Small parasites and larval stages pose a problem for population genomic analyses because limited amounts of DNA template are available, while the large size of many parasite genomes makes sequencing complete genomes prohibitively expensive. For example, schistosome adults live in human blood vessels and only microscopic larval stages (miracidia) are available for molecular analysis. Furthermore, sequencing of the complete 363Mb genome is impractical for population samples. We evaluate the accuracy of exome sequencing of single miracidia following whole genome amplification and exome capture using a custom Agilent SureSelect array designed to capture 92% of the 15.3Mb exome. Because the miracidial exomes sequenced were obtained from a cross between a male and female worm of known sequence, we were able to predict the SNP alleles present in the progeny and quantify the genotyping error rate. We were also able to evaluate bias in capture of alleles recovered from genome regions showing high levels of polymorphism compared with the reference genome from which the capture array was designed. In initial work we robustly scored 18,993 SNPs, while judicious multiplexing of samples prior to genome capture reduced costs while maintaining accuracy. We conclude that scoring of genome wide exomic SNPs and indels from exome sequence is feasible, economical and extremely accurate and has many advantages over other methods for generating reduced representation libraries such as RAD-seq. This approach will allow research on schistosomes (and other parasite species) to progress from population genetics using small numbers of markers, to population genomics utilizing genome-wide marker information.
+
+Camilo Barbosa
+Faculty of Mathematics and Natural Sciences, University of Kiel
+Zoological Institute
+Germany
+Adaptation of Pseudomonas aeruginosa to different antibiotics
+poster D20SY22PS0254
+
+Author(s): Barbosa, C, Schulenburg, H, Jansen, G
+
+Summary: 
+
+Pseudomonas aeruginosa is a widespread Gram-negative bacterium found in water, soil, plants and animals. Its diverse array of virulence factors allows it to establish and proliferate in environments ranging from plant roots to the human respiratory tract. It plays an important role in chronic infections such as in cystic fibrosis (CF), and is the most commonly isolated nosocomial bacterium. Pseudomonads naturally possess multiple response mechanisms against antimicrobial treatments granting it resistance against the most commonly used antibiotics. They range from efflux pump systems and complex genetic regulation to intricate social behaviours like biofilm formation or swarming. However, to date, we lack detailed understanding of the relative importance of each of these mechanisms and their interplay during resistance evolution. Thus, our study uses controlled evolution experiments to evaluate in how far different resistance mechanisms are selectively favored throughout P.aeruginosa adaptation to different types of antibiotics.
+
+Alexander Nijevitch
+Faculty of Pediatrics of the Bashkir State Medical University
+Chair of Pediatrics
+Russia
+An adaptive evolution of Helicobacter pylori (H.pylori): what is a role Cag-A loss in the era of antibacterial treatment?
+poster D20SY22PS0024
+
+Author(s): Nijevitch, AA
+
+Summary: 
+
+A resistance to antibacterial drugs is a classic demonstration of natural selection in microorganisms during the period of host-bacterial interaction and high intensity of antibiotic exposure. The aim of the study was to determine the evolutionary role of the CagA pathogenicity island (PAI) presence in the outcome of eradication treatment of H.pylori. Sixty-seven pediatric patients with upper dyspepsia (mean age 13.7 years, range 5 to 17 years, male/female 24/43) undergoing endoscopy were investigated for H.pylori presence. Gastric antral biopsy specimens were taken for histology and/or culture and one biopsy fragment was used for CagA PCR determination. H.pylori+ (positive) patients were treated with a two-week course of amoxycilline (50 mg/kg/day), bismuth subcitrate (8 mg/kg/day), nifuratel (30 mg/kg/day) plus omeprazole (1 mg/kg, once daily). The criterion for eradication of H.pylori was the negative breath ammonia test. Forty one of 67 children (61.2%) were H.pylori+. Nineteen of 41 strains (46.3%) were CagA+ (group I) and 22 were CagA– (negative) (group II) (53.7%). H.pylori was eradicated in 33 patients (80.4%). Among the patients with successful eradication 19 children were CagA+, 14 - were CagA–. Thus, significantly more patients in group II than in group I had evidence of ongoing H.pylori infection (63.6% (14/22) versus 94.7% (18/19); ?2=4.08, p=0.0021). Eight children (19.6%) remained H.pylori+. Obviously, the carriage of CagA-lacking strain was strongly associated with unsuccessful eradication (OR=10.28; 95CI, 1.148 to 92.173). The strains of H.pylori lacking the cag PAI, or parts of it, have lost the island through transformation with an empty site or through deletion mutations. It is possible, that this particular phenomenon, associated with genome plasticity, not just allows the microbe to maintain balanced relationship with the host, but also to survive in antibacterial therapy conditions.
+
+Daniel Rozen
+leiden university
+institute of biology
+Netherlands
+Antibiotic resistance among the killers
+talk D20SY22RT15:45R6
+
+Author(s): Rozen, DE, Grimbergen, A
+
+Summary: 
+
+The discovery and development of antibiotics as part of the medical arsenal is one of the great triumphs in the effort to eradicate bacterial diseases. For more than 70 years these microbial products have worked with remarkable success, transforming the medical landscape and dramatically improving human health. However, despite their tremendous relevance for humans, there is a surprising lack of understanding of the role of antibiotics in nature for the organisms that produce them. Why are antibiotics produced and why do strains in nature evolve to resist them. Here we test the idea that antibiotic-mediated interference competition between coexisting bacterial species in soil drives reciprocal coevolutionary changes as strains evolve novel mechanisms of killing and resistance. Focusing on the prolific antibiotic producing genus, Streptomyces, and their coexisting competitors, we first characterize interaction networks between coexisting Streptomycetes and then ask whether antibiotic resistance shows evidence of local adaptation. Second, we are investigating the costs and in situ fitness of naturally resistant strains of Streptomyces in soil at different antibiotic concentrations and during co-cultivation with Streptomycetes that are natural antibiotic producers. Our work examines the natural context and population dynamics of resistance evolution, thereby providing insight into processes occurring in the clinical environment.
+
+Ana Sousa
+Instituto Gulbenkian de Ciencia
+Portugal
+Antibiotic resistance and stress in the light of Fisher’s model
+talk D20SY22RT14:48R6
+
+Author(s): Sousa, A, Trindade, S, Gordo, I
+
+Summary: 
+
+The role of mutations in evolution depends upon the distribution of their effects on fitness. This distribution is likely to depend on the environment. Indeed genotype-by-environment interactions are key for the process of local adaptation and ecological specialization. An important trait in bacterial evolution is antibiotic resistance, which presents a clear case of change in the direction of selection between environments with and without antibiotics. Here, we study the distribution of fitness effects of mutations, conferring antibiotic resistance to Escherichia coli, in benign and stressful environments without drugs.We interpret the distributions in the light of a fitness landscape model that assumes a single fitness peak. We find that mutation effects (s) arewell described by a shifted gamma distribution, with a shift parameter that reflects the distance to the fitness peak and varies across environments. Consistent with the theoretical predictions of Fisher’s geometrical model, with a Gaussian relationship between phenotype and fitness, we find that the main effect of stress is to increase the variance in s. Our findings are in agreement with the results of a recent meta-analysis, which suggest that a simple fitness landscape model may capture the variation of mutation effects across species and environments.
+
+Jianhua Zhang
+wageningen university
+genetics
+Netherlands
+Azole resistance in Aspergillus fumigatus: condition-dependent mutations for resistance
+poster D20SY22PS0325
+
+Author(s): Zhang, J
+
+Summary: 
+
+Azole resistance in Aspergillus fumigatus: condition-dependent mutations for resistance and compensatory evolution Jianhua Zhang, Sijmen E. Schoustra, Marijke Slakhorst, Bertha Koopmanschap, Alfons J. M. Debets, Paul E. Verweij, Bas J. Zwaan Laboratory of Genetics, Wageningen University; Department of Medical Microbiology, Radboud University, Nijmegen. Abstract: Azole resistance is an emerging problem in the saprophytic mold Aspergillus fumigatus, which is involved in the vast majority of invasive infections in the human lung. Resistance is widespread in the Netherlands with a prevalence of 5.3%. The majority of highly resistant mutants have undergone two mutational events: an insert in the promoter region (tandem repeat TR34) and a point mutation in the structural region of the cyp51 gene (L98H). The occurrence of two mutational events at the same time is highly unlikely to happen by chance. To prevent and stop the spread of azole resistant strains, understanding the condition-dependent occurrence of TR34/L98H resistance and potential compensatory mutations for reducing the cost of resistance in the filamentous fungus A. fumigatus is crucial. We hypothesise that a combination of different modes of reproduction of the fungus facilitates the combination of the cyp51 point mutation with the tandem repeat into one background. In addition, mutagenic and recombinogenic environmental conditions may play an important role in the development of resistance. We present data of our study on the dynamics of TR34/L98H resistance by experimental evolution in the laboratory under various environmental conditions in combination with variation in the life.
+
+Matti Jalasvuori
+University of Jyväskylä
+Department of Biological and Environmental Science
+Finland
+Deadly antibiotics and evolutionary rescue via horizontal gene transfer
+talk D20SY22RT14:24R6
+
+Author(s): Jalasvuori, M, Ojala, V, Mattila, S
+
+Summary: 
+
+Evolution has caused one of the most concrete problems in the modern world by selecting for drug resistant bacteria. When bacteria are exposed to lethal levels of antibiotics, it has been assumed that there needs to be a pre-existing mutation for resistance within the population in order for the bacterial strain to survive the drug treatment. However and given that majority of resistance genes are carried by mobile genetic elements such as conjugative plasmids that can move between bacterial cells, it is possible that the resistance gene pre-exist in another bacterium which then rescues susceptible bacteria via horizontal gene transfer. We investigated whether bacteria may survive lethal antibiotic selection by acquiring resistance genes horizontally, and, if so, could this process be somehow prevented. Indeed and contradictory to previous paradigm, we demonstrate that the resistance does not need to pre-exist within the population as some bacteriosidic antibiotics cannot kill susceptible bacteria when the surrounding bacterial community carries mobile elements with resistance genes. Moreover, we show that viruses specifically infecting bacteria with mobile elements can both prevent the spread of resistances to other bacteria and to lead to the loss of resistance conferring elements from the population. Altogether these results suggest that the composition of bacterial community along with their viruses can play a defining role in the evolution antibiotic resistances.
+
+Clara Torres-Barceló
+University of Oxford
+Department of Zoology
+United Kingdom
+Direct benefit of the SOS response vanishes after long term evolution in P. aeruginosa
+talk D20SY22RT16:09R6
+
+Author(s): Torres-Barceló, C, Moxon, R, McWilliam, M, MacLean, R
+
+Summary: 
+
+Exposure to stressors, such as antibiotics, induces the expression of response pathways that could provide bacteria with a direct fitness benefit, stemming from increased protection against stress, and an indirect fitness benefit, stemming from increased evolvability due to elevated mutagenesis. We have quite a good understanding of the molecular mechanisms of stress response pathways, but quantitative measurements of the direct and indirect fitness benefits and costs associated with stress response pathway expression are lacking. By measuring the competitive fitness of wildtype and LexA mutant (SOS response blocked) strains of P. aeruginosa we show that the SOS response provides with a direct benefit across a range of sub-lethal concentrations of the antibiotic ciprofloxacin. Interestingly, in the absence of the antibiotic, the LexA mutation confers an advantage in the competitive ability and demonstrates the existence of a cost for the cells owning this complex pathway. We also analyse important parameters like cell viability, cell size and growth rate to explain the higher fitness of wildtype during selection with antibiotic. However, we find that the SOS pathway produces no indirect fitness benefit, as demonstrated by the fact that the LexA mutant shows a comparable ability to adapt to ciprofloxacin over a 600 generation selection experiment. Our study clearly demonstrates that natural selection favours the evolution of stress-induced mutagenesis pathways as a result of direct selection for increased stress tolerance and not indirect selection to favour evolvability. Altogether, we contribute with experimental evidence crucial to disentangle if bacterial stress responses play a role in accelerating adaptation to stressors such as antibiotics.
+
+Alex Hall
+ETH Zürich
+Institute of Integrative Biology
+Switzerland
+Effect of Phages on the Cost of Antibiotic Resistance
+talk D20SY22RT15:12R6
+
+Author(s): Hall, A, Angst, D
+
+Summary: 
+
+Experimental studies of antibiotic resistance evolution typically employ a single bacterial species in pure culture. However, outside the laboratory, parasitism of bacteria by viruses (phages) is ubiquitous. I used experimental populations of Escherichia coli to show that phage parasitism altered the outcomes of competitions between antibiotic-resistant and sensitive genotypes. Phages caused rapid selective sweeps, associated with the emergence of phage-resistant mutants, and this was approximately equally likely to favour antibiotic-resistant or sensitive genotypes when their initial frequencies were similar. An elevated mutation rate was advantageous in the presence of phages, suggesting that a given antibiotic-resistant or sensitive genotype is more likely to fix under phage parasitism when it has a high mutation supply rate relative to other genotypes. Given their abundance in nature, phages probably modify selection on other traits in many different scenarios.
+
+Nina Wale
+The Pennsylvania State University
+Biology
+United States
+Manipulation of the within-host environment prevents the emergence of resistant parasites
+poster D20SY22PS1122
+
+Author(s): Wale, N, Sim, DG, Day, T, Read, AF
+
+Summary: 
+
+Aggressive, high-dose drug treatment has been advocated as a resistance management strategy because it dramatically reduces the population size of parasites and thus the probability that a de novo resistance mutation will emerge. However, in mixed genotype infections aggressive drug treatment confers a great selective advantage to any pre-existing drug-resistant parasites and enables their growth by releasing them from competition with drug-susceptible parasites. We attempted to resolve this tension by mimicking the suppressive presence of susceptible competitors by manipulating the availability of a resource necessary to parasite growth. Mice were inoculated with both susceptible and resistant strains of the rodent malaria Plasmodium chabaudi and either provided with a nutrient or deprived of it. Following aggressive antimalarial treatment, resistant parasites in nutrient-supplemented mice grew to densities of ~1 million per microliter, causing a concurrent bout of anaemia. In contrast, no resistant parasites were observed in nutrient-deprived mice, which remained healthy. We concluded that this effect was mediated by the combination of competition and nutrient deprivation since resistant parasites grew well in single infections, irrespective of nutrient treatment. We propose that environment-manipulating compounds, which may go undetected in screens for lethal drugs, might present a novel class of drugs and that this approach is a novel, potentially ‘evolution-proof’, means of slowing the emergence of resistant pathogens.
+
+Sarah Cobey
+University of Chicago
+Department of Ecology & Evolution
+United States
+Mechanisms of balancing selection for antibiotic resistance in Streptococcus pneumoniae
+poster D20SY22PS1261
+
+Author(s): Cobey, S, Lipsitch, M
+
+Summary: 
+
+Selection for antibiotic resistance shapes the evolution of many human pathogens, and understanding how resistant phenotypes arise and spread remains a challenge for evolutionary models. Streptococcus pneumoniae, or pneumococcus, is a common asymptomatic colonizer of the human nasopharynx. Over the past few decades, strains of pneumococcus have emerged that are resistant to several major classes of antibiotics. Curiously, the resistant phenotypes appear to be stably coexisting with sensitive strains. Previous models have suggested that such coexistence is unlikely in the absence of implausibly high levels of population structure or intra-strain competition. Here, we use a computational model that explicitly incorporates known mechanisms of immune-mediated competition to evaluate these and other hypotheses. We find an expanded set of scenarios that support balancing selection, several of which may shape the coexistence of resistant and sensitive strains in other species.
+
+Maya Groner
+Atlantic Veterinary College, University of Prince Edward Island
+Department of Health Management
+Canada
+Modeling resistance to chemotherapeutants in salmon ectoparasites: the influence of treatment regimens and temperature
+poster D20SY22PS1035
+
+Author(s): Groner, ML, Cox, R, Gettinby, G, Revie, CW
+
+Summary: 
+
+Sea lice (Lepeophtheirus salmonis) are ectoparasites of wild and farmed salmonids. On salmon farms they are often controlled using integrated pest management (IPM) programs that include the application of chemotherapeutants. Resistance to chemotherapeutants typically appears on farms after less than a decade of chemical use. Infestations are influenced by environmental factors including temperature. In warmer temperatures, sea lice generation times are shorter and the net reproductive rate is greater. While it is likely that life history changes of this type also increase the rate at which pesticide resistance evolves, this has never been tested. To understand how temperature and IPM programs influence resistance evolution, we constructed individual-based models of a sea lice population that experiences periodic selection by a pesticide. There is support for several different mechanisms of chemical resistance in sea lice and we explore how outcomes differ when resistance is caused by a single gene with large effect in comparison to many genes with small effects. We find that the rate at which resistance evolves is sensitive to temperature, treatment regimens, and the life history stage(s) being targeted for control.
+
+Samuel Tazzyman
+Institute of Integrative Biology at ETH Zürich
+Switzerland
+Modelling antibiotic resistance and plasmids
+talk D20SY22RT16:57R6
+
+Author(s): Tazzyman, SJ
+
+Summary: 
+
+The spread of antibiotic resistance in bacteria is a major public health problem, threatening our ability to treat bacterial infections successfully.
+
+Plasmids, extra-chromosomal pieces of DNA capable of horizontal transfer, are often implicated in the process of resistance acquisition, and potentially allow for the transfer of resistance genes between species and between genera. Some plasmids carry multiple resistance genes, simultaneously counteracting several antibiotics, and in extreme cases acquisition of a plasmid by a pathogen can confer resistance to virtually all antibiotics at a single stroke. The conditions favouring resistance genes to be located on plasmids rather than on chromosomes are therefore potentially of great importance.
+
+Mathematical models are an excellent technique for investigating this topic, because they allow for simultaneous consideration of selection at three levels: genes, plasmids, and bacteria. We use models to consider whether plasmids are a favourable location for antibiotic resistance genes, and how spatially- or temporally-varying selection regimes can affect this. Answers to these questions provide a more complete understanding of the processes underlying the evolution of antibiotic resistance genes on plasmids, and could consequently be of great value in preventing the spread of resistance.
+
+Stéphanie Bedhomme
+IDIBELL
+PREC
+Spain
+Multilevel evolutionary changes after horizontal gene transfer of an antibiotic resistance gene
+talk D20SY22RT18:57R6
+
+Author(s): Bedhomme, S, Amorós-Moya, D, Pujana, M, Valero, L, Bravo, IG
+
+Summary: 
+
+Horizontal gene transfer is a powerful mechanism by which antibiotic resistance spread among species. However, the maintenance of a horizontally transferred antibiotic resistance gene is not granted, because of its low level of adaptation to the receiving organism. In particular, transferred genes usually have codon preferences that differ from the ones of the receiving genome. This leads to translation errors, low translation rates and finally to low activity of the transferred gene and energetic costs for the receiving cell. It is theoretically predicted that a deoptimized codon usage gene will undergo an amelioration process - i.e. its sequence will evolve towards a codon usage similar to the host one - and a fine tuning of its expression and of the expression of interacting genes. To test these predictions, three synonymous versions of the Chloramphenicol Acetyl Transferase with different codon preferences were designed and transfected in Escherichia coli. After verifying that unadapted codon usage induced a fitness cost, we experimentally evolved these populations for 1000 generations. At the phenotypic level, the cost of codon usage deadaptation was totally compensated. However, at the genotypic level, no amelioration process was observed but various genetic changes occurred ranging from mutations in the promoter to gene loss to plasmid copy number reduction and to genetic changes in the bacteria chromosome. At the proteome level, the presence of a codon usage biased gene and the posterior evolution affected the expression of a high number of proteins. Our results suggest that the presence of horizontally transferred gene with a different codon usage induces selection pressures leading to a refactorization of the bacterial functioning. Horizontal transfer of antibiotic resistance gene thus reveals itself, not only as a spreading highway for these genes but also as a powerful mechanism pushing bacteria to explore new ways of functioning.
+
+George Shirreff
+ETH
+Integrative Biosciences
+Switzerland
+Phylogenetics of HIV drug resistance: can resistant strains compete?
+poster D20SY22PS1168
+
+Author(s): Shirreff, G, Stadler, T, Kouyos, R, Yang, W, Yerly, S, Böni, J, Klimkait, T, Aubert, V, Günthard, HF, Bonhoeffer, S
+
+Summary: 
+
+The emergence of drug resistant HIV is a major challenge facing efforts to prevent AIDS and new infections through widespread drug treatment. Much work has focused on the patterns of treatment failure and evolution of drug resistance in infected individuals, but this does not directly correspond to drug resistance evolution in a population. HIV sequences from infected individuals can be used to identify drug resistance mutations, and to reconstruct phylogenetic relationships between viruses, allowing inference of the transmission chain (i.e. the phylogeny). We use HIV pol data from the Swiss HIV Cohort Study to estimate the relative rates of emergence and transmission of drug resistant virus. The inferred phylogeny and drug-resistant status of each individual is fitted to a two-strain birth-death model which quantifies the fitness cost in transmission of drug-resistant strains. Initially the methods have been tested by simulating transmission chains with drug resistance evolution, and then attempting to re-estimate these values. Substantial correlation between the parameters present challenges to their estimation, and indicate that the methods require further development. However, initial results from the data suggest that the basic reproductive number of resistant virus in this cohort is substantially lower than that of the drug sensitive virus. The evolution of virus from sensitive to resistant is a much more common event than reversion to the sensitive type. Drug resistant virus appears to spread too slowly to produce a self-sustaining epidemic, and is instead continually seeded from an ongoing drug sensitive epidemic. However, further refinement of the methods are needed to justify this conclusion. A future key step is to investigate the spread of resistant viruses in high prevalence areas, where drug treatment is increasing, but without the frequency of testing and regime flexibility offered in resource-rich areas.
+
+Laura Pollitt
+Pennslyvania State University
+Center for Infectious Disease Dynamics
+United States
+Selection, characterization and the within-host ecology of drug resistant malaria parasites
+talk D20SY22RT14:00R6
+
+Author(s): Pollitt, LC, Huijben, S, Read, AF
+
+Summary: 
+
+The evolution of drug resistance is a key challenge for our ability to treat and control infections. For malaria parasites artemisinin based drugs are the front line weapons in the fight against disease, but reports from the field of slower clearance rates, are causing concern that the useful life-span of these drugs may be limited. Understanding whether slower clearance rates represent true resistance, and predicting the speed at which this could spread in the field, is challenging due to host effects on clearance rates and the lack of molecular markers. Here we show that Plasmodium chabaudi malaria parasites selected for Artesunate resistance evolve slower clearance rates, similar to those seen in the field, extremely rapidly. These slower clearance rates provide a fitness advantage to parasites exposed to drugs within single infections where overall parasite density, relapse after treatment and transmission potential is higher. Within mixed infections, the fitness advantage is even stronger, as selected parasites experience release from competition with susceptible strains, resulting in higher total parasite densities and greater transmission potential. Additionally, the magnitude of competitive release within mixed infections is dependent on the strength of drug treatment. More aggressive treatment results in a stronger selective advantage to resistant parasites, despite not providing an additional health benefit to hosts when compared to treatment with lower drug doses. Our results show that slower clearance rates can rapidly evolve and provide a strong fitness advantage both in single and mixed strain infections, suggesting this phenotype has the potential to spread within parasite populations. Furthermore, drug dose dramatically influences fitness and transmission potential of resistant parasites, suggesting careful consideration should be given to selecting optimal treatment regimes.
+
+Craig MacLean
+University of Oxford
+Department of Zoology
+United Kingdom
+The evolutionary causes and consequences of divergence in antibiotic resistance between bacterial species: insights from comparative and experimental studies
+talk D20SY22IT10:30R6
+
+Author(s): MacLean, C
+
+Summary: 
+
+This talk will address two unresolved problems: i) Why do species of bacteria differ in their intrinsic resistance to low levels of antibiotics that are found in natural environments? And, ii) How does variation between species of bacteria impact their ability to evolve resistance to high levels of antibiotics that are found in clinical environments? To address these questions, we study antibiotic resistance in bacteria from the genus Pseudomonas: this genus of bacteria shows exceptional levels of phenotypic and genetic diversity, and antibiotic resistance in P.aeruginosa has emerged an important clinical problem. First, I will show how integrating phenotypic and functional genetic measures of resistance into a comparative framework can be used to infer historical patterns of selection on antibiotic resistance and identify the genetic mechanisms that underlie variation in resistance levels between species of bacteria. This comparative work shows that selection drives divergence in resistance among species, and that the underlying genetic mechanism driving this divergence is changes in the number of antibiotic efflux pumps. Second, I will present the results of experiments that explore the ability of different species of Pseudomonas to adapt to a common selective pressure , in the form of a lethal dose of the antibiotic rifampicin. These experiments show that different species vary substantially in their ability to evolve rifampicin resistance, and that this divergence is driven by variation in the mutation spectrum and epistasis for fitness across species. Importantly, we find no evidence of a connection between intrinsic resistance and the ability to evolve high levels of antibiotic resistance. In a broader evolutionary framework, this talk will provide novel insights into how and why species show convergent and divergent adaptations to common selective pressures at a molecular and phenotypic level.
+
+Alison Hill
+Harvard University
+Program for Evolutionary Dynamics
+United States
+The role of antiretroviral dynamics in the evolution of drug resistance in HIV
+talk D20SY22RT11:18R6
+
+Author(s): Hill, AL, Rosenbloom, DIS, Rabi, AS, Georgette, N, Siliciano, RF, Nowak, MA
+
+Summary: 
+
+Despite the high inhibition of viral replication achieved by current anti-HIV drugs, many patients fail treatment, often with emergence of drug-resistant virus. Clinical observations show that the relationship between adherence and likelihood of resistance differs dramatically among drug classes. We developed an evolutionary model that explains these observations and predicts treatment outcomes. Our model incorporates drug pharmacokinetics and pharmacodynamics, fitness differences between susceptible and resistant strains, mutations and patient adherence measures. We show that antiviral activity falls quickly for drugs with sharp dose-response curves and short half-lives, such as boosted protease inhibitors, limiting the time during which resistance can be selected for. We find that poor adherence to such drugs causes treatment failure via growth of susceptible virus, explaining puzzling clinical observations. We examine both monotherapy and combination therapy, demonstrating how the concept of the ‘mutant selection window’ can help explain HIV resistance. Furthermore, our model predicts that certain single-pill combination therapies can prevent resistance, even in the case of imperfect adherence and “drug holidays. We use our results to prioritize a wide range of dual- and triple- therapies based on expected clinical outcomes. Our approach represents a first step for simulating clinical trials of untested anti-HIV regimens and may help in the selection of new drug regimens for investigation. More generally, we show how fluctuating drug concentrations exacerbate the problem of resistance compared to constant doses with the same time averaged concentration or inhibition level, especially when multiple mutations are needed for resistance.
+
+Stefany Moreno-Gamez
+University of Groningen
+Centre for Ecological and Evolutionary Studies
+Netherlands
+The role of drug penetration in the evolution of multi-drug resistance
+talk D20SY22RT18:09R6
+
+Author(s): Moreno-Gamez, S, Hill, AL, Rosenbloom, DIS, Nowak, MA, Pennings, PS
+
+Summary: 
+
+The emergence of resistance in combination therapy can be facilitated by treatment regimes where only one drug is active at certain periods of time, resulting in temporal effective monotherapy (e.g. structured treatment interruptions). This occurs because resistance mutations can arise in a stepwise instead of a concurrent manner when only one drug reaches an effective concentration. We propose that effective monotherapy can also occur at a spatial level because of discordant penetration of drugs into compartments of the body. Here, we present a mathematical model for the evolution of drug resistance in combination therapy when there is differential drug penetration. Our model shows that the presence of body compartments where only one drug in a combination regime penetrates to a therapeutic concentration strongly speeds up the evolution of multi-drug resistance. Resistance mutations are acquired in a stepwise manner through colonization of body compartments where the pathogen can survive without being resistant to all the drugs in the regime. These results offer a possible explanation for the evolution of single-drug resistance in the course of combination therapy. We compare our model results to clinical trials for antiretrovirals and antibiotics to identify cases where stepwise acquisition of mutations can be facilitated by differential drug penetration. Overall, our results suggest that the use of drugs with similar penetration profiles in combination therapy may prevent the evolution of multi-drug resistance.
+
+Frédéric Chevalier
+Texas Biomedical Research Institute
+Department of Genetics
+United States
+Efficient linkage mapping in Schistosoma mansoni using extreme QTL methods and exome sequencing
+poster D20SY22PS0684
+
+Author(s): Chevalier, FD, Valentim, CLL, LoVerde, PT, Anderson, TJC
+
+Summary: 
+
+Classical linkage mapping (LM) can be labor intensive, logistically challenging, expensive and limited in power, because both phenotypes and genotypes must be measured in each of the individual progeny. Extreme QTL (X-QTL, or linkage group selection) methods promise to increase the power and simplify logistics of LM, because many 1000s of progeny can be analysed, and progeny pools rather than individuals are genotyped. In X-QTL analysis large pools of selected and unselected F2 progeny are quantitatively genotyped to identify selected genome regions. We applied this method to examine the basis of oxamniquine (OXA) resistance, a Mendelian trait showing recessive inheritance, in the parasitic fluke Schistosoma mansoni. These parasites have a complex lifecycle utilizing snail intermediate hosts and human definitive hosts (or rodents in laboratory maintenance). We staged a genetic cross between drug sensitive and resistant parasites, then between two F1 progeny, to generate multiple F2 progeny. One group of F2 progeny infecting hamsters were treated with OXA, while a second group was left untreated. We prepared DNA from pooled males and pooled females from treated and untreated F2 populations and then used exome capture to reduce the size of the genome (from 363Mb to 15Mb) for analysis. Exomes from the four groups of pooled progeny (treated and untreated males, treated and untreated females) and the two parents were sequenced to high read depth (>95x) and allele frequencies of 14,489 variants compared between treated and untreated parasites. In both treated male and female pools, we observed dramatic enrichment of alleles (Z=11.07, p=8.74.10^-29) from the resistant parent in a small region of chr. 6. This region contains SmSULT a gene recently implicated in OXA resistance using classical LM. These results validate use of X-QTL methods for an important human pathogen, and will greatly simplify genetic analysis of traits such as virulence and host specificity.
+
+Jeremy Dettman
+University of Ottawa
+Canada
+Evolutionary genomics of epidemic and non-epidemic strains of Pseudomonas aeruginosa
+talk D20SY22RT11:42R6
+
+Author(s): Dettman, JR, Rodrigue, N, Kassen, R
+
+Summary: 
+
+Pseudomonas aeruginosa is an opportunistic pathogen of humans and is the most common bacterial species isolated from the respiratory tracts of adult patients with cystic fibrosis (CF). Chronic infection of the CF lung can lead to decades of direct interaction between the host and resident P. aeruginosa population. Longitudinal studies have documented the patterns of adaptation to the CF lung, and evidence to date suggests that a large number of genes are targets for mutation, but most are mutated in only a small fraction of infections. A more comprehensive view therefore requires the comparison of a larger sample of diverse clinical isolates. To this end, we obtained whole genome sequence data from a collection of P. aeruginosa isolated from the airways of CF patients in order to investigate general patterns of adaptation associated with chronic infection. We also focus attention on a transmissible, epidemic strain that was recently reported within North America. We present multiple lines of evidence that the history of selection imposed by the CF lung environment has a major influence on genomic evolution and the genetic characteristics of isolates causing contemporary infection. We identify candidate genes and important functional pathways, and find that the presence of oxidative stressors and antibiotics appear to be key factors that have driven the adaptive evolution of this pathogen within the host.
+
+Arjan DeVisser
+Wageningen University
+Netherlands
+Exploring the evolvability of an antibiotic resistance enzyme
+talk D20SY22RT17:45R6
+
+Author(s): DeVisser, A, Schenk, M, Salverda, M, Szendro, I, Krug, J
+
+Summary: 
+
+For a quantitative understanding of the process of adaptation, we need to understand its ‘raw material’, that is the properties of beneficial mutations. In my talk, I will focus on two properties in particular, the frequency distribution of fitness effects of beneficial mutations and their epistatic interactions, and how these determine the pathway and outcome of evolution. In the experiments that I will present, we study the in vitro evolution of the enzyme TEM-1 beta-lactamase, a notorious determinant of antibiotic resistance in bacteria. The first two studies are systematic investigations of the short-term evolvability of the enzyme, including the number and effects of beneficial mutations and their epistatic interactions. The last two studies address the role of the structure of the fitness landscape (caused by epistasis) and population size on long-term evolvability. Surprisingly, we find that small populations sometimes reach higher resistance than large populations, showing the important role of chance events for long-term adaptation.
+
+Adin Ross-Gillespie
+University of Zurich
+Institute of Plant Biology
+Switzerland
+Extracellular quenching of bacterial public goods as an ‘evolution-proof’ anti-virulence therapy: a case study with Pseudomonas aeruginosa
+talk D20SY22RT18:33R6
+
+Author(s): Ross-Gillespie, A, Weigert, M, Weigert, M, Brown, SP, Kümmerli, R, Kümmerli, R
+
+Summary: 
+
+Many bacterial exoproducts yield population-level benefits. Such ‘public goods’ (PG) include key virulence factors, and therapies designed to block their production are attracting increasing attention nowadays. The disruption of cell-to-cell communication (quorum sensing, QS), is considered especially promising because it could block production of multiple exoproducts, yet should prompt weaker selection for resistance than conventional antimicrobials. However, initial enthusiasm for this approach (‘quorum quenching’, QQ) has been tempered by claims that resistance in fact evolves readily, for example by improving pumps to eject QQ compounds from cells. Here, we focus on a different strategy, in which PGs (siderophores) are quenched outside producer cells. We show that adding gallium (Ga) to iron-limited Pseudomonas aeruginosa cultures suppresses growth in a dose-dependent manner by (a) deactivating siderophores and thereby choking the supply of iron, and (b) inducing costly production of further siderophores. In experimental infections of moth larvae (Galleria mellonella), Ga suppressed bacterial growth and extended larval survival. Crucially, moderate levels of Ga reduced virulence below those of infections with siderophore-defective mutant strains, which suggests that Ga also induces siderophore overproduction in vivo, imposing extra metabolic burden on bacteria without generating benefits. We argue that strategies that quenching secreted PGs extracellularly should be more effective than those that inhibit synthesis in the cell, since PG production costs remain or even increase. With Ga-mediated PG-quenching, resistance is particularly unlikely to evolve because (a) extracellular quenching is impervious to typical within-cell resistance traits; (b) avoiding siderophore production is maladaptive (non-producing ‘cheats’ could not spread in our experiments); and (c) evolving siderophores with reduced susceptibility to Ga appears to be biochemically unfeasible.
+
+Claudia Seiler
+Faculty of Environmental Sciences, Technische Universität Dresden
+Institute of Hydrobiology
+Germany
+Heavy metal driven co-selection of antibiotic resistances in aquatic environments and an evolution based concept of risk assessment
+poster D20SY22PS1456
+
+Author(s): Seiler, C, Von Tümpling, W, Sachse, R, Berendonk, TU
+
+Summary: 
+
+Recently, it has been realized that an important part of the dissemination of antibiotics and the evolution of antibiotic resistant microbes depends on aquatic environments. In aquatic environments, bacteria from different origins (human, animal, environmental) are able to mix in the presence of antibiotics or other pollutants such as heavy metals. Thus, the objective of our study was to identify which heavy metals potentially induce co-selection for antibiotic resistances in aquatic environments. Therefore, the available data on heavy metal driven co-selection in aquatic environments was reviewed and an evaluation criterion named minimum co-selective concentration (MCC) was developed. The MCC describes the lowest heavy metal concentration which was detected in correlation with increased bacterial antibiotic resistances in the environment. Additionally, a case study at the Western Bug River (Ukraine) investigating heavy metal concentrations of river water and sediment as well as antibiotic resistance of isolated Pseudomonas and Aeromonas strains was conducted. The results of both, the literature and the case study, indicate that metals such as mercury (Hg), cadmium (Cd), copper (Cu), and zinc (Zn) reach aquatic environments and accumulate to critical concentrations that trigger co-selection for antibiotic resistance. Hence, future risk assessments for antibiotic resistance evolution should move from a clinical perspective towards an environmentally based assessment, considering sublethal concentrations of selective pollutants such as heavy metals. The here presented approach also considers evolutionary processes such as selection, co-selection and mutation. This approach towards a novel concept for risk assessment will be pivotal for detecting antibiotic resistance evolution in the environment.
+
+Joana Serra
+BioFIG: Center for Biodiversity, Functional & Integrative Genomics
+Microbiology and Biotechnology Lab
+Portugal
+Hormesis as a resistance enhancer in Stenotrophomonas maltophilia: which consequences for clinical therapy?
+poster D20SY22PS0989
+
+Author(s): Serra, J, Tenreiro, R, Dias, R
+
+Summary: 
+
+Opportunistic pathogens are exposed to antimicrobial subinhibitory concentrations in nature and human body compartments during antibiotherapy. According to hormesis concept, although high therapeutic antimicrobial levels inhibit pathogens growth, subinhibitory concentrations could have a stimulatory effect in growth. Hence, this work aimed to probe bacterial growth stimulation by antimicrobials and assess if such stimulatory concentrations could enhance resistance in intrinsically resistant opportunistic pathogens, environmentally sourced, as Stenotrophomonas maltophilia. Using S. maltophilia D457 strain and a derivative mini-Tn5-mutant library, minimal stimulatory concentrations (MSCs) and minimal inhibitory concentrations (MICs) were established and used in evolution experiments performed until 157 generations. In accordance with hormesis, bacterial growth was stimulated under subinhibitory concentrations, at MSCs 16, 160 and 64 fold lower than MICs of norfloxacin, chloramphenicol and carbenicillin, respectively. Continuous exposure to MSCs during 157 generations lead to MICs 4 fold higher for norfloxacin, and 3 fold higher for chloramphenicol and carbenicillin, in comparison with evolution in antibiotic absence, and MICs 8, 6 and 4 fold higher, in comparison with initial generation. Exposures to MSCs during 9 or 157 generations lead to similar resistance levels. Thus, our results suggest that stimulatory concentrations, present in nature or human body compartments, might lead to the swift enrichment or emergence of resistant mutants, contributing to therapy failure as well as to the rapidity of epidemiological spread of S. maltophilia resistance determinants in clinical environments. This work highlights the importance of hormesis to be included in pharmacokinetic-pharmacodynamic modelling of existing and newer antimicrobials, to predict the impact on the rapidity and potential development of antimicrobial resistance in such relevant opportunistic pathogen.
+
+Uri Obolski
+Faculty of lifw sciences Tel-Aviv university
+department of molecular biology and ecology of plants
+Israel
+Implications of stress-induced genetic variation for minimizing multidrug resistance in bacteria
+poster D20SY22PS0153
+
+Author(s): Obolski, U, Hadany, L
+
+Summary: 
+
+Antibiotic resistance in bacterial infections is a growing threat to public health. Recent evidence shows that when exposed to stressful conditions, some bacteria perform higher rates of mutation and horizontal gene transfer, and thus acquire antibiotic resistance more rapidly. We incorporate this new notion into a mathematical model of ordinary differential equations describing the emergence of antibiotic multi-resistance in a hospital setting. Results: We show that when stress has a considerable effect on genetic variation, the emergence of antibiotic resistance is dramatically affected. In contrast with classical models, a strategy in which patients receive a combination of antibiotics (combining) is expected to facilitate the emergence of multi-resistant bacteria when genetic variation is stress-induced. The preference between a strategy in which one of two effective drugs is assigned randomly to each patient (mixing), and a strategy where only one drug is administered for a specific period of time (cycling) is determined by the resistance acquisition mechanisms. We analyze several features of the mechanisms by which stress affects variation and predict the conditions for success of different antibiotic treatment strategies. These findings should encourage the research of stress-induced genetic variation mechanisms and establish the importance of incorporating data about these mechanisms when considering antibiotic treatment strategies.
+
+Alexey Mikaberidze
+ETH Zurich
+Institute of Integrative Biology
+Switzerland
+Invasion of fungicide resistance: is spatial scale important?
+poster D20SY22PS1332
+
+Author(s): Mikaberidze, A, Bonhoeffer, S, McDonald, BA
+
+Summary: 
+
+Fungicide resistance is an urgent problem in agriculture. It makes the chemical control of fungal diseases of plants ineffective and leads to sever crop losses. In order to manage fungicide resistance, a thorough understanding of invasion, persistance and spread of fungicide-resistant pathogen strains is required. At the same time, the dynamics of fungal diseases of plants is strongly influenced by spatial scales of the host-pathogen interaction: spatial extension of the host population and the dispersal range of the pathogen. Here, we explore theoretically the effect of these characteristic spatial scales on the invasion of fungicide resistant pathogen strains using a population dynamics modeling framework.
+
+Melanie Ghoul
+University of Oxford
+Zoology
+United Kingdom
+Loss of a cooperative trait affects strain competition in cystic fibrosis lung infections
+poster D20SY22PS0626
+
+Author(s): Ghoul, M, Griffin, AS, West, SA
+
+Summary: 
+
+Pseudomonas aeruginosa is an opportunistic human pathogen that is the predominant cause of pulmonary exacerbation in patients with cystic fibrosis (CF), where most individuals succumb to infection at very early stages and subsequently suffer from prolonged chronic infections. P.aeruginosa harbours a suite of social and competitive traits. Among these traits is the production of bacteriocins, knows as pyocins. An estimated 90% of P.aeruginosa strains produce pyocins and bacteria generally exhibit immunity to their own pyocin production. It has been demonstrated that social traits are lost with increasing colonization time over the course of a pulmonary infection when the bacteria become established, highly adapted and specialized to the CF lung. Pyocins are necessary to colonise the new environment of the CF lung, however, pyocigenicity and its associated competitive ability may be lost once an infection becomes established and chronic, in response to differential selective pressures within the lung. In this study I examine the diversity of pyocin production and resistance profiles of strains isolated from a non-lung environment and strains isolated at progressive stages from a pulmonary CF infection. Reduced pyocigenity and increased susceptibility to pyocins can have important implications in the treatment of P.aeruginosa pulmonary infections.
+
+Victoria Furio
+University of Oxford
+Department of Zoology
+United Kingdom
+Macroevolutionary dynamics of intrinsic antibiotic resistance in Pseudomonas
+poster D20SY22PS1327
+
+Author(s): Furio, V, MacLean, C
+
+Summary: 
+
+The anthropogenic use of antibiotics has driven the rapid evolution of high levels of resistance, but the extent to which antibiotics imposed selection for resistance in the pre-human era remains largely unknown. Using a novel comparative approach to study resistance, we show that selection for low levels of antibiotic resistance (“intrinsic resistance”) is ancient in bacteria from the genus Pseudomonas. At a phenotypic level, we show that divergence in intrinsic resistance between species does not correlate to evolutionary distance, suggesting that the evolution of resistance is driven by selection, and not neutral drift. Consistent with this argument, we find evidence of a genome-wide trade-off between intrinsic resistance and competitive ability, implying that selection is required to maintain resistance. Recent work has shown that hundreds of genes with diverse functional roles contribute to intrinsic resistance, but we show that approximately 80% of the phenotypic variation in resistance between species is determined by variation in a small number of genes with known roles in protection against antibiotics, most of which are antibiotic efflux pumps. Importantly, these are the same genes that provide the dominant mechanism for the evolution of resistance to clinical doses of antibiotics in Pseudomonas. In summary, our study shows that antibiotics represent an ancient evolutionary pressure, suggesting that historical patterns of evolution of resistance are likely to play a key role in determining the potential for evolving resistance to clinical doses of antibiotics.
+
+Yue Wu
+University of New South Wales
+School of Biotechnology & Biomolecular Sciences
+Australia
+Understanding the dynamics of evolutionary rescue in terms of changing environments and reaction norms: an application to bacterial populations
+poster D20SY22PS0309
+
+Author(s): Wu, Y, Saddler, CA, Valckenborgh, F, Tanaka, MM
+
+Summary: 
+
+Populations can go extinct when their environments deteriorate, but evolutionary rescue occurs when a shrinking population adapts to the new environmental conditions. Studies of ecological dynamics of biological populations have ignored their underlying genetic structure. By studying evolution in the context of bacteria, we can link these two aspects and gain a better understanding of the antimicrobial resistance problem. Resistance often comes at a cost to fitness in drug absence. Compensatory mutation can reduce this cost without losing resistance in drug presence. When the compensatory allele is so strong that it has the highest fitness across all environmental conditions (no trade-off), we call it a Superbug.
+
+We develop a stochastic simulation model of evolutionary rescue to investigate the roles of 1) different forms of environmental change, 2) the interaction between genotype and environment (reaction norms), and 3) trade-off strength in reaction norms. In particular, we study sensitivity, resistance and compensatory mutation through reaction norms in fluctuating environments (periodically varying drug concentrations). Our model allows us to examine the joint effects of the inter-dose period and drug dosage per single intake.
+
+We find that the form of environmental change is critical to evolutionary rescue because it determines whether the population evolves to a fitter phenotype before its fitness falls below a survival threshold. Our results show high enough doses clear the infection effectively, but the period between doses generally has little effect on the outcome. We also find that the Superbug has surprisingly little effect on the probability of extinction and rescue via evolution of compensatory mutation in periodically fluctuating environments.
+
+Martina Bradic
+New York University
+Biology Department
+United States
+Understanding the genetic basis of drug resistance in Trichomonas vaginalis
+poster D20SY22PS0847
+
+Author(s): Bradic, M, Scheid, P, Secor, WE, Carlton, JM
+
+Summary: 
+
+In light of antimicrobial role in shaping genetic variation, understanding the regulation and control of drug resistance is imperative. Trichomonas vaginalis is the most widespread non-viral sexually transmitted pathogen in the world: it is commonly treated with the 5-nitroimidazole group of drug with pronounced resistance prevalence of up to 9.5%. The causes underlying resistance in T. vaginalis remain unknown. Our earlier studies of population structure in 46 clinical isolates using 21 microsatellite loci showed the drug resistance phenotype associated with genetic Type. This suggests a genetic component to 5-nitroimidazole resistance, although which genes are involved and whether recombination plays a role in acquiring drug resistance, remain to be determined. We started our studies by phenotyping a further 141 global isolates of T. vaginalis for metronidazole resistance using a minimum lethal concentration assay. Resistance was observed as follows: New York City: 22%; Mexico: 9%; Papua New Guinea: 8%; Africa: 4%; no resistant isolates were identified in 10 and 12 isolates from Australia and Italy, respectively. To obtain a detailed view of genome-wide variation in these total 187 isolates, we used double digest Restriction-Site Associated DNA (ddRAD) sequencing, which allows for partial genome sequencing and thus enables the highly repetitive regions of the T.vaginalis genome to be avoided. Using EcoRI (found to cut 5 times more frequently in unique regions of the genome) together with NIaIII enzymes for ddRAD library construction, we generate sequence data for 48 metronidazole resistant and sensitive T. vaginalis isolates using the Illumina HiSeq. The reference genome assembly and annotation served as a control. On average, 50% of high-quality reads mapped back to the reference assembly. A total of ~6,900 unique gene regions from ~57,000 were sequenced to 20X or more coverage. Variant discovery to uncover the genetic basis of drug resistance are in progress.
+
+Kristan Schneider
+University of Applied Sciences Mittweida
+Department MNI
+Germany
+Why anti-malarial drug resistance is spreading faster in Plasmodium falciparum than in Plasmodium vivax
+talk D20SY22RT16:33R6
+
+Author(s): Schneider, KA, Escalante, AA
+
+Summary: 
+
+Affiliation: Full Professor, University of applied Sciences Mittweida, Germany
+
+Abstract: Drug treatments - in the absence of vaccines - are a major component of malaria control program. The two human malaria agents, P. falciparum and P. vivax, causing the most morbidity and mortality have distinct characteristics that affect their treatments. Considering these species-specific differences is crucial for control and elimination efforts. Particularly, the rapid evolution of drug-resistant P. falciparum is currently a source of concern for global health. A complex compound of particular steps (fitness components) in the malaria life cycle determines evolutionary fitness of drug-resistance-conferring mutations. Differences in fitness components affect how selection imposed by interventions, e.g. drug treatments, differentially acts on each Plasmodium species. We formulate a population-genetic model that explains how different fitness components affect selection for drug resistance, focusing on: (i) characteristics of sexual parasite life stages responsible for host-to vector transmission; and (ii) presence of dormant liver-stage parasites. The model explains why drug-resistance is evolving much faster in P. falciparum than in P. vivax. The model’s data-driven nature (i.e., parameters can be estimated from molecular data) has the potential to facilitate new experimental designs to better understand drug-resistance evolution in terms of clinically measurable quantities. A successful malaria control/elimination program should incorporate how differences in fitness components across malaria species affect adaptive evolution (e.g. the emergence of drug resistance).
+
+Reference: Schneider, KA, Escalante, AA (2013). Fitness components and natural selection: why are there different patterns on the emergence of drug resistance in P. falciparum and P. vivax? Malaria J. 12: 15.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

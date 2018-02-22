@@ -1,0 +1,1108 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY02: Selection and evolution in natural populations
+ Abstracts list Schedule Description
+View only talks or posters
+Henri Thomassen
+University of Tübingen
+Institute of Evolution and Ecology
+Germany
+A potential role for ecologically mediated sexual selection in the divergence of Tropical Pacific honeyeaters (Myzomela)
+poster D23SY02PS0202
+
+Author(s): Thomassen, HA, Waider, C, Dekker, RWRJ, Smith, TB
+
+Summary: 
+
+The relative roles of neutral and selective processes in divergence are of key interest in evolutionary biology. Due to the many large and small islands, the Indopacific area constitutes an ideal natural laboratory to study the different modes of diversification. It is a biotically extremely rich region, and as a result is designated as several distinct biodiversity hotspots. It was suggested that the islands of the Pacific are a likely source of biodiversity, rather than a sink of species that originated on the mainland, as has long been the established hypothesis. We use landscape genetic approaches to study the potential roles of drift, natural selection, and sexual selection to study the divergence among island and mainland species of sexually dimorphic honeyeaters, Myzomela sp. Sequence and microsatellite data indicate that these populations either very recently diverged or experience ongoing gene flow, and planned coalescence-based analyses will be useful in distinguishing these two hypotheses. We found that males exhibit distinct differences between islands in plumage coloration and song, but not in other, fitness-related morphological traits. Females did not show divergence in any morphological traits between islands. Environmental heterogeneity explained the observed divergence in song frequency characteristics, whereas oceanic barriers better explained divergence in temporal traits. These results suggest that sexual selection is a potential factor in maintaining and deepening population differentiation, and that environmental conditions pose selection pressures on some but not all sexual traits. The role of sexual selection in population divergence will be further evaluated using mate choice experiments.
+
+Josefa Gonzalez
+Institute of Evolutionary Biology (CSIC-Universitat Pompeu Fabra)
+Spain
+Adaptive TE insertions in Drosophila: NATs, miRNAs, and piRNAs
+poster D23SY02PS1236
+
+Author(s): Gonzalez, J, Ullastres, A, Mateo, L
+
+Summary: 
+
+Recent Transposable Element (TE) insertions in Drosophila melanogaster are a useful tool to identify adaptive mutations. The objective of this study is moving from the identification of a putatively adaptive TE insertion to the molecular mechanisms and associated fitness effects. We have focused on a TE insertion located in the 3'UTR region of Kmn1 gene. The 3´UTR of Kmn1 overlaps with the 3´UTR of its nearby gene, CG11699, giving rise to a cis-natural antisense pair of transcripts (cis-NATs). We found that besides being incorporated into the 3’UTR of Kmn1, the TE insertion also affects the transcript length of CG11699. Specifically, the TE disrupts the GU-rich downstream element of the distal polyA signal of CG11699 and as a consequence a shorter transcript is produced. These structural changes are very likely to have functional consequences since the presence of the TE adds (Kmn1) and eliminates (CG11699) miRNA binding sites, introduces piRNA binding sites (Kmn1) and affects the length of the overlapping region between these two genes. Indeed, we detected that this TE insertion is associated with an under-expression of Kmn1 and an over-expression of CG11699. In order to identify the phenotypic effect of this insertion, we first focused on CG11699 since this gene is involved in the activation of Aldh-III, an enzyme involved in xenobiotic metabolism. We found that the TE insertion is associated with an increased survival rate after an acute exposure to benzaldehyde, a prototypical drug classically used to assess Aldh-III activity, strongly suggesting that this TE confers resistance to xenobiotic stress. Our results show that a single mutational event has broad molecular consequences that can be translated into ecologically relevant phenotypic effects. This example reinforces the idea that TEs are a powerful natural tool for genome evolution.
+
+Joost Raeymaekers
+University of Leuven
+Department of Biology
+Belgium
+Adaptive divergence in two coexisting stickleback species
+talk D24SY02RT11:18R3
+
+Author(s): Raeymaekers, JAM, Chaturvedi, A, Konijnendijk, N, Maes, G, Volckaert, F
+
+Summary: 
+
+Natural populations are at least partially adapted to local environmental conditions. The level of adaptation is promoted by divergent selection on ecologically relevant traits, but hampered by gene flow. The relative strength of both forces depends on genomic architecture as well as dispersal abilities, both of which might differ between species. In this study, we tested for divergent selection and gene flow in two coexisting and phylogenetically related species, the three- and nine-spined stickleback. Populations occur across very similar environmental clines in biotic and abiotic conditions (salinity, oxygen concentration, predation, parasites and prey), and were sampled within exactly the same spatial matrix. In each species we assessed gene flow between populations from contrasting environments and determined divergence in ecologically relevant traits (body shape, armour, spleen size, and trophic morphology). An analyses of genome-wide differentiation was used to identify the genomic basis of adaptation. Based on these data we compared the relative strength of divergent selection and gene flow in both species, as well as the biological functions of the genes under selection. We discuss how these relationships explain how both stickleback species maintain partially overlapping habitats.
+
+Rolando Rodríguez-Muñoz
+University of Exeter
+School of Biosciences
+United Kingdom
+Age related changes in fitness traits in a wild field cricket population
+talk D22SY02RT11:18R1
+
+Author(s): Rodríguez-Muñoz, R, Tregenza, T
+
+Summary: 
+
+Evidence for senescence in nature has been found in a growing number of vertebrate species, particularly birds and mammals, and more recently in a few invertebrates. Insects have proved very suitable for the study of senescence in laboratory studies but their mobility and small size make them very difficult to follow in their natural environment. We have extended the study of insect ageing into the wild, by using up to 90 video cameras to continuously monitor a natural field cricket population. We tagged individuals immediately after they became adult and followed them until their death was either inferred or directly observed. We recorded mating and fighting success, singing activity and movement over the entire adult life of individual crickets for five consecutive generations. We examine changes in behaviour over the adult lifespan and relationships with reproductive success. This allows us to determine whether crickets senesce in our population in terms of both survival probability and changes in behavioural measures such as activity, and to ask questions about interactions between ageing and sexual selection. Our model system provides an excellent opportunity for the study of the selective pressures acting on life history and ageing in wild insects.
+
+Sergey Lysenkov
+Biological Faculty of Lomonosov Moscow State University
+Department of Biological evolution
+Russia
+Ant preadaptation to the urbanized territories: case study
+poster D23SY02PS1155
+
+Author(s): Lysenkov, S, Oparina, N
+
+Summary: 
+
+Urbanization is now one of the greatest threat caused on wildlife by human activity. Its negative impact consists of habitat and community destruction, high level of chemical, thermal and light pollution etc. Urban entomofauna is greatly depleted, but extinction is not random. Recently it has been shown that black garden ant Lasius niger (Hymenoptera: Formicidae) is the most robust to the urbanization pressure. It becomes even more abundant in the most disturbed areas in Moscow city. This species is also very interesting for ecological and evolutionary researches because it is widespread, in contrast to the genetically most studied ant species. We sequenced L. niger genome using NGS technology to search for possible adaptation to the urbanization pressure. Several results which can be treated as preadaptation were revealed. For example, detoxification system is often involved in the urban adaptation. We found that this species has an expansion of cytochrome P450 gene subfamily 9 which is unusual to hymenopterans – this subfamily is expanded in humans. This feature could possibly play a role in preadaptation to the urbanized environments. The next stage of the study is the search for the possible selective sweeps in urban populations.
+
+Adam Marques
+Trent University
+Environmental Life Sciences
+Canada
+Assessing caribou ecotypes using functional genes
+poster D23SY02PS0691
+
+Author(s): Marques, AJ
+
+Summary: 
+
+Woodland caribou in Ontario use one of two distinct predator avoidance strategies during calving, commonly referred to as behavioural ecotypes. Migratory caribou undergo seasonal shifts in their range from boreal to tundra coasts while sedentary caribou disperse throughout the boreal forest. This project will assess the degree of genetic differentiation between caribou ecotypes within Ontario using functional gene markers. Range overlap and a mixture of caribou lineages in Ontario has made genetic differentiation challenging to detect with traditional neutral markers. Functional genes, however, are subject to selective pressure and may parallel differences between ecotypes. Six genes have been selected for analysis: Mc1R, DRD1, Cyt b, Opsin, IGF1, and PRKG1 several of which are known to vary among caribou subspecies. DNA will be extracted from multiple sources including blood, tissue, and feces. Functional genetic markers will be isolated using Reverse Transcription Polymerase Chain Reaction (RT-PCR) then sequenced using a next-generation sequencer to identify individual genotypes. Once sequenced, a statistical analysis will investigate whether a functional genotype can be ascribed more commonly to a particular ecotype. Determining the relationship between genotype and ecotype can provide insight into the adaptive potential of caribou in response to further northern development. Providing an alternative to mitochondrial classification may help to establish distinctions between caribou ecotypes for management purposes.
+
+Sara Valente
+Centre of Marine Sciences
+Portugal
+Assessing the effects of human selection through fishery on sea cucumber genetic structure and population dynamics
+poster D23SY02PS0791
+
+Author(s): Valente, SM, Sen, O, Ciftci, Y, Aydin, M, Serrão, E, González-Wangüemert, M
+
+Summary: 
+
+Increased fishing pressure has resulted in widespread overexploitation of populations, with declines in overall abundance of stocks and average size; adverse genetic selection leading to loss of potential fecundity; reduced average spawning size; change of sex-ratio and interspecific equilibrium; and loss of genetic diversity. After the failure of traditional management measures, marine protected areas have been strongly advocated as an ideal tool for the management of coastal fisheries protecting critical spawning stock biomass, intraspecific genetic diversity, population age structure, recruitment supply and ecosystem balance. The sea cucumber fisheries have increased world wide and several species (Holothuria polii, H. tubulosa and H. mammata) are now targeted in Turkish waters reaching a total production around 600,000 kg in the last year. In this work, we assess the fishery effects on the genetic structure and population dynamics of three sea cucumbers species. We found significant differences in H. tubulosa and H. polii among protected (Kusadasi) and non-protected (Ayvalik) localities considering their length and weight, showing Kusadasi the largest and heaviest individuals. H. mammata did not shown significant differences. Also, we found higher genetic diversity for the three target species (number of total and exclusive haplotypes, haplotype and nucleotide diversity, polimorphic sites) in Kusadasi (marine protected area) than Ayvalik.
+
+Anna Nordén
+Lund University
+Dept. of Biology
+Sweden
+Assortative mating strength and selection of morphological characters in natural populations of two closely related damselfly species
+poster D23SY02PS0606
+
+Author(s): Nordén, AK, Svensson, EI, Waller, J
+
+Summary: 
+
+Assortative mating occurs when individuals in a population mate non-randomly and there is a correlation with respect to traits between individuals in mated pairs. It is important in evolutionary processes in that if selection acts on the same trait, assortative mating may lead to speciation and reproductive isolation. On the other hand, if assortative mating is free of selection, it will lead to stabilizing selection within a population. In this study, I examined assortative mating strength within and between two sympatric damselfly species (Calopteryx splendens and Calopteryx virgo) by correlating the male and female morphological characters in mated pairs. In addition, I investigated the relationship between assortative mating and sexual selection (linear, ß and quadratic, ?) on the same traits for these damselfly species. In both species, positive assortative mating was more common than negative assortment (disassortative mating). Thorax width in both species had the greatest assortative mating strength. There was no relationship between assortative mating strength and linear selection or quadratic selection. This indicates that there is no strong connection between assortative mating and sexual selection on the same traits. Assortative mating strength for C. splendens and C. virgo were concordant, and positive, suggesting that there is no noticeable reproductive isolation between these two species and that stabilizing selection is probably operating. Rather, assortment in both species is based on quality, where high-quality males get high-quality females. This study contributes to the knowledge about evolution and selection in natural populations.
+
+Luka Rubinjoni
+Faculty of Biology, University of Belgrade
+Chair of Genetics and Evolution
+Serbia
+Boys and girls and plant-eaters: Is herbivory sex-biased in Mercurialis perennis?
+poster D23SY02PS1110
+
+Author(s): Rubinjoni, L, Vujic, V, Selakovic, S, Cvetkovic, D
+
+Summary: 
+
+Sex-biased herbivory has been implicated as one of the driving forces in the evolution of dioecy. Different partitioning of resource sources and sinks in male and female plants allows different defense strategies. Along with constitutive and induced defences, plants can tolerate herbivore damage to a certain extent, and can ameliorate the pressure through changes in phenology and life history. Gender-dimorphic species of genus Mercurialis are informative model systems in addressing questions in plant evolutionary ecology, including interactions with herbivores. For Mercurialis annua, the most commonly studied species of the genus, herbivore prefference for male plants has been demonstrated in experimental conditions. The aim of our study was to explore the pattern of herbivore damage in natural populations of Mercurialis perennis, a dioecious perennial herb with wide geographic and altitudinal distribution. Plants were sampled from a range of habitats in Serbia. Damage to leaf area was scored and used as an estimate of herbivore load. Herbivore damage was examined in relation to plant gender, altitude, plant height and reproductive allocation. Our results do not confirm the pattern of male-biased herbivory in natural conditions. The variance of herbivore damage between the sexes among the habitats was large, with highly significant effect of site, and non significant effects of sex and sex-site interaction. In a montane population, herbivore damage was male-biased, but without statistical significance. Studied populations showed male-biased sexual size dimorphism. The study of Mercurialis perennis offers a promising approach to better understanding the effect of plant gender on general vigor, tolerance and resistance to herbivores.
+
+Johanna Griebel
+Ludwig-Maximilian Universität München
+Biology
+Germany
+Can a hybrid outcompete its parental species? - a story about a “super clone“ (Daphnia galeata × longispina hybrid)
+poster D23SY02PS0380
+
+Author(s): Griebel, J, Poxleitner, M, Navas Faria, A, Giessler, S, Wolinska, J
+
+Summary: 
+
+The role of hybridization in evolution has been underestimated for a long time. For example, hybrids were often considered less fit then their parental species, due to genetic incompatibility. However, hybridization occurs frequently in plants and in animals. Our recently collected field data showed that a Daphnia community of a small quarry lake in Munich, normally consisting of parental species and hybrids belonging to the D. longispina complex, has become dominated by a single hybrid clone - the “super clone”. By creating artificial communities consisting of the “super clone” and other clones of the D. longispina complex, we proved the competitive strength of the “super clone”. After ~6 generations the “super clone” had increased from 8% to 100% in some of the artificial communities. Additionally, we studied fitness parameters of these clones, kept under two different temperatures. Here, there was no special performance of the “super clone”. Therefore we are currently comparing the carrying capacity of “super clone” with the other clones, by measuring the change in numbers of Daphnia over time, in a certain volume of water. Additionally, we will study fitness parameters of the clones under crowding (and control) conditions. The crowded media will be obtained from crowded stock cultures. We expect the “super clone” to have higher carrying capacity as well as to be less affected by crowded media than the other clones, thereby preventing the other clones from reproducing and establishing within the population. Finding the pattern that makes the “super clone” so special will contribute to a general knowledge about hybrid-specific traits and their contribution to evolutionary processes.
+
+Cornelia Pokalyuk
+School of Life Sciences of EPFL
+Institute of Bioengineering
+Switzerland
+Characterizing the adaptive history of infection in Human Cytomegalovirus (HCMV)
+poster D23SY02PS0996
+
+Author(s): Pokalyuk, C, Renzette, N, Kowalik, T, Jensen, JD
+
+Summary: 
+
+Beginning with Sewall Wright’s Shifting-Balance Theory, the field has long debated the relative importance of models of population subdivision with migration in dictating the mode and tempo of adaptation. And yet, analytical results and statistical tests of selection appropriate for selection in structured populations have been lacking. We will present recent theoretical results on sweeps in such non-equilibrium models, which lend themselves to a new class of haplotype based test statistics for identifying and quantifying recent adaptive fixations. We apply these results to time-sampled data of Human Cytomegalovirus – a natural population on which to utilize this model given compelling evidence for not only between but also within host population structure – and evaluate the history of adaptation associated with immune-related mechanisms.
+
+Ary Hoffmann
+University of Melbourne
+Genetics
+Australia
+Clinal selection in Drosophila: what have we learnt, where are we going?
+talk D23SY02IT10:30R1
+
+Author(s): Hoffmann, AA
+
+Summary: 
+
+Clines have traditionally been used to investigate patterns of selection on phenotypes and genotypes involved in climatic adaptation. More recently, clines are being used to test for changes in patterns of adaptation across time. Modern genomic and transcriptomic approaches are now being applied to understand patterns of clinal adaptation at a fine level and to allow new sets of questions to be considered and a new level of understanding to be reached. Here I focus on recent Drosophila work to overview the opportunities and challenges provided by these new approaches and how they can be integrated into the more traditional work. I also consider the ways in which experimental work in field and laboratory settings can be used to further understand patterns of selection.
+
+Simone Vincenzi
+University of California Santa Cruz (US) and Polytechnic of Milan (Italy)
+United States
+Combining demography with quantitative and population genetics to infer the adaptive potential of small populations
+poster D23SY02PS0642
+
+Author(s): Vincenzi, S, Mangel, M, Crivelli, AJ, Garza, CJ
+
+Summary: 
+
+The adaptive potential of small and isolated populations is a central question in evolutionary biology. The ability of small populations to respond to new selective pressures is often limited by low additive genetic variability at loci underlying important life-history traits. These traits are often density- and frequency-dependent, and vary in both space and time. To improve ability to predict the magnitude and rate of adaptation to a changing environment in small populations requires combining demography with quantitative and population genetics. Marble trout (Salmo marmoratus) living in Slovenian streams provide a model system for investigating life-history evolution, adaptive potential and the contribution of stochastic events to population dynamics in small and geographically-constrained fish populations. Marble trout populations are isolated, have low density and small population sizes, and harbor low neutral genetic variation; they also experience high mortality caused by flash floods that further contribute to the erosion of genetic variability. To tease apart the contribution of plasticity, resource limitation, genetic drift and natural selection on expression of life-history traits in marble trout we used theoretical insights, long term mark-recapture data sets, and pedigree reconstruction with panels of SNPs discovered using Next Generation Sequencing-generated data that overcome the obstacles posed by low heterozygosity in marble trout. The reconstruction of multi-generation pedigrees and the long-term mark-recapture data allowed us to: (i) infer mating patterns and average family size; (ii) infer heritability of life-history traits, while controlling for maternal effects and population density; and (iii) test for associations between fitness-related traits and particular genotypes at the individual and family level.
+
+Langyu Gu
+Basel University
+Zoological Institute
+Switzerland
+Comparative transcriptomics analysis to identify candidate genes for a pigment trait in a cichlid fish
+poster D23SY02PS1009
+
+Author(s): Gu, L, Salzburger, W
+
+Summary: 
+
+One of the most fascinating questions in evolutionary biology is to integrate morphology, behavior and genetics to uncover the mechanisms of speciation and adaptation. The pigment on male anal fin of cichlid fish plays a key role in breeding behavior, providing an ideal model to study morphology-behavior-genetics interactions in adaptive radiation. Here, we make use of comparative transcriptomics analysis to generate candidate genes involved in the formation of a pigment trait on the male anal fin of a cichlid fish from Lake Tanganyika, which will be useful for further studies on the emergence and evolution of this fascinating novel trait.
+
+Ralph Dobler
+University of Tübingen
+Institute of Evolution and Ecology
+Germany
+Complex genetic architectures in natural populations: a screen for coadapted mitochondrial-nuclear allelic interactions for male fertility across disjunct populations
+poster D23SY02PS0448
+
+Author(s): Dobler, R, Yee, WKW, Reinhardt, K, Dowling, DK
+
+Summary: 
+
+When it comes to understanding fundamental questions such as how the genotype maps to the phenotype, and how selection influences adaptive evolutionary processes, research has focused on the allelic variation within the nuclear genome. By contrast, effects by variation within the mitochondrial genome have been neglected because they were suggested to be absent or neutral. Recent studies in a range of organisms substantially altered that view and suggest that not only the nuclear, but also the mitochondrial genotype and the interaction between the two affect the phenotype and hence respond to selection. To test our hypothesis, that selection in natural populations affects mitochondrial and nuclear genomes as an entity (i.e., they co-evolve), we established fly lines (Drosophila melanogaster) originating from two disjunct natural populations that have evolved under distinct climatic regimes. We introgressed the mitochondrial genome from both populations in the native and the foreign nuclear genotypic background to analyse the effects of mitochondrial and nuclear genotype independently. Theory and recent empirical data show that mitochondrial-nuclear interaction effects should mainly affect males, particularly male reproductive traits. That implies, given that differences in reproductive success are the raw material for natural selection, that mitochondrial genotypes play an important part in evolution. We are now (February to April 2013) running a large scale sperm-competition experiment to examine the relative mitochondrial and nuclear genetic contributions to male fertility, and in particular to screen for complex gene-by-gene-by-environment interactions. The presence of such genetic interactions would likely fundamentally alter the expected evolutionary responses to selection on these male reproductive traits in the wild, particularly when we consider that mitochondrial genomes are maternally inherited and thus unlikely to respond directly to selection on males.
+
+Patrick Rohner
+University of Zurich
+Institute of Evolutionary Biology and Environmental Studies
+Switzerland
+Cross-continental variation in sexual selection and its effect on the contrasting reversal of sexual size dimorphism in closely related sepsid fly species (Sepsidae: Diptera)
+poster D23SY02PS0350
+
+Author(s): Rohner, P, Blanckenhorn, WU, Puniamoorthy, N
+
+Summary: 
+
+Sexual size dimorphism (SSD), arises when the net effects of natural and sexual selection equilibrate differently in males and females. Species and even populations within a species can exhibit quantitative variation in the extent of SSD, but qualitative reversals in SSD are rare. In a previous study, we documented that sexual selection accounts for a geographic reversal of SSD in the widespread sepsid fly Sepsis punctum. Here, we study the variation in sexual selection acting on male body size in three other closely related species that display contrasting reversals of SSD in Europe (EU) and North America (NA). In all three species, laboratory common garden experiments indicate clear genetic differentiation among populations in body size and development time. Populations of S. cynipsea display female-biased SSD. In its sister species S. neocynipsea, females are larger in EU, whilst NA populations exhibit male-biased SSD. This is a sharp contrast to S. punctum, in which NA populations display female-biased SSD, whereas in EU males are the larger sex. Yet in another species, S. biflexuosa, SSD was consistently absent, with both sexes having similar body sizes in EU and NA. Next, we conducted mating experiments under three increasing male-biased operational sex ratios. Although sexual selection intensity on male body size based on pairing success was overall positive, contrary to S. punctum there was no correlation between the intensity of sexual selection and male body size in these species. It is possible that the effects of viability selection acting on the sexes and/or fecundity selection on the female could be stronger than sexual selection on males, which requires further investigation.
+
+Ricardo Kanitz
+University of Lausanne
+Department of Ecology & Evolution
+Switzerland
+Detecting and measuring selection on quantitative traits in a range expansion scenario with spatially-explicit simulations
+poster D23SY02PS0924
+
+Author(s): Kanitz, R, Neuenschwander, S, Goudet, J
+
+Summary: 
+
+For at least 50 years now, evolutionary biologists have been discussing about the relative roles of natural selection and genetic drift in shaping the genetic composition of populations. Range expansions are of particular interest in this discussion: They normally occur over environmental gradients allowing local adaptation to take place, but also the demographic properties of these expansions potentiate genetic drift effects that can generate drastic changes in allele frequencies as the populations spread (i.e. allele surfing). Here, we address the detection and measurement of selection in such scenario using simulations. We mimic a range expansion over a variable selective gradient where individuals have in their genomes both loci that are neutral and loci determining a quantitative trait subject to selection. The responsiveness of different summary statistics to the selective pressure is then assessed, and estimates of the selective pressure are made – based on these statistics – with Approximate Bayesian Computation (ABC). Preliminary results, based on a one-locus/two-allele architecture for the quantitative trait, showed that some statistics, such as the slope of isolation-by-distance (IBD) for the quantitative trait (FSTQ), and the difference of slopes of IBD produced for quantitative and neutral loci (FSTQ-FST) are indeed sensitive to selective pressure. Others are currently being investigated. Even though improvements of this model are required (e.g. more complex genetic architectures), the approach of taking into account the spatial dimension of differentiation in quantitative traits offers a promising avenue for investigating the role of natural selection in range-expansion scenarios. We believe that the system developed here can soon be applied to detect and measure natural selection in wild populations. This will allow us to study their possible adaptations to new environments by taking advantage of the robust ABC framework.
+
+Predrag Kalajdzic
+Institute for Biological Research "Siniša Stankovic", University of Belgrade
+Department for Genetic of Population and Ecogenotoxicology
+Serbia
+Differences in mtDNA copy number between individuals with long and short haplotypes from a natural population of Drosophila subobscura
+poster D23SY02PS0530
+
+Author(s): Kalajdzic, PM, Jelic, M, Andjelkovic, M, Ladoukakis, ED
+
+Summary: 
+
+In the absence of meiosis mitochondrial DNA (mtDNA) could act as a selfish genetic element, i.e. increase its own fitness at the expense of the fitness of its host. Theoretical models suggest that uniparental transmission of mtDNA in almost all eukaryotes has been evolved to prevent the spread of selfish mutations in the population. A selfish mutation in mtDNA could be a large deletion that reduces the number of genes in the mutated molecule. Hence, this mtDNA, should be less functional but should replicate faster than the non-mutated mtDNA. This example, which is supported by some experimental data, assumes that mtDNA replication is inversely correlated with the length of the molecule and directly correlated with time. According to this model smaller molecules replicate faster than larger ones and produce more copies per unit of time. We have investigated this assumption using a natural population of Drosophila subobscura from Serbia where we found an mtDNA haplotype which is longer by 2.7kb (17%) than the standard haplotypes. Restriction site analysis and partial sequencing showed that long haplotype contains additional A+T rich region, srRNA gene, three specific tRNA genes and a sequence that is combined of ND2 gene and lrRNA gene. Experiments on fitness analysis indicate that this long mtDNA haplotype decreases the fitness of its bearers. We counted mtDNA copy number in same aged flies to investigate whether individuals with longer haplotypes contain less copy number than individuals with standard haplotypes as anticipated by the theoretical model.
+
+Tatsuo Ohtsuki
+Kyoto University
+Graduate School of Human and Environmental Studies
+Japan
+Differentiation of photosynthetic characteristics between coastal and freshwater lake populations of the coastal plant Lathyrus japonicus (Fabaceae)
+poster D23SY02PS0460
+
+Author(s): Ohtsuki, T, Mori, I, Katsuhara, M, Takami, T, Setoguchi, H
+
+Summary: 
+
+Lake Biwa, formed around 4 million years ago, harbors many coastal species that commonly inhabit seashores. These coastal plants have been reported to exhibit morphological, physiological, and genetic differentiations between Lake Biwa and coastal populations (e.g., Ohtsuki et al. 2011). We also reported the beach pea, Lathyrus japonicus, is a typical coastal species of this freshwater lake, has become those differentiations, suggesting habitat-adaptation to each environment. However, photosynthetic characteristics has been remain unknown nevertheless its importance as survival factor to plants. The present study aimed to measure and compare photosynthetic characteristics between Lake Biwa and coastal transplanted populations using LI6400. In Lake Biwa lakeside, transplanted plants (coastal and lakeshore individuals) exhibited similar pattern of light-photosynthesis-curve. However, in coastal environment, inland individuals showed lower photosynthesis rate than seaside ones. On the other hand of photosynthesis rate, coastal individuals in Lake Biwa lakeside were higher than those in original habitat. In addition, transplanted lakeshore individuals showed low stomatal conductance compared with coastal individuals. Meanwhile, photosynthetic efficiency (Fv/Fm), electron transport rate (ETR), photochemical and non- photochemical quenching rate (qP amd qN) were similar between those populations. Thus, transplanted lakeshore individuals decreased photosynthetic rate, suggesting lack of acclimation to coastal environment. In contrast, transplanted coastal individuals were easily acclimated to lakeshore environment, suggesting their adaptability to both inland freshwater and coastal habitats. The differentiation of photosynthetic characteristics might trigger incipient speciation between inland and coastal populations.
+
+Roberto Garcia
+Université Laval
+Sicences du bois et de la forêt
+Canada
+Distortion of the sex ratio in forest pests: an ecological alternative for self-regulation of populations
+poster D23SY02PS0660
+
+Author(s): Garcia, RQ, Bauce, É
+
+Summary: 
+
+According to the theory of natural selection, there is an equal proportion of sexes. However, this rule is not always an ideal situation, because a higher proportion of one sex can also lead to some benefits such as ensuring fertilization of all females, encourage the dispersal of the species and control the size of population. Epidemics caused by forest pests are endangered trees, thus making less available resources. The scarcity of resources may affect the fitness of females due to higher metabolic and reproductive costs. The objective of this work is to determine if there is a distortion of the sex ratio in conditions of nutritional stress in the spruce budworm, one of the most problematic forest pests in Canada. Three colonies of spruce budworm have been reared for three generations under two types of artificial diets: a control diet and a stress sugar nitrogen. The variables considered are differential mortality of pupae and adults. The results indicate that there is indeed a distortion caused by a nutritional unbalance. Fitness in females is strongly affected, resulting in a higher proportion of males. During an outbreak, a lower number of females leads to greater competition between males, stimulates the spread in places where resources are available and control the size of the population.
+
+Maike Herrmann
+Goethe University Frankfurt
+Department for ecology, evolution and diversity
+Germany
+Genetic basis of local and temporal adaptation in natural Daphnia populations
+poster D23SY02PS1040
+
+Author(s): Herrmann, M, Kreuzer, P, Cordellier, M, Schwenk, K
+
+Summary: 
+
+Ongoing global warming may cause long-lasting changes in local environmental conditions. If the established populations fail to adapt to these changes, they will possibly be forced to migrate or face extinction and become displaced by external, preadapted populations. We studied natural populations of the water flea Daphnia galeata to get insights into the genetic changes associated with the rapidly changing conditions in their habitats. We used resting eggs of D. galeata obtained from multiple layers of sediment cores along a latitudinal transect across Europe. This enabled us to not only compare populations across their geographic range but also over an extended time period. Presumably temperature relevant candidate genes ERNA, TRY5F and MHC1 were sequenced and 11 putatively neutral microsatellite loci were analyzed in every population. Signals of local adaptation were detected using a comparison of genetic differentiation at functional candidate and neutral microsatellite loci and outlier tests. Mantel tests showed a correlation between genetic differentiation within candidate gene TRY5F and temperature differences between habitats. These results suggest local adaptation in Daphnia as a response to various temperature regimes. Future studies will link field observations (natural selection at temperature relevant genes) with genotypic architecture of clonal lineages (exposed to different temperature regimes) and gene expression analyses.
+
+Chris Eberlein
+University of Helsinki
+Department of Biosciences
+Finland
+Genetics of parallel phenotypic evolution in ninespine sticklebacks (Pungitius pungitius) – a comparative genomic approach
+poster D23SY02PS0542
+
+Author(s): Eberlein, C, Guo, B, Shikano, T, Merilä, J
+
+Summary: 
+
+Uncovering the genetic architecture of local adaptations is a central topic in contemporary evolutionary biology. Parallel phenotypic and physiological differentiation in independent populations provides strong evidence for evolution by natural selection. Pond populations of Fennoscandian ninespine sticklebacks, subject to strong genetic drift show parallel phenotypic divergence from their marine conspecifics in several traits (e.g. growth, behavior, body shape) apparently as a result of adaptation to reduced predation-risk. We are investigating genetic mechanisms underlying this parallel phenotypic evolution with the aid of genomic approaches utilizing F2-intercrosses between pond populations and a marine population. One of the main aims is to clarify whether the same (parallel evolution) or different (convergent evolution) genes and genomic regions are responsible for the repeated evolution of pond phenotypes. Targeting this, a high density linkage map based on SNP-markers has been constructed to identify genomic regions responsible for the phenotypic divergence among pond and marine populations. This also opens opportunities for comparative genomic studies among nine- and threespine sticklebacks. In future, linkage and QTL mapping for multiple crosses will give the first insights into genomic regions responsible for parallel phenotypic evolution in ninespine sticklebacks.
+
+Stuart Baird
+Czech Academy of Sciences
+IVB
+Czech Republic
+Genomics of introgression across a species barrier: half a million SNPs across the european house mouse hybrid zone
+poster D23SY02PS1459
+
+Author(s): Baird, SJE, Macholan, M, Munclinger, P, Pialek, J
+
+Summary: 
+
+Understanding speciation as a birth-death process requires study not only of the maintenance of species barriers, but also of those forces acting to break them down (‘speciation genes’ and ‘anti-speciation’ genes). We use the European House Mouse hybrid zone as a natural experiment to examine such forces. When SNP marker data is dense on the recombination map it cannot be treated as a series of independent loci but can, instead and more naturally, be analysed in terms of Fisher’s representation of the outcome of admixture and recombination: the ancestral source of blocks of DNA along the genome and the position of junctions (arising from recombination) where that source state changes. Cascades in the size of blocks allow ancestral polymorphism to be distinguished from introgression polymorphism. Frequency spectra of introgressed block sizes allow inference of the time since secondary contact. Geographic outlier analysis of blocks allow regions of the genome associated with the introgression of ‘anti-speciation’ genes across the species barrier to be identified. These insights increase our understanding not only of the mouse species barrier, but also how species barriers can decay in their natural settings.
+
+Reinder Radersma
+University of Oxford
+Department of Zoology
+United Kingdom
+How social structure affects gene flow in a wild passerine population
+talk D23SY02RT14:48R1
+
+Author(s): Radersma, R, Garroway, CJ, Santure, AW, De Cauwer, I, Slate, J, Sheldon, BC
+
+Summary: 
+
+Gene flow is strongly affected by the spatial distribution of individuals, the variability of the physical environment and social processes such as dispersal, resource competition and territoriality. Here we investigate the contributions of those forces to gene flow in foraging flocks of great tits (Parus major) for three consecutive winters. We used a total of 85602 visits of flocks to 60 feeding tables which recorded the identity of 1711 birds by radio frequency identification technology. Of those birds 962 were genotyped based on 4701 autosomal single-nucleotide polymorphisms (SNPs). For 87% of the visits we were able to genotype at least one individual. We used asymmetric eigenvector maps (AEMs) to partition the contributions of space and social structure to the allele frequencies of all 4701 SNPS in the feeding flocks while taking the previous positions of individuals into account. We were able to explain 58% of the variance in allele frequencies with AEMs. This study shows that space and social structure have a substantial effect on the distribution of alleles over subpopulations and therefore on gene flow. To our knowledge this is the first study to investigate the effect of social structure and space to gene flow at such a fine scale while accounting for previous location of the individuals. Therefore it contributes to the understanding of how social behaviour affects evolution. Next we will extract Moran’s eigenvector maps (MEMs) for the spatial locations of feeding tables and use partial redundancy analysis (AEMs as explanatory variables while controlling for MEMs) to investigate how social structure affects allele frequencies, while controlling for space. We will use variance partitioning to quantify the relative contributions of space and social structure, determine which alleles have large effects on the AEMs and check whether those alleles are in linkage disequilibrium with candidate genes or are known to correlate to environmental variables.
+
+Ricardo Wilches
+University of Munich
+Evolutionary Biology
+Germany
+Identification of X-linked loci affecting cold stress resistance in Drosophila melanogaster by means of combined quantitative trait loci and selective sweep mapping approaches
+poster D23SY02PS0441
+
+Author(s): Wilches, R, Duchen, P, Voigt, S, Stephan, W
+
+Summary: 
+
+With the aim of understanding the molecular basis of cold adaptation in Drosophila melanogaster, we initiated the identification of the genes/functional elements affecting the fly's chill coma recovery time (CCRT). CCRT is a proxy for cold stress tolerance. Based on quantitative trait loci (QTL) mapping between inbred lines from temperate and tropical origin, three X-linked QTL influencing CCRT were identified at 17, 18 and 24 cM. We narrowed them further by means of quantitative deficiency mapping. Plus we gained further resolution, to the gene/nucleotide level, for the locus at 18cM by subjecting the targeted chromosome fragment to population genetic analysis, quantitative mutation mapping and gene expression analyses. In the light of selective sweep theory we expect the alleles responsible for cold tolerance to have been positively selected in the temperate population, therefore regions in the QTL that show footprints of positive selection may contain the candidate molecular elements behind cold stress tolerance. However, selective sweep mapping overlooks sites with other modes of evolution. In oder to cover a broader range of potential sites influencing cold stress tolerance we conducted a parallel search with a phenotype-genotype approach suitable for fine scale mapping of QTL. Within the QTL defined at 18 cM, a 3-kb long transcription enhancer element approximately 7-kb upstream of gene brinker, shows footprints of positive selection and is strongly associated CCRT. We are currently studying the role of this enhancer element in the phenotype of interest, by measuring expression-level differences of the gene brinker and its immediate neighbor genes, both in wild type tropical/temperate flies and transgenic tropical flies with the putatively selected temperate version of the enhancer.
+
+Inês Modesto
+Faculty of Sciences of the University of Lisbon
+Department of Animal Biology
+Portugal
+Identifying signatures of natural selection in cork oak (Quercus suber L.) genes
+poster D23SY02PS0990
+
+Author(s): Modesto, IS, Miguel, C, Pina-Martins, F, Glushkova, M, Veloso, M, Batista, D, Paulo, OS
+
+Summary: 
+
+Cork oak (Quercus suber L.) is an evergreen tree species holding a great economical and social relevance within its distribution range, the western Mediterranean Basin, associated with cork production. This tree is exploited mainly in orchards known as montado, which comprise great biodiversity. Despite its importance, cork oak stands have been facing a significant decline and climate changes expected to occur during this century may aggravate this decay. In this scenario, the assessment of adaptive genetic variation is essential to understand how cork oak may cope with these threats and to delineate management strategies of its genetic resources. In this work, we started by validating single nucleotide polymorphisms (SNPs) detected through the analysis of cork oak pyrosequenced transcriptome, for a set of putative functional genes. Six fragments were then selected to be analysed with the purpose of finding signatures of natural selection. Samples from populations representing the species’ entire distribution range were sequenced and several neutrality tests were performed as well as environmental association tests. Two gene fragments showed signals of balancing selection: the Arabidopsis thaliana orthologs non-expresser of pathogenesis related 1 (NPR1), involved in plant defence response against pathogens, and auxin response factor 16 (ARF16), a gene previously identified as a candidate gene for drought resistance. Additionally, in a class I heat shock protein (HSP), one amino acid position was detected as possibly being under positive selection and associated with several precipitation variables, revealing its potential relevance in adaptation to local climatic conditions. In this study the first steps were taken to start unveiling important information on cork oak adaptation to biotic and abiotic environmental conditions. Funded by Fundação para a Ciência e Tecnologia (FCT): projects PTDC/AGR-GPL/104966/2008 and EST/036/2009.
+
+Sylvain Losdat
+University of Aberdeen
+School of Biological Sciences
+United Kingdom
+Inbreeding depression in male primary sexual characters: a meta-analysis and an empirical study in wild song sparrows
+poster D23SY02PS0615
+
+Author(s): Losdat, S
+
+Summary: 
+
+Inbreeding, defined as reproduction among relatives, reduces offspring fitness in many plant and animal species. Such ‘inbreeding depression’ is a potent force that can shape the evolution of mating systems and drive populations to extinction. It is now clear that inbreeding can depress individual reproductive fitness in a wide range of species in nature. However, despite being critical to predicting consequent evolutionary and population dynamics, the life-history stages and mechanisms that contribute to inbreeding depression in overall reproductive fitness are still little understood. Specifically, the impact of inbreeding on male primary sexual traits, which are key components of reproductive fitness, is not yet clear. We first undertook a qualitative meta-analysis of published data to estimate the direction and magnitude of inbreeding depression in male sperm and pollen performance, and hence in key primary sexual traits in male animals and plants. Second, we estimated inbreeding depression in sperm performance using a wild pedigreed population of male song sparrows in which inbreeding is widespread. Our meta-analysis showed weak inbreeding depression in sperm and pollen performance-related traits. However, there was substantial variance in inbreeding loads across studies and a notable absence of data from wild populations. We then show that in wild song sparrows, sperm velocity and motility, two main predictors of male paternity success, did not vary with individual inbreeding coefficient. This result contrasts with the meta-analysis of non-wild populations, and is unexpected because there is substantial inbreeding depression in male reproductive fitness in the study population. Further studies quantifying the magnitude of inbreeding depression in male primary sexual characters in wild populations, and the corresponding contribution to inbreeding depression in male reproductive fitness, are therefore required.
+
+Mark Adams
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Indirect genetic and environmental effects on parental and alloparental effort
+talk D23SY02RT15:12R1
+
+Author(s): Adams, MJ, Robinson, MR, Hatchwell, B
+
+Summary: 
+
+The partition of phenotypes into genetic and environment effects can be expanded by considering that an individual's environment is also made up of other individuals. In social contexts, then, the phenotype of a target individual can be affected by the phenotypes and, therefore, the genotypes, of others it interacts with, and vice versa. These indirect genetic effects are an additional source of genetic variance with which selection can act. We used a cooperative breeding species of birds, long-tailed tits, as a model system to study social effects among family groups. This species suffers from high rates of nest predation and individuals who fail to breed in a given year become helpers at the nest of a close relative. Being helped is linked to both offspring and breeder survival. We investigated indirect genetic and environmental effects on provisioning effort among members of a breed group. We found a negative correlation for feeding rate between the within-year environment effects that an individual has on themselves and on the other members of their breeding group. However, these indirect effects were not heritable and had low repeatability across years. Birds thus differ in their ability as helpers and this has consequences for the total performance of the group beyond their individual contribution because the members of the breed group adjust their effort in response to each other. The lack of substantial genetic and permanent environment variation indicates that effort is largely a matter of yearly condition and suggests that provisioning effort is facultative to optimize fitness through both offspring recruitment and individual survival.
+
+Aleksandra Walczynska
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Inter- and intraspecific relationships between performance and temperature in a cryptic-species complex of the rotifer Brachionus plicatilis
+poster D23SY02PS0434
+
+Author(s): Walczynska, A, Serra, M
+
+Summary: 
+
+The strategy of decreasing size with increasing temperature operates at geographic (Bergmann’s rule) and within-genotype (temperature-size rule) scales and presents a puzzle to researches. The aim of this study was to verify whether differences in the adult size of closely related species coexisting in the same habitat are adaptive. The experiments were conducted on the cryptic species complex of the rotifer Brachionus plicatilis, represented by three species living in the Torrablanca marshes of eastern Spain. A cryptic species complex is a group of species each one satisfying the biological definition of species but having very similar morphologies. It provides an experimental model for testing ecological hypotheses because the species similarity tends to simplify comparisons. The monogonont rotifer species complex Brachionus plicatilis is a good example. Three of the cryptic species co-occur in the same ponds and differ in adult size. Co-occurrence is associated with their different preferences for temperature and salinity, mode of competition and vulnerability to predators. Three aspects of the performance-temperature relationship along a temperature gradient were studied, (i) the population growth rates were compared, (ii) the interspecific phenotypic plasticity of adult size was assessed, and (iii) the pattern of sediment egg bank hatching was explored. The results show that (i) the optimal temperature for population growth is related to species size in a manner foreseen by Bergmanns’ rule, (ii) the temperature-size rule differs between species and may depend on the level of temperature specialization, and that (iii) adult size, as a proxy for resting egg size, is adaptive regarding the hatching pattern. These results broaden the general knowledge on the evolutionary mechanisms behind the body size-temperature relationship and have important consequences for the coexistence and geographic ranges of species, and for species redundancy.
+
+Pauliina Järvistö
+University of Turku
+Department of Biology
+Finland
+Interactive effects of paternal genotype and growth environment on offspring condition: a cross-fostering experiment in the pied flycatcher
+talk D23SY02RT18:09R3
+
+Author(s): Järvistö, PE, Calhim, S, Schuett, W, Velmala, W, Laaksonen, T
+
+Summary: 
+
+Conspicuous secondary sexual characters, such as sexually dichromatic plumage traits, are thought to have evolved through sexual selection, because they indicate the genetic or phenotypic quality of the bearer. While directional selection should deplete genetic variation in fitness-related traits, there are many cases where variation is higher than expected. One possible explanation for this is that different phenotypes within a population are adapted to different environmental conditions. The dorsal plumage coloration of pied flycatcher (Ficedula hypoleuca) males varies from almost completely black to dull brown. In addition they have several ornamental patches that also vary greatly in size and shape. We compared the condition and survival of the offspring of male pied flycatchers with different plumage phenotypes under different conditions. In order to create different environmental conditions, we used a partial cross-foster design where the original brood size was pairwise reduced or enlarged by one chick. This design enabled us to separate the effects of offspring genotype from parental effects. Preliminary analysis of the data indicates that there are significant interactions between the phenotype of the biological father (forehead patch size) and environmental conditions (brood manipulation treatment and ambient temperature) on chick condition. This suggests that offspring of different male phenotypes differ in their responses to environmental conditions. Therefore, selection on the trait is likely to be context-dependent and environmental heterogeneity may act as a factor maintaining phenotypic variation.
+
+Elisabeth Bolund
+University of Sheffield
+Animal and Plant Sciences
+United Kingdom
+Divergent selection on, but no genetic conflict over, female and male timing and rate of reproduction in a human population
+poster D23SY02PS0885
+
+Author(s): Bolund, E, Bouwhuis, S, Pettay, J, Lummaa, V
+
+Summary: 
+
+The sexes often have different phenotypic optima for important life-history traits and because they share much of their genome, this can lead to a conflict over trait expression. In mammals, the obligate costs of reproduction are higher for females, making reproductive timing and rate especially liable to conflict between the sexes. While studies from wild vertebrate populations show support for such sexual conflict, it remains unexplored in humans. We used a pedigreed human population from pre-industrial Finland to estimate sexual conflict over age at first and last reproduction, reproductive lifespan and reproductive rate. We found that the phenotypic selection gradients differed between the sexes. For age at first and last reproduction and reproductive lifespan, the relationships with fitness (number of grandchildren) tended to be nonlinear in women, suggesting an intermediate optimum value, while they were linear in men. Both sexes showed a linear decrease in fitness with increasing reproductive rate. We next established significant heritabilities in both sexes for all traits. All traits, except reproductive rate, showed strongly positive intersexual genetic correlations and were strongly genetically correlated with fitness in both sexes. Moreover, the genetic correlations with fitness were almost identical in men and women. For reproductive rate, the intersexual correlation and the correlation with fitness were weaker but again similar between the sexes. These findings illustrate that apparent sexual conflict at the phenotypic level is not necessarily indicative of an underlying genetic conflict and further emphasize the need for incorporating a genetic perspective into studies of human life-history evolution.
+
+Susanne Kraemer
+University of Ottawa
+Biology
+Canada
+Drawing a natural fitness landscape in space and time: temporal adaptation of soil bacterial communities
+talk D24SY02RT11:42R3
+
+Author(s): Kraemer, SA, Kassen, R
+
+Summary: 
+
+Microbial communities are fundamental for ecosystem function, yet only little is known about their in situ ecology and evolution. How are such communities structured in space and time and which environmental factors drive their adaptation? We obtained soil bacterial isolates from three sites in a spatially structured design every month for eight months, representing a complete growth season. In a fully factorial transplant experiment we measured fitness of all isolates in media mirroring the environmental conditions in the soil sample they were isolated from (their “home” soil) and compared it to their growth rates in media representing soil at different spatial and temporal distances, thus not only describing the spatial fitness landscape for each isolate but also how the shape of this landscape changes over time. In comparison to growth under “home” soil conditions, growth rates were steadily declining in media representing future soil conditions, indicating temporal adaption of isolates. Moreover, fitness increased in media representing past conditions, providing evidence for past selection for successful growth. These findings were unaffected by limiting our analysis to isolates with vigorous growth rates or to soil obtained from different geographical sites. Spatial structuring, either at large (kilometer) or small (meter) scales, did not significantly influence bacterial fitness, indicating a large role of dispersal in soil bacterial biogeography at these scales. Lastly, we correlated environmental factors such as nutrient ion availability, mean temperature and pH with the obtained fitness landscapes to deduce key factors influencing bacterial temporal adaptation in nature.
+
+Pierre Gerard
+Laboratoire Evolution Genomes Speciation
+France
+Dynamics of a fast evolving sex-ratio system in natural populations of Drosophila
+poster D23SY02PS0782
+
+Author(s): Gerard, P
+
+Summary: 
+
+Meiotic drive elements that distort Mendelian transmission to their own advantage can rapidly spread in natural populations and leave strong signatures of positive, but not adaptive, selection on the genomes. Among the X-linked segregation distorters known in Drosophila, the Paris system of Drosophila simulans is exceptionally young and can provide important insights into the early dynamics of these elements that kill Y-bearing sperm and cause sex-ratio bias. We studied the biogeography of the Paris driver in Africa and Middle-East and showed that the driving X chromosomes most probably share a recent common ancestor. However, the driver seems to show different local dynamics, probably related to the population structure of D. simulans. In particular, contrary to the Indian Ocean where they are declining, the driving chromosomes seem to have been dramatically rising in the Middle-East during the last decade with a consistent signature of selective sweep. These results provide one of the first exemples of drive suppression strengthening as the driver frequency increases and shows that such selfish elements and the resulting arms race can evolve very rapidly in natural populations.
+
+Dorota Paczesniak
+EAWAG / ETH Zurich
+Department of Aquatic Ecology
+Switzerland
+Evidence for cost of sex and parasite-mediated selection in a natural population of co-existing sexual and asexual snails
+talk D23SY02RT16:09R3
+
+Author(s): Paczesniak, D, Neiman, M, Klappert, K, Kopp, K, Liljeroos, K, Lively, CM, Adolfsson, S, Jokela, J
+
+Summary: 
+
+One of the main hypotheses for why sexual reproduction is so common despite the cost of producing males proposes that negative frequency-dependence selection by co-evolving parasites provides an advantage for rare genotypes. However, this mechanism fails to predict advantage to sex when asexual assemblages are diverse. The challenge to sex posed by a diverse set of asexual lineages depends on the extent to which they realize their theorized two-fold advantage. Here, we used field-based comparisons of the rate of population growth between obligate sexual vs. multiple lineages of obligate asexual Potamopyrgus antipodarum, a New Zealand freshwater snail. We also used a population genetics approach to evaluate whether the temporal changes of population genetic structure follow patterns expected under parasite-mediated selection: faster clonal turnover in locations where parasite pressure is higher. The reproductive output of asexual lineages measured using experimental enclosures (cages anchored to the bottom of the lake) over a course of one year was as high as that of the best sexual families, which implies the cost of sex. We also found that the reproductive output of asexual lineages depends on the habitat, which implies that environmental heterogeneity may select for habitat-specific clonal assemblages. The genetic structure of the asexual population changed significantly over a 4-year period (4-8 generations) in shallow and mid-water habitats (high parasite pressure), but not in the deep habitat (low parasite pressure).
+Our results show that the fitness of many asexual lineages is high enough to impose the cost of sex and that clonal turnover is faster in high infection sites. While the latter result is consistent with the parasite hypothesis for the maintenance of sex, the high relative fitness of many asexual lineages suggests that other mechanisms are needed to explain the persistence of sex in the face of a diverse array of asexual competitors.
+
+Mihailo Jelic
+Faculty of Biology / University of Belgrade
+Chair of Genetics and Evolution
+Serbia
+Evidence of cyto-nuclear epistasis in Drosophila subobscura
+poster D23SY02PS0573
+
+Author(s): Jelic, M, Kenig, B, Kurbalija Novicic, Z, Tanaskovic, M, Filipovic, L, Stamenkovic-Radak, M, Andelkovic, M
+
+Summary: 
+
+Cyto-nuclear fitness interactions within population are important in maintaining polymorphism in mtDNA. Proteins of the respiratory chains of eukaryotes are coded from both mitochondria and nucleus. Additionally, genes for mtDNA replication and transcription are coded from nucleus. Despite the tight cooperation, the two genomes evolve at different rates, with mtDNA showing higher mutation rate. The compensatory model predicts positive selection on mutations in nDNA that compensate deleterious mutations in mtDNA, where the natural selection is week mechanism due to maternal inheritance, lack of recombination and small effective population size. Drosophila subobscura shows geographical homogeneity of mtDNA variability, with two dominant haplotypes (I and II) and a series of haplotypes that appear at low frequencies. Previous research indicates that mtDNA in D. subobscura has a significant effect upon hosts’ fitness, and that fitness differences between the two most frequent haplotypes are due to cytonuclear interactions. One rare haplotype (I-L) that bears large duplication in mtDNA, and has same restriction pattern as haplotype I was found in a natural population. In our present research mtDNA effect on fitness is analyzed by comparing egg-to-adult viability and longevity of mtDNA haplotype I-L with that of the two most frequent haplotypes (I and II). This is done on the nuclear backgrounds of both the I-L haplotype and the two most frequent haplotypes. The results indicate that a large duplication in mtDNA significantly compromises fitness. A significant cyto-nuclear interaction is observed only when fitness of haplotype I-L is compared to that of haplotype II, but not when fitness of haplotype I-L is compared to that of haplotype I. The results suggest an absence of nuclear compensatory mutations for this duplication in mtDNA, but highlight the importance of cyto-nuclear interactions in maintaining the two most frequent mtDNA haplotypes in D. subobscura.
+
+Sijmen Schoustra
+Wageningen University
+Genetics
+Netherlands
+Evolution of natural microbial populations in traditional fermented products
+poster D23SY02PS0101
+
+Author(s): Schoustra, S
+
+Summary: 
+
+I will present results on the evolution of microbial communities in traditional fermented products from Zambia. These products are produced by transferring a fraction of a former batch to initiate a new batch of product. In this way, microbial communities are allowed to evolve of large numbers of generations. Local villagers maintain independent replicate product lineages.
+
+Methods. I have sampled three different traditional products (based on either milk or maize) from across Zambia, obtaining a total of 36 samples. I have established the community composition of the products and compared this composition for different samples of the same product type and different product types. In the laboratory, we have propagated the microbial communities for an additional two months under various conditions and have monitored changes in community composition.
+
+Results. Our results show that the microbial flora is dominated by around 6 species of lactic acid bacteria and that specific combinations of species result into stable communities. I show that both geography and anthropogenic factors affect community composition in products collected from Zambia. Laboratory experiments propagating communities over two months show specific shifts in community structure that is consistent over all nine independent communities.
+
+Conclusions. Traditional fermented products are very powerful experimental systems to study long-term properties of entire microbial communities. From the field sampling study we conclude that both environmental factors (that differ by geography) and anthropogenic factors are key in shaping microbial communities. From the laboratory studies we conclude that these communities are very stable in the long-term. This work opens up a range of possible follow-up projects. We will perform manipulative experiments in the field as well as in the laboratory to establish exactly what factors are essential for community stability.
+
+Sílvia Castro
+CFE - Centre for Functional Ecology, University of Coimbra
+Department of Life Sciences
+Portugal
+Evolutionary changes in the sexual reproductive system: the case study of the invasive tristylous Oxalis pes-caprae
+talk D23SY02RT14:00R1
+
+Author(s): Castro, S, Ferrero, V, Costa, J, Castro, M, Navarro, L, Loureiro, J
+
+Summary: 
+
+The establishment and spread of invasive species depends on different evolutionary and ecological pressures, with reproduction being a key factor for success. Among other strategies, vegetative propagation has been correlated with invasion potential. Because clonality affects the spatial distribution of genets and its flowers, clonal species are expected to have increased rates of self-pollination. However, selfing might be advantageous as it enables to overcome the lack of compatible mates or scarcity of pollinators during invasion. Under this scenario, in self-incompatible species, selection may favor the breakdown of the incompatibility system, as plants with some levels of compatibility would have advantage in low density conditions and be able to establish new populations after dispersal (Baker’s law). Oxalis pes-caprae is a tristylous species with heteromorphic incompatibility; in most invaded areas, strong founder events lead to the introduction of the 5x short-styled morph only, leading to an exclusively asexual mode of reproduction. Yet, recent studies have shown scattered sexual reproduction and the emergence of new floral morphs in the western Mediterranean basin. Our objective was to evaluate the rates of self- and morph-incompatibility across this invaded area, and compare it with the native range, in order to assess changes in the reproductive system. Controlled hand-pollinations were made in invasive and native populations and plant reproductive success was quantified. The incompatibility system varied among invasive populations and floral morphs; overall a breakdown in several populations across the invaded range was observed, mostly through a partial breakdown in morph-incompatibility of S-morph, but also in self-incompatibility system of M- and L-morphs. Because reproductive strategies determine the demography and genetics of invasive populations, the results obtained are important to understand the evolutionary dynamics operating during invasion.
+
+Maja Tarka
+Lund University
+Department of Biology
+Sweden
+Evolutionary potential of arrival date on breeding grounds: selection, heritability and microevolution
+talk D23SY02RT11:42R1
+
+Author(s): Tarka, M, Hansson, B, Hasselquist, D
+
+Summary: 
+
+In migratory species, timing of arrival on the breeding grounds in spring is crucial for the reproductive success. Thus, in the face of a changing environment, it is important to be able to adjust the timing accordingly. However, little is known about the genetic background and hence evolutionary potential of arrival date. We have used a multi-level approach to investigate the evolutionary potential of arrival date combining data from a multigenerational pedigree and novel migration tracking techniques of a natural population of great reed warblers (Acrocephalus arundinaceus). We found that selection favours early arrival both in male and female great reed warblers, and that the trait is both repeatable and heritable. Further, arrival date in the population has advanced during the two decades of this study, a pattern that is in accordance with the response attributed to climate change reported in other migrant birds but also in accordance to the directional selection acting on the trait. Tracking the full migratory annual cycle of individual great reed warblers show that departure date from the wintering site determines arrival date and that spring migration is faster than autumn migration, corroborating the selection for earlier arrival. Our study is a first step towards dissecting the genetic and environmental factors that contribute to shape arrival date in long-distance migrant birds. Such analyses are essential if we want to understand how migratory species are able to cope with a rapidly changing environment.
+
+Susan Johnston
+University of Edinburgh
+Institute of Evolutionary Biology
+United Kingdom
+Gene mapping reveals why sexually-selected genetic variation is maintained in a wild mammal population.
+talk D22SY02IT10:30R1
+
+Author(s): Johnston, SE, Gratten, J, Berenos, C, Pilkington, JG, Clutton-Brock, TH, Pemberton, JM, Slate, J
+
+Summary: 
+
+Sexual selection is assumed to be a source of strong and sustained directional selection in the wild, and is expected to lead to a decrease in underlying genetic variation. However, there is often considerable genetic variation in sexually-selected traits in wild populations and consequently, this phenomenon has become a long-discussed paradox in the field of evolutionary biology. In wild Soay sheep, large horns confer an advantage in strong intra-sexual competition, yet both sexes have an inherited polymorphism for horn type and have substantial genetic variation in their horn size. We pinpointed the causal genetic mechanisms influencing horn development using genome-wide association studies (GWAS) and fine-scale SNP genotyping. This allowed us to test the most commonly proposed explanations for the maintenance of sexually-selected genetic variation, such as genic capture (“good genes”), sexually antagonistic selection, and trade-offs between sexual and non-sexual fitness (i.e. reproductive success vs. survival). I present the evidence for and against these mechanisms in the Soay sheep population, and discuss the applications of these findings to other wild populations.
+
+Javier Valverde
+University of Granada
+Ecology
+Spain
+Genetic and ecological consequences of individual generalization in plant-pollinator systems
+talk D23SY02RT16:33R3
+
+Author(s): Valverde, J, Lorite, J, Corral, JM, Sharbel, T, Jiménez, N, Gómez, JM, Perfectti, F
+
+Summary: 
+
+Most theoretical approaches assume that, in pollination generalist systems, all individual plants interact with random subsets of the overall pollinator pool. In contrast, we think that the generalization degree of a given individual plant could be non random, but related with some intrinsic and extrinsic factors, such as its spatial location within the population, its microenvironment and its phenotype and genotype. Plants exhibiting different values for those factors would attract different subset of pollinators, and plants showing similar values of those traits would share similar subgroups of pollinators. Since pollinator species of a generalist plant vary in their foraging behaviour, per-visit effectiveness, and floral constancy, individual plants could receive a biased sample of pollen that could affect their reproductive success. To test this idea, we have thoroughly sampled a population of Erysimum mediohispanicum (Brassicaceae) in Sierra Nevada Mountains (Spain). This species is an extremely generalist plant, being pollinated by more than 180 insect species in the study area, ranging from 30-40 pollinator species per population. For every plant in the population, we determined the diversity and identity of insects visiting its flowers. In addition, we also quantified the micro-environment (irradiance, soil water content, top soil nutrients), the pollination-related phenotypic traits (flower number, flowering stalk height, stigma exertion, and corolla size, color, and shape), and the multilocus genotype (using cpDNA haplotypes and nuclear microsatellites) of each plant. Finally, to estimate individual fitness, we quantified the number and genetic diversity of the seeds produced per plant. Our goal in this study is to evaluate how the individual interaction with subsets of pollinators may affect the quantity and quality of plants' progeny.
+
+Peter Harrison
+University College London
+Genetics, Evolution and Environment
+United Kingdom
+Linking phenotype to transcriptome: Sexual dimorphism and sex-specific selection in birds with different mating systems
+poster D23SY02PS0471
+
+Author(s): Harrison, PW, Wright, AE, Zimmer, F, Pointer, MA, Mank, JE
+
+Summary: 
+
+We assembled de novo transcriptomes for six species within the Galloanserae (fowl and waterfowl) in order to assess the link between complex phenotypic sexual dimorphism and global gene expression differences between males and females. The six species exhibit the full range of sexual dimorphism, from monomorphism observed in geese to extreme sexual dimorphism in peafowl. This gradient of sexual dimorphism within a single clade makes it possible to directly test how sexual selection affects genome evolution and how sexually dimorphic phenotypes are encoded. To do this, we generated an extensive RNA-Seq dataset, with on average 95 Gb of next-generation Illumina sequencing data for each species, sampling both male and female spleen and gonad tissue. After constructing de novo transcriptome assemblies for each species using Trinity and establishing orthology across all six study species, we assessed sex-specific gene expression and sequence evolution of sex-biased genes in order build a comprehensive picture of the role of mating system in genome evolution.
+
+The generated de novo transcriptomes for each species contain on average 15,847 significantly expressed contig groups, which resulted in 12,337 predicted peptides on average per species, from which orthology was inferred across the clade. Our results indicate that transcriptional masculinization and feminization are correlated with the overall degree of sexual dimorphism in phenotype, and that sex-specific selection shapes coding sequence evolution of sex-biased genes.
+
+Glauco Machado
+University of Sao Paulo
+Department of Ecology
+Brazil
+Macro-ecology of parental care in arthropods: are the benefits of egg protection higher in the tropics?
+poster D23SY02PS0942
+
+Author(s): Machado, G, Bueno, PP, Gilbert, J, Santos, ESA
+
+Summary: 
+
+Parental care is a fundamental aspect of the reproduction of various species, and its costs and benefits are subjected to the influence of both biotic and abiotic factors. Given that biotic interactions, such as parasitism and predation, are stronger at lower latitudes, the benefits of parental care in term of offspring protection are expected to be higher in the tropics when compared to temperate regions. Here we formally tested this macro-ecological prediction using arthropods as model organisms. We used a meta-analysis of experimental field studies that investigated whether unguarded broods in the tropics suffer higher mortality than unguarded broods in temperate regions due to the higher intensity of predatory activity in lower latitudes. Our sample includes so far 39 species belonging to 10 orders of insects and arachnids. Preliminary results indicate that background brood survival is lower in tropical regions, suggesting higher predation/parasitism intensity. However, we found little evidence that the magnitude of the benefit of parental care is greater in tropical regions than in temperate ones. Interestingly, the proportion of tropical species that exhibit additional forms of brood defense (e.g., protective egg coating and nests) is greater than that of temperate species, further suggesting that predation and parasitism are stronger at lower latitudes. These results shed light on how biotic interactions can shape the maintenance of parental care and may also explain the high frequency of parental care among tropical arthropods.
+
+Tom Ellis
+IST Austria
+Austria
+Mating patterns and sexual selection in a snapdragon hybrid zone
+poster D23SY02PS0264
+
+Author(s): Ellis, T
+
+Summary: 
+
+Large scale, long term evolutionary processes such as gene flow, drift or species formation depend ultimately on the patterns of mating between individual organisms. Mating patterns are especially interesting in natural hybrid zones, where alleles from parental populations recombine to form novel genotype combinations. In the Spanish Pyrenees, one yellow- and one magenta-flowered subspecies of the snapdragon Antirrhinum majus form such a hybrid zone, leading to floral colours not seen in either subspecies. Complementing a broader study to assign parentage across generations, I am genotyping wild seedlings to assign paternity to candidate fathers. This information can be used to infer the ways in which pollinators mediate the dispersal of gametes, and the effects of multiple mating on the distribution of siring success of different fathers with a single mother.
+
+Juan Calvo
+Faculty of Biology
+Genetics Department
+Spain
+Molecular evolution in three Polycomb genes reveals a low level of variation in the nonrecombining dot-like chromosome of D. subobscura
+poster D23SY02PS0640
+
+Author(s): Calvo, JM, Aguadé, M, Segarra, C, Papaceit, M
+
+Summary: 
+
+The Polycomb group (PcG) proteins are epigenetic repressors highly conserved from yeast to plants and animals. Clustered in at least three main functional complexes (PRC1, PRC2 and PhoRC) Polycomb proteins are involved in many biological processes, being the silencing of the Hox genes during the Drosophila embryonic development their most studied role. Here, we analyze the divergence of the Pho and Sfmbt genes coding the subunits of the Pleiohomeotic Repressive Complex (PhoRC) in the 12 Drosophila species with whole sequenced genomes and in three additional species of the obscura group (D. subobscura, D. madeirensis and D. guanche). The divergence study has been extended to Phol, a paralog of Pho. The multiple alignment of each gene in the 15 species was used in maximum likelihood analyses with PAML to try to detect evidences of selection acting in particular lineages. Finally, nucleotide polymorphism of the three genes has been analyzed in 15 lines of D. subobscura in order to estimate their level and pattern of variation and to detect putative deviations of neutrality. An extremely low level of variation was detected at Pho and the HKA test revealed a significant decoupling between the levels of polymorphism and divergence in this gene relative to the other studied genes. The location of Pho in the dot-like chromosome (Muller’s F element) with no, or very low, recombination may account for this result. Indeed, a low variation was previously reported in the F element of the melanogaster subgroup species. However, this is the first time that nucleotide polymorphism in genes of the dot-like chromosome is studied in D. subobscura, confirming a low level of variation in this nonrecombining chromosome in a species of the obscura group.
+
+Sara Calhim
+University of Jyväskylä
+Department of Biology and Environmental Sciences
+Finland
+Mutual ornaments in pied flycatchers: geographical patterns of assortative mating
+poster D23SY02PS0960
+
+Author(s): Calhim, S, Sirkiä, PM, Adamík, P, Artemyev, AV, Belskii, E, Both, C, Bureš, S, Burgess, M, Bushuev, AV, Doligez, B, Forsman, JT, Grinkov, V, Hoffmann, D, Hoffman, U, Järvinen, A, Král, M, Krams, I, Lampe, HM, Moreno, J, Mägi, M, Nord, A, Potti, J, Ravussin, P, Sokolov, L, Laaksonen, T
+
+Summary: 
+
+In many sexually dichromatic taxa, females express, albeit often to a lower degree, male-like traits. Fitness consequences and signaling content of (mutual) ornamentation are often studied for each sex separately, with the exception of assortative mating studies. Male and female pied flycatchers (Ficedula hypoleuca) have a conspicuous white wing patch that varies in size and ultraviolet reflectance. This trait affects intra- and intersexual social interactions and may signal individual quality. Positive assortativeness is predicted for ornaments that serve similar social signaling functions. Here we investigate assortative mating patterns and their fitness correlates, using wing patch data from several populations across pied flycatchers’ breeding range. Preliminary results show that within-pair similarity in wing patch differs between populations. Together with current work on spatial patterns in selection for this trait in each sex, these results suggest that local environmental and ecological conditions may affect mutual ornaments differently in males and females.
+
+Jon Ågren
+Uppsala University
+Dept of Plant Ecology and Evolution, EBC
+Sweden
+Mutualists and antagonists drive among-population variation in selection and evolution of floral display in a perennial herb
+talk D23SY02RT16:57R3
+
+Author(s): Ågren, J, Ehrlén, J
+
+Summary: 
+
+Spatial variation in the direction of selection drives the evolution of adaptive differentiation. Yet, few experimental studies have examined the relative importance of different environmental factors for variation in selection and evolutionary trajectories in natural populations. We combined 8 years of observational data and field experiments to assess the relative importance of mutualistic and antagonistic interactions for spatial variation in selection and short-term evolution of a genetically based floral display dimorphism in the short-lived perennial herb Primula farinosa. Natural populations of this species include two floral morphs: long-scaped plants that present their flowers well above the ground and short-scaped plants with flowers positioned close to the ground. The direction and magnitude of selection on scape morph varied among populations, and so did the frequency of the short morph (median 19%, range 0-100%; N = 69 populations). A field experiment replicated at four sites demonstrated that variation in the strength of interactions with grazers and pollinators were responsible for among-population differences in relative fitness of the two morphs. Selection exerted by grazers favored the short-scaped morph, whereas pollinator-mediated selection favored the long-scaped morph. Moreover, variation in selection among natural populations was associated with differences in morph frequency change, and the experimental removal of grazers at nine sites significantly reduced the frequency of the short-scaped morph over eight years. The results demonstrate that spatial variation in intensity of grazing and pollination produces a selection mosaic, and that changes in biotic interactions may trigger rapid genetic changes in natural plant populations.
+
+Roberto Nespolo
+Faculty of Sciences, Universidad Austral de Chile
+Instituto de Ciencias Ambientales y Evolutivas
+Chile
+Natural selection, quantitative genetics and bioenergetics of an invasive species: the land snail Cornu aspersum
+poster D23SY02PS0094
+
+Author(s): Nespolo, RF, Bartheld, J, Artacho, P, Gonzalez, A, Bruning, A, Roff, DA
+
+Summary: 
+
+One of the goals of evolutionary physiology is to understand how natural selection acts, and provokes a response, in functional characteristics of organisms. In this work we measured morphological and physiologicalcomponents of the multivariate breeder’s equation in the introduced populations of land snails.. Terrestrial gastropods are sensitive to water scarcity and are severely energy-constrained. Cornu aspersum snails were recently introduced into Chile, and thus represent an ideal model to investigate contemporary adaptive evolution. Given that populations from the North of Chile (La Serena) experience considerably drier and warmer conditions than populations from the South (Valdivia), we predicted relaxation of selection and accumulation of additive genetic variance in the South. We performed a quantitative genetics experiment in which about 30 half-sib families (second generation), in each population were bred and physiological, life-history and morphological traits were recorded. Additionally, we performed a natural selection experiment where about 600 measured (and lab-born) individuals, derived from the three populations (F3) were released in replicated enclosures at the two extreme locations. Individual fitness (survival) was measured and survival curves constructed. We found very low additive genetic variation/covariation in most traits, including morphological, and high non-additive/maternal effects. The shape of selection was remarkably similar in both extreme populations, irrespective of origin and climate. The best glm model (by AIC) dropped all traits but body mass and standard metabolic rate (residuals), which appeared combined in correlational selection in the North, and with directional/stabilizing selection in the South. These results support the idea of energetic constraints to evolution, irrespective of climate and origin, but the absence of additive genetic variation even in morphological trait is intriguing.
+
+Wolfgang Reschka
+University of Helsinki
+Department of Biosciences
+Finland
+Navigation system and spatial memory of a solitary wasp
+poster D23SY02PS1458
+
+Author(s): Reschka, W
+
+Summary: 
+
+The specialist wasp Hyposoter horticola is a parasitoid of the Glanville fritillary butterfly (Melitaea cinxia), which lives as a typical metapopulation in a fragmented landscape in the Åland Islands in Finland. Adult females parasitize the larvae of M. cinxia in the short time period while the host is still in the egg shortly before hatching. There is strong competition among female wasps for host egg clusters. The foraging female wasps learn the location of host egg clusters and monitor them until they become susceptible to parasitism. This is a very time- and energy-consuming process, therefore a huge evolutionary investment. It is not yet known how H. horticola, or any insect other than social bees and ants, navigates through the landscape, which navigational system is used, and what spatial learning occurs.
+
+Ants, social bees and nesting bees have a nest as a fixed starting point for navigation, whereas solitary non-nesting insects such as H. horticola don’t. Yet both function in a complex navigational context. In my research I study which navigational system is used by H. horticola, a cognitive map or path integration in order to compare this to closely related social insects. I am using an array of RFID systems positioned at host egg clusters to track the foraging path of wasps equipped with laser-activated RFID chips. I am presenting the results of the research of my first field season.
+
+Tanja Schwander
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Neutral and selection-driven decay of sexual traits under asexuality
+poster D23SY02PS0468
+
+Author(s): Schwander, T, Van der Kooi, CJ
+
+Summary: 
+
+Vestigialization of non-functional traits is an important phenomenon in evolutionary biology, highlighting the importance of natural selection for adaptations. Both drift and selection can drive trait decay, and disentangling the influence of these processes for specific traits has proven to be challenging. The fate of sexual-reproduction traits in asexual all-female lineages can provide insights into both, vestigialization via drift and selective processes, because of the many replicate events independently leading from sexual ancestors to asexual lineages in diverse taxa. In addition, because certain traits, notably male-specific traits, are not exposed to selection under asexuality, these traits can only decay as a consequence of drift, while other traits would be largely under negative selection. We review the fate of male and female sexual traits in 78 animal species characterized by asexual reproduction, covering a broad taxon range including nine different insect orders, arachnids, mites and molluscs. Most asexual lineages are still able to rarely produce males and these asexually-produced males are often largely or even fully functional. By contrast, for asexual females there is convergent and rapid vestigialization of sexual traits, especially of traits related to mate attraction and location which are expected to be associated with costs. The level of decay of certain female traits, in addition to asexual females being unable to fertilize their eggs, would severely impede reversals to sexual reproduction, even in recently derived asexual lineages. Overall, the convergent maintenance vs decay of different trait types across diverse asexual lineages suggests that neutral traits display little or no vestigialization even after extended periods under relaxed selection, while extensive vestigialization for (presumably) selected traits occurs extremely rapidly.
+
+Carola Petersen
+Zoological Institute of the Christian-Albrechts-University of Kiel
+Department of Evolutionary Ecology and Genetics
+Germany
+News on the natural ecology and evolution of the model nematode C. elegans
+poster D23SY02PS0534
+
+Author(s): Petersen, C, Schulenburg, H
+
+Summary: 
+
+Although the nematode Caenorhabditis elegans is a major model organism in diverse biological areas and well studied under laboratory conditions, little is known about its ecology and evolutionary history. Therefore, characterization of the species’ natural habitats should provide a new perspective on the otherwise well-characterized biology and life-history of this nematode. C. elegans was for a long time thought to be a soil nematode, but actually seems to prefer nutrient- and microorganism-rich substrates. In order to extend these findings, this project focuses on a continuous long term sampling of C. elegans in rotting apples and compost heaps. Since these habitats degrade rapidly and are only available temporarily, nematodes need to escape harsh conditions and food limitation. We observed that slugs and isopods are likely vectors for transport to new environments. Moreover, C. elegans was found to share its habitat with the related nematode species Caenorhabditis remanei, which could thus represent an important competitor for a similar ecological niche. Microsatellite markers are currently used to characterize population genetic differentiation of the recently isolated C. elegans and those isolated in 2002 from the same location.
+
+Liselotte Sundstrom
+University of Helsinki
+Biosciences
+Finland
+Sex-biased dispersal, inbreeding and fitness in a social insect
+talk D23SY02RT18:33R3
+
+Author(s): Sundstrom, L, Vitikainen, E
+
+Summary: 
+
+Sex-biased dispersal may act as inbreeding avoidance strategy, yet data on natal dispersal and its effectiveness in reducing inbreeding in the wild are scarce. Perennial ant colonies offer a unique system to investigate the relationship between natal dispersal and inbreeding avoidance, as the dispersal and mating behavior of a queen during the short period of a mating flight will determine the genetic diversity among her offspring, for the entire life span of the incipient colony. We used pedigree information on parents of incipient and established colonies of the ant Formica exsecta, in order to examine the relationship between inbreeding, fitness, mating behavior, sex ratios, and patterns of natal dispersal. Dispersal was male-biased with male dispersal distances (ca. 150m) twice the length of those of queens (ca 60m), yet inbreeding was rife in the population. Neither multiple mating nor increasing dispersal distance by the queen reduced inbreeding among the offspring of her future colony. Queen homozygosity did not affect dispersal, but more homozygous queens had lower colony founding success, and were more incestuously mated themselves which may accentuate the negative effects of inbreeding. Inbreeding also affected resource allocation to the sexes, with inbred colonies producing smaller males, but not queens. We present first true estimates of natal dispersal distance in social insects. Our results emphasize that inbreeding may persist in absence of sib-mating, in species with supposedly population-wide panmictic mating behavior and sex-biased dispersal.
+
+Grant McDonald
+University of Oxford
+Department of Zoology
+United Kingdom
+Sexual Networks: measuring selection in structured populations
+poster D23SY02PS0812
+
+Author(s): McDonald, GC, James, R, Krause, J, Pizzari, T
+
+Summary: 
+
+Sexual selection is traditionally measured at the population level, assuming that populations lack structure. However, increasing evidence undermines this approach, indicating that intrasexual competition in natural populations often displays complex patterns of spatial and temporal structure. This complexity is due in part to the degree and mechanisms of intra- and intersexual interactions, which influence the intensity and scale of sexual competition. Attempts to measure selection at the local and global scale have been made through multi-level selection approaches. However, definitions of local scale are often based on physical proximity, providing a rather coarse measure of local competition, particularly in polyandrous populations where the local scale of pre- and post-copulatory competition may differ drastically. These limitations can be solved by social network analysis, which allows us to define a unique sexual environment for each member of a population: ‘local scale’ competition, therefore, becomes an emergent property of a sexual network. Here, we propose a novel quantitative approach to measure pre- and post-copulatory sexual selection, integrating multi-level selection with information on local scale competition derived as an emergent property of networks of sexual interactions. We then use simple simulations to illustrate the ways in which different patterns of pre- and postcopulatory competition can impact estimates of sexual selection. We show that for low to intermediate levels of polyandry, the proposed network-based approach provides substantially more accurate measures of sexual selection than more traditional population-level approaches. Furthermore, our approach highlights how the scale of pre- and postcopulatory competition can differ vastly. We argue that the increasing availability of fine-grained behavioral datasets provides exciting new opportunities to develop network approaches to study sexual selection in complex societies.
+
+Anne Charmantier
+Centre d'Ecologie Fonctionnelle et Evolutive (CEFE)
+CNRS
+France
+Sexual selection and autosomal versus sex-linked inheritance of colour ornamentation in the blue tit
+poster D23SY02PS0215
+
+Author(s): Charmantier, A, Grégoire, A, Thion, M, Doutrelant, C
+
+Summary: 
+
+In its most traditional form, sexual selection has been classically considered as an asymmetrical process whereby choosing partnership is incumbent upon females and elaborating attractive sexually selected traits incumbent upon males. However, the theory of sexual selection is presently going through a major paradigm shift towards considering how sexual selection affects the evolution of female traits. In species with low sexual dimorphism, extravagant female traits are hypothesized to result either from indirect selection acting on male traits, and/or direct selection on female traits. The present study used data on Mediterranean populations of blue tits Cyanistes caeruleus over 8 years to explore selection on and genetic (co)variations in male and female coloration. Blue tits are slightly sexually dichromatic birds with females presenting a decreased coloration in the UV-blue cap but not in the yellow chest. Several studies in males, and more recently in females, suggest that these two traits have an important signaling function in the context of sexual selection. Based on 3000 samples of feathers we analysed 8 spectral measures describing the chromatic and achromatic blue cap and yellow chest characteristics. Long term pedigrees allowed us to estimate autosomal inheritance for these traits in males and females, but also the largely ignored sex-(Z-)linked inheritance. For all traits that displayed additive genetic correlations in both males and females, cross-sex genetic correlations tended to be strong, as predicted by the correlated response hypothesis. Despite some correlations between fitness components and colour, selection gradients were weak overall and varied between populations. This study adds to the slowly growing number of investigations on the role of sex-chromosome linkage and cross-sex genetic correlations in the evolution of sexual ornaments and sexual dimorphism. It also reveals between-population differences in selection and inheritance.
+
+Pim Van-Hooft
+Wageningen University
+Environmental Sciences Group
+Netherlands
+Sexually antagonistic genes in a natural population of African buffalo
+poster D23SY02PS0140
+
+Author(s): Van-Hooft, P, Greyling, BJ, Getz, WM, Van-Helden, PD, Zwaan, BJ, Bastos, ADS
+
+Summary: 
+
+The view is emerging that intralocus sexual conflict at so-called sexually antagonistic genes is a fundamental factor for the genetic architecture of fitness. However, we do not know of any study on a natural population which has been able to analyse sexually antagonistic genes directly. Here, we analysed heterozygosity-fitness correlations (HFC) using microsatellites to show the occurrence of sexually antagonistic genes in the African buffalo (Syncerus caffer) of Kruger National Park. Additional analyses provided new insights into the characteristics of these genes and the selection pressures involved. Expected heterozygosity increased in low body condition (LBC) females relative to high body condition (HBC) females, i.e. a negative HFC, while the opposite was observed in males, i.e. a positive HFC. Alleles with a high frequency in HBC relative to LBC females tended to have a low frequency HBC relative to LBC males. This observation indicates that the particular group of sexually antagonistic alleles linked to the studied microsatellites are beneficial to females and deleterious to males. Furthermore, sexual antagonism was strongest among the high frequency alleles, indicating that they are under positive selection. The sexually antagonistic alleles were dominant in females, indicated by LBC-HBC allele frequency differences among heterozygotes, but less dominant and possibly recessive in males. This sex-specific inheritance pattern may result in protected polymorphism. Pregnant females with relatively many sexually antagonistic alleles, expected to be beneficial to their daughters, were mostly carrying female foetuses, while those with relatively few sexually antagonistic alleles mostly male foetuses. Thus mothers try to improve the chances that sexually antagonistic alleles are transmitted to the sex they benefit. This shows that the genetic load of sexually antagonistic variation can be high enough to interfere with the sexual selection of good genes.
+
+Luís Gordinho
+Porto University
+CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos
+Portugal
+Signal design and perception in Iberian reed buntings
+poster D23SY02PS0404
+
+Author(s): Gordinho, L, Neto, JM
+
+Summary: 
+
+Song divergence in different populations of a species can lead to reproductive isolation and speciation. Some passerines have different singing styles for distinct social contexts and songs from each style change over time and space at different rates. Song divergence between subspecies should therefore differ with singing style. The reed bunting (Emberiza schoeniclus) has three singing styles: Fast, related to obtaining a social mate; Dawn, related to extra-pair paternity; and Slow, used as an all-clear signal to social females. We compared properties of songs from the three styles among populations of the two resident subspecies breeding in southwestern Europe (lusitanica and witherbyi). In addition, we compared the reactions of territorial males of both subspecies to playback of Fast song from their own and two foreign subspecies (the other southwestern subspecies and the central and northern European schoeniclus). Overall, subspecies differ more in Fast and Dawn songs than in Slow songs, whereas divergence level in Fast and Dawn songs is very similar. Larger subspecies song divergence in Fast and Dawn singing styles is probably due to stronger female preference for local song in these styles (intersexual selection), rather than to greater song sharing and matching between males (intra-sexual selection). Regarding signal perception, both witherbyi and lusitanica males strongly discriminate schoeniclus song. However, witherbyi shows a more consistent discrimination of lusitanica song than lusitanica does of witherbyi song. Differential territorial defense suggests that an intruding male with different songs does not represent a competitive threat and is expected if females mate assortatively with respect to song. Thus, our results provide evidence for a faster evolution of sexually selected songs, and for premating reproductive isolation among reed bunting subspecies.
+
+Philipp Hohenbrink
+University of Veterinary Medicine Hannover
+Institute of Zoology
+Germany
+Signals of a divergent evolutionary history in the vomeronasal receptor genes of two sympatric mouse lemur species
+poster D23SY02PS0778
+
+Author(s): Hohenbrink, P, Mundy, NI, Zimmermann, E, Radespiel, U
+
+Summary: 
+
+Most terrestrial mammals possess functional vomeronasal receptors that are used in intraspecific communication and predator recognition. The two types of vomeronasal receptors, V1Rs and V2Rs, bind smaller ligands or larger peptides, respectively. Among primates, mouse lemurs possess the largest V1R repertoire and it has evolved under pervasive and ongoing positive selection. The aim of this study is to analyse and compare the evolution, genetic diversity and demographic history of selected vomeronasal receptor genes in two sympatric mouse lemur species (Microcebus murinus and M. ravelobensis) in northwestern Madagascar. A total of 40 mouse lemurs (20 of each species) from one study site in the Ankarafantsika National Park were sequenced at 15 different V1R loci and the two recently discovered V2R genes. All selected genes had been shown before to be expressed in the vomeronasal organ of M. murinus. M. ravelobensis showed a higher genetic diversity as expressed by a higher haplotype and nucleotide diversity than M. murinus. A comparative analysis of the respective haplotype networks, mismatch distributions and demographic and spatial modelling will be used to reconstruct the demographic history of both mouse lemur populations and to relate those results to possible Pleistocene colonisation scenarios that were previously developed on the basis of non-coding loci. Funded by VolkswagenFoundation.
+
+Jan Oettler
+University Regensburg
+Department of Zoology
+Germany
+Signatures of divergence in peripatric populations of the invasive ant Cardiocondyla obscurior
+poster D23SY02PS1392
+
+Author(s): Oettler, J, Schrader, L, Heinze, J
+
+Summary: 
+
+Worldwide small propagules of terrestrial and aquatic species are constantly transported to novel habitats through human activity. This global experiment on peripatric speciation enables us to evaluate the role of random genetic drift and effective population size in the formation of isolated populations with distinct phenotypes. Here we describe alternative social phenotypes of two introduced populations of a highly inbred ant. We compared the two populations for signatures of divergence using a whole-genome SNP based approach. In addition we tested for differences in aggression behavior within and between populations and analyzed variation of cuticular chemical profiles. Our data support the idea that effective population size can play a role in determining social phenotype in ants.
+
+Sunna Ellendt
+Max-Planck Institute for Evolutionary Biology
+Department of Evolutionary Genetics
+Germany
+Skin-mucus bacteria communities in Cottus (Pisces) species inhabiting secondary contact zones
+poster D23SY02PS1301
+
+Author(s): Ellendt, S, Nolte, AW
+
+Summary: 
+
+The composition of microbial communities associated with plants and animals may depend on the environment as well as on host genetics. However, it is unclear to what extent host microbiota interactions represent an evolutionary determinant that drives adaptation to different habitats. A prerequisite to study such questions is to disentangle whether host microbiota associations are caused by genetic or environmental factors. Natural hybrid zones can contain genetically diverse individuals that are exposed to varying environmental factors. This study aims at testing whether a fish hybrid zone contains sufficient host – microbiota – environment associations for in depth studies. We analyzed the microbial composition of the dermal mucus in two species of freshwater Cottus inhabiting a secondary contact zone in the River Sieg system near Bonn, Germany. For this purpose genomic DNA was extracted from fin samples from wild-caught individuals that were collected in different habitats. The samples were genotyped using Cottus specific SNP markers to determine the genetic background of each individual. Bacteria specific 16S rRNA markers were amplified and next-gen sequenced to study the bacteria associated with each fish. We explored microbial diversity and abundance based on database searches. Our results suggest that different species of Cottus are associated with specific bacterial taxa and that the bacterial composition in Cottus hybrids depends on host’s genetic factors as well as the environment. This paves the way to identify the host genomic regions underlying variation in bacterial communities as well as to experimentally study the effects of environmental factors.
+
+Gislene Goncalves
+Federal University of Rio Grande do Sul
+Brazil
+Spiny hair in wild rodents: a role for the Ectodysplasin A receptor (Edar) gene?
+poster D23SY02PS0807
+
+Author(s): Goncalves, GL, Moreira, GRP, Freitas, TRO, Hoekstra, HE
+
+Summary: 
+
+The amino acid change Val370Ala in the Ectodysplasin A receptor (Edar) is associated with hair differentiation in East Asia human populations. Transgenic experiments in mouse have shown that this mutation enhances Edar signaling in vitro, which in turn alters multiple aspects of its hair morphology including straighter hair fibers, increased diameter and more cylindrical form compared to hair of European or African origin. We studied whether this substitution is responsible for the spiny hair or spines observed in some rodent species, a trait that evolved independently at least six times within this lineage. To characterize variation in wild rodents, we first described structural variation in the dorsal hairs of 111 specimens from eight species that represent six rodent families: Heteromyidae, Cricetidae, Echimyidae, Erethizontidae, Hystricidae and Muridae. We found two major patterns: (i) presence of a dorsal groove associated with longitudinal side ridges of hairs in most lineages, and (ii) a roughly circular hair cross-section, without furrows and ridges, in South and North American porcupines. Thus, high levels of ellipticity observed in the Edar transgenic mouse hair were not observed in the wild rodents included in this study. Instead, two novel mechanisms that convert a guard hair into a spine were identified. Second, we sequenced 320 base pairs of exon 11 in Edar which encompassed the SNP implicated in spiny hair in humans. All 11 species had a Valine residue at site 370. We therefore conclude that the non-synonymous substitution in Edar previously associated with hair morphology does not play a role in modifying wild rodent guard hairs; instead different mutations in Edar and/or other genes are responsible for parallel phenotypes. Together, we demonstrate that different evolutionary pathways can produce similar morphology, in this case spiny hairs in mammals.
+
+Per Toräng
+Uppsala University
+Department of Ecology and Genetics
+Sweden
+Strong adaptive differentiation between populations of the alpine perennial herb Arabis alpina in northern and southern Europe
+poster D23SY02PS0922
+
+Author(s): Toräng, P, Wunder, J, Obeso, JR, Coupland, G, Ågren, J
+
+Summary: 
+
+Reciprocal transplant experiments can be used to determine the magnitude of adaptive differentiation among natural populations and to help identify putative adaptive traits and selective agents. In reciprocal transplant experiments, we quantified local adaptation between Scandinavian and Spanish populations of the alpine perennial herb Arabis alpina. At the Scandinavian field site, survival and fruit production of Scandinavian populations were higher than those of Spanish populations, while the opposite was true in Spain. The magnitude of the home advantage varied among years and was highest in a drought year in Spain and after a cold winter in Sweden. The results suggest that differences in tolerance to drought and cold contribute to adaptive differentiation between populations from the two regions. They further suggest that these A. alpina populations represent a highly suitable model system for examining the functional and genetic basis of plant adaptation in alpine environments.
+
+Phillip Gienapp
+Netherlands Institute of Ecology (NIOO-KNAW)
+Department of Animal Ecology
+Netherlands
+Ontogenetic effects can inflate estimates of genetic variance depending on pedigree structure
+talk D23SY02RT18:57R3
+
+Author(s): Gienapp, P, Van Noordwijk, AJ, Visser, ME
+
+Summary: 
+
+For reliably predicting micro-evolution it is crucial to properly estimate the trait’s heritability. In natural populations heritabilities are often estimated using ‘animal model’ analyses that are based on pedigrees. As these data from natural populations are observational it leaves the possibility that the resemblance between related individuals is not due to shared genes but, e.g., to ontogenetic effects. Such effects could possibly severely bias heritability estimates of breeding time in birds: when the environment for the offspring provided by early breeding pairs differs from that by late breeding pairs and the breeding time of these offspring when they reproduce themselves is affected by this environment, this may lead to inflated heritability estimates. Using simulation studies based on data from two long-term study population of great tits (Parus major) we tested whether and how much such an early environmental effect can inflate heritability estimates from ‘animal models’. We showed that early environmental effects can inflate heritability estimates depending on pedigree structure. We also used data from a wild population of great tits to directly test potential early environmental effects by comparing breeding time of females born early in the season in first broods and with that of sisters born much later in the season, namely in second broods. These birds are raised under very different environmental conditions but have the same genetic background. The egg-laying dates of first and second brood offspring do not differ when they reproduce themselves, clearly showing that ontogenetic effects are very small and hence family resemblance in timing is due to genes. Our results hence show that while ontogenetic effects do not affect an individual’s breeding time as an adult, similar early environmental effects could potentially inflate quantitative genetic parameters from ‘animal model’ analyses depending on pedigree structure.
+
+Carla Ribeiro
+Faculdade de Ciências da Universidade de Lisboa
+Departamento de Biologia Animal
+Portugal
+Patterns of cork oak (Quercus suber L.) population differentiation in candidate genes for adaptive traits
+poster D23SY02PS0979
+
+Author(s): Ribeiro, CAM, Rodrigues, A, Almeida, HM, Glushkova, M, Batista, D, Paulo, OS
+
+Summary: 
+
+Cork oak is the most abundant tree in Portugal, which together with its economical and social importance, has granted it the status of National Tree. It is the only species that produces renewable commercial cork, occurring across a vast range of climatic conditions in its natural range of distribution, the Mediterranean region, where it exists for over 60 Ma. So processes of local adaptation are likely to have occurred. Identifying candidate genes underlying genetic differences for adaptive traits can help to understand how species have adapted to their environment and to predict how they will respond to future climatic changes, which is a special concern in regions such as the Mediterranean Basin, where a substantial decrease in precipitation and a pronounced warming is expected in the near future. Here, we intend to assess cork oak potential capacity for adaptation by analysing population differentiation and diversity in candidate genes related with adaptive traits and test for associations with environmental variables. Five candidate genes for bud burst and osmotic stress were analyzed (in total, 1890 bp) in 25 populations from its distribution range. From the 19SNPs analyzed, several showed differences between populations, which might be involved in adaptive responses of cork oak. Our analysis, showed the presence of common haplotypes among various populations but some differences in the frequency of alleles between populations. A correlation study of allele frequency/genotype with phenotypic and environmental conditions, revealed some significant correlations between specific heterozygous genotypes and characteristics such as plant height, altitude and rainfall. We expect that further exploitation of these data will bring some insights on the molecular basis controlling local adaptation. Funded by FCT, grant SFRH/BD/68670/2010, projects PTDC/AGRGPL/104966/2008 and PTDC/AGR-AAM/104364/2008.
+
+Júlio Neto
+University of Porto
+CIBIO/UP - Research Centre in Biodiversity and Genetic Resources
+Portugal
+Phenotypic divergence among west European Populations of Reed Bunting Emberiza schoeniclus agrees with migratory and foraging behaviours indicating local adaptation
+poster D23SY02PS0366
+
+Author(s): Neto, JM, Gordinho, L, Newton, J
+
+Summary: 
+
+Divergent selection is responsible for many phenotypic differences between populations, potentially leading to speciation through the evolution of reproductive barriers. Here, we evaluated the morphometric divergence among west European populations of Reed Bunting (Emberiza schoeniclus) in order to determine the extent of local adaptation relative to two important selection pressures often associated with speciation in birds: migration and diet. We also compared the winter diet between the subspecies using stable isotope analyses. As expected by theory, migratory schoeniclus had longer and more pointed wings and a slightly lower body mass than the resident subspecies, with the exception of lusitanica, which despite having rounder wings was the smallest of all subspecies. Tail length did not vary according to the expectation (shorter tails in migrants) probably because it is strongly correlated with wing length. The southern, resident subspecies showed a narrower foraging niche clearly different from the migratory subspecies. The isotope signatures are consistent with previous anecdotal observations that resident birds feed on insects lying dormant inside the reed stems, whereas migratory birds feed on seeds of which C4 plants are strongly represented. Accordingly, the resident witherbyi had a very thick, stubby bill and, despite being smaller, the resident lusitanica had a significantly thicker, longer bill than migratory schoeniclus, which had a thin bill. Furthermore, geometric morphometric analyses revealed that the southern, resident subspecies have a more convex culmen than the migratory schoeniclus, being able to exert a greater strength at the bill tip, which is in agreement with their feeding technique. Thus, the three subspecies occurring in Western Europe differ in a variety of traits following the patterns predicted from their migratory and foraging behaviours, strongly suggesting that these birds have became locally adapted through natural selection.
+
+Yuval Sapir
+Tel Aviv University
+Department of Plant Sciences
+Israel
+Pollinator-mediated selection on floral size and color in two Iris species
+talk D23SY02RT11:18R1
+
+Author(s): Sapir, Y, Lavi, R
+
+Summary: 
+
+Pollinator-mediated selection is considered the major drive of floral evolu-tion and the evolution of floral diversity among angiosperms. Yet, causes of selection on traits contributing to attract pollinators have rarely been tested experimentally in natural populations. We quantified phenotypic selection on floral size and color in two species of the Oncocyclus irises in two years, and experimentally assessed the contribution of pollinators for this selection. Flowers of the Oncocyclus irises are among the largest in the East Mediter-ranean flora, and are usually dark-colored, from purple to black. Floral color is utilized to absorb the morning sun rays and to increase temperature within the flower. This morning floral heat rewards the pollinators of the irises: male solitary bees that shelter overnight in the flowers. To determine whether selection on floral size and color can be attributed to interactions with pollinators, selection was quantified for both open-pollinated controls and for plants receiving supplemental hand-pollination. The latter treatment is expected to remove pollinator limitation and hence to relax pollinator-mediated selection. Supplemental hand-pollination changed the extent and direction of selec-tion, suggesting pollinator-mediated selection on these traits. Pollinator-mediated directional selection on floral size and color was detected in Iris atropurpurea, and non-linear pollinator-mediated selection was detected in Iris haynei. This study provides evidence that pollinators of these irises are the selec-tion agent on floral traits, and support the contention that pollinators can drive the evolution of floral display size and color.
+
+Emily Hornett
+University of Cambridge
+Zoology
+United Kingdom
+Population genomic scan for natural variation and selection across central metabolism
+poster D23SY02PS0427
+
+Author(s): Hornett, EA, Wheat, C
+
+Summary: 
+
+A growing number of studies are finding empirical evidence for varying selection dynamics across the enzymes of central metabolism, with steps early in pathways being the focus of positive selection in taxa as divergent as flies and plants. Here we explore these dynamics in the butterfly Melitaea cinxia, where two enzymes of central metabolism have been shown to harbour genetic variation correlated with various aspects of flight performance and fitness in the wild. Using a Pool-Seq approach, the site frequency spectrum of polymorphisms in each of two long diverged populations was assessed across central metabolic genes. This variation was then compared between these populations to discover SNPs that displayed significant changes in frequency. Furthermore, through comparison with a sister species, this variation was assessed for selection dynamics, finding evidence for selection upon enzymes early in the studied pathways. Finally, to assess the significance of this variation in extant populations, we compared SNP frequencies between young and old butterflies of a single population, finding SNPs associated with survivorship in the wild. Together, this comparative genomic analysis of SNP variation provides important insights into selection dynamics acting on central metabolism.
+
+Katrien Vandepitte
+KULeuven
+Biology
+Belgium
+Population genomics of a spreading exotic plant species
+poster D23SY02PS0367
+
+Author(s): Vandepitte, K
+
+Summary: 
+
+Human activities increasingly introduce plant species far outside their native range, in regions where they did not evolve, under environmental conditions to which they might be poorly adapted. Therefore, before becoming invasive, exotic plant species may rapidly evolve in their new environment in response to the prevalent adaptive forces. To evaluate the possibility of genetic adaptation preceding invasive spread, we performed a population genomic study of Sisymbrium austriacum subsp. chrysanthum populations (the Pyrenean Jeweled rocket, Brassicaceae). The species is native to the Pyrenees but has been documented in Belgium, 1200 km North of its native range, since the 19th century. To discover SNPs, a subset of individuals was screened using Paired End RAD-Seq. The native and both current and historical non-native gene pool were then screened on a set of SNPs in genes associated with ecologically important plant traits. FST outlier analysis combined with gene function enrichment analysis identified candidate SNPs under positive selection in major flowering-time (FT) Arabidopsis homologs. Time series supported selection from standing variation in FT genes during the initial phases of colonization.
+
+Jane Reid
+University of Aberdeen
+Institute of Biological & Environmental Sciences
+United Kingdom
+Quantitative genetic covariances underlying selection on polyandry in a natural song sparrow population
+talk D24SY02IT10:30R3
+
+Author(s): Reid, J
+
+Summary: 
+
+Understanding the forces that drive the evolution and persistence of female polyandry remains an overarching yet elusive goal in evolutionary ecology. Many key hypotheses explaining selection on polyandry are explicitly quantitative genetic, involving genetic covariances between polyandry and fitness components in females and their offspring, and cross-sex genetic covariances with components of male fitness. However, despite recent methodological advances, these hypotheses have not previously been explicitly tested by estimating key genetic covariances in wild populations experiencing natural variation in female polyandry, male mating success and associated fitness components. I apply quantitative genetic analyses to 20 years of comprehensive paternity and pedigree data from polygynandrous song sparrows (Melospiza melodia) to test the key hypotheses that 1) there is additive genetic variance in the degrees of female polyandry and male paternity success, 2) that polyandrous females produce offspring of higher additive genetic value through extra-pair reproduction, and 3) female polyandry is positively genetically correlated with male paternity success. I demonstrate substantial additive genetic variance in both female polyandry and male paternity success, potentially allowing rapid evolution in both traits. I show that, opposite to prediction, polyandrous females produce offspring of lower additive genetic value through extra-pair reproduction, implying a component of indirect selection against polyandry. Finally, I demonstrate positive genetic covariance between female polyandry and male paternity success, but show that this covariance is constrained by genetic covariances among male fitness components. Through this explicit quantitative genetic approach I identify components of selection that could explain the evolution of polyandry and the current maintenance of genetic variation in polyandry under conflicting components of sex-specific selection.
+
+Takeshi Kawakami
+Uppsala University
+Department of Evolutionary Biology
+Sweden
+Recombination landscape of Ficedula flycatchers
+talk D23SY02RT14:24R1
+
+Author(s): Kawakami, T, Backström, N, Olason, PI, Burri, R, Husby, A, Smeds, L, Qvarnström, A, Ellegren, H
+
+Summary: 
+
+Characterizing variation in recombination rates between and within species is essential for understanding the patterns of gene flow, the efficacy of selection, and the variation in genetic divergence and diversity. The Natural pedigree of collared flycatchers (Ficedula albicollis) available from the Baltic island of Öland provides an exclusive opportunity to investigate variation in the rate of recombination in wild bird populations. Using a newly developed custom 50,000 SNP chip, we constructed a high-density genetic linkage map of the collared flycatcher. Our linkage analysis placed 4,951 SNPs in 33 linkage groups, corresponding to 29 autosomes and the Z chromosome. The total genetic distance was 3,096 cM with higher recombination rate in males than females (3,226 cM in males, 2,970 cM in females). Recombination rates substantially vary between chromosomes (mean recombination rate per chromosome = 2.04 ~ 6.97 cM/Mb) as well as within chromosomes and are generally higher toward the end of chromosomes. In addition to the collared flycatcher pedigree samples, we have genotyped multiple populations of collared flycatchers across Europe to characterize the pattern of linkage disequilibrium (LD) and estimate population-scaled recombination rate (rho). Population-specific recombination patterns and association with underlying molecular features will be discussed.
+
+Mingbo Yin
+School of life science, Fudan University, China
+China
+Rejection of the clonal erosion hypothesis: a study of hybridizing Daphnia from ten neighboring lakes
+poster D23SY02PS0207
+
+Author(s): Yin, M, Gießler, S, Wolinska, J
+
+Summary: 
+
+Cyclical parthenogenetic water fleas of the genus Daphnia are commonly used as a model system in ecological and evolutionary research. On the one hand, their capability of sexual reproduction favours genetic variation not only within species, but also between species via interspecific hybridization; on the other hand, asexual reproduction may lead to clonal erosion. In the present study, we tracked ten communities of the D. longispina complex (maximum distance about 30 km) from the beginning to the end of one growing season, using 15 microsatellite loci. The clonal richness remained roughly constant throughout the growing season and all four lakes, leading us to reject the clonal erosion hypothesis. Moreover, some identical multilocus genotypes from parental species were shared among otherwise unconnected lakes, and the genetic setup of the communities and populations matched well with the geographical positions among the lakes; but only for parental species and not for the hybrids. This indicates either strong contemporary gene flow or past colonisation events from neighbouring populations. Overall, the genetic distance among populations was lowest for D. galeata, confirming its invasive nature, modest for D. longispina and the highest for hybrids. Thus, hybrids appear to be locally produced, rather than migrating from neighboring lakes.
+
+Mirkka Lahdenperä
+University of Turku
+Department of Biology
+Finland
+Selection on post-reproductive lifespan in Asian elephants
+talk D23SY02RT15:45R3
+
+Author(s): Lahdenperä, M, Mar, KU, Lummaa, V
+
+Summary: 
+
+Among terrestrial mammals, elephants share the features with great apes and humans, of having long lifespan and offspring with long dependency. In humans, these traits combine with female menopause and an extended post-reproductive lifespan. Some have suggested that elephants, too, have a comparable post-reproductive lifespan to women, with survival into 60s in the wild and max. known age >80yrs. However, little data exists on the frequency of post-reproductive lifespan or its fitness benefits in long-lived species except humans. Long lifespan after last birth has been proposed to evolve because of the long offspring dependency and detrimental effects of early mother loss on their fitness. Here we use extensive (n>8000) individual-based multigenerational demographic records on semi-captive Asian elephants in Myanmar to investigate first, the patterns of post-reproductive survival in females and second, the short- and long-term importance of maternal care to offspring survival. We found that first, the age-specific fecundity clearly decreases after age 50, but the pattern does not correspond to the total loss of fecundity in old age found in human females. The elephant post-reproductive phase covers only one tenth of the whole lifespan, in contrast to almost half of that in women. Secondly, maternal death during the first years reduces calf survival considerably, but such effects wane rapidly with age, so that beyond age 5, mother’s death no longer increases calf risk of death. Calves surviving mother’s immediate death do not show long-term effects in later ages. Thus, Asian elephants show decreased fertility in advanced ages, but it differs distinctly from human age-specific fertility and the subsequent post-reproductive survival pattern. Our results imply that the long lifespan in elephants is not sufficiently explained only by long needed maternal care for calves and more generally, that longevity by itself does not necessarily lead to evolution of menopause.
+
+Szymon Drobniak
+Jagiellonian University
+Institute of Environmental Sciences
+Poland
+Varying patterns of genetic correlations between morphological traits along the ontogeny of blue tit nestlings
+poster D23SY02PS0495
+
+Author(s): Drobniak, SM, Arct, A, Lars, G, Cichon, M
+
+Summary: 
+
+Morphological traits usually are strongly genetically determined, which results in relatively high heritabilities of such traits compared to life-history traits. However, apart from their genetic background, different phenotypic traits may be correlated at the genetic level with other traits. Such correlations - if strong - may hamper or strengthen evolution of pairs of traits, depending on the direction of genetic correlations. Here we analyse morphological traits such as body weight and structural body size from a long-term study of the wild population of blue tits. We measured morphological traits during the early development of nestlings at several points in time. By employing animal models we were able to estimate genetic and non-genetic sources of variance in these traits and covariances between different traits. We demonstrate that the magnitude of correlations between analogous traits expressed at different ages varies, indicating that different sets of genes influence expression of these traits at different ages. Our results indicate that traits expressed during development are not genetically uniform but have their internal, complex quantitative genetic architecture.
+
+Oana Carja
+Stanford University
+Biology
+United States
+Whole-genome methylation patterns in the Khomani Bushmen of South Africa
+poster D23SY02PS0189
+
+Author(s): Carja, O
+
+Summary: 
+
+The Khoe San hunter-gatherers of southern Africa are believed to be one of the world's most ancient populations based on their high genetic diversity and low levels of LD. Phenotypically, the Khomani Bushmen have a range of lighter skin pigmentations, intermediate between European and central African populations, as well as a typically shorter stature. We have collected genetic and phenotypic information from the Khomani Bushmen. Moreover, we methyl-typed these individuals at over 400,000 CpGs sites as well as genotyped them at over 300,000 SNP sites. In order to better understand the epigenetic contribution of DNA methylation to skin color, we use this data set to study genome-wide methylation profiles for skin pigmentation. We also study the relationship of DNA methylation and age in these individuals. These results can help us better understand the role of DNA methylation in the aging process and in shaping the human phenotype.
+
+Nick Bos
+University of Helsinki
+Biosciences
+Finland
+Why do inbred ants live longer?
+poster D23SY02PS0390
+
+Author(s): Bos, N, Freitak, D, Pulliainen, U, Sundström, L
+
+Summary: 
+
+Inbreeding has profound consequences on a genomic, individual, population and even species level. However, the effects of inbreeding on natural populations, especially in insects, remain largely unstudied. Ants are an ideal model system to study the consequences of inbreeding, as they are ecologically important and form socially complex groups. Social groups provide another level possibly affected by inbreeding, as the large amount of interactions between numerous individuals could give rise to socially mediated inbreeding depression. Inbreeding has been shown to have negative consequences both at the individual and colony level in a natural population of the narrow-headed ant (Formica exsecta). Here, we compare the resistance of inbred and outbred worker ants against starvation. Our results indicate that inbreeding has no effect on longevity under starvation, however, naïve (fed) inbred ants outlive the outbred ones. What makes inbred ants live longer? We investigated these questions using both behavioural assays and gene expression studies.
+
+Saskya Van Nouhuys
+University of Helsinki
+Department of Biosciences
+Finland
+Why parasitize only a third of the available hosts?
+poster D23SY02PS0689
+
+Author(s): Van Nouhuys, S, Sullivan Montovan, K, Couchoux, C, Reeve, HK
+
+Summary: 
+
+There is strong competition among female Hyposoter horticola parasitoids foraging for egg clusters of their host butterfly, Melitaea cinxia, in Åland, Finland. Yet only a single wasp gains access to a given host egg cluster, and that wasp only parasitizes about a third of the hosts in the cluster. This behavior appears to be suboptimal for the individual wasp that has many mature eggs in her ovaries, and limited access to future hosts. There are several possible explanations for evolution or maintenance of sub maximal resource use in this system: a) Avoidance of resource over-exploitation through group selection; b) Resource management, which may occur if host individuals in highly parasitized egg clusters perform poorly; c) Risk spreading, such that parasitoids may benefit from distributing their progeny among host egg clusters; (d) Competition with diminishing returns, in which an individual can parasitize more eggs in total by moving from one cluster to another; (e) Density-dependent hyperparasitism, in which the parasitoid optimizes its rate of parasitism to minimize vulnerability to a density dependent hyperparasitoid. I will discuss the plausibility of each of these models using empirical data and mathematical modeling, illustrating that some explanations, such as group selection are less plausible than others, such as optimization in response to density dependent hyperparasitism.
+
+Conchita Alonso
+Estación Biológica de Doñana, CSIC
+Evolutionary Ecology
+Spain
+The fitness impact of seed fecundity in a long-lived understory shrub: a 12-year study
+poster D23SY02PS0955
+
+Author(s): Alonso, C
+
+Summary: 
+
+The transition between seed and adult stages in plant populations involves seed dispersal, germination and seedling survival the seedling/juvenile stage being frequently the most vulnerable phase. In woody plants, the transition from seedlings to reproductives may be a long lasting one and consequently highly stochastic process, which has been rarely documented in the wild because of practical difficulties. However, only disparity among individuals differing in a certain trait in next-generation reproductive offspring will allow natural selection to occur. In this study, I followed the fate of ca. 2900 sown seeds of the long-lived, evergreen shrub Daphne laureola, under natural conditions up to their first reproductive event twelve years after sowing. In summer 2000, single-seeded mature drupes were collected from natural crops of 18 mother plants in Cazorla mountains (SE Spain). Seeds were deprived of the pulp and sown in 41 plots according to a split-plot design. Plots were located in two sites differing in abiotic conditions associated with differences in elevation and canopy composition. Germination was relatively high (ca. 70 %) and occurred primarily in the first spring season after sowing, although delayed germination occurred in ca. 10 %. Mortality during the first growing season was high (ca. 55 %) with almost all dead seedlings having experienced herbivory by invertebrates (slugs and caterpillars) at early development stages. Remarkably, only 13 individuals had reached reproductive stage in 2012 suggesting that conditions for establishment were more stringent than conditions for germination. Here, I will analyse whether germination, short-term (1-2 years) and long-term (11 years) survival assessments provided similar results regarding the effects of mother plant (genetics) and sowing location (environment) in this understory shrub characteristic of well-preserved Mediterranean mountain forests.
+
+Maiko Kawajiri
+National Institute of Genetics
+Center for Frontier Research
+Japan
+The genetic architecture of the latitudinal variation in sexual dimorphism of medaka
+poster D23SY02PS0449
+
+Author(s): Kawajiri, M, Kohta, Y, Fujimoto, S, Mokodongan, DF, Yamahira, K, Kitano, J
+
+Summary: 
+
+Sexual dimorphism, morphological differences between the sexes, is widespread a throughout the animal kingdom. However, the degree of sexual dimorphism varies considerably among closely-related species or even populations. Although there are many theoretical genetic models that can explain the genetic mechanisms of variation in sexual dimorphism, little empirical studies have been conducted to investigate the genetic basis of the variation in sexual dimorphism among natural populations. How many genes are involved in the variation in sexual dimorphism? Are they localized at particular chromosomal regions, such as sex chromosomes? Are different dimorphic traits regulated by different genes? In the Japanese medaka (Oryzias latipes), populations at lower latitude are more sexually dimorphic than populations at higher latitude. For example, anal and dorsal fins of mature males in low-latitude populations are longer than that of the higher-latitude males. Laboratory rearing experiments revealed that these differences in male fin length is mediated by the difference in the rate of fin elongation during development, in particular after a certain body size which probably represents sexual maturation. Furthermore, males from lower-latitude populations show more frequent fighting and courtship behaviors than males from higher-latitude populations. In this study, genetic basis for these morphological and behavioral differences were investigated using QTL mapping. We crossed two populations of medaka from habitats of different latitude (Aomori and Okinawa) and quantified several traits related to fin elongation process and mating behavior in F2 progenies. We next designed custom SNP assay system to create a linkage map and conduct QTL mapping. We found significant QTL controlling different sexually dimorphic traits on a single autosome, suggesting that these secondary sexual characters may be controlled by the same genetic mechanism.
+
+Magnus Johansson
+Evolutionary Biology Center, Uppsala University
+Sweden
+The hotter the better: temperature induced differences in growth and mortality
+poster D23SY02PS0521
+
+Author(s): Johansson, M
+
+Summary: 
+
+With increasing global temperatures knowledge about how organisms may cope with different thermal environments has become of paramount interest. Lake Mývatn on northern Iceland provides a unique setting for studying temperature adaptation. Within the lake there are several cold (6°C) and warm (23°C) geothermal springs over a relatively short distance, creating temporally stable thermal regimes separated by areas of seasonally varying temperatures. I investigated temperature adaptation in populations of a pulmonate snail (Radix balthica) sampled throughout the lake. A reciprocal transplant experiment conducted in the field and a common garden experiment performed in the laboratory (F3 generation) showed that snails from warm localities always grow faster than cold-origin snails. In addition, mortality was higher for cold originating snails in a warm environment compared to warm originating snails in a cold environment. Thermal preference and tolerance (tested on F1 generation) were not different between the four extreme temperature populations or when grouped according to thermal environment. Molecular analyses (AFLP) showed substantial differences corresponding to the two thermal extremes within the lake. My findings support co-gradient temperature adaptation model and suggest that temperature variation can act as a strong selective barrier within an open aquatic system.
+
+Violeta Simón-Porcar
+Faculty of Biology University of Seville
+Plant Biology
+Spain
+The role of pollinators on disassortative mating in non-reciprocal style morphs of Narcissus papyraceus
+poster D23SY02PS0760
+
+Author(s): Simón-Porcar, VI, Santos-Gally, R, Meagher, TR, Arroyo, J
+
+Summary: 
+
+Heterostylous plant populations usually undergo high level of disassortative mating due to differentiated pollen transfer and heteromorphic incompatibility system. Stylar dimorphism lacks perfect reciprocity between morphs, thus it is considered unstable. However, it is very frequent in Narcissus. We hypothesize that enough level of disassortative pollen transfer might account for its maintenance. We investigated mating patterns in style dimorphic Narcissus papyraceus, a species with dimorphic and monomorphic populations for the long-styled morph. We set twelve experimental populations in two different sites within the dimorphic and the monomorphic regions and exposed them to natural pollinators. Two different approaches based on paternity analysis revealed increased rates of disassortative mating in most of experimental populations. In a second experiment, we assessed the role of different types of floral visitors on pollen transfer. We set emasculated (receptive) and intact (donor) flowers of each morph in the field, and collected single-visited receptive flowers to examine the pollen load deposited on stigmas. Long-tongued pollinators enhanced disassortative pollen transfer to the short-styled morph, in agreement with paternity experiment. In contrast, short-tongued insects were low efficient pollinators of the long-styled morph, and incapable to pollinate the short-styled morph. Our study provides empirical support for the hypothesis that disassortative mating maintains stylar dimorphism in the genus Narcissus. Despite of our first approach could not explain the loss of the short-styled morph in the north range of distribution of the species, the second experiment points out to a possible role of short-tongued insects, as previous correlational studies had proposed.
+
+Robert Ekblom
+Uppsala University
+Ecology and Genetics
+Sweden
+Transcriptomic divergence in relation to mating success of lekking great snipes (Gallinago media)
+poster D23SY02PS0014
+
+Author(s): Ekblom, R, Wang, B, Blom, MPK, Kålås, JA, Horsburgh, GJ, Burke, T, Höglund, J
+
+Summary: 
+
+Sexual selection is a key area in evolutionary biology, explaining the evolution of seemingly maladaptive traits such as conspicuous mating behaviour. Great snipe (Gallinago media) males aggregate on leks, visited by females for the sole purpose of mating, creating the prospect for intense sexual selection. However, the molecular basis of sexual selection in this species is still unknown. In this study, we sequenced the blood transcriptomes of 14 male great snipe individuals with different mating success to identify genes that might be related to sexual selection. One full 454 FLX Titanium run with individually tagged samples was used, and the de-novo assembly of the great snipe transcriptome using all the data consisted of 4476 transcripts (isotigs) with average length of 896 bp, together with 153431 high-quality singletons. The great snipe transcripts were homologous with 4900 chicken genes and 4853 zebra finch genes. Differential gene expression analyses were performed by comparing the sequencing read counts between the mated (9) and unmated (5) individuals, which allowed us to identify 4 differentially expressed genes. In addition, we also identified 2874 single nucleotide polymorphisms (SNPs) and compared the SNP genotype variation between the mated and unmated groups, which led to the identification of 18 genetically structured SNP loci. The functions of differentially expressed genes included ‘oxygen transport’ and ‘viral RNA degradation’. Interestingly, the gene coding for alpha-1-globin was identified as a candidate for both differential expression and for nucleotide divergence. To establish functional correlations between the candidate loci and the ecological variation, these candidate genes need further investigation. To this end, we provide a large number of functional genetic markers (SNPs and SSRs) that can be utilised in follow-up studies.
+
+Hussain Bahbahani
+University of Nottingham
+School of Life Sciences
+United Kingdom
+Tropical African cattle a unique model for the study of livestock adaptation
+poster D23SY02PS1419
+
+Author(s): Bahbahani, HM, Hanotte, OH
+
+Summary: 
+
+Indigenous cattle populations of Africa have a unique history which makes them particularly suitable for the understanding, at the genome level, of environmental adaptation. African taurine cattle Bos taurus taurus were the first to arrive on the continent. They were followed by the humped Bos taurus indicus zebu from their centre of domestication on the Indian subcontinent. The result of these migrations is a mosaic of zebu-taurine cattle population adapted to a diversity of local environments (e.g. semi-dry desert, humid and sub-humid forested areas) and production systems (e.g. pastoral, small-holder). Here, we use genomic tools to unravel genetic positive signature of selection in the East African shorthorn zebu, a locally indigenous adapted cattle from Western Kenya. We show that its autosomal genome structure is a complex make-up of taurine and zebu background while its mitochondrial DNA genome is of taurine origin only. Positive signatures of selection are detected through high density SNP chip genotyping and full genome sequencing. They include genes which may be associated with adaptation to disease challenge or reproductive function. An example of these genes is RXFP2, which is involved in testicular descent development, and horn development. Analysis of the mitochondrial DNA reveal signature of purifying selection against deleterious mutations.
+
+Juha Merilä
+University of Helsinki
+Department of Biosciences
+Finland
+Uncovering adaptative differentiation it the wild
+talk D23SY02RT17:45R3
+
+Author(s): Merilä, J
+
+Summary: 
+
+Differentiating in between adaptive and non adaptive causes of population differentiation in phenotypic traits of ecological interest remains often a challenge for empirical studies of natural populations. I will review a series of yet unpublished empirical studies which have utilized newly developed quantitative genetic approach to differentiate in between natural selection and genetic drift as a cause of population differentiation. Apart from of aiming to illustrate the general utility of this approach, I hope introduce couple of illuminating empirical case-studies where footprints of adaptive differentiation can be recovered in spite of strong influence of genetic drift and gene flow, respectively.
+
+Thomas Hovestadt
+University of Würzburg, Biocentre
+Field Station Fabrikschleichach
+Germany
+Unexpected benefit of the social parasite Microdon mutabilis for a key fitness component of its ant host
+poster D23SY02PS0377
+
+Author(s): Hovestadt, T, Thomas, JA, Mitesser, O, Elmes, GW, Schönrogge, K
+
+Summary: 
+
+Numerous invertebrates inhabit social insect colonies, including the hoverfly genus Microdon, whose larvae typically live as brood predators. Microdon mutabilis show a remarkable pattern of local adaptation to their host Formica lemani and ant colonies apparently endure M. mutabilis infections over several years despite losing a considerable fraction of their brood to Microdon. In fact, empirical evidence suggests that infected colonies may even produce more gynes. From an ecological and evolutionary perspective this constitutes a puzzle. Here we present a model for resource allocation within polygynous ant colonies, which assumes that whether an ant larva switches development into a worker or a gyne depends on the quantity of food received randomly from workers. Accordingly, Microdon predation promotes gyne development by increasing resource availability for surviving brood. Several model predictions are supported by empirical data. (i) Uninfected colonies rarely produce gynes at all. (ii) Infected colonies experience a short-lived peak in gyne production leading to a bimodal distribution in gyne production in infected colonies. (iii) Low brood:worker ratio is the critical mechanism controlling gyne production. (iv) Parasite induced reduction in the brood:worker ratio must be substantial for increased gyne production to become noticeable.
+
+Jakub Rusek
+Ludwig-Maximilians-Universität München
+Biologie II
+Germany
+Unlocking poor quality Daphnia samples by SNP genotyping
+poster D23SY02PS0574
+
+Author(s): Rusek, J, Tellenbach, C, Ayan, G, Theodosiou, L, Turko, P, Giessler, S, Spaak, P, Wolinska, J
+
+Summary: 
+
+In order to track temporal-evolutionary changes in the plakton communities, as an important issue remains the proper identification of species and their hybrids. For the analyses of Daphnia longispina complex, microsatellie genotyping is a commonly used method. However, we found these length-based markers unsuitable when analyzing poor quality samples. Therefore the historical, formaldehyde preserved samples remain inaccessible. To overcome this problem, we propose SNP based genotyping, due to possibility of shorter fragment amplification. Furthermore, this method allows not only high-throughput genotyping, but the calibration among laboratories is also relatively precise. Therefore, we aim to develop a reliable method to identify species of the D. longispina complex and their hybrids by SNP genotyping. By comparing the transcriptome of D. galeata with D. pulex genome (wfleabase.org) we are identifying genes and their chromosomal location in order to obtain multi-loci markers, and corresponding primers are then being designed. After the sequencing and alignment of these genes for each species in the complex (D. cucullata, D. galeata and D. longispina), candidate SNPs are being identified. For the small scale confirmation of the diagnostic value of these candidate SNPs, we are sequencing a set of genetically well-defined clones from species and hybrids originating from diverse locations across Europe. For the large-scale screenings we are optimizing multiplex PCR reaction of short amplicons and SNP detection via SnaPshot Multiplex kit. To validate the results, we are applying the developed assay for the samples, which were previously analyzed with microsatellite markers. By multi-locus SNP genotyping we will be able to assess the population structures in long-term formaldehyde preserved samples of a hybridizing species complex.
+
+Christian Huber
+Max F. Perutz Laboratories Vienna
+Austria
+Using both divergence and allele frequency information in a unified framework for sweep detection
+poster D23SY02PS0134
+
+Author(s): Huber, CD, DeGiorgio, M, Nielsen, R, Hellmann, I
+
+Summary: 
+
+SweepFinder is a commonly used tool to scan for selective sweeps that are fixed or nearly fixed. Currently, it uses only information contained in polymorphisms in the vicinity of the selected locus. Several recent studies have concluded that including information from invariant sites increases power to detect and localize sweeps. However, this approach also leads to false positive signals in regions that have low mutation rates compared to the background, or that are subject to strong purifying selection. Here, we explore the possibility of instead including information from a third class of sites, fixed differences from an outgroup species, into the composite likelihood framework. This approach is similar to that of the ?Hudson-Kreitman-Aguadé (HKA) test, but also incorporates the spatial pattern of polymorphism around the putatively selected site. By testing the method with simulations, we find that using only the information from fixed differences and polymorphic sites yields the same power as incorporating information from all sites, without increasing the false positive rate in regions with low mutation rates. We also demonstrate that including fixed differences is more robust to strong and recent bottlenecks than the method that uses only polymorphic sites. Finally, though robustness to bottlenecks is in general increased by our approach, recent bottlenecks with intermediate strength still yield a high frequency of false positives. Here we provide a powerful tool to scan for selective sweeps that incorporates the spatial patterns of the site frequency spectrum and diversity reduction in one single framework.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira

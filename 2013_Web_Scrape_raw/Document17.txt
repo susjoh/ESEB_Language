@@ -1,0 +1,397 @@
+XIV Congress of the 
+European Society for Evolutionary Biology
+Program
+Congress information
+About Lisbon
+Contact us
+Register for congressSign in
+Abstracts
+SY17: Linking genome evolution at different time scales
+ Abstracts list Schedule Description
+View only talks or posters
+Javier Quilez
+Institut de Biologia Evolutiva (Universitat Pompeu Fabra/CSIC)
+Ciencies Experimetals i de la Salut
+Spain
+Analysis of genomic structural diversity and uncharacterized novel sequences in wolves and dogs
+talk D23SY17RT11:42R3
+
+Author(s): Quilez, J, Lorente-Galdos, B, Twigg, D, Sirakov, S, Ramirez, O, Olalde, I, Berglund, J, Bustamante, CD, Freeman, AH, Webster, M, Novembre, J, Boyko, A, Wayne, R, Vila, C, Kidd, JM, Marques-Bonet, T
+
+Summary: 
+
+The domestic dog has been widely recognized as an important organism for studying the relationship between selection, genome variation, and phenotypic diversity. Both dogs and wolves have been extensively surveyed using mtDNA, microsatellites, SNPs inferred from genotyping platforms or pooled sequencing or from a handful of individuals with low genomic coverage. Although structural variation, including variation in multicopy gene families, has been recognized as one of the major contributions to differential phenotypes, extensive characterization of this kind of variation in canines is still lacking. We set out to explore the full spectrum of copy-number and structural genome diversity via next-generation sequencing of a diverse panel of high coverage full genome sequencing of 29 canid genomes. The set includes unrelated specimens from all major populations including 14 wolves, 4 coyotes, 10 dog breeds and one basal dog lineage (Basenji). Validations and genotyping by arrayCGH have been performed in a total set of 20 wolves and 7 dogs. Our analyses have found over 170 Mbps of structural variants in the dog and wolves genomes affecting the complete gene structure on ~250 genes. As expected from their demographic histories, the amount of segregating structural variants is lower in dogs than in wolves. We have also identified specific gene expansions and contractions accounting for 150 coding sequences and we can now date the origin of gene duplications. Finally, we also explored the contribution of dog and wolf novel sequences that encompass 4 million assembled sequences that are not present in the dog genome assembly. The study of those specific expansions will help us to improve our understanding on the biology of these newly expanded gene families and their role in rapid phenotypic changes.
+
+Marc Robinson-Rechavi
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Bgee, a database for the study of gene expression evolution
+poster D23SY17PS0219
+
+Author(s): Robinson-Rechavi, M, Team, B, Bastian, FB
+
+Summary: 
+
+Gene expression patterns (where and when genes are expressed) are a key feature in understanding gene function and evolution. To apply compare results between different model organisms and human, or to study gene expression evolution, a comparative approach must be used, but no tools allow to easily compare gene expression across species. We have thus developed Bgee (Base for Gene Expression Evolution), a database designed to automatically compare expression patterns between animals. This is achieved by i) the aggregation and curation of expression data from different types and sources, to map them to formal representations of anatomies and developments of different species; Bgee release 12 contains curated and quality controlled data for Affymetrix chips EST libraries, and RNA-seq libraries annotated by our curators, as well as in situ hybridizations. ii) the analysis of these data by dedicated statistical tests to define high confidence gene expression patterns. iii) the definition of comparison criteria between anatomies of different species; Bgee curators have designed relationships between more than 5000 species-specific terms, which map to more than 1000 homologous organ groups; the latter are organized in multi-species ontologies (the HOG and vHOG ontologies). Bgee is available at: http://bgee.unil.ch/
+
+Jesper Bechsgaard
+Aarhus University
+Bioscience
+Denmark
+Consequence of the evolution of social behavior in spiders on the intensity of selection
+poster D23SY17PS1302
+
+Author(s): Bechsgaard, JS, Settepani, V, Bilde, T
+
+Summary: 
+
+The evolution of social behavior in spiders has profound influence at most aspects the biology of the species. Especially, the selection intensity is predicted to be highly decreased due to low effective population sizes caused by common characteristics of severe inbreeding, female biased sex ratio, reproductive skew and strong meta-population dynamics. In the Stegodyphus genus three species have independently evolved social behavior. We compare historical selection intensities (dN/dS - interspecific) and current selection intensities (pN/pS - intraspecific) among the three social species and their three solitary sister species to test the prediction of decreased selection intensities in social species. We have sampled 10 individuals from each of 5 populations in all 6 species, and sequenced ~1% of each genome (~30mb and ~300kb protein coding) using double digest RAD sequencing. We have recently sequenced the genome of one of the social species, which facilities the analyses. We find that effective population sizes are highly decreased in the three social species revealed by very low diversity. We do not detect decreased historical selection intensities in the social species; however, current selection intensities are suggested to be highly reduced. These results suggest that social behavior evolved recently. The results are backed up by simulation studies of relation among pN/pS and dN/dS.
+
+Laurent Excoffier
+Institute of Ecology and Evolution, University of Berne
+Switzerland
+Detection of polygenic selection at different evolutionary levels
+talk D23SY17IT10:30R3
+
+Author(s): Excoffier, L, Daub, J
+
+Summary: 
+
+Most approaches aiming at finding genes involved in adaptive events have focused on the detection of outlier loci, which resulted in the discovery of individually ´significant´ genes with strong effects. However, a collection of small effect mutations could have a large effect on a given biological pathway that includes many genes, and such a polygenic mode of adaptation has not been systematically investigated in humans or other mammals. We therefore propose to evidence polygenic selection by detecting signals of adaptation at the pathway or gene set level instead of analyzing single independent genes. Using a gene-set enrichment test, we identify genome-wide signals of recent adaptation among human populations as well as more ancient signals of adaptation in the human lineage and in primates.
+
+Nadja Kryuchkova
+University of Lausanne
+Department of Ecology and Evolution
+Switzerland
+Determinants of protein evolutionary rates in light of ENCODE functional genomics
+talk D23SY17RT14:48R3
+
+Author(s): Kryuchkova, N, Robinson-Rechavi, M
+
+Summary: 
+
+The aim is to understand how the complex anatomy and developmental processes of animal influence the evolution of protein-coding genes.
+
+The influence of different parameters, from gene size to expression levels, on the evolution of proteins has been previously studied in yeast, Drosophila and mammals. Here we investigate these relations further, especially taking in account gene expression and chromatin organization in different organs and different developmental stages. For expression we used a microarray experiment over zebrafish development as well as the RNA-seq data from ENCODE for 22 different tissues of mouse. We also used chromatin accessibility in mouse tissues, and we use ENCODE data to define which transcript is used as reference to compute gene length, intron number, etc. We find strong differences between tissues or developmental stages in impact of expression on evolutionary rate. Over all tissues, an interesting result is that evolutionary rate is better correlated with maximal expression in one tissue then with average expression value over all tissues.
+
+Michael Whitlock
+University of British Columbia
+Department of Zoology
+Canada
+Equilibrium and non-equilibrium demographic history and the distribution of FST: deviations from the island model can strongly affect the conclusions of QST and FST outlier tests
+talk D23SY17RT14:00R3
+
+Author(s): Whitlock, M, Lotterhos, K
+
+Summary: 
+
+Local adaptation predicts that selected alleles and traits will differ in frequencies among populations, as each population adapts to its own optimum. Recently, our field has made increasing use of several methods designed to look for loci or traits that have greater divergence among populations than expected by genetic drift alone. Statistical conclusions from QST approaches (in the case of traits) or FST genome scans (for selected loci) depend on the demographic properties assumed by their null models. Typically an island model or a Dirichlet distribution is assumed. We explored through simulation a number of demographic models that differ increasingly from the island model, including several realistic scenarios out of equilibrium. For both QST and FST, the distribution of differentiation measures sometimes is well described by the island model, but often the differences are profound. We show that the differences can cause a great excess of false positives in QST or FST outlier approaches, and we make several suggestions about how to identify and ameliorate these problems in real biological settings.
+
+Linda Dib
+Univeristé de Lausanne, Faculté de biologie et de médecine 
+Department of Ecology and Evolution 
+Switzerland
+Evolution of correlated sites in the melanocortin system
+talk D23SY17RT15:12R3
+
+Author(s): Dib, LR, Salamin, N
+
+Summary: 
+
+Ten years ago it has been demonstrated that evolutionarily co-evolving residues in a protein mediate allosteric communication involved in cellular signaling. Recently, it has been observed that co-evolving positions can also explain folding, and key mutations implied in genetic diseases. Although predictions and biological evidence showed that some positions are correlated in the DNA and protein sequences, the evolutionary models used in phylogeny assume that these positions are evolving in an independent fashion. Here we propose a new model that considers co-evolving positions. The model is based on a 16X16 instantaneous rate matrix and three parameters: s, d, w. where s is the rate associated with a transition from a co-evolving combination to a non-co-evolving one, d is the rate of a transition from one non-co-evolving combination to a co-evolving one, w is the rate attributed to a single mutation occurring between two non-co-evolving combinations. To evaluate the new model, we use likelihood ratio test (LRT) between two models: the null model where independent evolution is assumed for each position (i.e. s=d=w) and the dependent model in which co-evolution is assumed. The results show that the null model has a weaker likelihood when two positions are co-evolving, whereas in the case of independent positions, the dependent and the null models have similar likelihoods. In the past decade several methods have been developed to identify co-evolving positions using probabilistic or combinatorial approaches. These models give a score of correlation but they do not distinguish within co-evolving positions, combinations of nucleotides that are indeed co-evolving across the phylogeny. This likelihood-based framework represents a step forward in reconstructing the evolution of co-evolving patterns based on a phylogeny with potential applications in evolutionary studies and mutagenesis experiments.
+
+Sara Rocha
+CIBIO/UP
+Portugal
+Evolution of heme-copper oxidases superfamily: reconciling gene duplications, losses and transfers to understand the origin of aerobic respiration
+poster D23SY17PS1440
+
+Author(s): Rocha, S, Fonseca, M, Posada, D, Pereira, M
+
+Summary: 
+
+To understand the origin and evolution of heme-copper oxydases, the terminal enzymes of aerobic respiratory chains, is fundamental to clarify the emergence of this important cellular process and how biological activity has shaped the history of our planet. Prior gene-phylogeny analyses were unable to clarify if they predate oxygenic photosynthesis already reducing oxygen, if they predate oxygenic photosynthesis but without reducing oxygen or if they postdate oxygenic photosynthesis. Using an enlarged sampling of 2723 genomes from 1485 prokaryotes (all available prokaryote genomes at November 2011) we characterized the distribution and number of the different types of HCO’s across Archaean and Bacterial phylums. We further used a time-calibrated tree-of-life against which we reconciled the inferred HCO gene phylogeny, under duplication, loss and transfers models, to test hypotheses about possible evolutionary scenarios for this family. All different HCO clades seem to make equally parsimonious roots of the gene-tree and multiple hypotheses remain open as possible evolutionary scenarios, but overall, results point to an early origin and diversification of this gene-family, prior to the origin of photosynthetic algae, and also with high amounts of duplications and lateral gene transfers. Although difficult and computationally intensive, only the simultaneous consideration of different evolutionary phenomena acting at different evolutionary scales, such as duplications, losses, lateral gene transfers and incomplete lineage sorting may properly elucidate deep and shallow patterns of diversification and co-evolution.
+
+Eduardo Tarazona-Santos
+Universidade Federal de Minas Gerais
+Departamento de Biologia Geral
+Brazil
+Evolutionary dynamics of the human nadph oxidase genes CYBB, CYBA, NCF2 and NCF4: functional implications
+poster D23SY17PS1401
+
+Author(s): Tarazona-Santos, E, Machado, M, Magalhães, WCS, Redondo, RAF, Yeager, M, Chanock, SJ
+
+Summary: 
+
+The phagocyte NADPH oxidase catalyzes the reduction of oxygen to reactive species with microbicidal activity. It is composed of two membrane-spanning subunits, gp91-phox and p22-phox (encoded by CYBB and CYBA, respectively), and three cytoplasmic subunits, p40-phox, p47-phox and p67-phox (encoded by NCF4, NCF1 and NCF2, respectively). Mutations in any of these genes can result in chronic granulomatous disease, a primary immunodeficiency characterized by recurrent infections. By means of evolutionary mapping, we determined that episodes of adaptive natural selection have shaped the extracellular portion of gp91-phox during the evolution of mammals, which suggest that this region may have a function probaby in host-pathogen interaction. Based on a resequence analysis of ~35kb of CYBB, CYBA, NCF2 and NCF4 in 102 ethnically diverse individuals, we show that the pattern of diversity of CYBA is compatible with balancing natural selection, perhaps mediated by catalase-positive pathogens. NCF2 in Asian populations also shows a suggestive pattern of diversity characterized by a differentiated haplotype structure. Our study provides insight into the role of a pathogen-driven natural selection in an innate immune pathway and sheds light on the role of CYBA in endothelial non-phagocyte NADPH oxidases, which are relevant in the pathogenesis of cardiovascular diseases and other complex diseases.
+
+Joao Alves
+IPATIMUP // IGC
+Portugal
+Evolutionary history of the 17q21 human polymorphic inversion
+poster D23SY17PS0425
+
+Author(s): Alves, JMF, Lopes, A, Heutink, P, Chikhi, L, Amorim, A
+
+Summary: 
+
+With the aid of novel and powerful molecular biology techniques the study of the structural plasticity of the genome has gained momentum, and one particular subtype of chromosomal rearrangement – inversions – was recently found to be far more common than predicted from classical cytogenetics. Moreover, large inversions have been identified at high frequency in some human populations.
+
+One particularly large inversion (900 kb) described in humans and several Great Apes, namely 17q21, has been shown to exhibit ‘frozen’ haplotypes (H1 and H2) which were originally identified by specific mutations and by their opposite orientations. The fact that they accumulate mutations independently is not necessarily surprising since recombination is expected to be limited between inverted regions. However, three surprising results were also found (i) age estimates of the inverted-associated haplotype (H2) are in the order of magnitude of millions of years, and (ii) the frequency of the inverted haplotypes vary between 5 and 35% in Europe only, (iii) cases were found in which the inversion status was in contradiction with the molecular haplotype, i.e. some H2 haplotypes (as defined by specific mutations) were in the same orientation as H1.
+
+These results suggest that (i) the inversion might be recurrent despite its size, or (ii) the polymorphism was kept during a large evolutionary timescale and resisted various speciation processes since it is observed in other Apes.
+
+In order to clarify the complex history of 17q21 human polymorphic inversion we are merging NGS data from 14 populations with cytogenetic (e.g. Fluorescent in situ hybridization) and molecular techniques. Furthermore, we will apply population genetics approaches to compare different evolutionary models.
+
+Margot Paris
+ETH Zürich
+Institute of Integrative Biology
+Switzerland
+Evolutionary inferences using nucleotide polymorphism and divergence data in the tomato clade
+poster D23SY17PS0761
+
+Author(s): Paris, M, Jean-Claude, W, Ana, F, Thomas, S
+
+Summary: 
+
+The recent revolution in sequencing technology offers great prospects to answer some key questions in evolutionary biology, such as determining the main forces shaping patterns of nucleotide polymorphism within and between species. Due to their relatively recent divergence, differences in mating system, and the genomic resources available, wild tomatoes (Solanum section Lycopersicon) are ideally suited for the study of polymorphism and divergence at a genome-wide scale. Of particular interest is the relative importance of various evolutionary and ecological processes that have shaped these patterns, such as differences in mating system, demographic/speciation history, recombination, and natural selection. We have sequenced 104 transcriptomes of species-wide samples from seven green-fruited species. Based on ~1 million SNPs, we have characterized patterns of genome-wide nucleotide polymorphism and divergence between these species, which reflect varying proportions of ancestral polymorphism between them. Population-genetic analyses will assess the role of evolutionary forces and life history traits on these patterns. For example, levels of synonymous and nonsynonymous polymorphism and divergence will be used to disentangle the importance of purifying and positive selection in the context of varying effective population size, mating system, and recombinational landscape.
+
+Frédéric Chain
+Max Planck Institute for Evolutionary Biology
+Department of Evolutionary Ecology
+Germany
+Genome evolution and structural variation in sticklebacks across different stages of divergence
+talk D22SY17RT11:42R3
+
+Author(s): Chain, FJJ, Feulner, PGD, Panchal, M, Huang, Y, Eizaguirre, C, Kalbe, M, Lenz, TL, Samonte, IE, Stoll, M, Bornberg-Bauer, E, Reusch, TBH, Milinski, M
+
+Summary: 
+
+Deciphering the genetic architecture underlying population differentiation and adaptation is crucial for better understanding the process of ecological speciation. To reveal patterns of genome evolution across different stages of population divergence, we characterized genetic variation in three-spined sticklebacks using 66 whole genomes (15x coverage each) from geographically and ecologically distinct populations. This fish species has recently colonized freshwater habitats and undergone substantial and recurrent phenotypic divergence associated with their habitat. We have evaluated the relative importance of several types of genetic variation (SNPs, INDELs, CNVs, inversions and translocations) in the differentiation of genomes across populations and ecotypes. Structural variations cover a larger proportion of the genome than the ~10 million single nucleotide variants. Whereas the majority of variants are shared across several populations, we detect genomic regions of high differentiation between closely related populations. Lineage-specific genes and RNA genes often differ in copy number between individuals and between populations, suggesting a potential role of structural variation such as CNVs in ecological adaptations. We also investigate the relationship between CNVs and different categories of duplicate genes, and evaluate the molecular rates of gene evolution using interspecific data. Taken together, our findings demonstrate extensive genomic differentiation within only a few thousand generations and support a mechanism for the birth and death of new genes via duplication, highlighting the dynamic nature of genomes. Due to our population sampling design we are able to shed some light on the interplay of ecological and genomic features of populations during adaptive evolution and at different stages of ecological speciation.
+
+Chris Jiggins
+University of Cambridge
+Dept Zoology
+United Kingdom
+Genome-wide patterns of admixture between species during an adaptive radiation
+talk D22SY17IT10:30R3
+
+Author(s): Jiggins, CD, Martin, SM
+
+Summary: 
+
+Most speciation events probably occur gradually, without complete and immediate reproductive isolation, but the full extent of gene flow between diverging species has rarely been characterized on a genome-wide scale. Documenting the extent and timing of admixture between diverging species can clarify the role of geographic isolation in speciation. Here we use new methodology to quantify admixture at different stages of divergence in Heliconius butterflies, based on whole genome sequences of 31 individuals. Comparisons between sympatric and allopatric populations of H. melpomene, H. cydno and H. timareta revealed a genome-wide trend of increased shared variation in sympatry, indicative of pervasive interspecific gene flow. Up to 40% of 100 kb genomic windows clustered by geography rather than by species, demonstrating that a very substantial fraction of the genome has been shared between sympatric species. Analyses of genetic variation shared over different time intervals suggested that admixture between these species has continued since early in speciation. Alleles shared between species during recent time intervals displayed higher levels of linkage disequilibrium than those shared over longer time intervals, suggesting that this admixture took place at multiple points during divergence and is probably ongoing. The signal of admixture was significantly reduced around loci controlling divergent wing patterns, as well as throughout the Z chromosome, consistent with strong selection for Müllerian mimicry and with known Z-linked hybrid incompatibility. Overall these results show that species divergence can occur in the face of persistent and genome-wide admixture over long periods of time.
+
+Jing Wang
+Umeå Univeristy
+Department of Ecology and Environmental Science
+Sweden
+Genome-wide patterns of genetic variation in European aspen (Populus tremula)
+poster D23SY17PS0732
+
+Author(s): Wang, J, Ingvarsson, PK
+
+Summary: 
+
+The recent advancement of next-generation sequencing (NGS) technology is now widely applied as a cost-effective approach to large-scale re-sequencing of many individuals from species where draft de novo genome assemblies are available. This advance offers unprecedented power to characterize genetic variation at the whole-genome level and provides important insights into the evolutionary forces that shape and maintain this variation. However, the utility of such NGS data rely crucially on the accuracy and quality of variant and genotype calling. Here, we provide a workflow for variant calling and genotype inference using a data set of whole-genome re-sequencing data of a number of European aspen (Populus tremula) individuals each sequenced to a depth of about 20 × coverage. We also estimate levels of nucleotide polymorphism and population differentiation of P. tremula using data from the first 500 scaffolds of twelve individuals sampled from four natural populations in Sweden. Compared to previous studies that were based on a small number of genes, we found higher genome-wide estimates of nucleotide diversity (p=0.00996) and lower genetic differentiation across populations (mean FST=0.00263).
+
+Nicolas Cerveau
+Georg-August-Universität Göttingen
+Courant Research Center Geobiology
+Germany
+Genomic basis and possible evolutionary consequences of ectosymbiotic lifestyle in a sulfide-rich environment
+poster D23SY17PS1113
+
+Author(s): Cerveau, N, Bauermeister, J, Dattagupta, S
+
+Summary: 
+
+Ectosymbioses between invertebrates and chemosynthetic microbes are common and ecologically important in sulfidic marine environments such as hydrothermal vents, cold seeps, and organic-rich coastal sediments. In these habitats, invertebrates have developed stable ectosymbiotic associations with epsilon and gamma-proteobacteria. It has long been documented that Thiothrix, gamma-proteobacteria belonging to the Thiotrichaceae family, are ectosymbionts of a marine amphipod. Nevertheless, the associations between gammaridean amphipods of the genus Niphargus and sulfur oxidizing Thiothrix bacteria, discovered recently in the Frasassi caves of central Italy, were the first reported examples of chemosynthetic ectosymbioses from a freshwater habitat. The Frasassi caves are underground ecosystem solely sustained by chemoautotrophy. Mats of filamentous sulfur-oxidizing gamma- and epsilonproteobacteria cover the sulfidic cave water bodies. The Niphargus amphipods directly interact with these mats, but have established ectosymbioses with Thiothrix clades, which are furthermore distinct from Thiothrix of the free-living communities. With the advent of the next-generation sequencing technology, comparative genomics have been exhaustively used to study endosymbioses, but have so far never been applied to ectosymbioses. Our aim is to compare the genomes of Thiothrix ectosymbionts of Niphargus with those of free-living Thiothrix present in Frasassi microbial mats to uncover the genomic basis and possible evolutionary consequences of an ectosymbiotic lifestyle. Recent studies revealed that Niphargus-Thiothrix ectosymbioses are not restricted to Frasassi, but occur in subterranean environments across Europe, including Movile cave in Romania and Melissotrypa cave in Greece. These newly discovered associations, which involve different host species and Thiothrix ectosymbiont clades, may serve as natural biological replicates for our comparative genomic studies.
+
+Moritz Muschick
+University of Sheffield
+Department of Animal and Plant Sciences
+United Kingdom
+Genomic basis of the adaptive radiation of Timema stick insects
+talk D23SY17RT11:18R3
+
+Author(s): Muschick, M, Soria-Carrasco, V, Nosil, P
+
+Summary: 
+
+Although most of biodiversity on Earth is thought to be the product of adaptive radiation, very little is known about its genomic basis. Adaptation and speciation with gene-flow, probably common in adaptive radiations, might result in distinctive patterns of genomic divergence between species and populations. But how much do these micro-evolutionary processes determine the observable macro-evolutionary patterns of species differences and similarities? Recent field experiments with the stick insect species Timema cristinae from California have demonstrated significant selection on a number of genomic loci when populations were transplanted to non-native hosts or to different elevations, featuring different climates. Building upon these results we here investigate genomic divergence across several Timema species and populations, and its correlation with divergent and convergent adaptation. We have sampled over 1500 individuals from 110 populations of 11 species of Timema stick insects. This collection comprises samples from 10 different host plants, covering an altitudinal range of 2800 meters. Using restriction site associated DNA tag sequencing and whole genome resequencing we reveal the patterns of genomic divergence between species and populations from similar and divergent environments. We expect to learn if divergence at certain loci is correlated with divergent adaptation, and how this pattern changes with phylogenetic relatedness. Are the demonstrated short-term changes in allele frequency matching the genomic divergence on a macro-evolutionary time scale in Timema stick insects? Answering this question will advance our knowledge about the influence of micro-evolutionary ecological adaptation on genome evolution in adaptive radiations.
+
+Katarzyna Zaremba-Niedzwiedzka
+Biomedical Centre, Uppsala University
+Department of Cell and Molecular Biology
+Sweden
+Insights from single cell genomics and metagenomics into microdiversification processes in freshwater bacteria of the SAR11 clade
+poster D23SY17PS1172
+
+Author(s): Zaremba-Niedzwiedzka, K, Viklund, J, Zhao, W, McMahon, KD, Ast, J, Bertilsson, S, Stepanauskas, R, Andersson, SGE
+
+Summary: 
+
+The SAR11 clade include oceanic and freshwater alphaproteobacteria. SAR11 is one of the most abundant bacteria in the upper surface waters of the oceans. The freshwater group, referred to as LD12, is uncultivated. Comparison of closely related groups that inhabit very different environments give a unique opportunity to investigate mechanisms and forces that shape their evolution. Here, we analyzed single amplified genomes from ten LD12 cells. Phylogenetic analysis of concatenated pan-orthologous proteins confirmed presence of a monophyletic LD12 cluster within the broader SAR11 clade. Most of the single gene trees agreed in topology, with a few clear examples of incongruence due to recombination events. Oceanic SAR11 strains have among the highest estimated ratio of recombination to mutation in bacteria, but little is known about the LD12 clade. Our study indicated substantially lower recombination frequencies for LD12. Based on sequence shared between the nine most complete single cell genomes, calculated recombination to mutation ratio placed the LD12 at the opposite extreme of the scale compared to the marine sequences. Pairwise comparisons of substitution frequencies showed the presence of microclusters. The LD12 single cells also displayed conservation of gene order structure. The recruitments of metagenomic reads from six lakes in Sweden and the US were used to investigate phylogenetic representation of the single cells and estimate the population mutation and recombination rates. Clustering of metagenomic reads showed no relationship with the trophic status of these lakes, but indicated both geographic and seasonal variability. Some microclusters were present in several lakes and we hypothesize that periodic selection for adaptation to different ecological niches leads to variation in abundances depending on the lake and conditions.
+
+Vladimir Jovanovic
+Institute for Biological Researches "Sinisa Stankovic", University of Belgrade
+Department of Genetic Research
+Serbia
+Inter- and intraspecific genetic divergence in genus Apodemus (Rodentia, Muridae): a framework for NGS
+poster D23SY17PS0756
+
+Author(s): Jovanovic, VM, Adnadevic, T, Blagojevic, J, Stamenkovic, G, Vujoševic, M
+
+Summary: 
+
+The genus Apodemus includes more than 20 species of field and forest mice, with some of them sharing similar morphologies and living in sympatry. Interspecific divergences were previously investigated by means of morphological, biochemical, karyological, and analyses of nuclear and mitochondrial gene sequences. The aim of this research was to describe the divergence among and within several Apodemus clades by comparing the structure of six microsatellite loci. Furthermore, the evolutionary distances among these clades were measured in the data sample of 1483 partial and complete cytochrome b sequences (GenBank accessions). Both microsatellite allelic diversity and polymorphism in presence and length data add to already established line of evidence on interspecific differences among Apodemus species. We strengthened the distinct position of subgenus Sylvaemus, and emphasized intraspecific diversity in A. sylvaticus. This intraspecific divergence in the presence of microsatellite loci was compared to divergences at the karyological level. Bearing in mind that a good phylogenetic framework contributes to the phylogenomic research, we pinpoint the optimal choice of sample size for next generation sequencing (NGS) and the populations of interest.
+
+Diogo Silva
+University of Lisbon, Science Faculty
+Cento de Biologia Ambiental
+Portugal
+Phylogenomics unravels major evolutionary trends of the Basidiomycota
+poster D23SY17PS1123
+
+Author(s): Silva, DN, Vieira, A, Talhinhas, P, Azinheira, HG, Silva, MC, Fernandez, D, Duplessis, S, Batista, D, Paulo, OS
+
+Summary: 
+
+The Basidiomycota is the second largest group of fungi, encompassing a remarkably diverse and important array of life forms, from mushrooms to smuts and rusts. They play vital roles in recycling nutrients in the global environment and present serious threats to conservation and economic activities as pathogens and wood rotting species. The importance of these species allied with their relatively small and compact genomes have made them prime candidates for sequencing projects, generating a growing platform of genomic resources. However, due to the recent availability of these resources, there has still been no effort to use genome-scale data to study the evolutionary history of this group of organisms. Here we present the results of an ongoing phylogenomics project that includes not only a representative sampling of the Basidiomycota, but also of the sister phylum, Ascomycota, in order to produce a comprehensive data matrix amenable for testing several hypotheses about the evolution of the Basidiomycota. Using state-of-the-art orthology detection methods as well as established and custom made quality control pipelines, we were able to assemble several data sets that range from 614 putative orthologs across 47 species to 3093 putative orthologs across 114 species, including data from complete genome projects and EST databases. Regarding the species-gene ratio, this represents the most comprehensive data matrix assembled so far for the fungal kingdom, allowing us to produce resolved and highly supported phylogenetic trees even among the most deep relationships. Paradoxically, we have also obtained several incongruities between data sets, which may have a substantial impact on the current understanding of fungal evolution. Our current goals reside in achieving a better understanding of these incongruities and adding a geological time-awareness into the evolutionary history of the Basidiomycota. This work is being funded by project PTDC/AGR-GPL/119943/2010.
+
+Nicola DeMaio
+Institut für Populationsgenetik
+Vetmeduni Vienna
+Austria
+Polymorphisms-aware phylogenetic models
+talk D23SY17RT14:24R3
+
+Author(s): DeMaio, N, Schlötterer, C, Kosiol, C
+
+Summary: 
+
+Comparative analysis of genomes of related species, and of different individuals of the same species, can reveal adaptive trends in the history of the considered taxa, as well as show intensity and genomic variation of evolutionary patterns. However, these intra and interspecific data also bring new challenges, such as the presence of incomplete lineage sorting and ancestral shared polymorphisms.
+
+We propose a new POlymorphisms-aware phylogenetic MOdel (PoMo) that relaxes the assumption of instantaneous substitutions of standard phylogenetic approaches. A substitution is hereby modeled through a mutational event followed by a gradual fixation. Our model utilizes both divergence and polymorphism data from different species/populations. By allowing polymorphisms at internal phylogenetic nodes, it also naturally accounts for incomplete lineage sorting and shared ancestral polymorphisms. PoMo can accurately and time-efficiently estimate phylogenetic trees of any shape and dimension, e.g. species trees, population trees, or any combination of those. It can also disentangle the contributions of mutations and fixation biases in substitution patterns.
+
+We analyzed synonymous sites in genome-wide alignments of human, chimpanzee, and two orangutan species. Using PoMo, we obtained accurate estimates of mutation rates and GC-biased gene conversion (gBGC) in great apes. We found that both mutation rates and gBGC vary with GC content, determining the well-known differences in substitution rates. Our results are consistent with the presence of directional selection in synonymous sites regarding exonic splicing enhancers.
+
+Lastly, we show with simulations that PoMo accurately estimates phylogenetic branch lengths, whereas standard substitutions models present large biases due to ancestral polymorphisms. Furthermore, our methods are more computationally efficient than coalescent-based approaches.
+
+Louis Du Plessis
+ETH Zürich
+Environmental Systems Sciences
+Switzerland
+Relationship between evolutionary rate variation, protein secondary structure and codon usage in protein-coding genes
+poster D23SY17PS0614
+
+Author(s): Du Plessis, L, Anisimova, M
+
+Summary: 
+
+The co-translational hypothesis predicts selection for rare codons in loops connecting protein subunits, such as secondary structures [1]. Rare codons are translated at a slower rate, causing translational pauses that may aid in protein folding. Furthermore, synonymous rates vary substantially from site-to-site in many genes and synonymous mutations have been implicated in genetic fitness and several diseases [2]. Despite this, synonymous substitution rates are often assumed neutral. Here we investigate how the synonymous rate is related to secondary structure and codon usage.
+
+We studied 912 human and 542 E. coli genes with assigned secondary structures. Orthologs from 14 mammalian and 19 E. coli strains were extracted and site-specific evolutionary rates inferred using models implemented in CodonPhyML [3], an extension of PhyML.
+
+Only a weak correlation between codon usage and secondary structure was found, but evolutionary rates correlated stronger with secondary structures, showing that different structures are under different selective constraints for codon choice. Presence of loops with low synonymous rates points to purifying selection on synonymous codon choice, consistent with evolutionary conservation of translational pauses. However, higher average evolutionary rates for loops compared to sheets and helices indicate that, in general, loops are under weaker purifying selection, possibly due to higher lineage heterogeneity. These findings do not rule out the presence of rare codon clusters, but suggest that they are not widespread.
+
+[1] Komar, A.A. A pause for thought along the co-translational folding pathway. TiBS, 34(1), 2009 [2] Sauna, Z.E., Kimchi-Sarfaty, C. Understanding the contribution of synonymous mutations to human disease. Nat Rev Genet, 2011 [3] Gil, M., Zanetti, M., Zoller, S., and Anisimova, M. CodonPHYML: Maximum likelihood phylogenetic inference under codon substitution models. MBE, 2013 (accepted with minor revision)
+
+Eckart Stolle
+Institute of Biology of the Martin-Luther-University Halle-Wittenberg
+Department of Zoology
+Germany
+Repetitive DNA and insights into genome evolution in insects
+poster D23SY17PS0822
+
+Author(s): Stolle, E, Moritz, RFA
+
+Summary: 
+
+Simple sequence repeats are common features of insect genomes, considered to evolve mostly neutrally, with a high turnover due to high mutation rates. We studied the conservation of these repetitive DNA elements in evolutionary time scales in genomes of insect species and could show that large numbers of these microsatellites can be retained over many million years. We compared Dipteran species with Hymenopteran species in relation to divergence time, and found a loss of microsatellites twice as fast in the flies, indicating a slower genome evolution in Hymenoptera which is consistent with previous studies based on substitution rates in coding sequences. However, if the generation time is considered, the Diptera actually show an 8.5-fold slower rate than the Hymenoptera, suggesting a faster genome evolution. Such microsatellite loci conserved between genomes of related species furthermore allow for genome-wide high resolution analyses of synteny as well as the comparison, correction and improvement of genome assemblies. Interspersed repetitive elements – Retrotransposons and DNA Transposons – are considered as mobile genomic “parasites” and can be found in most species. With a genome-wide scan in twelve bee species, we study the diversities and abundances of these elements. Whereas solitary bee species show high levels of both diversity and abundance, some lineages appear to have lost most of it. The eusocial bumblebee and stingless bee species lack many types of these elements, but the most extreme case are three analysed honeybee species with genomes that are almost devoid of any retrotransposons. Furthermore, we find evidence for potential horizontal gene transfer, indicated by high sequence homologies between transposon elements from very distant non-insect species. In general, our results show that repetitive elements in spite of enhanced mutation rates can be used as a powerful tool for analysing patterns of genome evolution.
+
+Alison Wright
+University College London
+Department of Genetics, Evolution and Environment
+United Kingdom
+Short- and long-term evolution of gene expression and sequence divergence on the avian Z chromosome
+talk D22SY17RT11:18R3
+
+Author(s): Wright, AE, Harrison, PW, Pointer, MA, Mank, JE
+
+Summary: 
+
+Sex chromosomes provide unique opportunities to study the fundamental evolutionary forces that act on the entirety of the genome. Because of their unusual pattern of transmission, biological differences between males and females cause sex chromosomes to experience distinct evolutionary environments, which in turn influence coding sequence, gene expression, and even splice forms. The avian Z chromosome is separated into multiple distinct strata, formed by numerous recombination suppression events that have evolved independently across different avian lineages. This provides a unique opportunity to examine the effects of sex-specific selection on the same chromosome across evolutionary time scales.
+
+We first mapped out the fine-scale evolutionary history of the Z chromosome across a clade of birds, encompassing roughly 80 million years. Our results show that replicate strata have formed independently across this clade. We then used multiple integrated next-generation datasets to measure gene expression and gene sequence divergence across four species within this clade that experience different sex-specific selection regimes. Our data indicate that male-biased gene expression accumulates over time across Z chromosome strata, with older strata showing greater levels of male-bias. This is consistent with the fact that Z-linked genes are more often selected for male-specific effects. We also show that sex chromosome divergence influences sex-specific alternative splicing, leading to the loss of female-specific exons from the Z chromosome.
+
+Klaus Schliep
+Universidad de Vigo
+Facultad de Biología
+Spain
+Species tree and population size estimation of Iberian and North African Podarcis
+poster D23SY17PS1446
+
+Author(s): Schliep, K, Couto, A, Pinho, C, Posada, D
+
+Summary: 
+
+Phylogenetic methods were initially developed having only a single genes and a single individual per species available. Recent technological advances provide us with data containing many loci and several individuals per species, which are essential to proper infer species diversification histories. We present a new maximum likelihood approach to estimate species tree and the gene trees based on the multi species coalescent (Rannala & Yang 2003). Our method accounts for incomplete lineage sorting and also enables us to infer the population sizes. We use simulations to compare our method with existing ones. And also analyse a dataset containing 20 species with about 200 individuals and around 16 genes of Podarcis wall lizards from the Iberian Peninsula and North Africa.
+
+Anne Yoder
+Duke University
+Department of Biology
+United States
+Surprising Patterns of Allelic Diversity of V1R genes in Toothcombed Primates
+poster D23SY17PS0250
+
+Author(s): Yoder, AD, Chan, L, Dos Reis, M, Larsen, P, Bielawski, J, Yang, Z
+
+Summary: 
+
+Vomeronasal receptor genes are of increasing interest to biological fields as disparate as molecular ecology and sensory integration due to their exquisite one-to-one relationships among pheromonal signals, gene expression, and neuronal sensory input. We report the most extensive sample of vomeronasal receptor class 1 (V1R) sequences ever generated for a diverse yet phylogenetically coherent group of mammals, the tooth-combed primates (suborder Strepsirrhini). We have identified more than 1000 unique alleles from across 19 strepsirrhine taxa. Phylogenetic analysis reveals that we have intensively sampled from a single V1R subfamily, apparently unique to the strepsirrhine primates. The subfamily, which we designate as V1Rstrep, retains extensive repertoires of alleles that descend from an ancient gene duplication that occurred prior to the diversification of all lemuriform primates excluding the basal genus Daubentonia (the aye-aye). Comparison of amino acid sequences between the two descendent lineages reveals different amino acid compositions corresponding to the predicted ligand-binding site, and thus potentially, to altered functional profiles between the two. As supported by a three-dimensional folding model, the ligand-binding site is predicted to have different binding capacities in the two clades. The dwarf and mouse lemur species (family Cheirogaleidae) show strong patterns of gene-tree/species tree incongruence whereas V1R sequences in the true lemurs (family Lemuridae) show far greater fidelity to the species tree. This is despite the fact that the true lemur and the dwarf and mouse lemur clades are of similar geological age. These observations imply that different molecular-evolutionary properties are operating within the taxonomic groups, such a differential birth/death rates and/or gene conversion. The majority of V1Rstrep alleles appear to be intact and under strong positive selection, particularly within the transmembrane regions of the gene.
+
+Carmen Chan
+University of New South Wales
+School of Biotechnology and Biomolecular Sciences
+Australia
+Within-population estimation of selective constraint
+poster D23SY17PS0310
+
+Author(s): Chan, CHS, Tanaka, MM
+
+Summary: 
+
+Phylogenetic estimation of the ratio of non-synonymous (Ka) to synonymous (Ks) changes is a commonly used method for estimating levels of selective constraint between divergent populations in a protein-coding region. These methods are also frequently used for within-population analysis; however, it is known that weakly deleterious mutations can generate time-dependent behaviour of Ka/Ks. Purifying selection may take many generations to remove weakly deleterious polymorphisms, so that branches near the tip of the tree will be confounded by both long-term evolutionary processes and population genetics. We show, using forward simulation of a Wright-Fisher population, that the standard method of grouping tip branches in a separate partition does not completely correct for this bias. Using comparisons along each branch, we show that a simple filter based on branch-length can correct for the bias. Population genetic theory implies that the filtering condition depends on both population size and selection strength. However, in practice, it depends only on the length of the sequence. These results imply that between- and within-population comparisons can be used without explicit separation.
+
+Claus-Peter Stelzer
+University of Innsbruck
+Research Institute for Limnology
+Austria
+Within-population variation in genome size in Brachionus plicatilis rotifers
+poster D23SY17PS0528
+
+Author(s): Stelzer, CP
+
+Summary: 
+
+Genome sizes among eukaryotes are highly variable. While there is consensus that most of this variation is caused by variable amounts of non-coding DNA (e.g. intron length, pseudogenes, transposable elements), controversy still exists about the evolutionary forces driving such differences, in particular about the roles of selection vs. drift or mutation. Organisms displaying intrapopulation variation in genome size may offer an attractive system for resolving such a controversy. Here I present evidence for intrapopulation genome size variation in one lineage of the Brachionus plicatilis species complex, a small planktonic rotifer. Genome sizes within this population ranged up to 1,2 fold and the distribution followed a unimodal pattern with a mean of 242 Mbp, based on flow-cytometry measurements with Drosophila melanogaster as internal standard. Individuals with high and low genome size were genetically highly similar to each other, according to their ITS1 and COI barcoding sequences, and they could be crossed to produce offspring with intermediate genome size. Altogether this suggests heritable within-population variation in genome size. Due to the ease of experimental manipulation and their short generation times, such rotifer populations should allow a "microevolutionary" perspective on genome size evolution.
+
+Heidi Viitaniemi
+University of Turku
+Department of Biology
+Finland
+X and Y chromosome divergence in threespine stickleback: what happens when chromosomes cease to recombine?
+poster D23SY17PS1164
+
+Author(s): Viitaniemi, HM, Leder, EH
+
+Summary: 
+
+In many species, selection pressures and fitness optima differ between the sexes. Heterogamy will facilitate this effect since sex chromosomes can harbor sexually antagonistic alleles. On evolving sex chromosomes, lack of recombination results in degeneration of the Y (or W) and may affect the speed at which beneficial alleles accumulate (faster X (or Z)). Recent evidence has demonstrated that chromosome XIX in threespine stickleback (G. aculeatus) is actually the nascent sex chromosome pair. The sex determining locus maps to this group and the Y contains various physical differences, including deletions, inversions and accumulation of repetitive DNA, indicating that the Y has started to degenerate. In order to determine the impact of degeneration on the function of genes residing on the Y, and hence a potential mechanism for the evolution of sex-specific traits, we examined genomic DNA and RNA transcriptomes from several individuals from two distinct lineages with independent Y chromosome populations since the last ice age. Since sex chromosomes and autosomes are presumed to evolve at different rates, we can examine the selective forces specific to the evolving Y chromosome. We used sequence capture and transcriptome sequencing to obtain sequence from the majority of the sex chromosomes as well as portions of several autosomes to predict the effects of Y degeneration on gene function in two geographically distinct populations: Alaska and Finland. When comparing the capture data with transcriptomes, over 68 000 variants were determined to be Y-specific. Many of the expressed genes from XIX in male are affected by nonsense and missense mutations or by mutations affecting splice sites. Despite the large amount of mutations, a large number of genes have a transcript from both X and Y, although incomplete splicing is also evident from the Y. If Y-mutations produce functional protein products, this could be a potential source of novel male-beneficial alleles.
+
+FCULCBACESAMBioFIGISPAIICTESEB
+
+© 2012-2013 Bruno Vieira
